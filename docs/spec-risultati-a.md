@@ -2,6 +2,8 @@
 
 Specifica del 26 ottobre 2026. La direzione visuale A e i due confini di verifica sono stati confermati dall'utente. Questa tranche riguarda l'interfaccia dei risultati, dalla revisione di un profilo già disponibile alla scheda dell'offerta. Non esaurisce il progetto luce/gas, OCR, acquisizione quotidiana e MCP.
 
+Pubblicata come [GitHub issue #1 — Spec: risultati del confronto — direzione A](https://github.com/TommyBez/la-mia-bolletta/issues/1), con etichetta `ready-for-agent`. L'issue è il riferimento operativo per la suddivisione e l'implementazione; questo documento conserva la specifica iniziale.
+
 ## Problem Statement
 
 Una persona che confronta le utenze domestiche deve capire cosa conviene per i propri consumi, quanto potrebbe spendere e quali condizioni deve rispettare. Una lunga classifica o un risparmio privo di assunzioni non bastano a decidere. La stessa interfaccia deve essere utile quando il contratto attuale non è ricostruibile o quando è preferibile mantenerlo.
