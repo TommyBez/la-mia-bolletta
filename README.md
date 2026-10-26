@@ -1,36 +1,26 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# La mia bolletta
 
-## Getting Started
+Studio di un'applicazione gratuita per confrontare le offerte domestiche di luce e gas con un'esperienza più chiara. Il progetto prevede lettura della bolletta, confronto basato sui consumi e funzioni equivalenti via MCP, con OCR eseguito dal client MCP. Le fonti dei dati devono essere gratuite.
 
-First, run the development server:
+## Stato
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+La ricerca delle fonti e le prime decisioni di prodotto sono documentate. Per la schermata risultati è stata scelta la **direzione A: consiglio motivato in primo piano**, costo e risparmio annui, spiegazione e alternative successive.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+La [specifica #1](https://github.com/TommyBez/la-mia-bolletta/issues/1) descrive la prima tranche dell'interfaccia e i confini di verifica confermati. Importatore di produzione, calcolo tariffario, OCR e server MCP restano da implementare. La base applicativa su questo branch è ancora lo starter Next.js.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Riferimento visuale
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Il prototipo con le tre varianti e dati interamente sintetici è conservato nel [branch codex/prototype-confronto](https://github.com/TommyBez/la-mia-bolletta/tree/codex/prototype-confronto). Sono disponibili le [istruzioni di avvio e i limiti](https://github.com/TommyBez/la-mia-bolletta/blob/88539ca/app/prototype/confronto/README.md).
 
-## Learn More
+La prima implementazione riscriverà la direzione A sulla base della specifica. Le offerte e la formula illustrativa del prototipo non rappresentano dati reali o un motore tariffario.
 
-To learn more about Next.js, take a look at the following resources:
+## Documentazione
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Decisioni di design](./docs/design-prodotto.md)
+- [Specifica della prima tranche risultati A](./docs/spec-risultati-a.md)
+- [Vocabolario del dominio](./GLOSSARY.md)
+- [Studio di fattibilità](./docs/studio-fattibilita.md)
+- [Approfondimento GME](./docs/approfondimento-gme-2026-10-26.md)
+- [Verifica MiFIR](./docs/verifica-mifir-2026-10-26.md)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Stack presente: Next.js, React, TypeScript, Tailwind e componenti shadcn/Base UI. Le regole specifiche di questa versione di Next.js sono in [AGENTS.md](./AGENTS.md).
