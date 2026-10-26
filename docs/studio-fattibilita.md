@@ -113,7 +113,7 @@ Il codice dell'offerta presente in bolletta può aiutare a recuperare le condizi
 
 ## Esperienza utente proposta
 
-Il percorso principale è: carica una bolletta, conferma i pochi dati necessari, confronta le offerte, comprendi costi e vincoli, apri il canale del venditore. L'inserimento manuale deve essere sempre disponibile. Il primo confronto può funzionare senza account.
+Le decisioni di design confermate e le domande ancora aperte sono registrate nel [design del prodotto](./design-prodotto.md), che è il riferimento per lo stato delle scelte UX. Il percorso complessivo proposto resta: carica una bolletta, conferma i pochi dati necessari, confronta le offerte, comprendi costi e vincoli, apri il canale del venditore. Le proposte di dettaglio seguenti saranno validate nell'intervista di design.
 
 Per luce e gas servono profili distinti nella stessa esperienza. È utile confrontare sia due fornitori separati sia un'eventuale offerta congiunta, quando il motore ne supporta correttamente condizioni e sconti. L'adesione congiunta non va dedotta dal solo nome commerciale.
 
@@ -142,7 +142,7 @@ Non servono nome, codice fiscale, IBAN o identificativi di fornitura per la rice
 
 ## Architettura proposta
 
-Il repository contiene attualmente uno starter Next.js 16.4.3 con React 19.3 e componenti UI. È una base utilizzabile per l'interfaccia; il dominio energetico deve rimanere indipendente da React e dal trasporto MCP.
+Il repository contiene uno starter Next.js 16.4.3 con React 19.3 e componenti UI, affiancato da un prototipo visuale sul branch `codex/prototype-confronto`. La variante A è stata scelta come direzione dei risultati; i dati del prototipo sono sintetici. È una base utilizzabile per studiare l'interfaccia; il dominio energetico deve rimanere indipendente da React e dal trasporto MCP.
 
 ```mermaid
 flowchart LR
