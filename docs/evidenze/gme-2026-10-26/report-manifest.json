@@ -1,0 +1,26 @@
+[
+  {
+    "name": "newsletter.pdf",
+    "url": "https://gme.mercatoelettrico.org/Portals/0/Documents/Newsletter/20261014Newsletter.pdf",
+    "bytes": 2850454,
+    "sha256": "eaf07cd8afd13b70c7e51d96fd9b34622d8ce2c8bcd77eb238e919f25bf4179e"
+  },
+  {
+    "name": "gas-month.pdf",
+    "url": "https://gme.mercatoelettrico.org/Portals/0/Documents/it-IT//202609_Dati_di_sintesi_gas_mensile.pdf",
+    "bytes": 368091,
+    "sha256": "339dbb5124b449a4d2101266ce69c4bd674a5540867b55c47ed27b511131c701"
+  },
+  {
+    "name": "gas-week.pdf",
+    "url": "https://gme.mercatoelettrico.org/Portals/0/Documents/it-IT//20261026ReportSettimanaleGas43-2026.pdf",
+    "bytes": 391094,
+    "sha256": "2c4c48b2a89d929dccdce19bd9deb78e5ff29412aeb594e7a33fae824e89adba"
+  },
+  {
+    "name": "power-week.pdf",
+    "url": "https://gme.mercatoelettrico.org/Portals/0/Documents/it-IT//20261026MGPreportsettimanale43.pdf",
+    "bytes": 1873397,
+    "sha256": "8ec452fab71094f781f4ea5218ed243ff62673e24bee5d8739f3f75957a2f63f"
+  }
+]

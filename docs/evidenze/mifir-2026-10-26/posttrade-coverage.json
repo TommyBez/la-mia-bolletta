@@ -1,0 +1,308 @@
+{
+  "asOfTradeDate": "2026-10-23",
+  "unit": "EUR/MWh",
+  "groups": [
+    {
+      "shortcode": "FDBM",
+      "contractDate": "2026-11-01",
+      "records": 483,
+      "pricedRecords": 453,
+      "missingPriceRecords": 30,
+      "minPrice": 245.5,
+      "maxPrice": 251.0,
+      "lastAvailablePrice": 249.0,
+      "lastAvailablePriceTradeTime": "2026-10-23T15:58:05.991555330Z",
+      "latestRecordTime": "2026-10-23T15:58:05.991555330Z",
+      "modificationFlags": {
+        "-": 483
+      }
+    },
+    {
+      "shortcode": "FDBM",
+      "contractDate": "2026-12-01",
+      "records": 160,
+      "pricedRecords": 140,
+      "missingPriceRecords": 20,
+      "minPrice": 248.85,
+      "maxPrice": 251.51,
+      "lastAvailablePrice": 251.0,
+      "lastAvailablePriceTradeTime": "2026-10-23T15:41:48.087990772Z",
+      "latestRecordTime": "2026-10-23T15:41:48.087990772Z",
+      "modificationFlags": {
+        "-": 160
+      }
+    },
+    {
+      "shortcode": "FDBQ",
+      "contractDate": "2027-01-01",
+      "records": 134,
+      "pricedRecords": 127,
+      "missingPriceRecords": 7,
+      "minPrice": 215.4,
+      "maxPrice": 219.4,
+      "lastAvailablePrice": 216.5,
+      "lastAvailablePriceTradeTime": "2026-10-23T15:48:33.388385753Z",
+      "latestRecordTime": "2026-10-23T15:48:33.388385753Z",
+      "modificationFlags": {
+        "-": 134
+      }
+    },
+    {
+      "shortcode": "FDBQ",
+      "contractDate": "2027-04-01",
+      "records": 4,
+      "pricedRecords": 3,
+      "missingPriceRecords": 1,
+      "minPrice": 155.5,
+      "maxPrice": 156.24,
+      "lastAvailablePrice": 155.5,
+      "lastAvailablePriceTradeTime": "2026-10-23T15:32:14.904111499Z",
+      "latestRecordTime": "2026-10-23T15:32:14.904111499Z",
+      "modificationFlags": {
+        "-": 4
+      }
+    },
+    {
+      "shortcode": "FDBQ",
+      "contractDate": "2027-07-01",
+      "records": 5,
+      "pricedRecords": 5,
+      "missingPriceRecords": 0,
+      "minPrice": 170.0,
+      "maxPrice": 170.0,
+      "lastAvailablePrice": 170.0,
+      "lastAvailablePriceTradeTime": "2026-10-23T14:11:10.804138960Z",
+      "latestRecordTime": "2026-10-23T14:11:10.804138960Z",
+      "modificationFlags": {
+        "-": 5
+      }
+    },
+    {
+      "shortcode": "FDBQ",
+      "contractDate": "2027-10-01",
+      "records": 14,
+      "pricedRecords": 13,
+      "missingPriceRecords": 1,
+      "minPrice": 173.65,
+      "maxPrice": 175.0,
+      "lastAvailablePrice": 174.25,
+      "lastAvailablePriceTradeTime": "2026-10-23T16:00:17.617248959Z",
+      "latestRecordTime": "2026-10-23T16:00:17.617248959Z",
+      "modificationFlags": {
+        "-": 14
+      }
+    },
+    {
+      "shortcode": "FDBY",
+      "contractDate": "2027-01-01",
+      "records": 61,
+      "pricedRecords": 61,
+      "missingPriceRecords": 0,
+      "minPrice": 178.25,
+      "maxPrice": 180.3,
+      "lastAvailablePrice": 179.25,
+      "lastAvailablePriceTradeTime": "2026-10-23T15:45:03.459722435Z",
+      "latestRecordTime": "2026-10-23T15:45:03.459722435Z",
+      "modificationFlags": {
+        "-": 61
+      }
+    },
+    {
+      "shortcode": "FDBY",
+      "contractDate": "2028-01-01",
+      "records": 30,
+      "pricedRecords": 30,
+      "missingPriceRecords": 0,
+      "minPrice": 132.95,
+      "maxPrice": 133.75,
+      "lastAvailablePrice": 132.95,
+      "lastAvailablePriceTradeTime": "2026-10-23T15:32:39.815103726Z",
+      "latestRecordTime": "2026-10-23T15:32:39.815103726Z",
+      "modificationFlags": {
+        "-": 30
+      }
+    },
+    {
+      "shortcode": "FDBY",
+      "contractDate": "2029-01-01",
+      "records": 6,
+      "pricedRecords": 6,
+      "missingPriceRecords": 0,
+      "minPrice": 109.99,
+      "maxPrice": 110.15,
+      "lastAvailablePrice": 109.99,
+      "lastAvailablePriceTradeTime": "2026-10-23T14:56:13.215833679Z",
+      "latestRecordTime": "2026-10-23T14:56:13.215833679Z",
+      "modificationFlags": {
+        "-": 6
+      }
+    },
+    {
+      "shortcode": "GCBM",
+      "contractDate": "2026-11-01",
+      "records": 28,
+      "pricedRecords": 15,
+      "missingPriceRecords": 13,
+      "minPrice": 93.8,
+      "maxPrice": 94.65,
+      "lastAvailablePrice": 94.65,
+      "lastAvailablePriceTradeTime": "2026-10-23T15:21:19.381419480Z",
+      "latestRecordTime": "2026-10-23T15:47:47.298413657Z",
+      "modificationFlags": {
+        "-": 28
+      }
+    },
+    {
+      "shortcode": "GCBM",
+      "contractDate": "2026-12-01",
+      "records": 12,
+      "pricedRecords": 4,
+      "missingPriceRecords": 8,
+      "minPrice": 94.6,
+      "maxPrice": 95.35,
+      "lastAvailablePrice": 95.35,
+      "lastAvailablePriceTradeTime": "2026-10-23T14:18:37.620451855Z",
+      "latestRecordTime": "2026-10-23T15:36:26.149067600Z",
+      "modificationFlags": {
+        "-": 12
+      }
+    },
+    {
+      "shortcode": "GCBM",
+      "contractDate": "2027-01-01",
+      "records": 1,
+      "pricedRecords": 1,
+      "missingPriceRecords": 0,
+      "minPrice": 94.95,
+      "maxPrice": 94.95,
+      "lastAvailablePrice": 94.95,
+      "lastAvailablePriceTradeTime": "2026-10-23T11:09:24.894538266Z",
+      "latestRecordTime": "2026-10-23T11:09:24.894538266Z",
+      "modificationFlags": {
+        "-": 1
+      }
+    },
+    {
+      "shortcode": "GCBM",
+      "contractDate": "2027-03-01",
+      "records": 2,
+      "pricedRecords": 1,
+      "missingPriceRecords": 1,
+      "minPrice": 90.575,
+      "maxPrice": 90.575,
+      "lastAvailablePrice": 90.575,
+      "lastAvailablePriceTradeTime": "2026-10-23T11:09:40.020448260Z",
+      "latestRecordTime": "2026-10-23T12:10:25.298879002Z",
+      "modificationFlags": {
+        "-": 2
+      }
+    },
+    {
+      "shortcode": "GCBQ",
+      "contractDate": "2027-01-01",
+      "records": 3,
+      "pricedRecords": 0,
+      "missingPriceRecords": 3,
+      "minPrice": null,
+      "maxPrice": null,
+      "lastAvailablePrice": null,
+      "lastAvailablePriceTradeTime": null,
+      "latestRecordTime": "2026-10-23T14:33:36.808624411Z",
+      "modificationFlags": {
+        "-": 3
+      }
+    },
+    {
+      "shortcode": "GCBY",
+      "contractDate": "2028-01-01",
+      "records": 1,
+      "pricedRecords": 1,
+      "missingPriceRecords": 0,
+      "minPrice": 50.2,
+      "maxPrice": 50.2,
+      "lastAvailablePrice": 50.2,
+      "lastAvailablePriceTradeTime": "2026-10-23T14:04:46.934461623Z",
+      "latestRecordTime": "2026-10-23T14:04:46.934461623Z",
+      "modificationFlags": {
+        "-": 1
+      }
+    }
+  ],
+  "files": {
+    "DEEX": {
+      "targetRecords": 897,
+      "uniqueTransactionIds": 897,
+      "pricedRecords": 838,
+      "modificationFlags": {
+        "-": 897
+      }
+    },
+    "DPOW": {
+      "targetRecords": 47,
+      "uniqueTransactionIds": 47,
+      "pricedRecords": 22,
+      "modificationFlags": {
+        "-": 47
+      }
+    }
+  },
+  "joinMisses": [],
+  "coverageWindows": {
+    "POWER": {
+      "directMonthPrices": [
+        "2026-11-01",
+        "2026-12-01"
+      ],
+      "missingDirectMonthPrices": [
+        "2027-01-01",
+        "2027-02-01",
+        "2027-03-01",
+        "2027-04-01",
+        "2027-05-01",
+        "2027-06-01",
+        "2027-07-01",
+        "2027-08-01",
+        "2027-09-01",
+        "2027-10-01"
+      ],
+      "quarterPrices_Q42026_Q32027": [
+        "2027-01-01",
+        "2027-04-01",
+        "2027-07-01"
+      ],
+      "missingQuarterPrices_Q42026_Q32027": [
+        "2026-10-01"
+      ]
+    },
+    "PSV": {
+      "directMonthPrices": [
+        "2026-11-01",
+        "2026-12-01",
+        "2027-01-01",
+        "2027-03-01"
+      ],
+      "missingDirectMonthPrices": [
+        "2027-02-01",
+        "2027-04-01",
+        "2027-05-01",
+        "2027-06-01",
+        "2027-07-01",
+        "2027-08-01",
+        "2027-09-01",
+        "2027-10-01"
+      ],
+      "quarterPrices_Q42026_Q32027": [],
+      "missingQuarterPrices_Q42026_Q32027": [
+        "2026-10-01",
+        "2027-01-01",
+        "2027-04-01",
+        "2027-07-01"
+      ]
+    },
+    "notes": [
+      "Price presence is measured only in the 2026-10-23 post-trade daily file.",
+      "Power can span Nov2026-Oct2027 with Nov/Dec month contracts and Q1-Q4 2027 quarter contracts, but applying a quarter price to its individual months is a modeling assumption.",
+      "Q4 2026 quarter contracts had lastTradingDate 2026-09-28; absence in a later trade-day file should not be treated as an ingestion defect."
+    ]
+  }
+}

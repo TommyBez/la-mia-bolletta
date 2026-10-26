@@ -1,0 +1,581 @@
+{
+  "verifiedOn": "2026-10-26",
+  "files": [
+    {
+      "filename": "DEEX-pretrade-2026-10-26T11_10.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DEEX-pretrade-2026-10-26T11_10.json.gz",
+      "sha256": "857e37e7333f5dc3d97a23890a440960c109ba36a15f4fc41895d492b17c2a0a",
+      "compressedBytes": 164512,
+      "records": 6717
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-23T06_00.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-23T06_00.json.gz",
+      "sha256": "46dcb3f03eac925150f20564019d75e59cb731427c73e0d6dd4318905c440743",
+      "compressedBytes": 8416,
+      "records": 469
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-23T07_00.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-23T07_00.json.gz",
+      "sha256": "496f0827fbebe207db50dc00537216672afd1c95cfca57d01e3c52c5759fd7a4",
+      "compressedBytes": 75260,
+      "records": 3822
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-23T08_00.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-23T08_00.json.gz",
+      "sha256": "1c60d45b8faf033657209e5d435128aafb722ca663dc922d20b55ea20beb84be",
+      "compressedBytes": 103610,
+      "records": 5140
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-23T09_00.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-23T09_00.json.gz",
+      "sha256": "bdd61f997316eb5eb9c0b80fccf2d750d74ed3b21158b848913cb87a8359451c",
+      "compressedBytes": 68784,
+      "records": 3395
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-23T10_00.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-23T10_00.json.gz",
+      "sha256": "de04839510141142dd4c71ceb88d3c0c3c9c4d4452d86abe154e72b6a52a68d8",
+      "compressedBytes": 81150,
+      "records": 4131
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-23T11_00.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-23T11_00.json.gz",
+      "sha256": "d88f5c11eb21654d3f2a7c72ec0d3e55ad16ffe1b00041110b7e1dbb5f127bb8",
+      "compressedBytes": 63813,
+      "records": 3199
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-23T12_00.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-23T12_00.json.gz",
+      "sha256": "4c64cb82f9d76986892f57486a202268218ed9a9076aca88aada839751145cae",
+      "compressedBytes": 56731,
+      "records": 3200
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-23T13_00.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-23T13_00.json.gz",
+      "sha256": "ecb4aab0be7152969bd491af46033406ff857be25b0bfed7ef0ae43e12722d46",
+      "compressedBytes": 78331,
+      "records": 3881
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-23T14_00.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-23T14_00.json.gz",
+      "sha256": "3d3046d92c8d6e993934f0fb992646ac52d9f8b9234ef0476da4ace070c6f5ed",
+      "compressedBytes": 72975,
+      "records": 3599
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-23T15_00.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-23T15_00.json.gz",
+      "sha256": "fdbcb409caee58ceb037458d21999562e9ff4a8853a93d6fc73397aca2defda4",
+      "compressedBytes": 59466,
+      "records": 2955
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-23T16_00.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-23T16_00.json.gz",
+      "sha256": "fe11c86fb0fcdb0d8cf1ec2287c907b62e8bbc8a467196b5b544066c76386297",
+      "compressedBytes": 2018,
+      "records": 104
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-23T17_00.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-23T17_00.json.gz",
+      "sha256": "59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2",
+      "compressedBytes": 20,
+      "records": 0
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T06_00.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T06_00.json.gz",
+      "sha256": "59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2",
+      "compressedBytes": 20,
+      "records": 0
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T07_00.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T07_00.json.gz",
+      "sha256": "fba4017b866a2550a8865f8c12b6443329729ec3ebe13c54a9d2ab8917fb7cbd",
+      "compressedBytes": 7392,
+      "records": 468
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T08_00.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T08_00.json.gz",
+      "sha256": "da0f3efe8862db3106f00957a4863bb8a7c6839675556706da4921c3f985772d",
+      "compressedBytes": 88331,
+      "records": 4304
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_00.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T09_00.json.gz",
+      "sha256": "9ad04bf65b88c8a4b03453459960af794ab9d911455400fc7afcad5d9e3cae8c",
+      "compressedBytes": 120738,
+      "records": 6082
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_20.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T09_20.json.gz",
+      "sha256": "7196ded9f38e0e58f3b12c7224381d129e2f9215167f6f1b28fa1a031d9db680",
+      "compressedBytes": 56797,
+      "records": 2905
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_21.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T09_21.json.gz",
+      "sha256": "fa4b9f7af3628c61eb968fc95c14f96d51b1fe000fac0764b2f83bd5b5c2ef38",
+      "compressedBytes": 78318,
+      "records": 3857
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_22.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T09_22.json.gz",
+      "sha256": "7d430083ba5b8ba367aacac3820336c5cc42b083a7a85f0ae054558245dba05d",
+      "compressedBytes": 109423,
+      "records": 5382
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_23.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T09_23.json.gz",
+      "sha256": "9104a3d057854edea7868deaf8c8375b3ce26704b2772440d0364ed699d103b3",
+      "compressedBytes": 104068,
+      "records": 5319
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_24.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T09_24.json.gz",
+      "sha256": "f80437eb29a3ffdc7a85251047c4c67869372e958d6b05ea640395db2c70210f",
+      "compressedBytes": 98691,
+      "records": 5043
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_25.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T09_25.json.gz",
+      "sha256": "a5191ea8aad6c063f0cae6116b9798ecb5ff482e069b57b3bac4ca8c5ac43050",
+      "compressedBytes": 94394,
+      "records": 4648
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_26.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T09_26.json.gz",
+      "sha256": "6399ffb03248b32ce0475144e5edaef136e9019f5734233ea8ec1f40c33852c8",
+      "compressedBytes": 96294,
+      "records": 4846
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_27.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T09_27.json.gz",
+      "sha256": "d0826d65db9361cc9a02c046443e4bf0c48c1069edf2165b97dd2b1db826938c",
+      "compressedBytes": 98195,
+      "records": 5001
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_28.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T09_28.json.gz",
+      "sha256": "48a1a4614baf07859e966fcb81cc5020ebf235acee54153ea1a0946f09b951ea",
+      "compressedBytes": 85799,
+      "records": 4398
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_29.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T09_29.json.gz",
+      "sha256": "d44c4ee3b99b57ad044b15bccd1c367af6da3bf57730a0bdc64ebe99e14c2622",
+      "compressedBytes": 107110,
+      "records": 5381
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_30.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T09_30.json.gz",
+      "sha256": "4dee6a965bcb1362d9b577544122b11e3fad4b27a58da387903831717223871f",
+      "compressedBytes": 95853,
+      "records": 4824
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_31.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T09_31.json.gz",
+      "sha256": "d84d954f870d015a89150ffe5601a4d0c937dbde7a3e487cdcd898fc4ee5a0dc",
+      "compressedBytes": 86277,
+      "records": 4393
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_32.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T09_32.json.gz",
+      "sha256": "6d8faf11c71e3be9da6fdbe7e6af0f6312f947784c5331aee192b4cd36588012",
+      "compressedBytes": 85479,
+      "records": 4259
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_33.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T09_33.json.gz",
+      "sha256": "d418cdbd9598b3caa448cd79ce3dd4bf8add98f8b232a2e0a68bd77971b10bee",
+      "compressedBytes": 65192,
+      "records": 3227
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_34.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T09_34.json.gz",
+      "sha256": "f39ec72577efac837f8b8f428629c7aeef5307d09c24b27b6aa2e2762ef4a2e2",
+      "compressedBytes": 99136,
+      "records": 4865
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_35.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T09_35.json.gz",
+      "sha256": "61968ffed2bc329cc00262525f4969d5a63afb2012c085a214fa894120abc49e",
+      "compressedBytes": 93453,
+      "records": 4713
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_36.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T09_36.json.gz",
+      "sha256": "2a174ea9d197af96c500179e2d6fec146e556a0be780b400b784a3f36ea8763b",
+      "compressedBytes": 73238,
+      "records": 3813
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_37.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T09_37.json.gz",
+      "sha256": "4f9b995182518ca530e6ea206e41bbada2ee554eebdaabeecd0bbbbe2ad8ac2c",
+      "compressedBytes": 89223,
+      "records": 4520
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_38.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T09_38.json.gz",
+      "sha256": "6889c894a5a95a98135762b8d4d01bc22d68833ad63be834a0b9c76962ad06c0",
+      "compressedBytes": 96816,
+      "records": 4743
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_39.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T09_39.json.gz",
+      "sha256": "8105b3f1eb8114e97ff2afc6680e1fe69bc6d40ef46df0f0da7d19aa6abf8fc1",
+      "compressedBytes": 86783,
+      "records": 4258
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_40.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T09_40.json.gz",
+      "sha256": "cafc235a85c4fd2cab14690441008ea1cac518ce81d880ee5ce5aa84c60b18dd",
+      "compressedBytes": 102986,
+      "records": 5073
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_41.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T09_41.json.gz",
+      "sha256": "6efbfe6b71e48ac8902205100742f67e13ca397aeaa199f2a67a8a7bd99ec254",
+      "compressedBytes": 76789,
+      "records": 3875
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_42.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T09_42.json.gz",
+      "sha256": "d05c77c882cdb4dd10f63636a055fbff4f785302b1121d57a220dbaa2a1d91f9",
+      "compressedBytes": 89497,
+      "records": 4369
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_43.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T09_43.json.gz",
+      "sha256": "437dd3faebcc91c41fce32d6c8147b4538dfc70c61299f37b8c2d7f474becb49",
+      "compressedBytes": 82922,
+      "records": 4063
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_44.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T09_44.json.gz",
+      "sha256": "51f2c5c5eb0aa4ed2e354fd2d5a5c07b73f23e9067ead009aa87068c27bd1371",
+      "compressedBytes": 79484,
+      "records": 3881
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_45.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T09_45.json.gz",
+      "sha256": "ed576adb3988d9de4d2dc7926b10dd6ba6dc90c80317aeccfeef3b6231cdd26a",
+      "compressedBytes": 86632,
+      "records": 4372
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_46.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T09_46.json.gz",
+      "sha256": "0dfe3e48c0a530a2c84d09677fc317173c4822a62a208d0f69f9512adad2c29b",
+      "compressedBytes": 72419,
+      "records": 3674
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_47.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T09_47.json.gz",
+      "sha256": "73be15fddc409d522b51009ff7e166032ccee217a3035488524106e86e1a5819",
+      "compressedBytes": 46644,
+      "records": 2301
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_48.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T09_48.json.gz",
+      "sha256": "60b7f39a1c918cdf2f33afd8b2f2995dc8ac53993b586258c9298b7a49c9a98e",
+      "compressedBytes": 85210,
+      "records": 4252
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_49.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T09_49.json.gz",
+      "sha256": "e6dfb94938d88b19f41a44399f277f3aa1ad2643e49c92c92df7b7cd3ca1100b",
+      "compressedBytes": 65919,
+      "records": 3381
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_00.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T10_00.json.gz",
+      "sha256": "b2b4864af8b791286ab5a4ecf388b3ebf0389cdb6dca1bc2917fe4eb078623aa",
+      "compressedBytes": 89113,
+      "records": 4373
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_39.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T10_39.json.gz",
+      "sha256": "d341b2d50dfba975e1ab9a34cde4d2fba72987070f2ba5f9005d04ad0b4cdeb7",
+      "compressedBytes": 63696,
+      "records": 3198
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_40.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T10_40.json.gz",
+      "sha256": "22e58ccdc7fac66154be74335e646177c25034462a7368732c7bb854598bcfd2",
+      "compressedBytes": 72492,
+      "records": 3694
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_41.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T10_41.json.gz",
+      "sha256": "8e1a3162c8442368ce13b7927fa81a955ebc37d77e3c084e2abf6492dcf63df6",
+      "compressedBytes": 82268,
+      "records": 4149
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_42.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T10_42.json.gz",
+      "sha256": "99b121c2fc62e8294593ccba0e7d6008d04fc6de297e78e5098d60709ae71ff3",
+      "compressedBytes": 69884,
+      "records": 3512
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_43.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T10_43.json.gz",
+      "sha256": "325c5b6b14878a52686392465085896e0908a32be6f06f7247000ce033f6fef2",
+      "compressedBytes": 59318,
+      "records": 3184
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_44.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T10_44.json.gz",
+      "sha256": "272ba105ea881995b9053c1f79f1632f53646f7e5e7f7985cd84989cc6eeb4a8",
+      "compressedBytes": 61320,
+      "records": 3097
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_45.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T10_45.json.gz",
+      "sha256": "c7dda6775d84d5a020b07862537f4c6602acf5d6fa60551cd20d36b091c007d7",
+      "compressedBytes": 60256,
+      "records": 2992
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_46.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T10_46.json.gz",
+      "sha256": "90c98a0ee714a6ddf46307aaf874fc398178843c12b5bca37353dc19e488b7e6",
+      "compressedBytes": 64324,
+      "records": 3232
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_47.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T10_47.json.gz",
+      "sha256": "7d11d6aa31c1045bbb657a4ccb45b67fa1ce680833a3b41b349801e159a72de9",
+      "compressedBytes": 71958,
+      "records": 3594
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_48.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T10_48.json.gz",
+      "sha256": "283939232ea31b55ffae9f3c27716e8d544519828367722dd350d653e14dbb59",
+      "compressedBytes": 72992,
+      "records": 3656
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_49.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T10_49.json.gz",
+      "sha256": "6b754ffa9c8ffc70ca32f81a1dad437286c1f7f403fb404e8148004d0ce872c2",
+      "compressedBytes": 63510,
+      "records": 3198
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_50.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T10_50.json.gz",
+      "sha256": "369cb4f84d3b0f58f7251ff599b5679264b830a29a70522a026e44d8d7f6332a",
+      "compressedBytes": 60817,
+      "records": 3137
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_51.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T10_51.json.gz",
+      "sha256": "f918439138d00a7cbd22e4553c131b57a5e634a28438cdb55099d1fbf861301b",
+      "compressedBytes": 54408,
+      "records": 2723
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_52.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T10_52.json.gz",
+      "sha256": "d0cf9ca75046f2625546249cf71dde985f6ef3db789fa2e283d014e073e4e3b5",
+      "compressedBytes": 39366,
+      "records": 2121
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_53.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T10_53.json.gz",
+      "sha256": "ba7d36a56283ce44bbaf4a20bd9ec30343f1503bbde6fde2ad07cfe003424c83",
+      "compressedBytes": 58153,
+      "records": 2975
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_54.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T10_54.json.gz",
+      "sha256": "1f6d90636c64a51823485fdbbc11ad4f3ab832c6aec3531de41364fe26942b07",
+      "compressedBytes": 62530,
+      "records": 3183
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_55.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T10_55.json.gz",
+      "sha256": "aad0ce6b00b666938e0c5c19fabe5b713cdfed1017a7bbb3b71ddcb64fe05382",
+      "compressedBytes": 98611,
+      "records": 4766
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_56.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T10_56.json.gz",
+      "sha256": "ca839f2fe03bf84028e35e97d20ad4971c64c015be2dd394befde0052f20c487",
+      "compressedBytes": 67762,
+      "records": 3369
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_57.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T10_57.json.gz",
+      "sha256": "bb1a7c2fd3b7798b70dbc9272ae7f9a796271b789565a7507a604362baa3f159",
+      "compressedBytes": 105275,
+      "records": 5347
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_58.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T10_58.json.gz",
+      "sha256": "9619016ebd12b73429508fee5b5b03c93175ae0ded59b5576ee52f6a47d53421",
+      "compressedBytes": 96473,
+      "records": 4754
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_59.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T10_59.json.gz",
+      "sha256": "3d09fb146d553e7fb7c8cedb3ec28c21167a06dac2f65aac6989214a86d85e4c",
+      "compressedBytes": 104832,
+      "records": 5199
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T11_00.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T11_00.json.gz",
+      "sha256": "df01c0964ce42755851b21e4dee78ed110c7351af414c190cb830b2fa4dd0e41",
+      "compressedBytes": 117210,
+      "records": 5766
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T11_01.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T11_01.json.gz",
+      "sha256": "2e4597a8156b1abe07a05ae0241b77264ca80ea78638910c1a988a0dbb1afd7a",
+      "compressedBytes": 107569,
+      "records": 5306
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T11_02.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T11_02.json.gz",
+      "sha256": "4f3020fd62463529e79348f94c452479e2b0c61777a7b82231faf006e0ce0ea2",
+      "compressedBytes": 83989,
+      "records": 4290
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T11_03.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T11_03.json.gz",
+      "sha256": "7f48b757afdcfe0ba7bc0134f87352dd5656cfaf004892e490a556ad19a21cdf",
+      "compressedBytes": 98090,
+      "records": 4984
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T11_04.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T11_04.json.gz",
+      "sha256": "af4c118feba063747a9736f0852daa1922f73ef1859e3ef33342725eff0642dd",
+      "compressedBytes": 104969,
+      "records": 5196
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T11_05.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T11_05.json.gz",
+      "sha256": "e0000f50d7554c92bb10b39fb739d301f962387efee878dcf49719f6f3b6c854",
+      "compressedBytes": 114894,
+      "records": 5664
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T11_06.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T11_06.json.gz",
+      "sha256": "87e3317f68f61a749f4285facf0be59cb906e75e83a55e66f14134e63466a55b",
+      "compressedBytes": 82494,
+      "records": 4130
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T11_07.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T11_07.json.gz",
+      "sha256": "2f40a32edba2f213a3edc0191c67bf6a73457f2bcb973df9d7bb0849a33897fb",
+      "compressedBytes": 79422,
+      "records": 4146
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T11_08.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T11_08.json.gz",
+      "sha256": "15dc473302724e0502a21d0759ee95be4bb5a2c651d795079f52844da6401bc5",
+      "compressedBytes": 74391,
+      "records": 3881
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T11_09.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T11_09.json.gz",
+      "sha256": "93a3c5fc57aff8ff063ddbb80b3ee3ca752344e0280ce0730a0cfbb46de118c8",
+      "compressedBytes": 79969,
+      "records": 4027
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T11_10.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-pretrade-2026-10-26T11_10.json.gz",
+      "sha256": "2e99c7e7e42b09491d134e5e77bf725e8f9b63e1be26fe8b78d908ac8edba35f",
+      "compressedBytes": 80314,
+      "records": 4154
+    },
+    {
+      "filename": "DEEX-posttrade-daily-2026-10-23.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DEEX-posttrade-daily-2026-10-23.json.gz",
+      "sha256": "c1ce6f4b24fff9c9f99d94a09eb39d7b2837ef6e649a78154416507170bcd2fb",
+      "compressedBytes": 1199018,
+      "records": 24123
+    },
+    {
+      "filename": "DPOW-posttrade-daily-2026-10-23.json.gz",
+      "sourceUrl": "https://mfs.deutsche-boerse.com/api/download/DPOW-posttrade-daily-2026-10-23.json.gz",
+      "sha256": "16d97749ce1a7f515f186347536b78f61ded0f4680e93a767d908b96f530733e",
+      "compressedBytes": 393844,
+      "records": 4550
+    }
+  ],
+  "filesVerified": 82,
+  "note": "Full posttrade daily for2026-10-23; selected pretrade minute files. Bulk expansion stopped after HTTP429. This is not a census of every available minute."
+}

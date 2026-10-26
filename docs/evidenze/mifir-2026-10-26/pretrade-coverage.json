@@ -1,0 +1,1501 @@
+{
+  "offlineOnly": true,
+  "fileIdentity": "unique canonical filename; duplicate physical paths excluded",
+  "totals": {
+    "DEEXFiles": 1,
+    "DEEXRecords": 6717,
+    "DEEXTargetRecords": 648,
+    "DPOWFiles": 79,
+    "DPOWRecords": 305382,
+    "DPOWTargetRecords": 1490
+  },
+  "shapes": {
+    "DEEX:topUpdate": 302,
+    "DEEX:depth": 346,
+    "DPOW:topUpdate": 745,
+    "DPOW:depth": 745
+  },
+  "duplicates": [
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_00.json.gz",
+      "sameCompressedBytes": true
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_00.json.gz",
+      "sameCompressedBytes": true
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T11_10.json.gz",
+      "sameCompressedBytes": true
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T11_00.json.gz",
+      "sameCompressedBytes": true
+    }
+  ],
+  "errors": [],
+  "files": [
+    {
+      "filename": "DEEX-pretrade-2026-10-26T11_10.json.gz",
+      "records": 6717,
+      "targetRecords": 648
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-23T06_00.json.gz",
+      "records": 469
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-23T07_00.json.gz",
+      "records": 3822,
+      "targetRecords": 26
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-23T08_00.json.gz",
+      "records": 5140,
+      "targetRecords": 44
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-23T09_00.json.gz",
+      "records": 3395,
+      "targetRecords": 14
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-23T10_00.json.gz",
+      "records": 4131,
+      "targetRecords": 6
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-23T11_00.json.gz",
+      "records": 3199,
+      "targetRecords": 44
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-23T12_00.json.gz",
+      "records": 3200,
+      "targetRecords": 20
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-23T13_00.json.gz",
+      "records": 3881,
+      "targetRecords": 36
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-23T14_00.json.gz",
+      "records": 3599,
+      "targetRecords": 16
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-23T15_00.json.gz",
+      "records": 2955,
+      "targetRecords": 14
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-23T16_00.json.gz",
+      "records": 104,
+      "targetRecords": 12
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-23T17_00.json.gz"
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T06_00.json.gz"
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T07_00.json.gz",
+      "records": 468
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T08_00.json.gz",
+      "records": 4304,
+      "targetRecords": 26
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_00.json.gz",
+      "records": 6082,
+      "targetRecords": 12
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_20.json.gz",
+      "records": 2905,
+      "targetRecords": 14
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_21.json.gz",
+      "records": 3857,
+      "targetRecords": 30
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_22.json.gz",
+      "records": 5382,
+      "targetRecords": 32
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_23.json.gz",
+      "records": 5319,
+      "targetRecords": 34
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_24.json.gz",
+      "records": 5043,
+      "targetRecords": 20
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_25.json.gz",
+      "records": 4648,
+      "targetRecords": 48
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_26.json.gz",
+      "records": 4846,
+      "targetRecords": 22
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_27.json.gz",
+      "records": 5001,
+      "targetRecords": 14
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_28.json.gz",
+      "records": 4398,
+      "targetRecords": 6
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_29.json.gz",
+      "records": 5381,
+      "targetRecords": 40
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_30.json.gz",
+      "records": 4824,
+      "targetRecords": 18
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_31.json.gz",
+      "records": 4393,
+      "targetRecords": 18
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_32.json.gz",
+      "records": 4259,
+      "targetRecords": 20
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_33.json.gz",
+      "records": 3227,
+      "targetRecords": 16
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_34.json.gz",
+      "records": 4865,
+      "targetRecords": 24
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_35.json.gz",
+      "records": 4713,
+      "targetRecords": 12
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_36.json.gz",
+      "records": 3813,
+      "targetRecords": 12
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_37.json.gz",
+      "records": 4520,
+      "targetRecords": 12
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_38.json.gz",
+      "records": 4743,
+      "targetRecords": 10
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_39.json.gz",
+      "records": 4258,
+      "targetRecords": 12
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_40.json.gz",
+      "records": 5073,
+      "targetRecords": 22
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_41.json.gz",
+      "records": 3875,
+      "targetRecords": 30
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_42.json.gz",
+      "records": 4369,
+      "targetRecords": 26
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_43.json.gz",
+      "records": 4063,
+      "targetRecords": 10
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_44.json.gz",
+      "records": 3881,
+      "targetRecords": 24
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_45.json.gz",
+      "records": 4372,
+      "targetRecords": 16
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_46.json.gz",
+      "records": 3674,
+      "targetRecords": 2
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_47.json.gz",
+      "records": 2301
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_48.json.gz",
+      "records": 4252,
+      "targetRecords": 20
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T09_49.json.gz",
+      "records": 3381,
+      "targetRecords": 4
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_00.json.gz",
+      "records": 4373,
+      "targetRecords": 10
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_39.json.gz",
+      "records": 3198,
+      "targetRecords": 12
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_40.json.gz",
+      "records": 3694,
+      "targetRecords": 22
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_41.json.gz",
+      "records": 4149,
+      "targetRecords": 16
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_42.json.gz",
+      "records": 3512,
+      "targetRecords": 4
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_43.json.gz",
+      "records": 3184,
+      "targetRecords": 2
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_44.json.gz",
+      "records": 3097,
+      "targetRecords": 8
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_45.json.gz",
+      "records": 2992,
+      "targetRecords": 6
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_46.json.gz",
+      "records": 3232,
+      "targetRecords": 8
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_47.json.gz",
+      "records": 3594,
+      "targetRecords": 16
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_48.json.gz",
+      "records": 3656,
+      "targetRecords": 12
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_49.json.gz",
+      "records": 3198,
+      "targetRecords": 16
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_50.json.gz",
+      "records": 3137,
+      "targetRecords": 8
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_51.json.gz",
+      "records": 2723,
+      "targetRecords": 4
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_52.json.gz",
+      "records": 2121,
+      "targetRecords": 4
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_53.json.gz",
+      "records": 2975,
+      "targetRecords": 6
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_54.json.gz",
+      "records": 3183,
+      "targetRecords": 32
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_55.json.gz",
+      "records": 4766,
+      "targetRecords": 38
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_56.json.gz",
+      "records": 3369,
+      "targetRecords": 16
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_57.json.gz",
+      "records": 5347,
+      "targetRecords": 34
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_58.json.gz",
+      "records": 4754,
+      "targetRecords": 32
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T10_59.json.gz",
+      "records": 5199,
+      "targetRecords": 52
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T11_00.json.gz",
+      "records": 5766,
+      "targetRecords": 18
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T11_01.json.gz",
+      "records": 5306,
+      "targetRecords": 18
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T11_02.json.gz",
+      "records": 4290,
+      "targetRecords": 32
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T11_03.json.gz",
+      "records": 4984,
+      "targetRecords": 44
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T11_04.json.gz",
+      "records": 5196,
+      "targetRecords": 20
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T11_05.json.gz",
+      "records": 5664,
+      "targetRecords": 38
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T11_06.json.gz",
+      "records": 4130,
+      "targetRecords": 44
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T11_07.json.gz",
+      "records": 4146,
+      "targetRecords": 14
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T11_08.json.gz",
+      "records": 3881,
+      "targetRecords": 10
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T11_09.json.gz",
+      "records": 4027,
+      "targetRecords": 24
+    },
+    {
+      "filename": "DPOW-pretrade-2026-10-26T11_10.json.gz",
+      "records": 4154,
+      "targetRecords": 32
+    }
+  ],
+  "groups": [
+    {
+      "productIsin": "DE000A160LU7",
+      "shortcode": "GCBM",
+      "commodity": "NATGAS",
+      "contractDate": "2026-11-01",
+      "deliveryStart": "2026-11-01",
+      "deliveryEnd": "2026-11-30",
+      "records": 4,
+      "depthRecords": 2,
+      "topUpdateRecords": 2,
+      "uniqueMinuteFiles": 2,
+      "observationDays": [
+        "2026-10-23"
+      ],
+      "firstTimestamp": "2026-10-23T09:00:49.522499989Z",
+      "lastTimestamp": "2026-10-23T16:00:00.784154534Z",
+      "latestDepthSnapshot": {
+        "timestamp": "2026-10-23T16:00:00.784154534Z",
+        "filename": "DPOW-pretrade-2026-10-23T16_00.json.gz",
+        "bid": {
+          "price": 93.2,
+          "levels": [
+            {
+              "price": 93.2,
+              "quantity": 2.0
+            }
+          ],
+          "explicitlyEmpty": false
+        },
+        "ask": {
+          "price": null,
+          "levels": [],
+          "explicitlyEmpty": true
+        }
+      },
+      "lastSeenNumericBid": {
+        "timestamp": "2026-10-23T16:00:00.784154534Z",
+        "filename": "DPOW-pretrade-2026-10-23T16_00.json.gz",
+        "price": 93.2,
+        "sourceShape": "depth"
+      },
+      "lastSeenNumericAsk": null,
+      "everHadBid": true,
+      "everHadAsk": false,
+      "emptyDepthSides": {
+        "ask": 2
+      },
+      "joinFound": true
+    },
+    {
+      "productIsin": "DE000A160LV5",
+      "shortcode": "GCBQ",
+      "commodity": "NATGAS",
+      "contractDate": "2027-01-01",
+      "deliveryStart": "2027-01-01",
+      "deliveryEnd": "2027-03-31",
+      "records": 196,
+      "depthRecords": 98,
+      "topUpdateRecords": 98,
+      "uniqueMinuteFiles": 48,
+      "observationDays": [
+        "2026-10-26"
+      ],
+      "firstTimestamp": "2026-10-26T08:00:08.941127244Z",
+      "lastTimestamp": "2026-10-26T11:10:40.735557107Z",
+      "latestDepthSnapshot": {
+        "timestamp": "2026-10-26T11:10:40.735557107Z",
+        "filename": "DPOW-pretrade-2026-10-26T11_10.json.gz",
+        "bid": {
+          "price": null,
+          "levels": [],
+          "explicitlyEmpty": true
+        },
+        "ask": {
+          "price": 95.2,
+          "levels": [
+            {
+              "price": 95.2,
+              "quantity": 10.0
+            }
+          ],
+          "explicitlyEmpty": false
+        }
+      },
+      "lastSeenNumericBid": null,
+      "lastSeenNumericAsk": {
+        "timestamp": "2026-10-26T11:10:40.735557107Z",
+        "filename": "DPOW-pretrade-2026-10-26T11_10.json.gz",
+        "price": 95.2,
+        "sourceShape": "depth"
+      },
+      "everHadBid": false,
+      "everHadAsk": true,
+      "emptyDepthSides": {
+        "bid": 98
+      },
+      "joinFound": true
+    },
+    {
+      "productIsin": "DE000A160LV5",
+      "shortcode": "GCBQ",
+      "commodity": "NATGAS",
+      "contractDate": "2027-04-01",
+      "deliveryStart": "2027-04-01",
+      "deliveryEnd": "2027-06-30",
+      "records": 270,
+      "depthRecords": 135,
+      "topUpdateRecords": 135,
+      "uniqueMinuteFiles": 46,
+      "observationDays": [
+        "2026-10-23",
+        "2026-10-26"
+      ],
+      "firstTimestamp": "2026-10-23T07:00:13.623210893Z",
+      "lastTimestamp": "2026-10-26T11:10:58.551675976Z",
+      "latestDepthSnapshot": {
+        "timestamp": "2026-10-26T11:10:58.551675976Z",
+        "filename": "DPOW-pretrade-2026-10-26T11_10.json.gz",
+        "bid": {
+          "price": 76.805,
+          "levels": [
+            {
+              "price": 76.805,
+              "quantity": 10.0
+            }
+          ],
+          "explicitlyEmpty": false
+        },
+        "ask": {
+          "price": 77.55,
+          "levels": [
+            {
+              "price": 77.55,
+              "quantity": 10.0
+            }
+          ],
+          "explicitlyEmpty": false
+        }
+      },
+      "lastSeenNumericBid": {
+        "timestamp": "2026-10-26T11:10:58.551675976Z",
+        "filename": "DPOW-pretrade-2026-10-26T11_10.json.gz",
+        "price": 76.805,
+        "sourceShape": "depth"
+      },
+      "lastSeenNumericAsk": {
+        "timestamp": "2026-10-26T11:10:58.551675976Z",
+        "filename": "DPOW-pretrade-2026-10-26T11_10.json.gz",
+        "price": 77.55,
+        "sourceShape": "depth"
+      },
+      "everHadBid": true,
+      "everHadAsk": true,
+      "emptyDepthSides": {
+        "bid": 1,
+        "ask": 1
+      },
+      "joinFound": true
+    },
+    {
+      "productIsin": "DE000A160LW3",
+      "shortcode": "GCBS",
+      "commodity": "NATGAS",
+      "contractDate": "2027-04-01",
+      "deliveryStart": "2027-04-01",
+      "deliveryEnd": "2027-09-30",
+      "records": 80,
+      "depthRecords": 40,
+      "topUpdateRecords": 40,
+      "uniqueMinuteFiles": 30,
+      "observationDays": [
+        "2026-10-23",
+        "2026-10-26"
+      ],
+      "firstTimestamp": "2026-10-23T08:00:07.107914563Z",
+      "lastTimestamp": "2026-10-26T11:10:19.704240943Z",
+      "latestDepthSnapshot": {
+        "timestamp": "2026-10-26T11:10:19.704240943Z",
+        "filename": "DPOW-pretrade-2026-10-26T11_10.json.gz",
+        "bid": {
+          "price": 74.5,
+          "levels": [
+            {
+              "price": 74.5,
+              "quantity": 5.0
+            }
+          ],
+          "explicitlyEmpty": false
+        },
+        "ask": {
+          "price": 75.3,
+          "levels": [
+            {
+              "price": 75.3,
+              "quantity": 5.0
+            }
+          ],
+          "explicitlyEmpty": false
+        }
+      },
+      "lastSeenNumericBid": {
+        "timestamp": "2026-10-26T11:10:19.704240943Z",
+        "filename": "DPOW-pretrade-2026-10-26T11_10.json.gz",
+        "price": 74.5,
+        "sourceShape": "depth"
+      },
+      "lastSeenNumericAsk": {
+        "timestamp": "2026-10-26T11:10:19.704240943Z",
+        "filename": "DPOW-pretrade-2026-10-26T11_10.json.gz",
+        "price": 75.3,
+        "sourceShape": "depth"
+      },
+      "everHadBid": true,
+      "everHadAsk": true,
+      "emptyDepthSides": {
+        "bid": 6,
+        "ask": 1
+      },
+      "joinFound": true
+    },
+    {
+      "productIsin": "DE000A160LW3",
+      "shortcode": "GCBS",
+      "commodity": "NATGAS",
+      "contractDate": "2027-10-01",
+      "deliveryStart": "2027-10-01",
+      "deliveryEnd": "2028-03-31",
+      "records": 566,
+      "depthRecords": 283,
+      "topUpdateRecords": 283,
+      "uniqueMinuteFiles": 64,
+      "observationDays": [
+        "2026-10-23",
+        "2026-10-26"
+      ],
+      "firstTimestamp": "2026-10-23T07:00:04.969177968Z",
+      "lastTimestamp": "2026-10-26T11:10:55.339994867Z",
+      "latestDepthSnapshot": {
+        "timestamp": "2026-10-26T11:10:55.339994867Z",
+        "filename": "DPOW-pretrade-2026-10-26T11_10.json.gz",
+        "bid": {
+          "price": 67.825,
+          "levels": [
+            {
+              "price": 67.825,
+              "quantity": 5.0
+            }
+          ],
+          "explicitlyEmpty": false
+        },
+        "ask": {
+          "price": 68.53,
+          "levels": [
+            {
+              "price": 68.53,
+              "quantity": 5.0
+            }
+          ],
+          "explicitlyEmpty": false
+        }
+      },
+      "lastSeenNumericBid": {
+        "timestamp": "2026-10-26T11:10:55.339994867Z",
+        "filename": "DPOW-pretrade-2026-10-26T11_10.json.gz",
+        "price": 67.825,
+        "sourceShape": "depth"
+      },
+      "lastSeenNumericAsk": {
+        "timestamp": "2026-10-26T11:10:55.339994867Z",
+        "filename": "DPOW-pretrade-2026-10-26T11_10.json.gz",
+        "price": 68.53,
+        "sourceShape": "depth"
+      },
+      "everHadBid": true,
+      "everHadAsk": true,
+      "emptyDepthSides": {
+        "bid": 1,
+        "ask": 2
+      },
+      "joinFound": true
+    },
+    {
+      "productIsin": "DE000A160LX1",
+      "shortcode": "GCBY",
+      "commodity": "NATGAS",
+      "contractDate": "2027-01-01",
+      "deliveryStart": "2027-01-01",
+      "deliveryEnd": "2027-12-31",
+      "records": 356,
+      "depthRecords": 178,
+      "topUpdateRecords": 178,
+      "uniqueMinuteFiles": 65,
+      "observationDays": [
+        "2026-10-23",
+        "2026-10-26"
+      ],
+      "firstTimestamp": "2026-10-23T08:00:02.523581586Z",
+      "lastTimestamp": "2026-10-26T11:08:05.475390618Z",
+      "latestDepthSnapshot": {
+        "timestamp": "2026-10-26T11:08:05.475390618Z",
+        "filename": "DPOW-pretrade-2026-10-26T11_08.json.gz",
+        "bid": {
+          "price": 78.13,
+          "levels": [
+            {
+              "price": 78.13,
+              "quantity": 5.0
+            }
+          ],
+          "explicitlyEmpty": false
+        },
+        "ask": {
+          "price": 78.9,
+          "levels": [
+            {
+              "price": 78.9,
+              "quantity": 5.0
+            }
+          ],
+          "explicitlyEmpty": false
+        }
+      },
+      "lastSeenNumericBid": {
+        "timestamp": "2026-10-26T11:08:05.475390618Z",
+        "filename": "DPOW-pretrade-2026-10-26T11_08.json.gz",
+        "price": 78.13,
+        "sourceShape": "depth"
+      },
+      "lastSeenNumericAsk": {
+        "timestamp": "2026-10-26T11:08:05.475390618Z",
+        "filename": "DPOW-pretrade-2026-10-26T11_08.json.gz",
+        "price": 78.9,
+        "sourceShape": "depth"
+      },
+      "everHadBid": true,
+      "everHadAsk": true,
+      "emptyDepthSides": {
+        "bid": 1,
+        "ask": 1
+      },
+      "joinFound": true
+    },
+    {
+      "productIsin": "DE000A160LX1",
+      "shortcode": "GCBY",
+      "commodity": "NATGAS",
+      "contractDate": "2028-01-01",
+      "deliveryStart": "2028-01-01",
+      "deliveryEnd": "2028-12-31",
+      "records": 18,
+      "depthRecords": 9,
+      "topUpdateRecords": 9,
+      "uniqueMinuteFiles": 7,
+      "observationDays": [
+        "2026-10-23",
+        "2026-10-26"
+      ],
+      "firstTimestamp": "2026-10-23T16:00:00.937029619Z",
+      "lastTimestamp": "2026-10-26T11:01:49.144847342Z",
+      "latestDepthSnapshot": {
+        "timestamp": "2026-10-26T11:01:49.144847342Z",
+        "filename": "DPOW-pretrade-2026-10-26T11_01.json.gz",
+        "bid": {
+          "price": 48.5,
+          "levels": [
+            {
+              "price": 48.5,
+              "quantity": 5.0
+            }
+          ],
+          "explicitlyEmpty": false
+        },
+        "ask": {
+          "price": 52.0,
+          "levels": [
+            {
+              "price": 52.0,
+              "quantity": 5.0
+            }
+          ],
+          "explicitlyEmpty": false
+        }
+      },
+      "lastSeenNumericBid": {
+        "timestamp": "2026-10-26T11:01:49.144847342Z",
+        "filename": "DPOW-pretrade-2026-10-26T11_01.json.gz",
+        "price": 48.5,
+        "sourceShape": "depth"
+      },
+      "lastSeenNumericAsk": {
+        "timestamp": "2026-10-26T11:01:49.144847342Z",
+        "filename": "DPOW-pretrade-2026-10-26T11_01.json.gz",
+        "price": 52.0,
+        "sourceShape": "depth"
+      },
+      "everHadBid": true,
+      "everHadAsk": true,
+      "emptyDepthSides": {
+        "bid": 1,
+        "ask": 2
+      },
+      "joinFound": true
+    },
+    {
+      "productIsin": "DE000A1RREN9",
+      "shortcode": "FDBM",
+      "commodity": "POWER",
+      "contractDate": "2026-11-01",
+      "deliveryStart": "2026-11-01",
+      "deliveryEnd": "2026-11-30",
+      "records": 101,
+      "depthRecords": 56,
+      "topUpdateRecords": 45,
+      "uniqueMinuteFiles": 1,
+      "observationDays": [
+        "2026-10-26"
+      ],
+      "firstTimestamp": "2026-10-26T11:10:00.758940224Z",
+      "lastTimestamp": "2026-10-26T11:10:59.007192855Z",
+      "latestDepthSnapshot": {
+        "timestamp": "2026-10-26T11:10:59.007192855Z",
+        "filename": "DEEX-pretrade-2026-10-26T11_10.json.gz",
+        "bid": {
+          "price": 255.65,
+          "levels": [
+            {
+              "price": 255.65,
+              "quantity": 1.0
+            },
+            {
+              "price": 255.19,
+              "quantity": 1.0
+            },
+            {
+              "price": 254.38,
+              "quantity": 1.0
+            },
+            {
+              "price": 253.6,
+              "quantity": 1.0
+            },
+            {
+              "price": 253.56,
+              "quantity": 1.0
+            }
+          ],
+          "explicitlyEmpty": false
+        },
+        "ask": {
+          "price": 256.17,
+          "levels": [
+            {
+              "price": 256.17,
+              "quantity": 3.0
+            },
+            {
+              "price": 256.89,
+              "quantity": 1.0
+            },
+            {
+              "price": 258.2,
+              "quantity": 1.0
+            },
+            {
+              "price": 258.64,
+              "quantity": 1.0
+            },
+            {
+              "price": 258.88,
+              "quantity": 1.0
+            }
+          ],
+          "explicitlyEmpty": false
+        }
+      },
+      "lastSeenNumericBid": {
+        "timestamp": "2026-10-26T11:10:59.007192855Z",
+        "filename": "DEEX-pretrade-2026-10-26T11_10.json.gz",
+        "price": 255.65,
+        "sourceShape": "depth"
+      },
+      "lastSeenNumericAsk": {
+        "timestamp": "2026-10-26T11:10:59.007192855Z",
+        "filename": "DEEX-pretrade-2026-10-26T11_10.json.gz",
+        "price": 256.17,
+        "sourceShape": "depth"
+      },
+      "everHadBid": true,
+      "everHadAsk": true,
+      "emptyDepthSides": {},
+      "joinFound": true
+    },
+    {
+      "productIsin": "DE000A1RREN9",
+      "shortcode": "FDBM",
+      "commodity": "POWER",
+      "contractDate": "2026-12-01",
+      "deliveryStart": "2026-12-01",
+      "deliveryEnd": "2026-12-31",
+      "records": 260,
+      "depthRecords": 141,
+      "topUpdateRecords": 119,
+      "uniqueMinuteFiles": 1,
+      "observationDays": [
+        "2026-10-26"
+      ],
+      "firstTimestamp": "2026-10-26T11:10:00.277008809Z",
+      "lastTimestamp": "2026-10-26T11:10:58.825279449Z",
+      "latestDepthSnapshot": {
+        "timestamp": "2026-10-26T11:10:58.434591685Z",
+        "filename": "DEEX-pretrade-2026-10-26T11_10.json.gz",
+        "bid": {
+          "price": 251.8,
+          "levels": [
+            {
+              "price": 251.8,
+              "quantity": 3.0
+            },
+            {
+              "price": 251.75,
+              "quantity": 1.0
+            },
+            {
+              "price": 251.63,
+              "quantity": 1.0
+            },
+            {
+              "price": 250.0,
+              "quantity": 5.0
+            }
+          ],
+          "explicitlyEmpty": false
+        },
+        "ask": {
+          "price": 255.0,
+          "levels": [
+            {
+              "price": 255.0,
+              "quantity": 2.0
+            },
+            {
+              "price": 256.0,
+              "quantity": 1.0
+            },
+            {
+              "price": 256.4,
+              "quantity": 1.0
+            },
+            {
+              "price": 256.67,
+              "quantity": 1.0
+            },
+            {
+              "price": 257.7,
+              "quantity": 1.0
+            }
+          ],
+          "explicitlyEmpty": false
+        }
+      },
+      "lastSeenNumericBid": {
+        "timestamp": "2026-10-26T11:10:58.825279449Z",
+        "filename": "DEEX-pretrade-2026-10-26T11_10.json.gz",
+        "price": 253.65,
+        "quantity": 1.0,
+        "sourceShape": "topUpdate"
+      },
+      "lastSeenNumericAsk": {
+        "timestamp": "2026-10-26T11:10:58.434591685Z",
+        "filename": "DEEX-pretrade-2026-10-26T11_10.json.gz",
+        "price": 255.0,
+        "sourceShape": "depth"
+      },
+      "everHadBid": true,
+      "everHadAsk": true,
+      "emptyDepthSides": {},
+      "joinFound": true
+    },
+    {
+      "productIsin": "DE000A1RREP4",
+      "shortcode": "FDBQ",
+      "commodity": "POWER",
+      "contractDate": "2027-01-01",
+      "deliveryStart": "2027-01-01",
+      "deliveryEnd": "2027-03-31",
+      "records": 56,
+      "depthRecords": 31,
+      "topUpdateRecords": 25,
+      "uniqueMinuteFiles": 1,
+      "observationDays": [
+        "2026-10-26"
+      ],
+      "firstTimestamp": "2026-10-26T11:10:02.016191051Z",
+      "lastTimestamp": "2026-10-26T11:10:56.206165068Z",
+      "latestDepthSnapshot": {
+        "timestamp": "2026-10-26T11:10:56.206165068Z",
+        "filename": "DEEX-pretrade-2026-10-26T11_10.json.gz",
+        "bid": {
+          "price": 221.26,
+          "levels": [
+            {
+              "price": 221.26,
+              "quantity": 2.0
+            },
+            {
+              "price": 221.25,
+              "quantity": 1.0
+            },
+            {
+              "price": 220.55,
+              "quantity": 1.0
+            },
+            {
+              "price": 220.54,
+              "quantity": 1.0
+            },
+            {
+              "price": 220.4,
+              "quantity": 1.0
+            }
+          ],
+          "explicitlyEmpty": false
+        },
+        "ask": {
+          "price": 223.76,
+          "levels": [
+            {
+              "price": 223.76,
+              "quantity": 1.0
+            },
+            {
+              "price": 224.43,
+              "quantity": 1.0
+            },
+            {
+              "price": 224.6,
+              "quantity": 1.0
+            },
+            {
+              "price": 224.95,
+              "quantity": 1.0
+            },
+            {
+              "price": 225.4,
+              "quantity": 1.0
+            }
+          ],
+          "explicitlyEmpty": false
+        }
+      },
+      "lastSeenNumericBid": {
+        "timestamp": "2026-10-26T11:10:56.206165068Z",
+        "filename": "DEEX-pretrade-2026-10-26T11_10.json.gz",
+        "price": 221.26,
+        "sourceShape": "depth"
+      },
+      "lastSeenNumericAsk": {
+        "timestamp": "2026-10-26T11:10:56.206165068Z",
+        "filename": "DEEX-pretrade-2026-10-26T11_10.json.gz",
+        "price": 223.76,
+        "sourceShape": "depth"
+      },
+      "everHadBid": true,
+      "everHadAsk": true,
+      "emptyDepthSides": {},
+      "joinFound": true
+    },
+    {
+      "productIsin": "DE000A1RREP4",
+      "shortcode": "FDBQ",
+      "commodity": "POWER",
+      "contractDate": "2027-04-01",
+      "deliveryStart": "2027-04-01",
+      "deliveryEnd": "2027-06-30",
+      "records": 115,
+      "depthRecords": 61,
+      "topUpdateRecords": 54,
+      "uniqueMinuteFiles": 1,
+      "observationDays": [
+        "2026-10-26"
+      ],
+      "firstTimestamp": "2026-10-26T11:10:00.774391735Z",
+      "lastTimestamp": "2026-10-26T11:10:59.854571706Z",
+      "latestDepthSnapshot": {
+        "timestamp": "2026-10-26T11:10:59.854571706Z",
+        "filename": "DEEX-pretrade-2026-10-26T11_10.json.gz",
+        "bid": {
+          "price": 157.06,
+          "levels": [
+            {
+              "price": 157.06,
+              "quantity": 1.0
+            },
+            {
+              "price": 156.44,
+              "quantity": 1.0
+            },
+            {
+              "price": 156.4,
+              "quantity": 1.0
+            }
+          ],
+          "explicitlyEmpty": false
+        },
+        "ask": {
+          "price": 159.27,
+          "levels": [
+            {
+              "price": 159.27,
+              "quantity": 1.0
+            },
+            {
+              "price": 159.35,
+              "quantity": 1.0
+            },
+            {
+              "price": 159.4,
+              "quantity": 1.0
+            },
+            {
+              "price": 159.56,
+              "quantity": 1.0
+            },
+            {
+              "price": 162.0,
+              "quantity": 2.0
+            }
+          ],
+          "explicitlyEmpty": false
+        }
+      },
+      "lastSeenNumericBid": {
+        "timestamp": "2026-10-26T11:10:59.854571706Z",
+        "filename": "DEEX-pretrade-2026-10-26T11_10.json.gz",
+        "price": 157.06,
+        "sourceShape": "depth"
+      },
+      "lastSeenNumericAsk": {
+        "timestamp": "2026-10-26T11:10:59.854571706Z",
+        "filename": "DEEX-pretrade-2026-10-26T11_10.json.gz",
+        "price": 159.27,
+        "sourceShape": "depth"
+      },
+      "everHadBid": true,
+      "everHadAsk": true,
+      "emptyDepthSides": {},
+      "joinFound": true
+    },
+    {
+      "productIsin": "DE000A1RREP4",
+      "shortcode": "FDBQ",
+      "commodity": "POWER",
+      "contractDate": "2027-07-01",
+      "deliveryStart": "2027-07-01",
+      "deliveryEnd": "2027-09-30",
+      "records": 16,
+      "depthRecords": 8,
+      "topUpdateRecords": 8,
+      "uniqueMinuteFiles": 1,
+      "observationDays": [
+        "2026-10-26"
+      ],
+      "firstTimestamp": "2026-10-26T11:10:08.013618021Z",
+      "lastTimestamp": "2026-10-26T11:10:34.803108164Z",
+      "latestDepthSnapshot": {
+        "timestamp": "2026-10-26T11:10:34.803108164Z",
+        "filename": "DEEX-pretrade-2026-10-26T11_10.json.gz",
+        "bid": {
+          "price": 169.01,
+          "levels": [
+            {
+              "price": 169.01,
+              "quantity": 4.0
+            },
+            {
+              "price": 167.75,
+              "quantity": 1.0
+            }
+          ],
+          "explicitlyEmpty": false
+        },
+        "ask": {
+          "price": 175.99,
+          "levels": [
+            {
+              "price": 175.99,
+              "quantity": 2.0
+            },
+            {
+              "price": 176.0,
+              "quantity": 1.0
+            },
+            {
+              "price": 177.15,
+              "quantity": 1.0
+            }
+          ],
+          "explicitlyEmpty": false
+        }
+      },
+      "lastSeenNumericBid": {
+        "timestamp": "2026-10-26T11:10:34.803108164Z",
+        "filename": "DEEX-pretrade-2026-10-26T11_10.json.gz",
+        "price": 169.01,
+        "sourceShape": "depth"
+      },
+      "lastSeenNumericAsk": {
+        "timestamp": "2026-10-26T11:10:34.803108164Z",
+        "filename": "DEEX-pretrade-2026-10-26T11_10.json.gz",
+        "price": 175.99,
+        "sourceShape": "depth"
+      },
+      "everHadBid": true,
+      "everHadAsk": true,
+      "emptyDepthSides": {},
+      "joinFound": true
+    },
+    {
+      "productIsin": "DE000A1RREP4",
+      "shortcode": "FDBQ",
+      "commodity": "POWER",
+      "contractDate": "2027-10-01",
+      "deliveryStart": "2027-10-01",
+      "deliveryEnd": "2027-12-31",
+      "records": 15,
+      "depthRecords": 8,
+      "topUpdateRecords": 7,
+      "uniqueMinuteFiles": 1,
+      "observationDays": [
+        "2026-10-26"
+      ],
+      "firstTimestamp": "2026-10-26T11:10:08.017144261Z",
+      "lastTimestamp": "2026-10-26T11:10:35.309298008Z",
+      "latestDepthSnapshot": {
+        "timestamp": "2026-10-26T11:10:35.309298008Z",
+        "filename": "DEEX-pretrade-2026-10-26T11_10.json.gz",
+        "bid": {
+          "price": 174.28,
+          "levels": [
+            {
+              "price": 174.28,
+              "quantity": 4.0
+            },
+            {
+              "price": 174.0,
+              "quantity": 2.0
+            },
+            {
+              "price": 173.56,
+              "quantity": 1.0
+            }
+          ],
+          "explicitlyEmpty": false
+        },
+        "ask": {
+          "price": 179.2,
+          "levels": [
+            {
+              "price": 179.2,
+              "quantity": 1.0
+            },
+            {
+              "price": 179.24,
+              "quantity": 1.0
+            }
+          ],
+          "explicitlyEmpty": false
+        }
+      },
+      "lastSeenNumericBid": {
+        "timestamp": "2026-10-26T11:10:35.309298008Z",
+        "filename": "DEEX-pretrade-2026-10-26T11_10.json.gz",
+        "price": 174.28,
+        "sourceShape": "depth"
+      },
+      "lastSeenNumericAsk": {
+        "timestamp": "2026-10-26T11:10:35.309298008Z",
+        "filename": "DEEX-pretrade-2026-10-26T11_10.json.gz",
+        "price": 179.2,
+        "sourceShape": "depth"
+      },
+      "everHadBid": true,
+      "everHadAsk": true,
+      "emptyDepthSides": {},
+      "joinFound": true
+    },
+    {
+      "productIsin": "DE000A1RREP4",
+      "shortcode": "FDBQ",
+      "commodity": "POWER",
+      "contractDate": "2028-01-01",
+      "deliveryStart": "2028-01-01",
+      "deliveryEnd": "2028-03-31",
+      "records": 8,
+      "depthRecords": 0,
+      "topUpdateRecords": 8,
+      "uniqueMinuteFiles": 1,
+      "observationDays": [
+        "2026-10-26"
+      ],
+      "firstTimestamp": "2026-10-26T11:10:08.017144261Z",
+      "lastTimestamp": "2026-10-26T11:10:35.309298008Z",
+      "latestDepthSnapshot": null,
+      "lastSeenNumericBid": {
+        "timestamp": "2026-10-26T11:10:35.309298008Z",
+        "filename": "DEEX-pretrade-2026-10-26T11_10.json.gz",
+        "price": 164.78,
+        "quantity": 2.0,
+        "sourceShape": "topUpdate"
+      },
+      "lastSeenNumericAsk": {
+        "timestamp": "2026-10-26T11:10:10.190653579Z",
+        "filename": "DEEX-pretrade-2026-10-26T11_10.json.gz",
+        "price": 175.2,
+        "quantity": 1.0,
+        "sourceShape": "topUpdate"
+      },
+      "everHadBid": true,
+      "everHadAsk": true,
+      "emptyDepthSides": {},
+      "joinFound": true
+    },
+    {
+      "productIsin": "DE000A1RREQ2",
+      "shortcode": "FDBY",
+      "commodity": "POWER",
+      "contractDate": "2027-01-01",
+      "deliveryStart": "2027-01-01",
+      "deliveryEnd": "2027-12-31",
+      "records": 77,
+      "depthRecords": 41,
+      "topUpdateRecords": 36,
+      "uniqueMinuteFiles": 1,
+      "observationDays": [
+        "2026-10-26"
+      ],
+      "firstTimestamp": "2026-10-26T11:10:00.741393143Z",
+      "lastTimestamp": "2026-10-26T11:10:39.698323643Z",
+      "latestDepthSnapshot": {
+        "timestamp": "2026-10-26T11:10:39.698323643Z",
+        "filename": "DEEX-pretrade-2026-10-26T11_10.json.gz",
+        "bid": {
+          "price": 182.45,
+          "levels": [
+            {
+              "price": 182.45,
+              "quantity": 1.0
+            },
+            {
+              "price": 182.38,
+              "quantity": 1.0
+            },
+            {
+              "price": 181.88,
+              "quantity": 1.0
+            },
+            {
+              "price": 181.05,
+              "quantity": 1.0
+            },
+            {
+              "price": 181.0,
+              "quantity": 1.0
+            }
+          ],
+          "explicitlyEmpty": false
+        },
+        "ask": {
+          "price": 183.12,
+          "levels": [
+            {
+              "price": 183.12,
+              "quantity": 1.0
+            },
+            {
+              "price": 183.44,
+              "quantity": 1.0
+            },
+            {
+              "price": 184.12,
+              "quantity": 1.0
+            },
+            {
+              "price": 184.15,
+              "quantity": 1.0
+            },
+            {
+              "price": 184.27,
+              "quantity": 1.0
+            }
+          ],
+          "explicitlyEmpty": false
+        }
+      },
+      "lastSeenNumericBid": {
+        "timestamp": "2026-10-26T11:10:39.698323643Z",
+        "filename": "DEEX-pretrade-2026-10-26T11_10.json.gz",
+        "price": 182.45,
+        "sourceShape": "depth"
+      },
+      "lastSeenNumericAsk": {
+        "timestamp": "2026-10-26T11:10:39.698323643Z",
+        "filename": "DEEX-pretrade-2026-10-26T11_10.json.gz",
+        "price": 183.12,
+        "sourceShape": "depth"
+      },
+      "everHadBid": true,
+      "everHadAsk": true,
+      "emptyDepthSides": {},
+      "joinFound": true
+    }
+  ],
+  "interpretation": [
+    "Files contain event updates during that minute, not a periodic snapshot of every contract. Absence from sampled minutes does not establish absence of quotes outside them.",
+    "A topUpdate message can contain only one side; absent fields are not proof that the other side is empty.",
+    "Depth records explicitly carry bid and ask arrays. Empty arrays mean no quoted levels on that side in that particular observed snapshot; do not retain an earlier quote for that side.",
+    "Latest observations across different files may be from different dates. Do not combine these into a synchronized executable bid-ask snapshot."
+  ],
+  "coverage": {
+    "POWER": {
+      "directMonthlyPretradeObserved": [
+        "2026-11-01",
+        "2026-12-01"
+      ],
+      "directMonthlyEitherPreOrPosttrade": [
+        "2026-11-01",
+        "2026-12-01"
+      ],
+      "quarterPretradeObserved_Q42026_Q32027": [
+        "2027-01-01",
+        "2027-04-01",
+        "2027-07-01"
+      ],
+      "quarterEitherPreOrPosttrade_Q42026_Q32027": [
+        "2027-01-01",
+        "2027-04-01",
+        "2027-07-01"
+      ]
+    },
+    "PSV": {
+      "directMonthlyPretradeObserved": [
+        "2026-11-01"
+      ],
+      "directMonthlyEitherPreOrPosttrade": [
+        "2026-11-01",
+        "2026-12-01",
+        "2027-01-01",
+        "2027-03-01"
+      ],
+      "quarterPretradeObserved_Q42026_Q32027": [
+        "2027-01-01",
+        "2027-04-01"
+      ],
+      "quarterEitherPreOrPosttrade_Q42026_Q32027": [
+        "2027-01-01",
+        "2027-04-01"
+      ]
+    },
+    "conclusions": {
+      "power": "Observed Nov/Dec 2026 month and Q1-Q4 2027 quarter instruments span Nov2026-Oct2027. Not twelve direct monthly prices; month expansion from quarter requires modeling assumptions.",
+      "psv": "Only partial direct monthly/quarterly observations in these files. Annual and seasonal quotes are also present but do not directly provide missing month/quarter prices. Sampling does not prove absence at other minutes.",
+      "daysAreNotSynchronized": "Post-trade file is 23Oct2026; pre-trade files cover sampled minutes on 23Oct and 26Oct. Prices cannot be treated as one simultaneous curve."
+    }
+  },
+  "gasFilesByDay": {
+    "2026-10-23": 12,
+    "2026-10-26": 67
+  }
+}
