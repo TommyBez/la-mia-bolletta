@@ -19,6 +19,7 @@ La prima implementazione riscriverà la direzione A sulla base della specifica. 
 - [Decisioni di design](./docs/design-prodotto.md)
 - [Specifica della prima tranche risultati A](./docs/spec-risultati-a.md)
 - [Vocabolario del dominio](./GLOSSARY.md)
+- [Design dell’acquisizione quotidiana dei dati](./docs/design-ingestion.md)
 - [Studio di fattibilità](./docs/studio-fattibilita.md)
 - [Approfondimento GME](./docs/approfondimento-gme-2026-10-26.md)
 - [Verifica MiFIR](./docs/verifica-mifir-2026-10-26.md)

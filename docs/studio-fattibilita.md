@@ -162,6 +162,8 @@ Una prima soluzione può usare TypeScript per il dominio condiviso, Postgres per
 
 ### Importazione quotidiana
 
+Il [design dell’acquisizione](./design-ingestion.md) dettaglia ora moduli, pubblicazione, controlli, versioni e prova di accettazione. È una proposta tecnica, non un importatore già operativo.
+
 1. Leggere i collegamenti effettivi della pagina ufficiale, senza presumere che esista sempre un file con la data odierna.
 2. Scaricare offerte e parametri pertinenti; registrare URL, data fonte, data download, checksum ed esito.
 3. Conservare gli originali e normalizzare in un'area provvisoria. Parser distinti per tracciato e versione: i codici numerici non hanno necessariamente lo stesso significato fra mercato libero, PLACET e altri tracciati.
