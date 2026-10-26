@@ -84,8 +84,8 @@ La parità web/MCP sarà verificata nella tranche MCP, passando lo stesso profil
 ## Further Notes
 
 - Fonte delle scelte: [design del prodotto](./design-prodotto.md). Vocabolario: [glossario](../GLOSSARY.md).
-- Riferimento visuale conservato: branch `codex/prototype-confronto`, variante A. Le varianti B/C documentano le alternative esplorate; non fanno parte della prima implementazione.
+- Riferimento visuale conservato: branch `codex/prototype-confronto`, commit `28ec254`, variante A. Le varianti B/C documentano le alternative esplorate; non fanno parte della prima implementazione.
 - [Studio di fattibilità](./studio-fattibilita.md): fonti, campi del profilo e proposte del motore sono contesto tecnico, con il loro stato di validazione. La scelta A non approva automaticamente tutte le proposte dello studio.
-- L'interfaccia può essere implementata e verificata con risposte sintetiche prima delle integrazioni. Il rilascio del confronto reale richiede catalogo e calcolo validati; le previsioni variabili richiedono fonte, copertura e metodologia qualificate. L'accesso API GME è una dipendenza specifica, non un blocco indiscriminato di ogni attività sui dati.
+- L'interfaccia può essere implementata e verificata con risposte sintetiche prima delle integrazioni. Il rilascio del confronto reale richiede catalogo e calcolo validati; le previsioni variabili richiedono fonte, copertura, metodologia e condizioni applicabili all'acquisizione e al riuso pubblico qualificate, mantenendo il costo dei dati a zero. L'accesso API GME è una dipendenza specifica, non un blocco indiscriminato di ogni attività sui dati.
 - L'upload reale richiede anche scelta e verifica del trattamento presso il fornitore OCR, cancellazione dopo la conferma e scadenza delle sessioni abbandonate. Questi punti restano aperti.
 - La specifica non è ancora pubblicata sul tracker; la conferma dei confini di verifica precede quel passaggio. Una volta pubblicata, collegare l'issue al commit del prototipo e suddividere l'implementazione in attività eseguibili.
