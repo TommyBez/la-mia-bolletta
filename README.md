@@ -26,7 +26,7 @@ Il prototipo è isolato sul branch `codex/prototype-confronto`. **È stata scelt
 ## Documentazione
 
 - [Decisioni di design](./docs/design-prodotto.md)
-- [Prima tranche risultati A — bozza di specifica](./docs/spec-risultati-a.md)
+- [Specifica della prima tranche risultati A](./docs/spec-risultati-a.md)
 - [Vocabolario del dominio](./GLOSSARY.md)
 - [Studio di fattibilità](./docs/studio-fattibilita.md)
 - [Approfondimento GME](./docs/approfondimento-gme-2026-10-26.md)

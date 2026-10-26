@@ -32,6 +32,6 @@ Luce e gas possono essere completati in momenti diversi. Se il contratto attuale
 
 Il primo prototipo confronta tre strutture della schermata risultati, usando gli stessi dati sintetici: consiglio in primo piano, confronto affiancato, elenco con dettaglio. Include revisione del profilo e scheda dell'offerta. **La variante A è stata scelta il 26 ottobre 2026.** Le tre varianti rimangono nel branch `codex/prototype-confronto` come riferimento della scelta.
 
-La scelta approva la direzione visuale e la gerarchia della schermata risultati. Nomi delle offerte, importi, formula illustrativa e campi ridotti del profilo restano esempi del prototipo. La [bozza di specifica della prima tranche](./spec-risultati-a.md) descrive la riscrittura dell'interfaccia e le verifiche proposte.
+La scelta approva la direzione visuale e la gerarchia della schermata risultati. Nomi delle offerte, importi, formula illustrativa e campi ridotti del profilo restano esempi del prototipo. La [specifica della prima tranche](./spec-risultati-a.md) descrive la riscrittura dell'interfaccia e i due confini di verifica successivamente confermati dall'utente.
 
 Non è ancora una specifica finale o un comparatore funzionante: OCR, acquisizione dei dati e calcolo delle tariffe non sono implementati. Per Q12 restano da definire la scadenza delle sessioni abbandonate e il trattamento degli originali presso eventuali fornitori OCR; il prototipo non carica né conserva bollette.

@@ -1,6 +1,6 @@
 # Risultati del confronto — direzione A
 
-Bozza del 26 ottobre 2026. La direzione visuale è approvata; i confini di verifica sotto descritti sono proposti e attendono conferma prima della pubblicazione come specifica sul tracker. Questa tranche riguarda l'interfaccia dei risultati, dalla revisione di un profilo già disponibile alla scheda dell'offerta. Non esaurisce il progetto luce/gas, OCR, acquisizione quotidiana e MCP.
+Specifica del 26 ottobre 2026. La direzione visuale A e i due confini di verifica sono stati confermati dall'utente. Questa tranche riguarda l'interfaccia dei risultati, dalla revisione di un profilo già disponibile alla scheda dell'offerta. Non esaurisce il progetto luce/gas, OCR, acquisizione quotidiana e MCP.
 
 ## Problem Statement
 
@@ -62,7 +62,7 @@ L'interfaccia riceve risultati strutturati da un unico servizio di confronto. Du
 
 ## Testing Decisions
 
-**Proposta da confermare con l'utente.** Verificare comportamenti osservabili attraverso due confini, evitando test su dettagli dei componenti o sulla formula dimostrativa:
+**Confini di verifica confermati dall'utente.** Verificare comportamenti osservabili attraverso due confini, evitando test su dettagli dei componenti o sulla formula dimostrativa:
 
 1. **Risultato del servizio di confronto.** Usare risposte controllate per verificare che un profilo e le preferenze producano la richiesta corretta e che l'interfaccia rispetti l'esito restituito: nessun risparmio inventato, condizioni e periodi preservati, consiglio di restare correttamente presentato. Questa verifica non certifica l'esattezza economica delle fixture. Quando il motore sarà implementato, i suoi test useranno casi numerici indipendentemente verificati allo stesso confine.
 2. **Percorso completo nel browser.** Dati disponibili → revisione/conferma → risultato A → classifica/scheda → passaggio al fornitore. Coprire le due forniture, modifica dei dati, preferenza per il fisso, i casi economici sopra elencati, stati di errore e assenza di risultati, tastiera e telefono. Verificare che gli esempi siano riconoscibili e non attivino contratti.
@@ -88,4 +88,4 @@ La parità web/MCP sarà verificata nella tranche MCP, passando lo stesso profil
 - [Studio di fattibilità](./studio-fattibilita.md): fonti, campi del profilo e proposte del motore sono contesto tecnico, con il loro stato di validazione. La scelta A non approva automaticamente tutte le proposte dello studio.
 - L'interfaccia può essere implementata e verificata con risposte sintetiche prima delle integrazioni. Il rilascio del confronto reale richiede catalogo e calcolo validati; le previsioni variabili richiedono fonte, copertura, metodologia e condizioni applicabili all'acquisizione e al riuso pubblico qualificate, mantenendo il costo dei dati a zero. L'accesso API GME è una dipendenza specifica, non un blocco indiscriminato di ogni attività sui dati.
 - L'upload reale richiede anche scelta e verifica del trattamento presso il fornitore OCR, cancellazione dopo la conferma e scadenza delle sessioni abbandonate. Questi punti restano aperti.
-- La specifica non è ancora pubblicata sul tracker; la conferma dei confini di verifica precede quel passaggio. Una volta pubblicata, collegare l'issue al commit del prototipo e suddividere l'implementazione in attività eseguibili.
+- Passo successivo: suddividere l'implementazione in attività eseguibili, mantenendo il riferimento al commit del prototipo.

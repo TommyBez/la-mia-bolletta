@@ -32,7 +32,7 @@ Le offerte e tutti gli importi sono inventati. `model.ts` adatta i costi al cons
 
 Non ci sono OCR, upload di documenti, dati di mercato, persistenza, account, motore di calcolo, MCP o sottoscrizioni. La cancellazione degli originali approvata in Q12 è una decisione di prodotto ancora da implementare. Non vengono trasmessi documenti né aperti siti di fornitori.
 
-Le scelte approvate sono in [design-prodotto.md](../../../docs/design-prodotto.md). **Il 26 ottobre 2026 l'utente ha scelto A — Il consiglio.** La domanda sulla struttura dei risultati è quindi risolta: raccomandazione dominante e alternative successive. Questa scelta non valida le fixture o la formula dei costi. Il prototipo viene conservato come riferimento fuori da `main`; la prima implementazione va riscritta secondo la [specifica dedicata](../../../docs/spec-risultati-a.md), attualmente in bozza.
+Le scelte approvate sono in [design-prodotto.md](../../../docs/design-prodotto.md). **Il 26 ottobre 2026 l'utente ha scelto A — Il consiglio.** La domanda sulla struttura dei risultati è quindi risolta: raccomandazione dominante e alternative successive. Questa scelta non valida le fixture o la formula dei costi. Il prototipo viene conservato come riferimento fuori da `main`; la prima implementazione va riscritta secondo la [specifica dedicata](../../../docs/spec-risultati-a.md), con i confini di verifica confermati.
 
 ## Verifica del 26 ottobre 2026
 
