@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# La mia bolletta
 
-## Getting Started
+Studio di un'applicazione gratuita per confrontare le offerte domestiche di luce e gas con un'esperienza più chiara. Il progetto prevede lettura della bolletta, confronto basato sui consumi e funzioni equivalenti via MCP, con OCR eseguito dal client MCP.
 
-First, run the development server:
+## Stato
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+Ricerca delle fonti e prime decisioni di prodotto documentate. È disponibile un **prototipo visuale con dati interamente sintetici**: non è ancora un comparatore funzionante. OCR, acquisizione quotidiana, calcolo tariffario e server MCP non sono implementati.
+
+## Avviare il prototipo
+
+```sh
+pnpm install
+pnpm prototype
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Aprire [il confronto](http://localhost:3000/prototype/confronto?variant=A), usando la porta indicata dal server se diversa da 3000. La barra in basso passa tra tre strutture:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- A — consiglio in primo piano;
+- B — confronto affiancato;
+- C — elenco e dettaglio.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+I controlli permettono di provare luce e gas, la preferenza per il prezzo fisso, la revisione dei dati, quattro casi dimostrativi e il passaggio simulato al fornitore. Tutto lo stato rimane nella pagina e si azzera al ricaricamento. La homepage `/` contiene ancora lo starter Next.js.
 
-## Learn More
+Il prototipo è isolato sul branch `codex/prototype-confronto`. **È stata scelta la variante A — Il consiglio.** [Scopo, percorso e limiti del prototipo](./app/prototype/confronto/README.md).
 
-To learn more about Next.js, take a look at the following resources:
+## Documentazione
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Decisioni di design](./docs/design-prodotto.md)
+- [Prima tranche risultati A — bozza di specifica](./docs/spec-risultati-a.md)
+- [Vocabolario del dominio](./GLOSSARY.md)
+- [Studio di fattibilità](./docs/studio-fattibilita.md)
+- [Approfondimento GME](./docs/approfondimento-gme-2026-10-26.md)
+- [Verifica MiFIR](./docs/verifica-mifir-2026-10-26.md)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Stack presente: Next.js, React, TypeScript, Tailwind e componenti shadcn/Base UI. Le regole specifiche di questa versione di Next.js sono in [AGENTS.md](./AGENTS.md).
