@@ -1,0 +1,40 @@
+{
+  "id": "ccr-C1E-4-001002-2400",
+  "kind": "holdout",
+  "source": "official_portal",
+  "profile": "C1 E",
+  "municipality": {
+    "portalCode": "001002",
+    "name": "Airasca"
+  },
+  "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+  "volume": "2400",
+  "acquisitionMonth": "2026-10",
+  "coverageStart": "2026-10-01",
+  "coverageEnd": "2027-09-30",
+  "baselineSales": "2815.6024131223896",
+  "baselineUncertainty": "0.00999999999",
+  "terms": [
+    {
+      "quarter": "2026-Q4",
+      "consumption": "1045.1848488"
+    },
+    {
+      "quarter": "2027-Q1",
+      "consumption": "1238.7506736"
+    },
+    {
+      "quarter": "2027-Q2",
+      "consumption": "116.0644536"
+    },
+    {
+      "quarter": "2027-Q3",
+      "consumption": "0.0000216"
+    }
+  ],
+  "predictedSales": "2876.3552000144648",
+  "predictedUncertainty": "0.0302000144447999999999999999999999999999999999996",
+  "value": "0.025313661205031333333333333333333333333333333333334",
+  "uncertainty": "0.0000063333393561666666666666666666666666666666666665",
+  "predictedAt": "2026-10-29T23:03:36.729Z"
+}

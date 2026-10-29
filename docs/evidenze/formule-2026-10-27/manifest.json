@@ -1,0 +1,68 @@
+{
+  "analysis_date": "2026-10-27",
+  "scope": "Domestic01, singleSI, activation01or99, validity intersects analysis day; user-profile eligibility still required",
+  "data_acquisition": "Current links discovered on official page; direct public HTTPS downloads. Raw files retained locally, not committed. Oct26 snapshots used only for adjacent-day comparison.",
+  "catalog_files": [
+    {
+      "supply": "E",
+      "publication_date": "2026-10-26",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_10/PO_Offerte_E_MLIBERO_20261026.xml",
+      "bytes": 21147758,
+      "sha256": "ee9e28869584977fe72cc57ba43ca130c7ee284bdd90777db2e72ec00a910861"
+    },
+    {
+      "supply": "G",
+      "publication_date": "2026-10-26",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_10/PO_Offerte_G_MLIBERO_20261026.xml",
+      "bytes": 15043194,
+      "sha256": "b02b8dda6a452a6d563d761b49084feb14a04f346971da36eedfd25ba12ca59c"
+    },
+    {
+      "supply": "E",
+      "publication_date": "2026-10-27",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_10/PO_Offerte_E_MLIBERO_20261027.xml",
+      "bytes": 20911505,
+      "sha256": "7c01ff47e716f5de6743d27f5489d0fd6e84fea4dc03f73148e38b8fc09b4c7a"
+    },
+    {
+      "supply": "G",
+      "publication_date": "2026-10-27",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_10/PO_Offerte_G_MLIBERO_20261027.xml",
+      "bytes": 14873179,
+      "sha256": "1c8c944a6911980c9946ea58e0fdd1b60cbeb795634e07e73f324eb75ae558df"
+    }
+  ],
+  "reference_documents": [
+    {
+      "title": "Open data discovery",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/it/open-data.page",
+      "bytes": 46042,
+      "sha256": "49faecf5cd9589386a9e56a04411b050d8a48b37e5728727b9b145818de50c4d"
+    },
+    {
+      "title": "AU specification v5.0",
+      "url": "https://siiportale.acquirenteunico.it/documents/11387888/11426817/Funzionamento+e+Specifiche+del+Processo+di+Trasmissione+Offerte+Mercato+Retail_v5.0.pdf/c7fb0256-ce8d-0977-3356-227cfaa91443?version=1.0&t=1765796222946&download=true",
+      "bytes": 1340404,
+      "sha256": "4a31f0f32c0324ae4883f99af0e37a382f631813f3740d00730e2767eabd2c46"
+    },
+    {
+      "title": "AU calculation v4.2",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/cms/documents/6bc502553cb0ea45958840b2de20078d.pdf",
+      "bytes": 1164465,
+      "sha256": "aead136bd40b68d355a86c75d94a7c73c7aa7304c10aea015763128b97d11bcc"
+    }
+  ],
+  "analysis_scripts": {
+    "audit-electricity-examples.py": "9688a118cb64184a5c6217615b0aaf4eda58f417b705352002e493ec402368c4",
+    "audit-electricity.py": "63ebe11789714d7d2e95b940164bd0b4c058dc1904ec552c515be1cc33b9aa31",
+    "audit_gas.py": "ae70a03b27e54a0528d7d459ee81f41e65322eeeb42b356bb29aa279c7093768",
+    "gas-economic-cases.py": "92b7d81e8b7010951ab27d8ba72f8381e27e8f5dd02e11c612eab834faf96963",
+    "summarize-audits.py": "aafc77ff1da083f2ec8138bf3c6d0f3a49073c74d6fb69a0230d1ce1222474c6"
+  },
+  "limitations": [
+    "Descriptive and selected relative commercial-charge analysis, not full market ranking or production importer.",
+    "Two publication days do not establish long-term frequency.",
+    "Non-simulable offers and entire retail market not asserted covered."
+  ],
+  "offer_source_policy": "Q28: only Portale Offerte open data and official AU/Portale schemas and calculation methods. Do not consult supplier websites or documents to supplement or correct offers. Earlier supplier-document research excluded from this evidence base."
+}

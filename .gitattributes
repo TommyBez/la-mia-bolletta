@@ -1,0 +1,7 @@
+# Captured source bytes are covered by recorded SHA-256 hashes. Preserve their
+# original line endings and whitespace instead of treating them as source code.
+docs/evidenze/** -text -whitespace linguist-generated=true
+src/modules/references/data/** -text -whitespace linguist-generated=true
+tests/**/fixtures/** -text -whitespace linguist-generated=true
+scripts/**/evidence/** -text -whitespace linguist-generated=true
+docs/evidenze/**/README.md text whitespace linguist-generated=false

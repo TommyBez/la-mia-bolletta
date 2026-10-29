@@ -1,0 +1,94 @@
+<ListaOfferteMercatoLibero><offerta>
+        <IdentificativiOfferta>
+            <PIVA_UTENTE>05282870657</PIVA_UTENTE>
+            <COD_OFFERTA>023827ESVFL01XX27RT0COTD0REL00X2</COD_OFFERTA>
+        </IdentificativiOfferta>
+        <DettaglioOfferta>
+            <TIPO_MERCATO>01</TIPO_MERCATO>
+            <OFFERTA_SINGOLA>SI</OFFERTA_SINGOLA>
+            <TIPO_CLIENTE>01</TIPO_CLIENTE>
+            <TIPO_OFFERTA>02</TIPO_OFFERTA>
+            <TIPOLOGIA_ATT_CONTR>01</TIPOLOGIA_ATT_CONTR>
+            <TIPOLOGIA_ATT_CONTR>02</TIPOLOGIA_ATT_CONTR>
+            <TIPOLOGIA_ATT_CONTR>03</TIPOLOGIA_ATT_CONTR>
+            <TIPOLOGIA_ATT_CONTR>04</TIPOLOGIA_ATT_CONTR>
+            <NOME_OFFERTA>4G RETE LUCE CONSUMER CASA INDEX RELAX X2</NOME_OFFERTA>
+            <DESCRIZIONE>4G RETE LUCE CONSUMER CASA INDEX RELAX X2</DESCRIZIONE>
+            <DURATA>12</DURATA>
+            <GARANZIE>Qualora si scelga un metodo di pagamento diverso dalla domiciliazione bancaria o postale, 4G Energia addebiterà sulla prima fattura del cliente un deposito cauzionale, il cui importo sarà determinato secondo l'art.12 comma 1 lettera a) del Testo Integrato delle Disposizioni dell'Autorità di Regolazione per Energia Reti e Ambiente dei Servizi di vendita dell'Energia Elettrica di Ultima Istanza, Allegato A alla deliberazione 24 novembre 2020, 491/2020/R/eel  e successive modifiche e integrazioni. Con la fattura di chiusura del rapporto contrattuale il deposito cauzionale relativo alla somministrazione rispetto alla quale avviene la chiusura del rapporto sarà restituito, senza bisogno di specifica richiesta del cliente e con la maggiorazione degli interessi legali, qualora non trattenuto in tutto o in parte a saldo di eventuali fatture rimaste insolute e dei relativi interessi moratori.</GARANZIE>
+            <ModalitaAttivazione>
+                <MODALITA>02</MODALITA>
+            </ModalitaAttivazione>
+            <Contatti>
+                <TELEFONO>08281997663</TELEFONO>
+                <URL_SITO_VENDITORE>https://www.4genergia.it/</URL_SITO_VENDITORE>
+                <URL_OFFERTA>https://www.4genergia.it/offerte/</URL_OFFERTA>
+            </Contatti>
+        </DettaglioOfferta>
+        <RiferimentiPrezzoEnergia>
+            <IDX_PREZZO_ENERGIA>12</IDX_PREZZO_ENERGIA>
+        </RiferimentiPrezzoEnergia>
+        <ValiditaOfferta>
+            <DATA_INIZIO>01/04/2026_00:00:00</DATA_INIZIO>
+            <DATA_FINE>31/01/2027_23:59:59</DATA_FINE>
+        </ValiditaOfferta>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>01</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>02</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>04</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <TipoPrezzo>
+            <TIPOLOGIA_FASCE>03</TIPOLOGIA_FASCE>
+        </TipoPrezzo>
+        <Dispacciamento>
+            <TIPO_DISPACCIAMENTO>01</TIPO_DISPACCIAMENTO>
+            <NOME>Corrispettivo Dispacciame</NOME>
+            <DESCRIZIONE>Corrispettivo Dispacciamento</DESCRIZIONE>
+        </Dispacciamento>
+        <Dispacciamento>
+            <TIPO_DISPACCIAMENTO>09</TIPO_DISPACCIAMENTO>
+            <NOME>Corr. Capacità STG</NOME>
+            <DESCRIZIONE>Corr. Capacità STG</DESCRIZIONE>
+        </Dispacciamento>
+        <ComponenteImpresa>
+            <NOME>Corrispettivo di commercializzazione e Vendita</NOME>
+            <DESCRIZIONE>CCV Corrispettivo di commercializzazione e Vendita pari a 150 €/punto/annui (12,50 €/punto/mese) definito da 4G Energia</DESCRIZIONE>
+            <TIPOLOGIA>01</TIPOLOGIA>
+            <MACROAREA>01</MACROAREA>
+            <IntervalloPrezzi>
+                <PREZZO>150.000000</PREZZO>
+                <UNITA_MISURA>01</UNITA_MISURA>
+            </IntervalloPrezzi>
+        </ComponenteImpresa>
+        <ComponenteImpresa>
+            <NOME>Spread</NOME>
+            <DESCRIZIONE>Spread</DESCRIZIONE>
+            <TIPOLOGIA>01</TIPOLOGIA>
+            <MACROAREA>04</MACROAREA>
+            <IntervalloPrezzi>
+                <FASCIA_COMPONENTE>01</FASCIA_COMPONENTE>
+                <PREZZO>0.028600</PREZZO>
+                <UNITA_MISURA>03</UNITA_MISURA>
+            </IntervalloPrezzi>
+            <IntervalloPrezzi>
+                <FASCIA_COMPONENTE>02</FASCIA_COMPONENTE>
+                <PREZZO>0.028600</PREZZO>
+                <UNITA_MISURA>03</UNITA_MISURA>
+            </IntervalloPrezzi>
+            <IntervalloPrezzi>
+                <FASCIA_COMPONENTE>03</FASCIA_COMPONENTE>
+                <PREZZO>0.028600</PREZZO>
+                <UNITA_MISURA>03</UNITA_MISURA>
+            </IntervalloPrezzi>
+        </ComponenteImpresa>
+        <CondizioniContrattuali>
+            <TIPOLOGIA_CONDIZIONE>01</TIPOLOGIA_CONDIZIONE>
+            <DESCRIZIONE>In seguito alla trasmissione dell’accettazione scritta da parte di 4G Energia della proposta di contratto inoltrata dal cliente, 4G Energia invierà per iscritto la comunicazione della data di inizio della fornitura. Oggetto del contratto è la somministrazione di gas naturale e/o di energia elettrica presso il/i PdR e/o il/i PdP del cliente da parte di 4G Energia in base a quanto richiesto dal cliente, nonché la stipula da parte di 4G Energia dei contratti di dispacciamento e di trasporto dell’energia elettrica con le controparti designate dalle norme regolamentari vigenti in materia. L’esecuzione del contratto è subordinata al buon esito della procedura di attivazione o cambio fornitore presso i distributori locali. 4G Energia in qualità di venditore si riserva il diritto di fornire gas e/o energia elettrica nei termini previsti dalla normativa di settore a condizione che: a) Esistano già le condotte nella via in cui è sita l’unità immobiliare per cui viene fatta richiesta o vi siano le condizioni di realizzarla ai sensi della convenzione in essere tra il Distributore locale ed il Comune nonchè ai sensi del D.Lgs. 164/2000, in quest’ultimo caso la fornitura potrà essere richiesta solo quando le condotte siano state realizzate da parte del Distributore locale. b) Esista già l’allacciamento tra fabbricato e rete del Distribuzione locale, oppure vi sia l’impegno da parte del Distributore locale a realizzarlo. In tale ultimo caso la somministrazione avrà luogo solo a seguito della realizzazione dell’allacciamento da parte del Distributore e della relativa comunicazione a 4G Energia. c) Il cliente abbia provveduto al pagamento dei contributi di allacciamento direttamente al venditore che è autorizzato all’incasso in nome e per conto del Distributore, fermo restando l’obbligo a carico dello stesso cliente di provvedere a sua cura e spese a tutte le opere propedeutiche e complementari necessarie alla realizzazione dell’allacciamento medesimo. Il mancato pagamento da parte del Cliente del contributo di allacciamento impedisce l’avvio della fornitura e comporta la risoluzione automatica ed espressa del contratto. d) Il richiedente abbia ottenuto dalla proprietà dello stabile e/o dalle Pubbliche Autorità competenti e/o da altri terzi privati eventualmente titolari di servitù di passaggio o altri diritti reali sui beni, espressa autorizzazione alla posa delle condotte per effettuare l’allacciamento. Il richiedente si rende disponibile a consegnare tale autorizzazione ove richiesta al Distributore e/o alla 4G Energia. e) Il richiedente ovvero il Distributore abbiano prodotto tutta la documentazione attestante il possesso dell’abilità e/o agibilità nonchè eventuali altre documentazioni richieste dalla normativa vigente. Il mancato verificarsi delle condizioni di cui ai precedenti punti comporta la risoluzione espressa del contratto.</DESCRIZIONE>
+            <LIMITANTE>02</LIMITANTE>
+        </CondizioniContrattuali>
+    </offerta>
+    </ListaOfferteMercatoLibero>

@@ -1,0 +1,20 @@
+{
+  "istat_municipalities": 7894,
+  "istat_unique": 7894,
+  "region_area_coverage": 7894,
+  "regions": 20,
+  "gas_geographic_areas": {
+    "north_west": 1488,
+    "north_east": 2887,
+    "central": 590,
+    "central_south_west": 928,
+    "central_south_east": 829,
+    "south": 795,
+    "sardinia": 377
+  },
+  "normative_climate_rows": 8234,
+  "climate_exact_name_matches": 7605,
+  "climate_missing": 288,
+  "climate_ambiguous": 1,
+  "status": "All current ISTAT→region/area materialized. Climate join provisional, historical normative names not certification of current municipal acts. Missing mappings not fabricated."
+}

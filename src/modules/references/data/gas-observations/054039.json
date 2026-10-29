@@ -1,0 +1,50 @@
+{
+  "portalCode": "054039",
+  "name": "Perugia",
+  "source": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+  "observedAt": "2026-10-29T12:00:00Z",
+  "syntheticAnnualSmc": "4000",
+  "usage": "RISC",
+  "calibrationOffer": "000971GSVML01XXPROD1300109202600",
+  "saleEur": "3527.86",
+  "operationalProfile": "C1 E",
+  "rates": {
+    "excise": [
+      {
+        "label": "Accisa - da 0 a 120 Smc",
+        "eur_smc": "0.044000"
+      },
+      {
+        "label": "Accisa - da 121 a 480 Smc",
+        "eur_smc": "0.175000"
+      },
+      {
+        "label": "Accisa - da 481 a 1.560 Smc",
+        "eur_smc": "0.170000"
+      },
+      {
+        "label": "Accisa - oltre 1.560 Smc",
+        "eur_smc": "0.186000"
+      }
+    ],
+    "regional": [
+      {
+        "label": "Add. reg. fino a 120 Smc",
+        "eur_smc": "0.005165"
+      },
+      {
+        "label": "Add. reg. da 121 a 480 Smc",
+        "eur_smc": "0.005165"
+      },
+      {
+        "label": "Add. reg. da 481 a 1.560 Smc",
+        "eur_smc": "0.005165"
+      },
+      {
+        "label": "Add. reg. - oltre 1.560 Smc",
+        "eur_smc": "0.005165"
+      }
+    ]
+  },
+  "costFragmentSha256": "428187e213c6cf3f31b4ef69c3afc71631e265b6cec74defc51093e25a1bc1d8"
+}

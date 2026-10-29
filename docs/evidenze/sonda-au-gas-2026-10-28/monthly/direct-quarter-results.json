@@ -1,0 +1,88 @@
+{
+  "method": "Direct sale with synthetic monthly weights, no IVA model",
+  "calibration": [
+    {
+      "input_month": "202512",
+      "quarter_group": "Q4",
+      "sale_eur": "1202.23",
+      "implied_eur_smc": "0.8568583333333333333333333333",
+      "rounding_interval_eur_smc": [
+        "0.8568541666666666666666666667",
+        "0.8568625"
+      ]
+    },
+    {
+      "input_month": "202602",
+      "quarter_group": "Q1",
+      "sale_eur": "1185.90",
+      "implied_eur_smc": "0.84325",
+      "rounding_interval_eur_smc": [
+        "0.8432458333333333333333333333",
+        "0.8432541666666666666666666667"
+      ]
+    },
+    {
+      "input_month": "202605",
+      "quarter_group": "Q2",
+      "sale_eur": "920.22",
+      "implied_eur_smc": "0.62185",
+      "rounding_interval_eur_smc": [
+        "0.6218458333333333333333333333",
+        "0.6218541666666666666666666667"
+      ]
+    },
+    {
+      "input_month": "202608",
+      "quarter_group": "Q3",
+      "sale_eur": "864.19",
+      "implied_eur_smc": "0.5751583333333333333333333333",
+      "rounding_interval_eur_smc": [
+        "0.5751541666666666666666666667",
+        "0.5751625"
+      ]
+    }
+  ],
+  "holdouts": [
+    {
+      "code": "000971GSVML01XXPROD1300109202600",
+      "prediction_unrounded_eur": "979.1450000000000000000000000",
+      "observed_eur": "979.15",
+      "residual_eur": "0.0050000000000000000000000",
+      "compatible": true
+    },
+    {
+      "code": "029886GSVML01XXSENZAPENSIDOMGAS3",
+      "prediction_unrounded_eur": "1045.145000000000000000000000",
+      "observed_eur": "1045.15",
+      "residual_eur": "0.005000000000000000000000",
+      "compatible": true
+    }
+  ],
+  "design_matrix_rank": 4,
+  "design_matrix": [
+    [
+      1200,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1200,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1200,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1200
+    ]
+  ]
+}

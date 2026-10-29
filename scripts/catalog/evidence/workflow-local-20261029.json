@@ -1,0 +1,27 @@
+{
+  "verification": "Authenticated HTTP202 Cron trigger followed by workflow inspect run --json on local backend",
+  "environment": "Local Next.js on port3100; development Neon PostgreSQL and private Vercel Blob",
+  "productionCronVerified": false,
+  "runs": [
+    {
+      "commodity": "electricity",
+      "workflowRunId": "wrun_01M64V98X8J6J18WM9TJAXHW5D",
+      "status": "completed",
+      "domainRunId": "a13e7e77-e819-44cf-a6b1-3853bf7834dc",
+      "publicationState": "published",
+      "versionId": "c6bfd2c781d241aa0afc356ae692eb9b48fdda3fd159b06535048b070bc9e5b2",
+      "startedAt": "2026-10-29T22:07:59.732Z",
+      "completedAt": "2026-10-29T22:11:46.174Z"
+    },
+    {
+      "commodity": "gas",
+      "workflowRunId": "wrun_01M64V98XGPPAZ0RQWMRJ4H502",
+      "status": "completed",
+      "domainRunId": "9ad91b76-ee57-4b66-a397-b4770d61b241",
+      "publicationState": "published",
+      "versionId": "5cff621dd81b2ed68441de3654c47307a8cd7e44c462762c99ffc64d5bf08f0e",
+      "startedAt": "2026-10-29T22:07:59.724Z",
+      "completedAt": "2026-10-29T22:11:14.291Z"
+    }
+  ]
+}

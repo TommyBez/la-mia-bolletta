@@ -1,0 +1,110 @@
+<ListaOfferteMercatoLibero><offerta>
+        <IdentificativiOfferta>
+            <PIVA_UTENTE>04084100249</PIVA_UTENTE>
+            <COD_OFFERTA>027069ESVFL01XX0000000MTEC202612</COD_OFFERTA>
+        </IdentificativiOfferta>
+        <DettaglioOfferta>
+            <TIPO_MERCATO>01</TIPO_MERCATO>
+            <OFFERTA_SINGOLA>SI</OFFERTA_SINGOLA>
+            <TIPO_CLIENTE>01</TIPO_CLIENTE>
+            <DOMESTICO_RESIDENTE>03</DOMESTICO_RESIDENTE>
+            <TIPO_OFFERTA>02</TIPO_OFFERTA>
+            <TIPOLOGIA_ATT_CONTR>99</TIPOLOGIA_ATT_CONTR>
+            <NOME_OFFERTA>MASSIMA TUTELA CASA</NOME_OFFERTA>
+            <DESCRIZIONE>Il valore assunto trimestralmente dalla componente PE verrà scontato per i soli soci.</DESCRIZIONE>
+            <DURATA>-1</DURATA>
+            <GARANZIE>NO</GARANZIE>
+            <ModalitaAttivazione>
+                <MODALITA>01</MODALITA>
+                <MODALITA>03</MODALITA>
+            </ModalitaAttivazione>
+            <Contatti>
+                <TELEFONO>3466019029</TELEFONO>
+                <URL_SITO_VENDITORE>www.energienove.eu</URL_SITO_VENDITORE>
+                <URL_OFFERTA>https://www.energienove.eu/offerta-energia-elettrica/</URL_OFFERTA>
+            </Contatti>
+        </DettaglioOfferta>
+        <RiferimentiPrezzoEnergia>
+            <IDX_PREZZO_ENERGIA>05</IDX_PREZZO_ENERGIA>
+        </RiferimentiPrezzoEnergia>
+        <ValiditaOfferta>
+            <DATA_INIZIO>01/10/2026_23:59:00</DATA_INIZIO>
+            <DATA_FINE>31/12/2026_23:59:00</DATA_FINE>
+        </ValiditaOfferta>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>01</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>02</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <TipoPrezzo>
+            <TIPOLOGIA_FASCE>03</TIPOLOGIA_FASCE>
+        </TipoPrezzo>
+        <Dispacciamento>
+            <TIPO_DISPACCIAMENTO>14</TIPO_DISPACCIAMENTO>
+            <VALORE_DISP>0.000000</VALORE_DISP>
+            <NOME>CDIPSPD</NOME>
+        </Dispacciamento>
+        <ComponenteImpresa>
+            <NOME>CORRISPETTIVO COMMERCIALIZZAZIONE</NOME>
+            <DESCRIZIONE>CORRISPETTIVO COMMERCIALIZZAZIONE</DESCRIZIONE>
+            <TIPOLOGIA>02</TIPOLOGIA>
+            <MACROAREA>01</MACROAREA>
+            <IntervalloPrezzi>
+                <PREZZO>84.000000</PREZZO>
+                <UNITA_MISURA>01</UNITA_MISURA>
+            </IntervalloPrezzi>
+        </ComponenteImpresa>
+        <ComponenteImpresa>
+            <NOME>QUOTA VARIABILE</NOME>
+            <DESCRIZIONE>QUOTA VARIABILE</DESCRIZIONE>
+            <TIPOLOGIA>02</TIPOLOGIA>
+            <MACROAREA>04</MACROAREA>
+            <IntervalloPrezzi>
+                <FASCIA_COMPONENTE>01</FASCIA_COMPONENTE>
+                <PREZZO>0.006500</PREZZO>
+                <UNITA_MISURA>03</UNITA_MISURA>
+            </IntervalloPrezzi>
+            <IntervalloPrezzi>
+                <FASCIA_COMPONENTE>02</FASCIA_COMPONENTE>
+                <PREZZO>0.006500</PREZZO>
+                <UNITA_MISURA>03</UNITA_MISURA>
+            </IntervalloPrezzi>
+            <IntervalloPrezzi>
+                <FASCIA_COMPONENTE>03</FASCIA_COMPONENTE>
+                <PREZZO>0.006500</PREZZO>
+                <UNITA_MISURA>03</UNITA_MISURA>
+            </IntervalloPrezzi>
+        </ComponenteImpresa>
+        <CondizioniContrattuali>
+            <TIPOLOGIA_CONDIZIONE>01</TIPOLOGIA_CONDIZIONE>
+            <DESCRIZIONE>CONDIZIONI ECONOMICHE VALIDE 12 MESI</DESCRIZIONE>
+            <LIMITANTE>02</LIMITANTE>
+        </CondizioniContrattuali>
+        <CondizioniContrattuali>
+            <TIPOLOGIA_CONDIZIONE>99</TIPOLOGIA_CONDIZIONE>
+            <ALTRO>SCONTO SOCI</ALTRO>
+            <DESCRIZIONE>SCONTO RISERVATO AI SOCI</DESCRIZIONE>
+            <LIMITANTE>01</LIMITANTE>
+        </CondizioniContrattuali>
+        <Sconto>
+            <NOME>SCONTO PE SOCI</NOME>
+            <DESCRIZIONE>SCONTO PE SOCI</DESCRIZIONE>
+            <VALIDITA>01</VALIDITA>
+            <IVA_SCONTO>01</IVA_SCONTO>
+            <Condizione>
+                <CONDIZIONE_APPLICAZIONE>99</CONDIZIONE_APPLICAZIONE>
+                <DESCRIZIONE_CONDIZIONE>SOCI</DESCRIZIONE_CONDIZIONE>
+            </Condizione>
+            <PrezziSconto>
+                <TIPOLOGIA>04</TIPOLOGIA>
+                <UNITA_MISURA>03</UNITA_MISURA>
+                <PREZZO>0.003000</PREZZO>
+            </PrezziSconto>
+        </Sconto>
+        <ProdottiServiziAggiuntivi>
+            <NOME>SERVIZIO ASSISTENZA</NOME>
+            <DETTAGLIO>SERVIZIO ASSISTENZA CLIENTI</DETTAGLIO>
+        </ProdottiServiziAggiuntivi>
+    </offerta>
+    </ListaOfferteMercatoLibero>

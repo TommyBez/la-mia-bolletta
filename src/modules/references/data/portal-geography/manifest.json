@@ -1,0 +1,160 @@
+{
+  "sources": [
+    {
+      "prefix": "a",
+      "source": "https://www.ilportaleofferte.it/portaleOfferte/api/rs/it/portal/geoService.json?cap-comune=a",
+      "observedAt": "2026-10-29T22:27:20Z",
+      "sha256": "a934ce0dd62c35d3d1febba3e09e511a4c15c4a20d7cff919c3d4e4078c2774d"
+    },
+    {
+      "prefix": "b",
+      "source": "https://www.ilportaleofferte.it/portaleOfferte/api/rs/it/portal/geoService.json?cap-comune=b",
+      "observedAt": "2026-10-29T22:27:21Z",
+      "sha256": "bb7c4cf9ae22dcbc67a7ccac6e85916c10ee059fda9cce352c287c0cd11bda8b"
+    },
+    {
+      "prefix": "c",
+      "source": "https://www.ilportaleofferte.it/portaleOfferte/api/rs/it/portal/geoService.json?cap-comune=c",
+      "observedAt": "2026-10-29T22:27:22Z",
+      "sha256": "7ba7a0c7d709c5483f3b73b37fcffe50a88e4abdc324000d6db08c3c26834fba"
+    },
+    {
+      "prefix": "d",
+      "source": "https://www.ilportaleofferte.it/portaleOfferte/api/rs/it/portal/geoService.json?cap-comune=d",
+      "observedAt": "2026-10-29T22:27:23Z",
+      "sha256": "3ab63ffbd6e3f7a15d9e7f46c6a7a15fbe2190ff4eefd128fd59f96ef1d8ee66"
+    },
+    {
+      "prefix": "e",
+      "source": "https://www.ilportaleofferte.it/portaleOfferte/api/rs/it/portal/geoService.json?cap-comune=e",
+      "observedAt": "2026-10-29T22:27:23Z",
+      "sha256": "5396e519fab6a359baa8718897a67e2546c8f5642057b336e5a7100c915d1424"
+    },
+    {
+      "prefix": "f",
+      "source": "https://www.ilportaleofferte.it/portaleOfferte/api/rs/it/portal/geoService.json?cap-comune=f",
+      "observedAt": "2026-10-29T22:27:24Z",
+      "sha256": "431d9a55fa37fc0415e2c8c5fc2262d22492242f3019d03c95a2b1a6caa652f5"
+    },
+    {
+      "prefix": "g",
+      "source": "https://www.ilportaleofferte.it/portaleOfferte/api/rs/it/portal/geoService.json?cap-comune=g",
+      "observedAt": "2026-10-29T22:27:25Z",
+      "sha256": "6ce81e3d974f2f985ad8586bde9eb4c41121d5d9b6e2dce09334f569c4e1dab2"
+    },
+    {
+      "prefix": "h",
+      "source": "https://www.ilportaleofferte.it/portaleOfferte/api/rs/it/portal/geoService.json?cap-comune=h",
+      "observedAt": "2026-10-29T22:27:25Z",
+      "sha256": "baff9d726cc44e48d970eaca87ceeec0e4fdfcfee3ea36d46ab6aa902cf40fac"
+    },
+    {
+      "prefix": "i",
+      "source": "https://www.ilportaleofferte.it/portaleOfferte/api/rs/it/portal/geoService.json?cap-comune=i",
+      "observedAt": "2026-10-29T22:27:26Z",
+      "sha256": "aad5d93b137788ea3218379d20929fda45096ff4d60d9bb35b450591f996343a"
+    },
+    {
+      "prefix": "j",
+      "source": "https://www.ilportaleofferte.it/portaleOfferte/api/rs/it/portal/geoService.json?cap-comune=j",
+      "observedAt": "2026-10-29T22:27:26Z",
+      "sha256": "80d576f806f0a9c2f56cc43e8136799bc56e925010131450ec922e5cf7f7e5dc"
+    },
+    {
+      "prefix": "k",
+      "source": "https://www.ilportaleofferte.it/portaleOfferte/api/rs/it/portal/geoService.json?cap-comune=k",
+      "observedAt": "2026-10-29T22:27:27Z",
+      "sha256": "f0e1582d9a9877fe3b6e3bf772f2368f53872c62be68793c805ec3e4a6905814"
+    },
+    {
+      "prefix": "l",
+      "source": "https://www.ilportaleofferte.it/portaleOfferte/api/rs/it/portal/geoService.json?cap-comune=l",
+      "observedAt": "2026-10-29T22:27:28Z",
+      "sha256": "b9b74efad60906086d1d86f4eab31a79e788ba2ad29771d9c6d823375ef14b58"
+    },
+    {
+      "prefix": "m",
+      "source": "https://www.ilportaleofferte.it/portaleOfferte/api/rs/it/portal/geoService.json?cap-comune=m",
+      "observedAt": "2026-10-29T22:27:29Z",
+      "sha256": "31770ba1e79fe881fb5a0fa076e149380e404eaa2793d1a43f461b1daee6e906"
+    },
+    {
+      "prefix": "n",
+      "source": "https://www.ilportaleofferte.it/portaleOfferte/api/rs/it/portal/geoService.json?cap-comune=n",
+      "observedAt": "2026-10-29T22:27:29Z",
+      "sha256": "62a4e89ca218308d5352fd637c224f1b543d11af4b53c799452d5e2d01f4bdb5"
+    },
+    {
+      "prefix": "o",
+      "source": "https://www.ilportaleofferte.it/portaleOfferte/api/rs/it/portal/geoService.json?cap-comune=o",
+      "observedAt": "2026-10-29T22:27:30Z",
+      "sha256": "1be911f11247eff595f557afae71c3ebc0fcfc5f33c60171ec8b3804ceeeb84b"
+    },
+    {
+      "prefix": "p",
+      "source": "https://www.ilportaleofferte.it/portaleOfferte/api/rs/it/portal/geoService.json?cap-comune=p",
+      "observedAt": "2026-10-29T22:27:31Z",
+      "sha256": "b91a262795a4a263533b3e7d070cd40707a938093608d373670c397d2a2bf860"
+    },
+    {
+      "prefix": "q",
+      "source": "https://www.ilportaleofferte.it/portaleOfferte/api/rs/it/portal/geoService.json?cap-comune=q",
+      "observedAt": "2026-10-29T22:27:31Z",
+      "sha256": "93596eecd0c6ea052a8fea183a1afd1d6c2644660278a40fb028696623e62671"
+    },
+    {
+      "prefix": "r",
+      "source": "https://www.ilportaleofferte.it/portaleOfferte/api/rs/it/portal/geoService.json?cap-comune=r",
+      "observedAt": "2026-10-29T22:27:32Z",
+      "sha256": "ac823ca2c8f4dffcc0762737c12c7091503a25b41ed9aa0e6eb93601479a6141"
+    },
+    {
+      "prefix": "s",
+      "source": "https://www.ilportaleofferte.it/portaleOfferte/api/rs/it/portal/geoService.json?cap-comune=s",
+      "observedAt": "2026-10-29T22:27:33Z",
+      "sha256": "ef8778497a633accb7429f00c5826f23b9d50d8d1bbe26470aabf8e3112be97b"
+    },
+    {
+      "prefix": "t",
+      "source": "https://www.ilportaleofferte.it/portaleOfferte/api/rs/it/portal/geoService.json?cap-comune=t",
+      "observedAt": "2026-10-29T22:27:33Z",
+      "sha256": "78713c7def991b197c34340bb16374c66e58bc6be1e598b2be6c0e32095a129d"
+    },
+    {
+      "prefix": "u",
+      "source": "https://www.ilportaleofferte.it/portaleOfferte/api/rs/it/portal/geoService.json?cap-comune=u",
+      "observedAt": "2026-10-29T22:27:34Z",
+      "sha256": "865408c25686c967d576a64e734e08555b912a67e3bfbd354357612283e3559b"
+    },
+    {
+      "prefix": "v",
+      "source": "https://www.ilportaleofferte.it/portaleOfferte/api/rs/it/portal/geoService.json?cap-comune=v",
+      "observedAt": "2026-10-29T22:27:34Z",
+      "sha256": "646be090d001c710269cf56693984ac27360313feb7375ac0352fcb835ec43fb"
+    },
+    {
+      "prefix": "w",
+      "source": "https://www.ilportaleofferte.it/portaleOfferte/api/rs/it/portal/geoService.json?cap-comune=w",
+      "observedAt": "2026-10-29T22:27:35Z",
+      "sha256": "f0e1582d9a9877fe3b6e3bf772f2368f53872c62be68793c805ec3e4a6905814"
+    },
+    {
+      "prefix": "x",
+      "source": "https://www.ilportaleofferte.it/portaleOfferte/api/rs/it/portal/geoService.json?cap-comune=x",
+      "observedAt": "2026-10-29T22:27:36Z",
+      "sha256": "f0e1582d9a9877fe3b6e3bf772f2368f53872c62be68793c805ec3e4a6905814"
+    },
+    {
+      "prefix": "y",
+      "source": "https://www.ilportaleofferte.it/portaleOfferte/api/rs/it/portal/geoService.json?cap-comune=y",
+      "observedAt": "2026-10-29T22:27:37Z",
+      "sha256": "f0e1582d9a9877fe3b6e3bf772f2368f53872c62be68793c805ec3e4a6905814"
+    },
+    {
+      "prefix": "z",
+      "source": "https://www.ilportaleofferte.it/portaleOfferte/api/rs/it/portal/geoService.json?cap-comune=z",
+      "observedAt": "2026-10-29T22:27:37Z",
+      "sha256": "f97822d945b00f278bea7207bcd90781b1a1e513a9110073b647105044f451b1"
+    }
+  ]
+}

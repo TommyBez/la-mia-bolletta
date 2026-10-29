@@ -1,0 +1,55 @@
+{
+  "rows": [
+    {
+      "month": "202512",
+      "sale_eur": "905.82",
+      "f0_index_eur_kwh": "0.2137854545454545454545454545"
+    },
+    {
+      "month": "202602",
+      "sale_eur": "851.00",
+      "f0_index_eur_kwh": "0.1971733333333333333333333334"
+    },
+    {
+      "month": "202605",
+      "sale_eur": "630.03",
+      "f0_index_eur_kwh": "0.1302127272727272727272727273"
+    },
+    {
+      "month": "202608",
+      "sale_eur": "657.11",
+      "f0_index_eur_kwh": "0.1384187878787878787878787879"
+    }
+  ],
+  "checks": [
+    {
+      "code": "000294ESVML01XXA2AEasyL261033991",
+      "profile": "flat",
+      "predicted_unrounded_sale_eur": "760.99",
+      "observed_sale_eur": "760.99",
+      "residual_eur": "0.00"
+    },
+    {
+      "code": "000294ESVML01XXA2AEasyL261033991",
+      "profile": "annual",
+      "predicted_unrounded_sale_eur": "760.99",
+      "observed_sale_eur": "760.99",
+      "residual_eur": "0.00"
+    },
+    {
+      "code": "000294ESVML01XXA2AEasyL261033991",
+      "profile": "holdout",
+      "predicted_unrounded_sale_eur": "754.187",
+      "observed_sale_eur": "754.19",
+      "residual_eur": "0.003"
+    },
+    {
+      "code": "028979ESVML01XX00000000003515106",
+      "profile": "holdout",
+      "predicted_unrounded_sale_eur": "790.187",
+      "observed_sale_eur": "790.19",
+      "residual_eur": "0.003"
+    }
+  ],
+  "warning": "inferred quarter candidates; same-quarter mapping and horizon independently checked by parent; cannot infer quarter beyond Portal horizon"
+}

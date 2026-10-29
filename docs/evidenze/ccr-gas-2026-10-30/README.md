@@ -1,0 +1,15 @@
+# Qualifica CCR gas — 30 ottobre 2026
+
+Fonte esclusiva: Portale Offerte, simulazioni pubbliche sintetiche domestiche. Non sono state consultate pagine dei fornitori. Cookie e token sono rimasti in memoria; i frammenti salvati contengono soltanto i dettagli economici pubblici.
+
+Il file `annual/snapshot.json` conserva sei coefficienti CCR annuali **dedotti** dal simulatore, non una nuova serie ufficiale pubblicata da AU. Ogni coefficiente usa quattro calibrazioni (due fornitori, 600/1.200 Smc) e una prova indipendente a 2.400 Smc in un secondo comune. Le 30 predizioni sono state salvate prima delle rispettive richieste. La serie PSV è stata ricontrollata dopo mezzanotte su quattro trimestri: 1.291,60 / 1.286,44 / 1.070,95 / 1.019,98 € di vendita, tutti identici alle predizioni. Prove in `psv-midnight-controls/`.
+
+Il dettaglio trimestrale CCR del Portale contiene 0,025212 €/Smc per Q4 2026/Q1 2027 e 0,027267 per Q2/Q3 2027. Questi valori riproducono le misure mensili esplicite, ma non tutte le stime con profili convenzionali. Controlli senza CCR, due venditori e diversi climi isolano il comportamento dalla curva PSV e dalle altre componenti. La correzione ipotizzata per l'ultimo ottobre è stata falsificata dal clima F e non compare nel codice.
+
+Il tentativo di distribuire il coefficiente annuale uniformemente anche nell'IVA fallisce 11 verifiche fiscali e sei verifiche sul totale (`tax-uniform-failed.json`). Vendita annuale implicita e allocazione fiscale trimestrale separata superano tutte le 30 prove (`tax-quarterly-qualified.json`). I limiti comprendono soltanto l'incertezza PSV/CCR propagata e gli arrotondamenti delle risposte, senza tolleranze aggiuntive.
+
+Le ulteriori 24 predizioni salvate prima delle richieste a 120/400/480/481 Smc sono in `boundaries/`. Ventidue casi rientrano nei limiti. Esattamente 480 Smc per C1 B e C1 F mostrano 0,02 € in più sul Portale, con IVA al 22% su una parte CCR residua pur essendo tutto il consumo entro la soglia. Il motore mantiene l'IVA normativa: primi 480 Smc inclusi al 10%, quote fisse al 22%, nessun residuo CCR negativo. Le due divergenze sono conservate nel report e non trasformate in esiti positivi.
+
+XML ufficiale di origine: [PO_Offerte_G_MLIBERO_20261029.xml](https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_10/PO_Offerte_G_MLIBERO_20261029.xml), SHA-256 `8b0e2b742b6795324ef2a14e79b1c7cfccab9aa5e62735e1972bb0bb32d09bac`. Il file completo è conservato nell'archivio Blob privato del catalogo e non duplicato qui. Gli altri originali e le nuove prove sono conservati con i loro hash. I coefficienti integrali sono nel payload, non nelle approssimazioni di una tabella.
+
+Comandi di riproduzione: `scripts/scenario/verify-gas-annual-regulated.ts` verifica i 30 totali/IVA; `scripts/scenario/verify-gas-ccr-boundaries.ts` ripete le 24 prove ai confini. Entrambi richiedono XML ufficiale, snapshot e una nuova cartella/report di destinazione. L'importazione dello scenario è un'operazione manuale mensile con validazione delle fonti e conservazione privata delle prove.

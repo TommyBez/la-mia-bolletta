@@ -1,0 +1,239 @@
+[
+  {
+    "region_code": "01",
+    "region": "Piemonte",
+    "town": "Torino",
+    "istat": "001272",
+    "status": "existing"
+  },
+  {
+    "region_code": "02",
+    "region": "Valle d Aosta",
+    "town": "Aosta",
+    "istat": "007003",
+    "status": "existing"
+  },
+  {
+    "region_code": "03",
+    "region": "Lombardia",
+    "town": "Milano",
+    "istat": "015146",
+    "status": "existing"
+  },
+  {
+    "region_code": "04",
+    "region": "Trentino Alto Adige",
+    "town": "Bolzano",
+    "istat": "021008",
+    "status": "existing"
+  },
+  {
+    "region_code": "04",
+    "region": "Trentino Alto Adige",
+    "town": "Trento",
+    "istat": "022205",
+    "status": "existing"
+  },
+  {
+    "region_code": "05",
+    "region": "Veneto",
+    "town": "Venezia",
+    "istat": "027042",
+    "status": "existing"
+  },
+  {
+    "region_code": "06",
+    "region": "Friuli Venezia Giulia",
+    "town": "Trieste",
+    "istat": "032006",
+    "status": "existing"
+  },
+  {
+    "region_code": "07",
+    "region": "Liguria",
+    "town": "Genova",
+    "istat": "010025",
+    "status": "existing"
+  },
+  {
+    "region_code": "08",
+    "region": "Emilia Romagna",
+    "town": "Bologna",
+    "istat": "037006",
+    "status": "existing"
+  },
+  {
+    "region_code": "09",
+    "region": "Toscana",
+    "town": "Firenze",
+    "istat": "048017",
+    "status": "existing"
+  },
+  {
+    "region_code": "10",
+    "region": "Umbria",
+    "town": "Perugia",
+    "istat": "054039",
+    "status": "existing"
+  },
+  {
+    "region_code": "11",
+    "region": "Marche",
+    "town": "Ancona",
+    "istat": "042002",
+    "status": "existing"
+  },
+  {
+    "region_code": "12",
+    "region": "Lazio",
+    "town": "Roma",
+    "istat": "058091",
+    "status": "existing"
+  },
+  {
+    "region_code": "13",
+    "region": "Abruzzo",
+    "town": "Pescara",
+    "istat": "068028",
+    "status": "existing"
+  },
+  {
+    "region_code": "14",
+    "region": "Molise",
+    "town": "Campobasso",
+    "istat": "070006",
+    "status": "existing"
+  },
+  {
+    "region_code": "15",
+    "region": "Campania",
+    "town": "Napoli",
+    "istat": "063049",
+    "status": "existing"
+  },
+  {
+    "region_code": "16",
+    "region": "Puglia",
+    "town": "Bari",
+    "istat": "072006",
+    "status": "existing"
+  },
+  {
+    "region_code": "17",
+    "region": "Basilicata",
+    "town": "Potenza",
+    "istat": "076063",
+    "status": "existing"
+  },
+  {
+    "region_code": "18",
+    "region": "Calabria",
+    "town": "Catanzaro",
+    "istat": "079023",
+    "status": "existing"
+  },
+  {
+    "region_code": "19",
+    "region": "Sicilia",
+    "town": "Palermo",
+    "istat": "082053",
+    "status": "existing"
+  },
+  {
+    "region_code": "12",
+    "region": "Lazio",
+    "town": "Latina",
+    "istat": "059011",
+    "status": "existing"
+  },
+  {
+    "region_code": "12",
+    "region": "Lazio",
+    "town": "Frosinone",
+    "istat": "060038",
+    "status": "existing"
+  },
+  {
+    "region_code": "12",
+    "region": "Lazio",
+    "town": "Rieti",
+    "istat": "057059",
+    "status": "existing"
+  },
+  {
+    "region_code": "12",
+    "region": "Lazio",
+    "town": "Cittaducale",
+    "istat": "057016",
+    "status": "existing"
+  },
+  {
+    "region_code": "13",
+    "region": "Abruzzo",
+    "town": "L'Aquila",
+    "istat": "066049",
+    "status": "existing"
+  },
+  {
+    "region_code": "07",
+    "region": "Liguria",
+    "town": "Sassello",
+    "istat": "009055",
+    "status": "existing"
+  },
+  {
+    "region_code": "11",
+    "region": "Marche",
+    "town": "Ascoli Piceno",
+    "istat": "044007",
+    "status": "existing"
+  },
+  {
+    "region_code": "20",
+    "region": "Sardegna",
+    "town": "Cagliari",
+    "istat": "092009",
+    "status": "failed",
+    "error": "Traceback (most recent call last):\n  File \"/Users/tommaso/.codex/worktrees/design-a-spec/la-mia-bolletta/docs/evidenze/fiscalita-gas-2026-10-29/probe-tax.py\", line 28, in <module>\n    m=re.search(r'vaiAlDettaglioML\\(false,(\\d+),true,(\\d+),\\)',s[i:]);assert i>=0 and m,'offer not found'\n                                                                             ^^^^^^^^^^\nAssertionError: offer not found\n"
+  },
+  {
+    "region_code": "07",
+    "region": "Liguria",
+    "town": "Santo Stefano d'Aveto",
+    "istat": "010056",
+    "status": "ok",
+    "error": null
+  },
+  {
+    "region_code": "12",
+    "region": "Lazio",
+    "town": "Anzio",
+    "istat": "058007",
+    "status": "ok",
+    "error": null
+  },
+  {
+    "region_code": "12",
+    "region": "Lazio",
+    "town": "Nettuno",
+    "istat": "058072",
+    "status": "ok",
+    "error": null
+  },
+  {
+    "region_code": "12",
+    "region": "Lazio",
+    "town": "Viterbo",
+    "istat": "056059",
+    "status": "ok",
+    "error": null
+  },
+  {
+    "region_code": "09",
+    "region": "Toscana",
+    "town": "Portoferraio",
+    "istat": "049014",
+    "status": "ok",
+    "error": null
+  }
+]

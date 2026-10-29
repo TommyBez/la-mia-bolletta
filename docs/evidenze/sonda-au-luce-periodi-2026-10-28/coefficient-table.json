@@ -1,0 +1,86 @@
+{
+  "definition": "((sale-120)/3000-.0275-.016776)/1.1",
+  "warning": "Indirect inferred values. Period mapping must be corroborated; invalid-double-mono directory is invalid input diagnostic, not AU curve.",
+  "rows": [
+    {
+      "synthetic_history_month": "202512",
+      "bands": {
+        "F1": {
+          "sale_eur": "1011.23",
+          "implied_index_eur_kwh": "0.2298187878787878787878787879",
+          "file": "clean/202512/profile-001686ESVFL00XXES3PC1026DO000000-3000-0-0.json"
+        },
+        "F2": {
+          "sale_eur": "998.18",
+          "implied_index_eur_kwh": "0.2258642424242424242424242425",
+          "file": "clean/202512/profile-001686ESVFL00XXES3PC1026DO000000-0-3000-0.json"
+        },
+        "F3": {
+          "sale_eur": "895.17",
+          "implied_index_eur_kwh": "0.1946490909090909090909090909",
+          "file": "clean/202512/profile-001686ESVFL00XXES3PC1026DO000000-0-0-3000.json"
+        }
+      }
+    },
+    {
+      "synthetic_history_month": "202602",
+      "bands": {
+        "F1": {
+          "sale_eur": "942.34",
+          "implied_index_eur_kwh": "0.2089430303030303030303030303",
+          "file": "clean/202602/profile-001686ESVFL00XXES3PC1026DO000000-3000-0-0.json"
+        },
+        "F2": {
+          "sale_eur": "945.53",
+          "implied_index_eur_kwh": "0.209909696969696969696969697",
+          "file": "clean/202602/profile-001686ESVFL00XXES3PC1026DO000000-0-3000-0.json"
+        },
+        "F3": {
+          "sale_eur": "849.88",
+          "implied_index_eur_kwh": "0.1809248484848484848484848485",
+          "file": "clean/202602/profile-001686ESVFL00XXES3PC1026DO000000-0-0-3000.json"
+        }
+      }
+    },
+    {
+      "synthetic_history_month": "202605",
+      "bands": {
+        "F1": {
+          "sale_eur": "664.53",
+          "implied_index_eur_kwh": "0.1247581818181818181818181818",
+          "file": "clean/202605/profile-001686ESVFL00XXES3PC1026DO000000-3000-0-0.json"
+        },
+        "F2": {
+          "sale_eur": "733.62",
+          "implied_index_eur_kwh": "0.1456945454545454545454545455",
+          "file": "clean/202605/profile-001686ESVFL00XXES3PC1026DO000000-0-3000-0.json"
+        },
+        "F3": {
+          "sale_eur": "667.19",
+          "implied_index_eur_kwh": "0.1255642424242424242424242425",
+          "file": "clean/202605/profile-001686ESVFL00XXES3PC1026DO000000-0-0-3000.json"
+        }
+      }
+    },
+    {
+      "synthetic_history_month": "202608",
+      "bands": {
+        "F1": {
+          "sale_eur": "710.25",
+          "implied_index_eur_kwh": "0.1386127272727272727272727273",
+          "file": "clean/202608/profile-001686ESVFL00XXES3PC1026DO000000-3000-0-0.json"
+        },
+        "F2": {
+          "sale_eur": "753.32",
+          "implied_index_eur_kwh": "0.1516642424242424242424242425",
+          "file": "clean/202608/profile-001686ESVFL00XXES3PC1026DO000000-0-3000-0.json"
+        },
+        "F3": {
+          "sale_eur": "684.21",
+          "implied_index_eur_kwh": "0.1307218181818181818181818182",
+          "file": "clean/202608/profile-001686ESVFL00XXES3PC1026DO000000-0-0-3000.json"
+        }
+      }
+    }
+  ]
+}

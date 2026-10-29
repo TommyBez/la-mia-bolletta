@@ -14,6 +14,8 @@ Adottare la direzione A: un consiglio motivato, il costo annuo stimato, il rispa
 
 L'interfaccia riceve risultati strutturati da un unico servizio di confronto. Durante lo sviluppo, risposte sintetiche esplicitamente indicate consentono di verificare il percorso. L'utilizzo pubblico come comparatore richiede il successivo collegamento a catalogo e calcolo validati.
 
+Per il collegamento al primo percorso reale, il [design del prodotto, Q29](./design-prodotto.md) limita il confronto alle offerte dichiarate simulabili dal Portale nell'ambito domestico concordato. La copertura mostrata all'utente deve essere coerente con quel perimetro; le offerte senza simulazione restano una possibile seconda fase. Questa precisazione non trasforma la tranche con dati sintetici in un comparatore reale e non modifica il comportamento Q5 quando il contratto attuale non è ricostruibile.
+
 ## User Stories
 
 1. Come utente domestico, voglio vedere un consiglio motivato prima della classifica, per capire quale scelta prendere in considerazione.
@@ -48,7 +50,7 @@ L'interfaccia riceve risultati strutturati da un unico servizio di confronto. Du
 
 - La struttura dei risultati segue la variante A scelta dall'utente. Il prototipo risolve la gerarchia visuale; importi, offerte, formula illustrativa e profilo ridotto non sono specifiche del dominio.
 - Valgono le decisioni di prodotto Q1–Q13: raccomandazione motivata, gratuità iniziale, forniture indipendenti, nessun account obbligatorio, costo/risparmio annui primari, revisione dei dati e dettagli prima del fornitore.
-- Il primo rilascio del prodotto farà sottoscrivere sul sito del fornitore. La lettura della bolletta resta l'ingresso principale previsto per il prodotto completo; il suo trattamento temporaneo è una decisione approvata da implementare nella tranche OCR.
+- Il primo rilascio del prodotto farà sottoscrivere sul sito del fornitore. La lettura della bolletta resta l'ingresso principale previsto per il prodotto completo. La decisione originaria sul trattamento temporaneo è stata superata da Q25: la prima versione interna conserva i documenti senza cancellazione automatica; OCR e conservazione appartengono alla specifica del percorso reale, non a questa tranche UI.
 
 ### Contratto applicativo proposto per questa tranche
 
@@ -89,5 +91,5 @@ La parità web/MCP sarà verificata nella tranche MCP, passando lo stesso profil
 - Riferimento visuale conservato: branch `codex/prototype-confronto`, commit `28ec254`, variante A. Le varianti B/C documentano le alternative esplorate; non fanno parte della prima implementazione.
 - [Studio di fattibilità](./studio-fattibilita.md): fonti, campi del profilo e proposte del motore sono contesto tecnico, con il loro stato di validazione. La scelta A non approva automaticamente tutte le proposte dello studio.
 - L'interfaccia può essere implementata e verificata con risposte sintetiche prima delle integrazioni. Il rilascio del confronto reale richiede catalogo e calcolo validati; le previsioni variabili richiedono fonte, copertura, metodologia e condizioni applicabili all'acquisizione e al riuso pubblico qualificate, mantenendo il costo dei dati a zero. L'accesso API GME è una dipendenza specifica, non un blocco indiscriminato di ogni attività sui dati.
-- L'upload reale richiede anche scelta e verifica del trattamento presso il fornitore OCR, cancellazione dopo la conferma e scadenza delle sessioni abbandonate. Questi punti restano aperti.
+- L'upload reale resta fuori da questa specifica UI. Aggiornamento del 27 ottobre per il successivo percorso con dati reali: Q25 nel design del prodotto sostituisce la precedente proposta di cancellazione; nella prima versione interna le bollette vengono conservate, senza cancellazione automatica. Questo aggiornamento non cambia il perimetro sintetico della specifica UI pubblicata.
 - Passo successivo: suddividere l'implementazione in attività eseguibili, mantenendo il riferimento al commit del prototipo.

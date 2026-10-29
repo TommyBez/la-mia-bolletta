@@ -1,0 +1,18 @@
+{
+  "code": "000971GSVML01XXPROD1300109202600",
+  "volume": 1200.0,
+  "usage": "RISC",
+  "idTipoOfferta": "02",
+  "sale": "1.173,35",
+  "rows": [
+    "Vendita di gas naturale \u20ac 1.173,35",
+    "Tariffa per l'uso della rete del gas naturale 374,02 \u20ac",
+    "Oneri generali di sistema 61,37 \u20ac",
+    "Spesa netto imposte stimata 1.608,74 \u20ac",
+    "Imposte 168,80 \u20ac",
+    "IVA 5% 0,00 \u20ac",
+    "IVA 10% 62,61 \u20ac",
+    "IVA 22% 253,32 \u20ac",
+    "Spesa annua stimata 2.093,48 \u20ac"
+  ]
+}

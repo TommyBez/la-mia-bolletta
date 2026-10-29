@@ -1,0 +1,76 @@
+{
+  "calibration_count": 8,
+  "rank": 4,
+  "quarter_bounds": {
+    "Q4": [
+      0.8568293695359224,
+      0.856860525759697
+    ],
+    "Q1": [
+      0.8432216475991048,
+      0.8433464474960117
+    ],
+    "Q2": [
+      0.62114848822116,
+      0.6220532058369348
+    ],
+    "Q3": [
+      0.5749173957007582,
+      0.575806387066777
+    ]
+  },
+  "holdouts_before_queries": [
+    {
+      "usage": "CC",
+      "smc": 2000,
+      "S_minus_ZERO_IVA10_unrounded_interval": [
+        465.65267204562343,
+        465.66828564528333
+      ],
+      "S_minus_ZERO_IVA10_display_difference_interval": [
+        465.64267204562344,
+        465.6782856452833
+      ],
+      "ZERO_sale_unrounded_interval": [
+        1696.3916666666667,
+        1696.4083333333335
+      ],
+      "S_sale_unrounded_interval": [
+        1826.3916666666667,
+        1826.4083333333335
+      ]
+    },
+    {
+      "usage": "RISC",
+      "smc": 1350,
+      "S_minus_ZERO_IVA10_unrounded_interval": [
+        471.3731316476038,
+        471.388680441595
+      ],
+      "S_minus_ZERO_IVA10_display_difference_interval": [
+        471.36313164760384,
+        471.398680441595
+      ],
+      "ZERO_sale_unrounded_interval": [
+        1298.269875,
+        1298.27325
+      ],
+      "S_sale_unrounded_interval": [
+        1376.269875,
+        1376.27325
+      ]
+    },
+    {
+      "usage": "CC",
+      "smc": 480,
+      "S_minus_ZERO_IVA10_unrounded_interval": [
+        275.45144252183616,
+        275.46774558388313
+      ],
+      "S_minus_ZERO_IVA10_display_difference_interval": [
+        275.44144252183617,
+        275.4777455838831
+      ]
+    }
+  ]
+}

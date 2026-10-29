@@ -1,0 +1,674 @@
+[
+  {
+    "profile": "C1 B",
+    "municipality": {
+      "portalCode": "078048",
+      "name": "Diamante"
+    },
+    "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+    "volume": "120",
+    "predictedSales": "292.99",
+    "predictedVat": "67.12",
+    "predictedTotal": "461.51",
+    "totalBound": "0.0115372",
+    "vatBound": "0.0152772",
+    "predictedAt": "2026-10-29T23:07:55.314Z",
+    "observedSales": "292.99",
+    "observed": {
+      "annualTotal": "461.51",
+      "vat10": "16.37",
+      "vat22": "50.75"
+    },
+    "sha256": "5ae6220aeae803a8d9c9bff5670f506efd61034eb3eef5665a43d9fe264f75d9",
+    "predictionSha256": "da33651b92f2736fe6cdf629a71bfe15cb81d2a143af74d4f3aa3d1b0054e521",
+    "salesResidual": "0",
+    "vatResidual": "0",
+    "totalResidual": "0",
+    "totalPass": true,
+    "vatPass": true
+  },
+  {
+    "profile": "C1 B",
+    "municipality": {
+      "portalCode": "078048",
+      "name": "Diamante"
+    },
+    "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+    "volume": "400",
+    "predictedSales": "612.64",
+    "predictedVat": "116.66",
+    "predictedTotal": "1006.46",
+    "totalBound": "0.015124",
+    "vatBound": "0.015924",
+    "predictedAt": "2026-10-29T23:07:58.987Z",
+    "observedSales": "612.64",
+    "observed": {
+      "annualTotal": "1006.46",
+      "vat10": "65.91",
+      "vat22": "50.75"
+    },
+    "sha256": "cde086cff820f15acb52900d38475874dbdd7dbf163631c6e2bf2a3cb1eb6026",
+    "predictionSha256": "f5cb41239059aca16ab5278750a9f18ee74f1f2cca53a3a250e68c8e1aed3a87",
+    "salesResidual": "0",
+    "vatResidual": "0",
+    "totalResidual": "0",
+    "totalPass": true,
+    "vatPass": true
+  },
+  {
+    "profile": "C1 B",
+    "municipality": {
+      "portalCode": "078048",
+      "name": "Diamante"
+    },
+    "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+    "volume": "480",
+    "predictedSales": "703.97",
+    "predictedVat": "130.82",
+    "predictedTotal": "1162.16",
+    "totalBound": "0.0161488",
+    "vatBound": "0.0161088",
+    "predictedAt": "2026-10-29T23:08:03.024Z",
+    "observedSales": "703.97",
+    "observed": {
+      "annualTotal": "1162.18",
+      "vat10": "80.05",
+      "vat22": "50.78"
+    },
+    "sha256": "d415a1a0ca58a4fa20e24ae3b45419a91fa19237a96f05532d5e0d278e741e5f",
+    "predictionSha256": "c3ca70845daed3c27be9e0080c636678264812b21422cb9b5f29b4a98003b492",
+    "salesResidual": "0",
+    "vatResidual": "-0.01",
+    "totalResidual": "-0.02",
+    "totalPass": false,
+    "vatPass": true
+  },
+  {
+    "profile": "C1 B",
+    "municipality": {
+      "portalCode": "078048",
+      "name": "Diamante"
+    },
+    "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+    "volume": "481",
+    "predictedSales": "705.11",
+    "predictedVat": "131.21",
+    "predictedTotal": "1164.26",
+    "totalBound": "0.01616161",
+    "vatBound": "0.01611111",
+    "predictedAt": "2026-10-29T23:08:06.014Z",
+    "observedSales": "705.11",
+    "observed": {
+      "annualTotal": "1164.27",
+      "vat10": "80.05",
+      "vat22": "51.15"
+    },
+    "sha256": "f720c686b5ffd4a3aa1bd303ad5d027b78929476d368c3b439dfb8caa47878c0",
+    "predictionSha256": "a7ce28dd966e69d8b507d8eb0658439dc1efdd87392599b609e05105e1bb3fba",
+    "salesResidual": "0",
+    "vatResidual": "0.01",
+    "totalResidual": "-0.01",
+    "totalPass": true,
+    "vatPass": true
+  },
+  {
+    "profile": "C1 C",
+    "municipality": {
+      "portalCode": "008008",
+      "name": "Bordighera"
+    },
+    "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+    "volume": "120",
+    "predictedSales": "292.08",
+    "predictedVat": "63.85",
+    "predictedTotal": "444.34",
+    "totalBound": "0.0115372008811328",
+    "vatBound": "0.0152772001588928",
+    "predictedAt": "2026-10-29T23:08:20.624Z",
+    "observedSales": "292.08",
+    "observed": {
+      "annualTotal": "444.34",
+      "vat10": "16.55",
+      "vat22": "47.29"
+    },
+    "sha256": "10fc692b4d22058031b091bcc7f326cc3261ab1cdb5260f0ebe4e62513790f87",
+    "predictionSha256": "5af8b85424b2c6e06d171e75345868afa502ba00e0792d0fa164d726ec2a748d",
+    "salesResidual": "0",
+    "vatResidual": "0.01",
+    "totalResidual": "0",
+    "totalPass": true,
+    "vatPass": true
+  },
+  {
+    "profile": "C1 C",
+    "municipality": {
+      "portalCode": "008008",
+      "name": "Bordighera"
+    },
+    "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+    "volume": "400",
+    "predictedSales": "609.59",
+    "predictedVat": "110.64",
+    "predictedTotal": "959.03",
+    "totalBound": "0.015124002937109333333",
+    "vatBound": "0.015924000529642666667",
+    "predictedAt": "2026-10-29T23:08:24.640Z",
+    "observedSales": "609.59",
+    "observed": {
+      "annualTotal": "959.03",
+      "vat10": "63.34",
+      "vat22": "47.29"
+    },
+    "sha256": "3afca2a2536bc1de05d5bfe0be1a55b9e602834110483b75f3f9b0e7afac4fa1",
+    "predictionSha256": "485547dedf0e4985379a7e8596fb322bbcb80497276cd922e7b66eb397e990dc",
+    "salesResidual": "0",
+    "vatResidual": "0.01",
+    "totalResidual": "0",
+    "totalPass": true,
+    "vatPass": true
+  },
+  {
+    "profile": "C1 C",
+    "municipality": {
+      "portalCode": "008008",
+      "name": "Bordighera"
+    },
+    "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+    "volume": "480",
+    "predictedSales": "700.31",
+    "predictedVat": "124.00",
+    "predictedTotal": "1106.09",
+    "totalBound": "0.0161488035245312",
+    "vatBound": "0.0161088006355712",
+    "predictedAt": "2026-10-29T23:08:27.962Z",
+    "observedSales": "700.31",
+    "observed": {
+      "annualTotal": "1106.09",
+      "vat10": "76.71",
+      "vat22": "47.29"
+    },
+    "sha256": "62f5da6794c4efff59738f424d89e292a5feb9ca56dadd467ac356550198c3cd",
+    "predictionSha256": "e899465d54913dcc6a38d446e8cbcfc2e9e4f71e919bcd1c3c95d9e929d0fec5",
+    "salesResidual": "0",
+    "vatResidual": "0",
+    "totalResidual": "0",
+    "totalPass": true,
+    "vatPass": true
+  },
+  {
+    "profile": "C1 C",
+    "municipality": {
+      "portalCode": "008008",
+      "name": "Bordighera"
+    },
+    "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+    "volume": "481",
+    "predictedSales": "701.45",
+    "predictedVat": "124.34",
+    "predictedTotal": "1108.06",
+    "totalBound": "0.016161613531873973333",
+    "vatBound": "0.016111110636895306667",
+    "predictedAt": "2026-10-29T23:08:31.164Z",
+    "observedSales": "701.45",
+    "observed": {
+      "annualTotal": "1108.06",
+      "vat10": "76.73",
+      "vat22": "47.62"
+    },
+    "sha256": "cf1fb99163a0ef012aafcaac681f242feaad12c91153dc47804ca102bada9a65",
+    "predictionSha256": "9a1b86ded33422f01e19dc7bd449a4486482f3345b315932a61c3afc8bbfc6fc",
+    "salesResidual": "0",
+    "vatResidual": "-0.01",
+    "totalResidual": "0",
+    "totalPass": true,
+    "vatPass": true
+  },
+  {
+    "profile": "C1 D",
+    "municipality": {
+      "portalCode": "008001",
+      "name": "Airole"
+    },
+    "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+    "volume": "120",
+    "predictedSales": "291.53",
+    "predictedVat": "63.79",
+    "predictedTotal": "443.74",
+    "totalBound": "0.0115127991164272",
+    "vatBound": "0.0152727998406672",
+    "predictedAt": "2026-10-29T23:08:34.339Z",
+    "observedSales": "291.53",
+    "observed": {
+      "annualTotal": "443.74",
+      "vat10": "16.5",
+      "vat22": "47.29"
+    },
+    "sha256": "4cd9734f7c054a4c6c9f8db00eab575925826b61c4b63ac06184fedac02d577c",
+    "predictionSha256": "e75dd0759704761b998dfb55f58b1bea580327a6f558c1415f33cb41a60dbdcb",
+    "salesResidual": "0",
+    "vatResidual": "0",
+    "totalResidual": "0",
+    "totalPass": true,
+    "vatPass": true
+  },
+  {
+    "profile": "C1 D",
+    "municipality": {
+      "portalCode": "008001",
+      "name": "Airole"
+    },
+    "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+    "volume": "400",
+    "predictedSales": "607.78",
+    "predictedVat": "110.45",
+    "predictedTotal": "957.03",
+    "totalBound": "0.015042663721424",
+    "vatBound": "0.015909332802224",
+    "predictedAt": "2026-10-29T23:08:38.020Z",
+    "observedSales": "607.78",
+    "observed": {
+      "annualTotal": "957.03",
+      "vat10": "63.16",
+      "vat22": "47.29"
+    },
+    "sha256": "f92c19a5a73455110ea5b3e7c62210823a0a342840a20be3e5944ea33eab6ada",
+    "predictionSha256": "b52a81d076a5feb276d15f5657fd9812e8497f6999c841897dcce0a89feeaab7",
+    "salesResidual": "0",
+    "vatResidual": "0",
+    "totalResidual": "0",
+    "totalPass": true,
+    "vatPass": true
+  },
+  {
+    "profile": "C1 D",
+    "municipality": {
+      "portalCode": "008001",
+      "name": "Airole"
+    },
+    "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+    "volume": "480",
+    "predictedSales": "698.13",
+    "predictedVat": "123.79",
+    "predictedTotal": "1103.69",
+    "totalBound": "0.0160511964657088",
+    "vatBound": "0.0160911993626688",
+    "predictedAt": "2026-10-29T23:08:41.863Z",
+    "observedSales": "698.13",
+    "observed": {
+      "annualTotal": "1103.69",
+      "vat10": "76.49",
+      "vat22": "47.29"
+    },
+    "sha256": "39351c4b6a8f7399a01763f6775c68186f6d23b9799412e327ab5673dbc270b6",
+    "predictionSha256": "50ad8fff19c2e9922adcd858bec28e9400cfc18418d938547fee1f4b937b7b46",
+    "salesResidual": "0",
+    "vatResidual": "0.01",
+    "totalResidual": "0",
+    "totalPass": true,
+    "vatPass": true
+  },
+  {
+    "profile": "C1 D",
+    "municipality": {
+      "portalCode": "008001",
+      "name": "Airole"
+    },
+    "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+    "volume": "481",
+    "predictedSales": "699.26",
+    "predictedVat": "124.13",
+    "predictedTotal": "1105.66",
+    "totalBound": "0.01606380312501236",
+    "vatBound": "0.01609347269467436",
+    "predictedAt": "2026-10-29T23:08:45.293Z",
+    "observedSales": "699.26",
+    "observed": {
+      "annualTotal": "1105.66",
+      "vat10": "76.51",
+      "vat22": "47.62"
+    },
+    "sha256": "4d288aa1d19c77883d9e930ab5ec08e5b20214859ce0967471a7a28a4097543c",
+    "predictionSha256": "9e8ca80446d4036ee860949800909ec617ef12ff2937bf93f86565390fff951b",
+    "salesResidual": "0",
+    "vatResidual": "0",
+    "totalResidual": "0",
+    "totalPass": true,
+    "vatPass": true
+  },
+  {
+    "profile": "C1 E",
+    "municipality": {
+      "portalCode": "001001",
+      "name": "Agliè"
+    },
+    "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+    "volume": "120",
+    "predictedSales": "292.02",
+    "predictedVat": "63.84",
+    "predictedTotal": "444.27",
+    "totalBound": "0.0115372008811328",
+    "vatBound": "0.0152772001588928",
+    "predictedAt": "2026-10-29T23:08:49.208Z",
+    "observedSales": "292.02",
+    "observed": {
+      "annualTotal": "444.27",
+      "vat10": "16.55",
+      "vat22": "47.29"
+    },
+    "sha256": "2de240a5b0e15d9c4664239fd62e20799f58acdd0227b971515f2428bb47448d",
+    "predictionSha256": "87239261a4c13d74d3fdc44d2099a2caf9fcd8e793bb7763a8dd9698295ecdc0",
+    "salesResidual": "0",
+    "vatResidual": "0",
+    "totalResidual": "0",
+    "totalPass": true,
+    "vatPass": true
+  },
+  {
+    "profile": "C1 E",
+    "municipality": {
+      "portalCode": "001001",
+      "name": "Agliè"
+    },
+    "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+    "volume": "400",
+    "predictedSales": "609.39",
+    "predictedVat": "110.62",
+    "predictedTotal": "958.81",
+    "totalBound": "0.015124002937109333333",
+    "vatBound": "0.015924000529642666667",
+    "predictedAt": "2026-10-29T23:08:52.989Z",
+    "observedSales": "609.39",
+    "observed": {
+      "annualTotal": "958.81",
+      "vat10": "63.32",
+      "vat22": "47.29"
+    },
+    "sha256": "7cfa6b9cfb053e321c76b737753fb49d53df32cba81b59a7e98d863ba7b92537",
+    "predictionSha256": "5f1a19fe3b26c3e2de7a1e749ccaef1d2811a24d47622f4aeb2eb76773c0a14b",
+    "salesResidual": "0",
+    "vatResidual": "0.01",
+    "totalResidual": "0",
+    "totalPass": true,
+    "vatPass": true
+  },
+  {
+    "profile": "C1 E",
+    "municipality": {
+      "portalCode": "001001",
+      "name": "Agliè"
+    },
+    "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+    "volume": "480",
+    "predictedSales": "700.07",
+    "predictedVat": "123.98",
+    "predictedTotal": "1105.82",
+    "totalBound": "0.0161488035245312",
+    "vatBound": "0.0161088006355712",
+    "predictedAt": "2026-10-29T23:08:56.608Z",
+    "observedSales": "700.07",
+    "observed": {
+      "annualTotal": "1105.82",
+      "vat10": "76.69",
+      "vat22": "47.29"
+    },
+    "sha256": "fb7f10c157ecb21bc60799220de5845d4557cba5f61e411c55f7c8b3a0162d39",
+    "predictionSha256": "7e2f03f60c76772795db8311214e15b09f7e6e6b4738356b2e573bb84933eac9",
+    "salesResidual": "0",
+    "vatResidual": "0",
+    "totalResidual": "0",
+    "totalPass": true,
+    "vatPass": true
+  },
+  {
+    "profile": "C1 E",
+    "municipality": {
+      "portalCode": "001001",
+      "name": "Agliè"
+    },
+    "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+    "volume": "481",
+    "predictedSales": "701.20",
+    "predictedVat": "124.34",
+    "predictedTotal": "1107.82",
+    "totalBound": "0.016161613531873973333",
+    "vatBound": "0.016111110636895306667",
+    "predictedAt": "2026-10-29T23:08:59.871Z",
+    "observedSales": "701.2",
+    "observed": {
+      "annualTotal": "1107.82",
+      "vat10": "76.69",
+      "vat22": "47.66"
+    },
+    "sha256": "27fa56548f1a24d3a7aa20797348ca2677a8a775c39165a8fb1f6d123dab02f0",
+    "predictionSha256": "523b22d83581617eb4c3ef3f4dc35f1e1c778b41d8f7091678cd320f125a44a5",
+    "salesResidual": "0",
+    "vatResidual": "-0.01",
+    "totalResidual": "0",
+    "totalPass": true,
+    "vatPass": true
+  },
+  {
+    "profile": "C1 F",
+    "municipality": {
+      "portalCode": "001003",
+      "name": "Ala di Stura"
+    },
+    "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+    "volume": "120",
+    "predictedSales": "290.98",
+    "predictedVat": "63.74",
+    "predictedTotal": "443.13",
+    "totalBound": "0.0115127982328544",
+    "vatBound": "0.0152727996813344",
+    "predictedAt": "2026-10-29T23:09:03.068Z",
+    "observedSales": "290.98",
+    "observed": {
+      "annualTotal": "443.13",
+      "vat10": "16.44",
+      "vat22": "47.29"
+    },
+    "sha256": "bf8542a6f883234f7c2f67c70664d08bca4e8ed5a190c220fb9694127e0a0d83",
+    "predictionSha256": "dc0f4d29c6bf333375e5ff63f75103a46789c0411eb6d2d547cf5b3e822fd954",
+    "salesResidual": "0",
+    "vatResidual": "0.01",
+    "totalResidual": "0",
+    "totalPass": true,
+    "vatPass": true
+  },
+  {
+    "profile": "C1 F",
+    "municipality": {
+      "portalCode": "001003",
+      "name": "Ala di Stura"
+    },
+    "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+    "volume": "400",
+    "predictedSales": "605.93",
+    "predictedVat": "110.27",
+    "predictedTotal": "955.00",
+    "totalBound": "0.015042660776181333333",
+    "vatBound": "0.015909332271114666667",
+    "predictedAt": "2026-10-29T23:09:06.461Z",
+    "observedSales": "605.93",
+    "observed": {
+      "annualTotal": "955",
+      "vat10": "62.98",
+      "vat22": "47.29"
+    },
+    "sha256": "a0abdd413e21dff72afe1ed0911e0bf970271ae920c243577f0efc7699c4a084",
+    "predictionSha256": "f4f48e2bf32a14f49490eee132446392ab9099e5c8637c645b97daf423538f83",
+    "salesResidual": "0",
+    "vatResidual": "0",
+    "totalResidual": "0",
+    "totalPass": true,
+    "vatPass": true
+  },
+  {
+    "profile": "C1 F",
+    "municipality": {
+      "portalCode": "001003",
+      "name": "Ala di Stura"
+    },
+    "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+    "volume": "480",
+    "predictedSales": "695.92",
+    "predictedVat": "123.57",
+    "predictedTotal": "1101.25",
+    "totalBound": "0.0160511929314176",
+    "vatBound": "0.0160911987253376",
+    "predictedAt": "2026-10-29T23:09:09.476Z",
+    "observedSales": "695.92",
+    "observed": {
+      "annualTotal": "1101.27",
+      "vat10": "76.26",
+      "vat22": "47.32"
+    },
+    "sha256": "2b43622592454cfb5b62df0d27d25c8dea653b2bc3d4ddd2c16fcf2381cc24a7",
+    "predictionSha256": "3623939683d586635bf8b7f3f26b1ae1fcd90329c152553f491fd8746e279702",
+    "salesResidual": "0",
+    "vatResidual": "-0.01",
+    "totalResidual": "-0.02",
+    "totalPass": false,
+    "vatPass": true
+  },
+  {
+    "profile": "C1 F",
+    "municipality": {
+      "portalCode": "001003",
+      "name": "Ala di Stura"
+    },
+    "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+    "volume": "481",
+    "predictedSales": "697.04",
+    "predictedVat": "123.94",
+    "predictedTotal": "1103.26",
+    "totalBound": "0.016063799583358053333",
+    "vatBound": "0.016093472056015386667",
+    "predictedAt": "2026-10-29T23:09:13.973Z",
+    "observedSales": "697.04",
+    "observed": {
+      "annualTotal": "1103.26",
+      "vat10": "76.26",
+      "vat22": "47.68"
+    },
+    "sha256": "5a72bf9e16fe50cf523fb4c7a9dd26b9fb0cb7683afaaf516064ff0a71a6cf98",
+    "predictionSha256": "3975a9e03f3b53767c923800287da040e3a052d7386c2151b0fc106c7257941a",
+    "salesResidual": "0",
+    "vatResidual": "0",
+    "totalResidual": "0",
+    "totalPass": true,
+    "vatPass": true
+  },
+  {
+    "profile": "C2",
+    "municipality": {
+      "portalCode": "068028",
+      "name": "Pescara"
+    },
+    "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+    "volume": "120",
+    "predictedSales": "284.51",
+    "predictedVat": "60.16",
+    "predictedTotal": "419.18",
+    "totalBound": "0.0115128008835728",
+    "vatBound": "0.0152728001593328",
+    "predictedAt": "2026-10-29T23:09:17.754Z",
+    "observedSales": "284.51",
+    "observed": {
+      "annualTotal": "419.18",
+      "vat10": "15.69",
+      "vat22": "44.47"
+    },
+    "sha256": "b883e42ec97f2f21bf5cf1766e6aa4382203bdea4e3e5096958ddc247caed31a",
+    "predictionSha256": "88b577ff8bdbd00464c82e87066bdb88d837f1941a7298cea0137935f6a72bb1",
+    "salesResidual": "0",
+    "vatResidual": "0",
+    "totalResidual": "0",
+    "totalPass": true,
+    "vatPass": true
+  },
+  {
+    "profile": "C2",
+    "municipality": {
+      "portalCode": "068028",
+      "name": "Pescara"
+    },
+    "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+    "volume": "400",
+    "predictedSales": "584.36",
+    "predictedVat": "104.70",
+    "predictedTotal": "909.10",
+    "totalBound": "0.015042669611909333333",
+    "vatBound": "0.015909333864442666667",
+    "predictedAt": "2026-10-29T23:09:21.187Z",
+    "observedSales": "584.36",
+    "observed": {
+      "annualTotal": "909.1",
+      "vat10": "60.22",
+      "vat22": "44.47"
+    },
+    "sha256": "3cad1b1ba1c2c8ba34495d50bc848375f5e5b3ac2cc924a601a38d33030cb0a5",
+    "predictionSha256": "89864950cb09269067ecc3eeb9c9f9a3876134b05594927b07fd48fe6a1c8dc9",
+    "salesResidual": "0",
+    "vatResidual": "0.01",
+    "totalResidual": "0",
+    "totalPass": true,
+    "vatPass": true
+  },
+  {
+    "profile": "C2",
+    "municipality": {
+      "portalCode": "068028",
+      "name": "Pescara"
+    },
+    "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+    "volume": "480",
+    "predictedSales": "670.03",
+    "predictedVat": "117.42",
+    "predictedTotal": "1049.07",
+    "totalBound": "0.0160512035342912",
+    "vatBound": "0.0160912006373312",
+    "predictedAt": "2026-10-29T23:09:24.179Z",
+    "observedSales": "670.03",
+    "observed": {
+      "annualTotal": "1049.07",
+      "vat10": "72.95",
+      "vat22": "44.47"
+    },
+    "sha256": "0aded4da8ee6a4603d2da8d38caa005ab7722c223826c31ee570dad8448305b8",
+    "predictionSha256": "71957b950327e929be2033b604e8353cae4c48f62c008e86788396809dd1af05",
+    "salesResidual": "0",
+    "vatResidual": "0",
+    "totalResidual": "0",
+    "totalPass": true,
+    "vatPass": true
+  },
+  {
+    "profile": "C2",
+    "municipality": {
+      "portalCode": "068028",
+      "name": "Pescara"
+    },
+    "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+    "volume": "481",
+    "predictedSales": "671.10",
+    "predictedVat": "117.77",
+    "predictedTotal": "1050.97",
+    "totalBound": "0.016063810208320973333",
+    "vatBound": "0.016093473971992306667",
+    "predictedAt": "2026-10-29T23:09:27.273Z",
+    "observedSales": "671.1",
+    "observed": {
+      "annualTotal": "1050.96",
+      "vat10": "72.95",
+      "vat22": "44.82"
+    },
+    "sha256": "e39dc1e03bebc2dd3bd5a872f1b7573470924b9f1a6884af85fe84ba7e9796dc",
+    "predictionSha256": "d6ff35304f6c6cb3ac39f8a8c39d233832d95611843c9b94916fc11eeabb0673",
+    "salesResidual": "0",
+    "vatResidual": "0",
+    "totalResidual": "0.01",
+    "totalPass": true,
+    "vatPass": true
+  }
+]

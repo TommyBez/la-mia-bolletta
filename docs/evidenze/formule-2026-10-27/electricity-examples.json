@@ -1,0 +1,198 @@
+{
+  "source": {
+    "path": "/tmp/la-mia-bolletta-20261027-E.xml",
+    "sha256": "7c01ff47e716f5de6743d27f5489d0fd6e84fea4dc03f73148e38b8fc09b4c7a"
+  },
+  "limitations": "Selected vendor-charge arithmetic, not total annual expenditure or market ranking. No recommendation, no proof of cheapest offer. Eligibility per real user and full fiscal/network charges not simulated.",
+  "percentage_discount": {
+    "assumed_kwh": "2700",
+    "plenitude": {
+      "name": "Fixa Time 24 Smart Luce",
+      "code": "026160ESFML56XXLFIXA24VSMA151026",
+      "supplier_url": "https://eniplenitude.com/offerta/casa/gas-e-luce",
+      "price_components": [
+        {
+          "name": "Corrispettivo Luce",
+          "macroarea": "04",
+          "type": "01",
+          "intervals": [
+            {
+              "FASCIA_COMPONENTE": "01",
+              "PREZZO": "0.2079",
+              "UNITA_MISURA": "03"
+            }
+          ]
+        },
+        {
+          "name": "Commercializzazione e vendita fissa",
+          "macroarea": "01",
+          "type": "01",
+          "intervals": [
+            {
+              "PREZZO": "144",
+              "UNITA_MISURA": "01"
+            }
+          ]
+        }
+      ],
+      "discounts": [
+        {
+          "name": "Sconto domiciliazione bancaria",
+          "validity": "01",
+          "condition": "99",
+          "description": "Sconto del 5% sul corrispettivo luce nel caso in cui il cliente attivi e mantenga la domiciliazione bancaria",
+          "prices": [
+            {
+              "TIPOLOGIA": "03",
+              "UNITA_MISURA": "06",
+              "PREZZO": "5.00"
+            }
+          ]
+        },
+        {
+          "name": "Sconto 30% Luce 1° Anno",
+          "validity": "02",
+          "condition": "00",
+          "description": "Sconto sul corrispettivo Luce del 30% per i primi 12 mesi",
+          "prices": [
+            {
+              "TIPOLOGIA": "03",
+              "UNITA_MISURA": "06",
+              "PREZZO": "30.00"
+            }
+          ]
+        },
+        {
+          "name": "Sconto 30% Luce 2° Anno",
+          "validity": "03",
+          "condition": "00",
+          "description": "Sconto sul corrispettivo Luce del 30% dal 13° mese in poi",
+          "prices": [
+            {
+              "TIPOLOGIA": "03",
+              "UNITA_MISURA": "06",
+              "PREZZO": "30.00"
+            }
+          ]
+        }
+      ],
+      "dispatch_codes": [
+        "14"
+      ],
+      "guarantees": "Qualora, all'atto di sottoscrizione del contratto, il cliente richieda contestualmente di effettuare i pagamenti tramite addebito diretto in conto corrente sepa (sepa core direct debit), non è richiesto il versamento di alcun deposito cauzionale. Negli altri casi, è previsto il versamento di un deposito cauzionale, per dettagli si rimanda all'art. 9 delle CGC. In caso di mancato pagamento del suddetto deposito cauzionale, Eni Plenitude potrà richiedere al Distributore la sospensione della fornitura."
+    },
+    "iren": {
+      "name": "IREN LOCK&FIX",
+      "code": "000208ESFML02XX000IEDOLCFX261027",
+      "supplier_url": "https://www.irenlucegas.it/casa/offerte-luce/iren-36-luce",
+      "price_components": [
+        {
+          "name": "Prezzo",
+          "macroarea": "04",
+          "type": "01",
+          "intervals": [
+            {
+              "FASCIA_COMPONENTE": "01",
+              "PREZZO": "0.155000",
+              "UNITA_MISURA": "03"
+            }
+          ]
+        },
+        {
+          "name": "Quota fissa",
+          "macroarea": "01",
+          "type": "01",
+          "intervals": [
+            {
+              "PREZZO": "147.000000",
+              "UNITA_MISURA": "01"
+            }
+          ]
+        }
+      ],
+      "discounts": [
+        {
+          "name": "Bonus 12,00 € una tantum",
+          "validity": "02",
+          "condition": "00",
+          "description": "Aderendo all'offerta [NOME] il cliente riceverà in regalo sulla sua fornitura di energia elettrica un bonus di 12,00 euro che sarà accreditato sulla bolletta del 12° mese di fornitura",
+          "prices": [
+            {
+              "TIPOLOGIA": "01",
+              "UNITA_MISURA": "01",
+              "PREZZO": "12.000000"
+            }
+          ]
+        }
+      ],
+      "dispatch_codes": [
+        "14"
+      ],
+      "guarantees": "La presente offerta richiede l’obbligatorietà del pagamento tramite domiciliazione bancaria e l’adesione al servizio Bolletta Facile. Iren Mercato provvederà ad inviare una e-mail all’indirizzo di posta elettronica indicato ogni qualvolta verrà emessa una fattura a carico del Cliente. Le fatture potranno essere visualizzate e stampate tramite l’applicativo IrenYou (accessibile alla pagina https://clienti.irenlucegas.it anche da mobile)."
+    },
+    "plenitude_before_discount": "705.3300",
+    "plenitude_discount": "168.399000",
+    "plenitude_after_unconditional_discount": "536.931000",
+    "iren_before_discount": "565.500000",
+    "iren_discount": "12.000000",
+    "iren_after_unconditional_discount": "553.500000",
+    "plenitude_minus_iren_before_discounts": "139.830000",
+    "plenitude_minus_iren_after_unconditional_discounts": "-16.569000",
+    "assumptions": "Only unconditional discounts within first12months. Plenitude conditional5% excluded; its stacking not assumed. Same domestic supply profile, both monoraria, CdispD14, no separate regulated components, no optional items. Prices in export already include network losses. All other bill charges and taxes excluded from this subtotal."
+  },
+  "consumption_tiers": {
+    "offer": {
+      "name": "IREN PRIMA SCELTA LUCE NEW",
+      "code": "000208ESFML02XX00IEDOPRIMN261027",
+      "supplier_url": "https://www.irenlucegas.it/casa/offerte-luce/iren-prima-scelta-luce",
+      "price_components": [
+        {
+          "name": "Prezzo",
+          "macroarea": "04",
+          "type": "01",
+          "intervals": [
+            {
+              "FASCIA_COMPONENTE": "01",
+              "PREZZO": "0.157300",
+              "UNITA_MISURA": "03"
+            },
+            {
+              "FASCIA_COMPONENTE": "01",
+              "CONSUMO_DA": "0",
+              "CONSUMO_A": "3000",
+              "PREZZO": "0.157300",
+              "UNITA_MISURA": "03"
+            },
+            {
+              "FASCIA_COMPONENTE": "01",
+              "CONSUMO_DA": "3001",
+              "PREZZO": "0.190300",
+              "UNITA_MISURA": "03"
+            }
+          ]
+        },
+        {
+          "name": "Quota fissa",
+          "macroarea": "01",
+          "type": "01",
+          "intervals": [
+            {
+              "PREZZO": "147.000000",
+              "UNITA_MISURA": "01"
+            }
+          ]
+        }
+      ],
+      "discounts": [],
+      "dispatch_codes": [
+        "14"
+      ],
+      "guarantees": "La presente offerta richiede l’obbligatorietà del pagamento tramite domiciliazione bancaria o postale e la bolletta in formato digitale. Iren Mercato provvederà ad inviare una e-mail all’indirizzo di posta elettronica indicato ogni qualvolta verrà emessa una fattura a carico del Cliente. Le fatture potranno essere visualizzate e stampate tramite l’applicativo IrenYou (accessibile alla pagina https://clienti.irenlucegas.it anche da mobile)."
+    },
+    "assumed_kwh": "4500",
+    "energy_with_tiers": "757.350000",
+    "incorrect_energy_all_lower_price": "707.850000",
+    "difference": "49.500000",
+    "assumptions": "Only price quotaenergia, no quota fissa/regulated charges/taxes. Apply first3000kWh atfirstprice andremaining1500atsecondprice, perAUv5.0p63."
+  }
+}

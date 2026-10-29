@@ -1,0 +1,119 @@
+<ListaOfferteMercatoLibero><offerta>
+        <IdentificativiOfferta>
+            <PIVA_UTENTE>12300020158</PIVA_UTENTE>
+            <COD_OFFERTA>026160ESFML56XXLFIXA24VSMA151026</COD_OFFERTA>
+        </IdentificativiOfferta>
+        <DettaglioOfferta>
+            <TIPO_MERCATO>01</TIPO_MERCATO>
+            <OFFERTA_SINGOLA>SI</OFFERTA_SINGOLA>
+            <TIPO_CLIENTE>01</TIPO_CLIENTE>
+            <DOMESTICO_RESIDENTE>03</DOMESTICO_RESIDENTE>
+            <TIPO_OFFERTA>01</TIPO_OFFERTA>
+            <TIPOLOGIA_ATT_CONTR>01</TIPOLOGIA_ATT_CONTR>
+            <TIPOLOGIA_ATT_CONTR>02</TIPOLOGIA_ATT_CONTR>
+            <TIPOLOGIA_ATT_CONTR>03</TIPOLOGIA_ATT_CONTR>
+            <NOME_OFFERTA>Fixa Time 24 Smart Luce</NOME_OFFERTA>
+            <DESCRIZIONE>Fixa Time 24 Smart Luce è l'offerta luce di Eni Plenitude dedicata ai clienti domestici che permette di bloccare per 24 mesi una quota della spesa luce ad un prezzo garantito. L'offerta prevede uno sconto del 30% sul corrispettivo e in caso di proroga delle Condizioni Economiche lo sconto verrà prorogato. Con l'energia verde inclusa, hai la sicurezza di consumare energia elettrica prodotta al 100% da impianti alimentati da fonti rinnovabili. Nel caso in cui il cliente scelga di pagare con addebito diretto in conto corrente sarà applicato uno sconto domiciliazione del 5% sul corrispettivo luce, a condizione che l’addebito diretto risulti attivo. Qualora invece, in qualunque momento successivo alla sottoscrizione, l’addebito diretto in conto corrente non risulti più attivo, il corrispondente sconto non sarà più applicato a partire dalla data di disattivazione dell’addebito stesso.L'offerta è valida salvo conclusione anticipata per esaurimento della disponibilità delle relative condizioni economiche.</DESCRIZIONE>
+            <DURATA>24</DURATA>
+            <GARANZIE>Qualora, all'atto di sottoscrizione del contratto, il cliente richieda contestualmente di effettuare i pagamenti tramite addebito diretto in conto corrente sepa (sepa core direct debit), non è richiesto il versamento di alcun deposito cauzionale. Negli altri casi, è previsto il versamento di un deposito cauzionale, per dettagli si rimanda all'art. 9 delle CGC. In caso di mancato pagamento del suddetto deposito cauzionale, Eni Plenitude potrà richiedere al Distributore la sospensione della fornitura.</GARANZIE>
+            <ModalitaAttivazione>
+                <MODALITA>02</MODALITA>
+            </ModalitaAttivazione>
+            <Contatti>
+                <TELEFONO>800900700</TELEFONO>
+                <URL_SITO_VENDITORE>https://eniplenitude.com/</URL_SITO_VENDITORE>
+                <URL_OFFERTA>https://eniplenitude.com/offerta/casa/gas-e-luce</URL_OFFERTA>
+            </Contatti>
+        </DettaglioOfferta>
+        <ValiditaOfferta>
+            <DATA_INIZIO>15/10/2026_00:00:01</DATA_INIZIO>
+            <DATA_FINE>04/11/2026_23:59:59</DATA_FINE>
+        </ValiditaOfferta>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>01</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>02</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>04</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <TipoPrezzo>
+            <TIPOLOGIA_FASCE>01</TIPOLOGIA_FASCE>
+        </TipoPrezzo>
+        <Dispacciamento>
+            <TIPO_DISPACCIAMENTO>14</TIPO_DISPACCIAMENTO>
+            <NOME>Dispacciamento CdispD</NOME>
+        </Dispacciamento>
+        <ComponenteImpresa>
+            <NOME>Corrispettivo Luce</NOME>
+            <DESCRIZIONE>Corrispettivo Luce invariabile</DESCRIZIONE>
+            <TIPOLOGIA>01</TIPOLOGIA>
+            <MACROAREA>04</MACROAREA>
+            <IntervalloPrezzi>
+                <FASCIA_COMPONENTE>01</FASCIA_COMPONENTE>
+                <PREZZO>0.2079</PREZZO>
+                <UNITA_MISURA>03</UNITA_MISURA>
+            </IntervalloPrezzi>
+        </ComponenteImpresa>
+        <ComponenteImpresa>
+            <NOME>Commercializzazione e vendita fissa</NOME>
+            <DESCRIZIONE>Corrispettivo fisso €/anno a copertura dei costi di commercializzazione e vendita</DESCRIZIONE>
+            <TIPOLOGIA>01</TIPOLOGIA>
+            <MACROAREA>01</MACROAREA>
+            <IntervalloPrezzi>
+                <PREZZO>144</PREZZO>
+                <UNITA_MISURA>01</UNITA_MISURA>
+            </IntervalloPrezzi>
+        </ComponenteImpresa>
+        <CondizioniContrattuali>
+            <TIPOLOGIA_CONDIZIONE>99</TIPOLOGIA_CONDIZIONE>
+            <ALTRO>Modalità di Rinnovo</ALTRO>
+            <DESCRIZIONE>Con un anticipo di almeno novanta giorni rispetto alla scadenza delle condizioni economiche, Eni Plenitude comunicherà in forma scritta le nuove condizioni economiche di somministrazione, nonché il relativo periodo di validità. In assenza di tale comunicazione, le condizioni economiche s’intenderanno prorogate fino a nuova comunicazione da parte di Eni Plenitude, effettuata sempre con un preavviso minimo di novanta giorni. È fatta salva per il cliente la facoltà di esercitare il diritto di recesso di cui all’art.10 delle CGC.</DESCRIZIONE>
+            <LIMITANTE>02</LIMITANTE>
+        </CondizioniContrattuali>
+        <Sconto>
+            <NOME>Sconto domiciliazione bancaria</NOME>
+            <DESCRIZIONE>Sconto del 5% sul corrispettivo luce nel caso in cui il cliente attivi e mantenga la domiciliazione bancaria</DESCRIZIONE>
+            <VALIDITA>01</VALIDITA>
+            <IVA_SCONTO>01</IVA_SCONTO>
+            <Condizione>
+                <CONDIZIONE_APPLICAZIONE>99</CONDIZIONE_APPLICAZIONE>
+                <DESCRIZIONE_CONDIZIONE>Necessario mantenere attiva la domiciliazione bancaria</DESCRIZIONE_CONDIZIONE>
+            </Condizione>
+            <PrezziSconto>
+                <TIPOLOGIA>03</TIPOLOGIA>
+                <UNITA_MISURA>06</UNITA_MISURA>
+                <PREZZO>5.00</PREZZO>
+            </PrezziSconto>
+        </Sconto>
+        <Sconto>
+            <NOME>Sconto 30% Luce 1° Anno</NOME>
+            <DESCRIZIONE>Sconto sul corrispettivo Luce del 30% per i primi 12 mesi</DESCRIZIONE>
+            <VALIDITA>02</VALIDITA>
+            <IVA_SCONTO>01</IVA_SCONTO>
+            <Condizione>
+                <CONDIZIONE_APPLICAZIONE>00</CONDIZIONE_APPLICAZIONE>
+            </Condizione>
+            <PrezziSconto>
+                <TIPOLOGIA>03</TIPOLOGIA>
+                <UNITA_MISURA>06</UNITA_MISURA>
+                <PREZZO>30.00</PREZZO>
+            </PrezziSconto>
+        </Sconto>
+        <Sconto>
+            <NOME>Sconto 30% Luce 2° Anno</NOME>
+            <DESCRIZIONE>Sconto sul corrispettivo Luce del 30% dal 13° mese in poi</DESCRIZIONE>
+            <VALIDITA>03</VALIDITA>
+            <IVA_SCONTO>01</IVA_SCONTO>
+            <Condizione>
+                <CONDIZIONE_APPLICAZIONE>00</CONDIZIONE_APPLICAZIONE>
+            </Condizione>
+            <PrezziSconto>
+                <TIPOLOGIA>03</TIPOLOGIA>
+                <UNITA_MISURA>06</UNITA_MISURA>
+                <PREZZO>30.00</PREZZO>
+            </PrezziSconto>
+        </Sconto>
+    </offerta>
+    </ListaOfferteMercatoLibero>

@@ -1,0 +1,48 @@
+{
+  "observed_on": "2026-10-27",
+  "source": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+  "source_note": "Official public comparison UI, anonymous synthetic profile; detail URL depends on session. Supplier links were not opened. This is an observation, not an inferred general calculation rule.",
+  "cases": [
+    {
+      "code": "029886GSVML01XXSENZAPENSIDOMGAS3",
+      "name": "Senza Pensieri S Domestico",
+      "profile": {
+        "commodity": "gas",
+        "municipality": "Milano",
+        "istat": "015146",
+        "customer": "Domestico",
+        "vulnerable": false,
+        "meter_class_displayed": "Portata < G6",
+        "annual_consumption_smc": "1400",
+        "usage_selection_requested": ["Cottura cibi", "Produzione di acqua calda sanitaria", "Riscaldamento"],
+        "offer_type_displayed": "Misto",
+        "horizon": "Portal native estimate; not asserted equal to the application's Q23 horizon"
+      },
+      "displayed_amounts_eur": {
+        "Vendita di gas naturale": "1429.85",
+        "Tariffa per l'uso della rete del gas naturale": "364.39",
+        "Oneri generali di sistema": "74.57",
+        "Spesa netto imposte stimata": "1868.81",
+        "Imposte": "224.68",
+        "IVA 5%": "0.00",
+        "IVA 10%": "535.12",
+        "IVA 22%": "0.00",
+        "Spesa annua stimata": "2628.61"
+      },
+      "detail_rows_in_rendered_document": {
+        "map_quota_fissa_gas": [
+          {"label": "Quota Servizi Fissa (QSF) - Quota Servizi Fissa (QSF)", "unit": "EUR/year", "value": "144.000000"}
+        ],
+        "map_quota_energia_gas": [
+          {"label": "Spread Gas - Spread Gas", "unit": "EUR/Smc", "value": "0.080000", "icon_description": "Componente a prezzo variabile definita dal venditore"}
+        ]
+      },
+      "findings": [
+        "The Portal accepts the code and produces an annual estimate despite the two default intervals in the XML.",
+        "The detail table contains one variable spread row; it does not show the separate fixed 0.08 interval found in the XML.",
+        "This does not establish a general precedence rule for overlapping intervals or disclose the forward curve.",
+        "The VAT label and amount are recorded as displayed. No fiscal rule is inferred from this apparent inconsistency."
+      ]
+    }
+  ]
+}

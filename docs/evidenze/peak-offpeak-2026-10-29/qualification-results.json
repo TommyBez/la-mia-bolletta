@@ -1,0 +1,174 @@
+{
+  "checks": [
+    {
+      "code": "029878ESVFL03XX000002DOM2VAR2BIO",
+      "bands": [
+        1234,
+        987,
+        1779
+      ],
+      "predicted": "1080.069613333333333333333333",
+      "observed": "1080.07",
+      "residual": "0.000386666666666666666667",
+      "label": "annual"
+    },
+    {
+      "code": "029878ESVFL03XX000000DOM8VAR8BIO",
+      "bands": [
+        1234,
+        987,
+        1779
+      ],
+      "predicted": "1128.069613333333333333333333",
+      "observed": "1128.07",
+      "residual": "0.000386666666666666666667",
+      "label": "annual"
+    },
+    {
+      "code": "029878ESVFL05XX000007DOM7VAR7BIO",
+      "bands": [
+        1234,
+        987,
+        1779
+      ],
+      "predicted": "1080.069613333333333333333333",
+      "observed": "1080.07",
+      "residual": "0.000386666666666666666667",
+      "label": "annual"
+    },
+    {
+      "code": "030032ESVOL01XX0000000000E000041",
+      "bands": [
+        1234,
+        987,
+        1779
+      ],
+      "predicted": "983.2696133333333333333333333",
+      "observed": "983.27",
+      "residual": "0.0003866666666666666666667",
+      "label": "annual"
+    },
+    {
+      "code": "029878ESVFL03XX000002DOM2VAR2BIO",
+      "bands": [
+        0,
+        3000,
+        0
+      ],
+      "predicted": "844.2800000000000000000000001",
+      "observed": "844.28",
+      "residual": "-1E-25",
+      "label": "annual"
+    },
+    {
+      "code": "029878ESVFL03XX000002DOM2VAR2BIO",
+      "bands": [
+        1500,
+        2000,
+        2500
+      ],
+      "predicted": "1547.963333333333333333333333",
+      "observed": "1547.96",
+      "residual": "-0.003333333333333333333333",
+      "label": "annual"
+    },
+    {
+      "code": "029878ESVFL03XX000002DOM2VAR2BIO",
+      "bands": [
+        700,
+        400,
+        900
+      ],
+      "predicted": "612.0220000000000000000000000",
+      "observed": "612.02",
+      "residual": "-0.0020000000000000000000000",
+      "label": "annual"
+    },
+    {
+      "code": "024632ESVFL01XXSTDDOMVARPOP00007",
+      "bands": [
+        1234,
+        987,
+        1779
+      ],
+      "predicted": "1254.060466666666666666666667",
+      "observed": "1254.06",
+      "residual": "-0.000466666666666666666667",
+      "label": "annual"
+    },
+    {
+      "code": "024632ESVFL01XXSTDDOMVARPOP00007",
+      "bands": [
+        1500,
+        2000,
+        2500
+      ],
+      "predicted": "1784.636666666666666666666667",
+      "observed": "1784.64",
+      "residual": "0.003333333333333333333333",
+      "label": "annual"
+    },
+    {
+      "code": "024632ESVFL01XXSTDDOMVARPOP00007",
+      "bands": [
+        700,
+        400,
+        900
+      ],
+      "predicted": "724.0900000000000000000000000",
+      "observed": "724.09",
+      "residual": "0E-25",
+      "label": "annual"
+    },
+    {
+      "code": "024632ESVFL01XXSTDDOMVARPOP00007",
+      "bands": [
+        876,
+        543,
+        2100
+      ],
+      "predicted": "1125.429830000000000000000000",
+      "observed": "1125.43",
+      "residual": "0.000170000000000000000000",
+      "label": "annual"
+    },
+    {
+      "code": "024632ESVFL01XXSTDDOMVARPOP00007",
+      "bands": [
+        876,
+        543,
+        2100
+      ],
+      "predicted": "1125.429830000000000000000000",
+      "observed": "1125.43",
+      "residual": "0.000170000000000000000000",
+      "label": "other-residence-power"
+    },
+    {
+      "code": "003450ESFML01XX00000010073721026",
+      "bands": [
+        1200,
+        700,
+        2000
+      ],
+      "predicted": "840.7626700000000000000000001",
+      "observed": "840.77",
+      "residual": "0.0073299999999999999999999",
+      "label": "fixed"
+    },
+    {
+      "code": "003450ESFML01XX00000010073781026",
+      "bands": [
+        1200,
+        700,
+        2000
+      ],
+      "predicted": "831.7963366666666666666666666",
+      "observed": "831.79",
+      "residual": "-0.0063366666666666666666666",
+      "label": "fixed"
+    }
+  ],
+  "all_selected_checks_pass": true,
+  "warning": "Annual effective sale coefficients; not recovered raw quarter Peak/Off curves. Failed exploratory PPE scalar fit excluded from recipe, retained in predictions file."
+}

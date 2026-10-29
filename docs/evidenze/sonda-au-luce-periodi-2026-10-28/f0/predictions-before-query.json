@@ -1,0 +1,22 @@
+{
+  "base": "Four A2A monoraria monthly coefficients fixed before these new queries",
+  "checks": [
+    {
+      "code": "000294ESVML01XXA2AEasyL261033991",
+      "profile": "holdout Nov600 Jan900 Apr1200 Jul300",
+      "expected_unrounded_sale_eur": "754.187"
+    },
+    {
+      "code": "028979ESVML01XX00000000003515106",
+      "profile": "same holdout",
+      "expected_unrounded_sale_eur": "790.187",
+      "delta": "fixed120vs150 + spread.022*3000 = +36"
+    },
+    {
+      "code": "000294ESVML01XXA2AEasyL261033991",
+      "profile": "annual no monthly data",
+      "expected_unrounded_sale_eur": "760.99",
+      "reason": "mean four monthly calibration values"
+    }
+  ]
+}

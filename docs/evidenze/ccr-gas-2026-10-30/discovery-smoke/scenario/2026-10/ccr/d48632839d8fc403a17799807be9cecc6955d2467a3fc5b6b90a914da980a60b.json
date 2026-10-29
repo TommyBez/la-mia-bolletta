@@ -1,0 +1,40 @@
+{
+  "id": "ccr-C2-4-022205-2400",
+  "kind": "holdout",
+  "source": "official_portal",
+  "profile": "C2",
+  "municipality": {
+    "portalCode": "022205",
+    "name": "Trento"
+  },
+  "offerCode": "001233GSVML01XXDOMESTICTRENDCASA",
+  "volume": "2400",
+  "acquisitionMonth": "2026-10",
+  "coverageStart": "2026-10-01",
+  "coverageEnd": "2027-09-30",
+  "baselineSales": "2524.3599981396104",
+  "baselineUncertainty": "0.01000000001",
+  "terms": [
+    {
+      "quarter": "2026-Q4",
+      "consumption": "692.8682136"
+    },
+    {
+      "quarter": "2027-Q1",
+      "consumption": "857.8225944"
+    },
+    {
+      "quarter": "2027-Q2",
+      "consumption": "457.4307"
+    },
+    {
+      "quarter": "2027-Q3",
+      "consumption": "391.8784944"
+    }
+  ],
+  "predictedSales": "2584.7249999652",
+  "predictedUncertainty": "0.0299999652200000000000000000000000000000000000008",
+  "value": "0.025152084093995666666666666666666666666666666666667",
+  "uncertainty": "0.000006249985504166666666666666666666666666666666667",
+  "predictedAt": "2026-10-29T23:13:27.551Z"
+}

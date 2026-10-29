@@ -1,0 +1,3 @@
+Browser tab: 1, Title: "PREZZO NETTO ZERO GAS", URL: "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page".
+There has been no change in the accessibility tree.
+The focused UI element is 1 AXWebArea PREZZO NETTO ZERO GAS, URL: ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page

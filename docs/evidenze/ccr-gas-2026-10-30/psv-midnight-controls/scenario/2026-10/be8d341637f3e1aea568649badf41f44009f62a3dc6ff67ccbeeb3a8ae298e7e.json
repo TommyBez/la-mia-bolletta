@@ -1,0 +1,156 @@
+{
+  "observedAt": "2026-10-29T23:01:43.775822Z",
+  "offerCode": "000971GSVML01XXPROD1300109202600",
+  "source": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+  "observedSales": "1291.60",
+  "syntheticMonthlyInput": [
+    {
+      "competenza_consumi": "202608",
+      "delta_misure_f1": null,
+      "delta_misure_f2": null,
+      "delta_misure_f3": null,
+      "delta_misure_f4": null,
+      "delta_misure_f5": null,
+      "delta_misure_f6": null,
+      "delta_misure_monoraria": null,
+      "delta_misure_gas": 0.0
+    },
+    {
+      "competenza_consumi": "202607",
+      "delta_misure_f1": null,
+      "delta_misure_f2": null,
+      "delta_misure_f3": null,
+      "delta_misure_f4": null,
+      "delta_misure_f5": null,
+      "delta_misure_f6": null,
+      "delta_misure_monoraria": null,
+      "delta_misure_gas": 0.0
+    },
+    {
+      "competenza_consumi": "202606",
+      "delta_misure_f1": null,
+      "delta_misure_f2": null,
+      "delta_misure_f3": null,
+      "delta_misure_f4": null,
+      "delta_misure_f5": null,
+      "delta_misure_f6": null,
+      "delta_misure_monoraria": null,
+      "delta_misure_gas": 0.0
+    },
+    {
+      "competenza_consumi": "202605",
+      "delta_misure_f1": null,
+      "delta_misure_f2": null,
+      "delta_misure_f3": null,
+      "delta_misure_f4": null,
+      "delta_misure_f5": null,
+      "delta_misure_f6": null,
+      "delta_misure_monoraria": null,
+      "delta_misure_gas": 0.0
+    },
+    {
+      "competenza_consumi": "202604",
+      "delta_misure_f1": null,
+      "delta_misure_f2": null,
+      "delta_misure_f3": null,
+      "delta_misure_f4": null,
+      "delta_misure_f5": null,
+      "delta_misure_f6": null,
+      "delta_misure_monoraria": null,
+      "delta_misure_gas": 0.0
+    },
+    {
+      "competenza_consumi": "202603",
+      "delta_misure_f1": null,
+      "delta_misure_f2": null,
+      "delta_misure_f3": null,
+      "delta_misure_f4": null,
+      "delta_misure_f5": null,
+      "delta_misure_f6": null,
+      "delta_misure_monoraria": null,
+      "delta_misure_gas": 0.0
+    },
+    {
+      "competenza_consumi": "202602",
+      "delta_misure_f1": null,
+      "delta_misure_f2": null,
+      "delta_misure_f3": null,
+      "delta_misure_f4": null,
+      "delta_misure_f5": null,
+      "delta_misure_f6": null,
+      "delta_misure_monoraria": null,
+      "delta_misure_gas": 0.0
+    },
+    {
+      "competenza_consumi": "202601",
+      "delta_misure_f1": null,
+      "delta_misure_f2": null,
+      "delta_misure_f3": null,
+      "delta_misure_f4": null,
+      "delta_misure_f5": null,
+      "delta_misure_f6": null,
+      "delta_misure_monoraria": null,
+      "delta_misure_gas": 0.0
+    },
+    {
+      "competenza_consumi": "202512",
+      "delta_misure_f1": null,
+      "delta_misure_f2": null,
+      "delta_misure_f3": null,
+      "delta_misure_f4": null,
+      "delta_misure_f5": null,
+      "delta_misure_f6": null,
+      "delta_misure_monoraria": null,
+      "delta_misure_gas": 1200.0
+    },
+    {
+      "competenza_consumi": "202511",
+      "delta_misure_f1": null,
+      "delta_misure_f2": null,
+      "delta_misure_f3": null,
+      "delta_misure_f4": null,
+      "delta_misure_f5": null,
+      "delta_misure_f6": null,
+      "delta_misure_monoraria": null,
+      "delta_misure_gas": 0.0
+    },
+    {
+      "competenza_consumi": "202510",
+      "delta_misure_f1": null,
+      "delta_misure_f2": null,
+      "delta_misure_f3": null,
+      "delta_misure_f4": null,
+      "delta_misure_f5": null,
+      "delta_misure_f6": null,
+      "delta_misure_monoraria": null,
+      "delta_misure_gas": 0.0
+    },
+    {
+      "competenza_consumi": "202509",
+      "delta_misure_f1": null,
+      "delta_misure_f2": null,
+      "delta_misure_f3": null,
+      "delta_misure_f4": null,
+      "delta_misure_f5": null,
+      "delta_misure_f6": null,
+      "delta_misure_monoraria": null,
+      "delta_misure_gas": 0.0
+    }
+  ],
+  "bands": [
+    "1200",
+    "0",
+    "0"
+  ],
+  "normalizedTotal": "1200",
+  "powerKw": null,
+  "resident": null,
+  "monthlyAccepted": true,
+  "unitEvidenceIndex": 0,
+  "unitEvidence": {
+    "blobKey": "scenario/2026-10/0c818fcb6ce65ca07e396ef2b579c32c47b63d048d3c3875a8eebeadc7d1cb92.html",
+    "sha256": "0c818fcb6ce65ca07e396ef2b579c32c47b63d048d3c3875a8eebeadc7d1cb92",
+    "kind": "official_method"
+  },
+  "unitaryRows": []
+}

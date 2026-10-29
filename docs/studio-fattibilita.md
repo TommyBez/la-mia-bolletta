@@ -2,6 +2,8 @@
 
 Valutazione al 26 ottobre 2026. Ambito confermato: clienti domestici, luce e gas. Requisiti: acquisizione quotidiana dal Portale Offerte, confronto personalizzato, lettura della bolletta e accesso MCP alle medesime funzioni, con OCR a carico del client MCP. Rilevamento delle condizioni problematiche nelle note in una fase successiva.
 
+Aggiornamento del perimetro del 27 ottobre: Q29 limita la prima fase alle offerte dichiarate simulabili dal Portale, nell'universo del mercato libero domestico definito da Q26. Le offerte senza simulazione restano una possibile estensione della seconda fase; gli approfondimenti già svolti vengono conservati. Decisioni correnti nel [design del prodotto](./design-prodotto.md).
+
 Vincolo confermato dall'utente: **solo dati gratuiti**. Abbonamenti a dati e licenze a pagamento sono esclusi dalle soluzioni proposte.
 
 Modello iniziale confermato dall'utente: **applicazione totalmente gratuita**, almeno nella fase iniziale. La verifica delle condizioni dei dati assume questo modello; eventuali cambiamenti futuri richiederanno una nuova valutazione delle condizioni applicabili.
@@ -138,7 +140,7 @@ Prima estrarre il testo dai PDF nativi; usare OCR o un modello visivo quando il 
 
 Non convertire automaticamente un consumo bimestrale in annuo moltiplicandolo per sei, soprattutto per il riscaldamento. Distinguere Smc da m³ e dati annuali da quelli del periodo fatturato. Verificare coerenza delle fasce e unità di misura. Se mancano dati essenziali, chiedere conferma prima del ranking.
 
-Non servono nome, codice fiscale, IBAN o identificativi di fornitura per la ricerca ordinaria. La proposta per l'MVP è eliminare l'originale dopo l'estrazione e la breve finestra necessaria alla conferma, evitare documenti e dati personali nei log e conservare un profilo solo se l'utente sceglie di salvarlo. La durata operativa della finestra va definita nell'implementazione.
+Non servono nome, codice fiscale, IBAN o identificativi di fornitura per la ricerca ordinaria. La proposta iniziale di eliminare l'originale dopo estrazione e conferma è stata sostituita per la prima versione interna dalla decisione Q25 del 27 ottobre: conservare le bollette senza cancellazione automatica. Il [design del prodotto](./design-prodotto.md) è il riferimento corrente. La conservazione tecnica non introduce automaticamente una cronologia personale nell'interfaccia; documenti e dati personali non diventano dati del catalogo pubblico.
 
 ## Architettura proposta
 
@@ -158,7 +160,7 @@ flowchart LR
     E --> M[Risultati MCP]
 ```
 
-Una prima soluzione può usare TypeScript per il dominio condiviso, Postgres per catalogo e versioni, storage a oggetti per i file originali e un processo schedulato per l'importazione. Web e MCP sono adattatori dello stesso servizio applicativo. La scelta del provider resta aperta: i dati osservati non impongono microservizi, un database vettoriale o un sistema distribuito di elaborazione.
+Una prima soluzione può usare TypeScript per il dominio condiviso, Postgres per catalogo e versioni, storage a oggetti per i file originali e un processo schedulato per l'importazione. Web e MCP sono adattatori dello stesso servizio applicativo. L'hosting è stato scelto su Vercel in Q21 il 27 ottobre; database e storage restano da definire. I dati osservati non impongono microservizi, un database vettoriale o un sistema distribuito di elaborazione.
 
 ### Importazione quotidiana
 
@@ -208,6 +210,8 @@ La UX iniziale del rilevatore dovrebbe usare avvisi come «Acquisto di un impian
 
 ## Sequenza di sviluppo e criteri di riuscita
 
+La sequenza seguente era la proposta dello studio iniziale. Il primo traguardo interno ora confermato in Q14–Q25 comprende già bolletta/OCR, fisse e variabili luce/gas, web e MCP: le responsabilità qui separate devono convergere in quella consegna. La suddivisione eseguibile in ticket verrà ricavata dal design confermato, senza rinviare OCR o variabili.
+
 | Fase | Consegna verificabile | Criterio di riuscita |
 | --- | --- | --- |
 | 1. Prova dati e calcolo | Importatore luce/gas e calcolo su profili campione | Fonte dei prezzi variabili scelta; copertura e scarti rispetto al Portale spiegati |
@@ -215,7 +219,7 @@ La UX iniziale del rilevatore dovrebbe usare avvisi come «Acquisto di un impian
 | 3. Bolletta e MCP | Estrattore, conferma campi e sei strumenti condivisi | Stesso profilo produce stesso risultato via web e MCP |
 | 4. Analisi delle note | Estrazione requisiti e verifica delle incoerenze | Avvisi con evidenze, revisione e misurazione dei falsi positivi |
 
-La prova iniziale deve coprire entrambi i servizi e almeno offerte fisse, variabili e PLACET, oltre ai casi che il motore dichiara non supportati. La matrice di verifica comprende luce residente/non residente, più potenze e fasce, gas con diversi territori/scaglioni/profili, sconti, durata delle condizioni e vincoli di adesione congiunta.
+Il perimetro inizialmente proposto comprendeva PLACET; la decisione Q26 del 27 ottobre lo esclude dal primo traguardo, insieme ai pacchetti congiunti. Q29 limita inoltre la prima fase alle offerte dichiarate simulabili dal Portale; le altre restano una possibile estensione della seconda fase. La prova iniziale deve coprire offerte domestiche simulabili del mercato libero fisse e variabili per entrambi i servizi, oltre ai casi che il nostro motore dichiara non supportati pur essendo simulabili secondo la fonte. La matrice di verifica comprende luce residente/non residente, più potenze e fasce, gas con diversi territori/scaglioni/profili, sconti, durata delle condizioni e requisiti di adesione delle singole offerte. Rate o canoni non sono esclusi per il nome: conta la dichiarazione ufficiale di simulabilità.
 
 Per il confronto numerico con il Portale bisogna fissare identici profilo, offerta/versione, periodo e dati previsionali. In assenza degli stessi forward si possono confrontare componenti deterministiche e spiegare la differenza di scenario, ma non dichiarare raggiunta la parità complessiva. Le tolleranze vanno definite in relazione alle regole di arrotondamento prima dei test.
 

@@ -1,0 +1,83 @@
+<ns0:offerta xmlns:ns0="http://www.acquirenteunico.it/schemas/SII_AU/OffertaRetail/01">
+        <ns0:IdentificativiOfferta>
+            <ns0:PIVA_UTENTE>12883420155</ns0:PIVA_UTENTE>
+            <ns0:COD_OFFERTA>000294ESVML01XXA2AEasyL261033991</ns0:COD_OFFERTA>
+        </ns0:IdentificativiOfferta>
+        <ns0:DettaglioOfferta>
+            <ns0:TIPO_MERCATO>01</ns0:TIPO_MERCATO>
+            <ns0:OFFERTA_SINGOLA>SI</ns0:OFFERTA_SINGOLA>
+            <ns0:TIPO_CLIENTE>01</ns0:TIPO_CLIENTE>
+            <ns0:DOMESTICO_RESIDENTE>03</ns0:DOMESTICO_RESIDENTE>
+            <ns0:TIPO_OFFERTA>02</ns0:TIPO_OFFERTA>
+            <ns0:TIPOLOGIA_ATT_CONTR>01</ns0:TIPOLOGIA_ATT_CONTR>
+            <ns0:TIPOLOGIA_ATT_CONTR>03</ns0:TIPOLOGIA_ATT_CONTR>
+            <ns0:TIPOLOGIA_ATT_CONTR>04</ns0:TIPOLOGIA_ATT_CONTR>
+            <ns0:NOME_OFFERTA>A2A Easy Luce</ns0:NOME_OFFERTA>
+            <ns0:DESCRIZIONE>A2A Easy è l'offerta che ti fa accedere direttamente al prezzo di costo dell'energia, per pagare la luce come se l’acquistassi all'ingrosso, con un piccolo contributo mensile. L'energia elettrica dell'offerta A2A Easy è prodotta al 100% da fonti rinnovabili.</ns0:DESCRIZIONE>
+            <ns0:DURATA>12</ns0:DURATA>
+            <ns0:GARANZIE>Il Fornitore può richiedere al Cliente finale domestico a titolo di garanzia dei pagamenti, alternativamente un deposito cauzionale o la domiciliazione bancaria dei pagamenti della fornitura o altra forma di garanzia. Per ulteriori dettagli si rimanda alle Condizioni Generali di Fornitura dell’offerta</ns0:GARANZIE>
+            <ns0:ModalitaAttivazione>
+                <ns0:MODALITA>04</ns0:MODALITA>
+                <ns0:MODALITA>01</ns0:MODALITA>
+            </ns0:ModalitaAttivazione>
+            <ns0:Contatti>
+                <ns0:TELEFONO>800199955</ns0:TELEFONO>
+                <ns0:URL_SITO_VENDITORE>https://www.a2a.it/</ns0:URL_SITO_VENDITORE>
+                <ns0:URL_OFFERTA>https://casa.a2aenergia.eu/a2a-easy</ns0:URL_OFFERTA>
+            </ns0:Contatti>
+        </ns0:DettaglioOfferta>
+        <ns0:RiferimentiPrezzoEnergia>
+            <ns0:IDX_PREZZO_ENERGIA>12</ns0:IDX_PREZZO_ENERGIA>
+        </ns0:RiferimentiPrezzoEnergia>
+        <ns0:ValiditaOfferta>
+            <ns0:DATA_INIZIO>01/10/2026_00:00:00</ns0:DATA_INIZIO>
+            <ns0:DATA_FINE>28/10/2026_23:59:59</ns0:DATA_FINE>
+        </ns0:ValiditaOfferta>
+        <ns0:MetodoPagamento>
+            <ns0:MODALITA_PAGAMENTO>01</ns0:MODALITA_PAGAMENTO>
+        </ns0:MetodoPagamento>
+        <ns0:TipoPrezzo>
+            <ns0:TIPOLOGIA_FASCE>01</ns0:TIPOLOGIA_FASCE>
+        </ns0:TipoPrezzo>
+        <ns0:Dispacciamento>
+            <ns0:TIPO_DISPACCIAMENTO>14</ns0:TIPO_DISPACCIAMENTO>
+            <ns0:NOME>CdispD</ns0:NOME>
+        </ns0:Dispacciamento>
+        <ns0:ComponenteImpresa>
+            <ns0:NOME>Contributo</ns0:NOME>
+            <ns0:DESCRIZIONE>Contributo Annuo</ns0:DESCRIZIONE>
+            <ns0:TIPOLOGIA>01</ns0:TIPOLOGIA>
+            <ns0:MACROAREA>01</ns0:MACROAREA>
+            <ns0:IntervalloPrezzi>
+                <ns0:PREZZO>150.0</ns0:PREZZO>
+                <ns0:UNITA_MISURA>01</ns0:UNITA_MISURA>
+            </ns0:IntervalloPrezzi>
+        </ns0:ComponenteImpresa>
+        <ns0:ComponenteImpresa>
+            <ns0:NOME>Spread</ns0:NOME>
+            <ns0:DESCRIZIONE>Contributo al consumo</ns0:DESCRIZIONE>
+            <ns0:TIPOLOGIA>01</ns0:TIPOLOGIA>
+            <ns0:MACROAREA>06</ns0:MACROAREA>
+            <ns0:IntervalloPrezzi>
+                <ns0:FASCIA_COMPONENTE>01</ns0:FASCIA_COMPONENTE>
+                <ns0:PREZZO>0.0</ns0:PREZZO>
+                <ns0:UNITA_MISURA>03</ns0:UNITA_MISURA>
+            </ns0:IntervalloPrezzi>
+        </ns0:ComponenteImpresa>
+        <ns0:CondizioniContrattuali>
+            <ns0:TIPOLOGIA_CONDIZIONE>01</ns0:TIPOLOGIA_CONDIZIONE>
+            <ns0:DESCRIZIONE>L’attivazione della nuova fornitura di energia elettrica o la modifica di quella in atto è subordinata alla verifica di idoneità della rete di distribuzione da parte del relativo gestore, all'esecuzione dell'allacciamento alla rete stessa, ove necessario, ed alla stipula di contratto scritto. L’attivazione della fornitura e le variazioni contrattuali saranno altresì soggette al pagamento da parte del Cliente di eventuali oneri dovuti al Distributore ai sensi della regolazione vigente. Il Cliente, ove necessario, contestualmente alla sottoscrizione del contratto deve versare il contributo di allacciamento come determinato dalle norme vigenti o, in mancanza di queste, dal Distributore. Nel caso in cui l’allacciamento non fosse realizzato per cause indipendenti dal Fornitore e/o Distributore, il contratto si intenderà risolto per impossibilità sopravvenuta ed il Fornitore restituirà il contributo versato detraendo dal medesimo le spese sostenute e l’ammontare dell’IVA relativa, se dovuta. In caso di allacciamento, l’attivazione della fornitura è subordinata a) all’ottenimento da parte del Cliente delle autorizzazioni, concessioni o servitù che dovessero rendersi necessarie per consentire l’esecuzione dell’allacciamento; b) al rilascio al Fornitore e/o al Distributore dei permessi e delle autorizzazioni se richieste dalla legge e/o dagli Enti pubblici; c) all’esecuzione degli eventuali lavori da realizzarsi a cura del Cliente. L’esecuzione del contratto è, altresì, condizionata al fatto che il Cliente non risulti sospeso per morosità ovvero non sia soggetto a richiesta di indennizzo da parte del precedente fornitore al momento in cui perviene la richiesta di switching e in ogni caso alla mancata revoca della richiesta di switching da parte del Fornitore. Qualora il contratto non sia stato concluso in forma contestuale alla richiesta di fornitura, il Cliente dovrà inviare al Fornitore i documenti contrattuali debitamente sottoscritti, unitamente all’ulteriore documentazione necessaria entro 60 giorni dalla richiesta. In mancanza resta salvo il diritto del Fornitore di richiedere il pagamento delle forniture comunque nel frattempo effettuate oltre alle eventuali spese. La richiesta di attivazione o modificazione della fornitura sarà inviata dal Fornitore al gestore del servizio di distribuzione, che procederà alla realizzazione dei lavori di sua competenza secondo le modalità e nei termini fissati dall’ARERA. Il Cliente domestico può recedere senza oneri dal contratto stipulato fuori dai locali commerciali del Fornitore entro 20 giorni solari dalla data di conclusione (c.d. diritto di ripensamento). Se, in occasione della stipula di tale contratto, è stata concordata l’attivazione della fornitura durante il suddetto periodo di 20 giorni, il Cliente che esercita il diritto di ripensamento è comunque tenuto a versare i corrispettivi dovuti per i servizi effettivamente erogati dal Fornitore.</ns0:DESCRIZIONE>
+            <ns0:LIMITANTE>02</ns0:LIMITANTE>
+        </ns0:CondizioniContrattuali>
+        <ns0:CondizioniContrattuali>
+            <ns0:TIPOLOGIA_CONDIZIONE>02</ns0:TIPOLOGIA_CONDIZIONE>
+            <ns0:DESCRIZIONE>Il Cliente può richiedere direttamente al Fornitore la cessazione dell'utenza in ogni momento, mediante richiesta scritta, indicando in ogni caso l'indirizzo dove spedire la fattura finale, con preavviso di un mese a decorrere dal primo giorno del mese successivo a quello di ricevimento del recesso stesso. Il Fornitore comunicherà tempestivamente al Distributore l'ordine di cessazione dell'erogazione nei tempi e nei modi previsti dall'ARERA. In ogni caso il Cliente che vende o cede a qualsiasi titolo, abbandona o dà in locazione i locali dal medesimo occupati ove si trovano impianti in attività, deve — salvo diverse specificazioni — darne avviso scritto al Fornitore almeno trenta giorni prima; indicando il recapito al quale dovrà essere inviata la chiusura contabile dell’utenza. In caso di mancata comunicazione della richiesta di cessazione dell’utenza o di mancato accesso al gruppo di misura per cause imputabili al Cliente, quest’ultimo risponde di tutti i consumi da chiunque effettuati e di eventuali danni da chiunque arrecati alle apparecchiature del Distributore. Il Cliente deve pagare gli eventuali debiti oggetto di precedente rateizzazione nei medesimi termini ed alle medesime condizioni concordate nel piano di rateizzazione in vigore all’atto della cessazione del rapporto contrattuale</ns0:DESCRIZIONE>
+            <ns0:LIMITANTE>02</ns0:LIMITANTE>
+        </ns0:CondizioniContrattuali>
+        <ns0:CondizioniContrattuali>
+            <ns0:TIPOLOGIA_CONDIZIONE>03</ns0:TIPOLOGIA_CONDIZIONE>
+            <ns0:DESCRIZIONE>Il Cliente potrà recedere in ogni momento dal contratto qualora le tariffe specificamente applicabili subiscano nell'anno contrattuale e per cause diverse da modifiche normative o tributarie un aumento superiore al 30%, dandone comunicazione con lettera raccomandata entro trenta giorni dalla decorrenza dell'aumento. Analoga facoltà è data al Cliente nei casi in cui il Distributore modifichi le condizioni o le caratteristiche della fornitura, dandone comunicazione con lettera raccomandata almeno trenta giorni prima dell'entrata in vigore di dette modificazioni. I Clienti potranno recedere dal contratto inqualsiasi momento dandone comunicazione con lettera raccomandata A/R con un preavviso di almeno tre settimane con inizio della fornitura dal primo giorno del mese successivo. Il termine di preavviso per il diritto di recesso, senza il fine di cambiare esercente, non può essere superiore ad un mese. Il Fornitore potrà recedere con un preavviso di sei mesi. Al fine di cambiare esercente, il Cliente si avvale del nuovo Esercente per inoltrare la comunicazione di recesso al precedente fornitore. In ogni caso il Cliente sarà tenuto al pagamento degli importi spettanti al Fornitore per il servizio fino ad allora prestato. Nel caso il Cliente faccia ritorno sul servizio di Maggior Tutela o di salvaguardia, questi deve darne espressa comunicazione al Fornitore nella raccomandata A/R di recesso</ns0:DESCRIZIONE>
+            <ns0:LIMITANTE>02</ns0:LIMITANTE>
+        </ns0:CondizioniContrattuali>
+    </ns0:offerta>
+    

@@ -1,0 +1,40 @@
+{
+  "id": "ccr-C1C-4-008011-2400",
+  "kind": "holdout",
+  "source": "official_portal",
+  "profile": "C1 C",
+  "municipality": {
+    "portalCode": "008011",
+    "name": "Camporosso"
+  },
+  "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+  "volume": "2400",
+  "acquisitionMonth": "2026-10",
+  "coverageStart": "2026-10-01",
+  "coverageEnd": "2027-09-30",
+  "baselineSales": "2816.8532991720096",
+  "baselineUncertainty": "0.00999999999",
+  "terms": [
+    {
+      "quarter": "2026-Q4",
+      "consumption": "819.6902496"
+    },
+    {
+      "quarter": "2027-Q1",
+      "consumption": "1476.6106512"
+    },
+    {
+      "quarter": "2027-Q2",
+      "consumption": "103.6990752"
+    },
+    {
+      "quarter": "2027-Q3",
+      "consumption": "0.0000216"
+    }
+  ],
+  "predictedSales": "2877.5552000144648",
+  "predictedUncertainty": "0.0302000144447999999999999999999999999999999999996",
+  "value": "0.025292458684356333333333333333333333333333333333334",
+  "uncertainty": "0.0000063333393561666666666666666666666666666666666665",
+  "predictedAt": "2026-10-29T23:02:56.543Z"
+}

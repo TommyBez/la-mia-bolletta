@@ -1,0 +1,113 @@
+{
+  "source": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+  "profile": {
+    "portalCode": "068028",
+    "name": "Pescara",
+    "annualSmc": "1200",
+    "usage": "RISC",
+    "meterGroup": "1",
+    "periodFrom": "2026-10-01",
+    "periodTo": "2027-09-30"
+  },
+  "observations": [
+    {
+      "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+      "observedAt": "2026-10-29T22:12:13.394378Z",
+      "file": "regulated-20261029.html.txt",
+      "sha256": "e6dc771f5a43559e08e22cdcac6c92138d577796ea483ec6fe961ca0b7177b4c",
+      "sales": "1511.33",
+      "network": "374.02",
+      "charges": "61.37",
+      "excise": "168.80",
+      "vat": "373.66",
+      "portalTotal": "2489.18",
+      "expectedNormativeTotal": "2489.18"
+    },
+    {
+      "offerCode": "029886GSVML01XXSENZAPENSIDOMGAS3",
+      "observedAt": "2026-10-29T22:18:19.599691Z",
+      "file": "mixed-20261029.html.txt",
+      "sha256": "1bb625d87bbcc18a8ef7d7f6704585baf1558dd8cb98449b84e70e3f6596e41d",
+      "sales": "1339.36",
+      "network": "374.02",
+      "charges": "61.37",
+      "excise": "168.80",
+      "vat": "567.47",
+      "portalTotal": "2511.03",
+      "expectedNormativeTotal": "2287.06",
+      "knownDivergence": "Portal mixed-branch VAT anomaly; normative calculation must not reproduce repeated monthly cumulative energy."
+    },
+    {
+      "offerCode": "001686GSFML00XXGFC1026DO00000000",
+      "observedAt": "2026-10-29T22:20:35.461558Z",
+      "file": "fixed-index-20261029.html.txt",
+      "sha256": "d8e3c2392fe1d5a55000a010bafc4bc4cb303547bbdade7692103298af31b52a",
+      "sales": "1146.00",
+      "network": "374.02",
+      "charges": "61.37",
+      "excise": "168.80",
+      "vat": "309.08",
+      "portalTotal": "2059.27",
+      "expectedNormativeTotal": "2059.27"
+    },
+    {
+      "offerCode": "000567GSFML14XX0000AGDOSCG261115",
+      "observedAt": "2026-10-29T22:21:14.201587Z",
+      "file": "tier-discount-20261029.html.txt",
+      "sha256": "4a8e07daeb9abf9b2d2ed55c71437b87fae6bdccb58e4908ea635f1920af0d51",
+      "sales": "979.14",
+      "network": "374.02",
+      "charges": "61.37",
+      "excise": "168.80",
+      "vat": "283.89",
+      "portalTotal": "1867.23",
+      "expectedNormativeTotal": "1867.23",
+      "beforeVatDiscountCodes": [
+        "gas.discount.0"
+      ]
+    },
+    {
+      "offerCode": "000567GSFML14XX0000AGDOSCG261115",
+      "observedAt": "2026-10-29T22:22:58.473997Z",
+      "file": "tier-discount-c2-20261029.html.txt",
+      "sha256": "bb5cad4873bc63f7e6df2507ee84da24082ac9f9be95c4c887d4cac20e22de12",
+      "usage": "cooking_hot_water",
+      "sales": "951.34",
+      "network": "374.02",
+      "charges": "61.37",
+      "excise": "168.80",
+      "vat": "281.11",
+      "portalTotal": "1836.65",
+      "expectedNormativeTotal": "1836.65",
+      "beforeVatDiscountCodes": [
+        "gas.discount.0"
+      ]
+    },
+    {
+      "offerCode": "026846GSFML46XX297FIXWEBLEGGOL24",
+      "observedAt": "2026-10-29T23:13:38Z",
+      "file": "gas-top-met-20261030.html.txt",
+      "sha256": "2b089d2d0c3c5d2e2ce841bf515666617162b2dc945585a7ae19e7dd4b5fca22",
+      "sales": "694.80",
+      "network": "374.02",
+      "charges": "61.37",
+      "excise": "168.80",
+      "vat": "228.07",
+      "portalTotal": "1505.06",
+      "expectedNormativeTotal": "1505.06"
+    },
+    {
+      "offerCode": "000567GSFML07XX00AGDOPRIMT261115",
+      "observedAt": "2026-10-29T23:13:38Z",
+      "file": "gas-top-atena-20261030.html.txt",
+      "sha256": "5ae1129755cd2d2932d43d11cc79ea0783a8e5d961ca1dffc9a3da6e251a93f5",
+      "sales": "858.00",
+      "network": "374.02",
+      "charges": "61.37",
+      "excise": "168.80",
+      "vat": "246.01",
+      "portalTotal": "1636.20",
+      "expectedNormativeTotal": "1636.20"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "observedOn": "2026-10-29",
+  "completedAt": "2026-10-29T22:29:43Z",
+  "officialPortalGasEligible": 7593,
+  "qualified": 7593,
+  "missing": [],
+  "unexpected": [],
+  "errors": [],
+  "profileCounts": {
+    "C1 E": 4208,
+    "C1 F": 1039,
+    "C1 D": 1431,
+    "C1 C": 791,
+    "C1 B": 124
+  },
+  "fiscalTuples": 19,
+  "normalizedDatasetSha256": "bfccf8683e84d0771f8d765d5b2e1e1af25a7eae1c79cea6edeffce8da075f1a",
+  "normalizedDatasetBytes": 7991983,
+  "scenarioSha256": "ced38e63a51bc3a974a7e1c3359a4044567665e028814e783d4a26ec4af4e98e",
+  "method": "Exact Portal municipality; synthetic4000Smc RISC; unique C1 profile fit to independently qualified current PSV; four excise and four regional brackets observed directly; no extrapolation from regional capitals"
+}

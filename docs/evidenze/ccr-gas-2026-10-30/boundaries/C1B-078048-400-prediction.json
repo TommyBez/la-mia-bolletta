@@ -1,0 +1,15 @@
+{
+  "profile": "C1 B",
+  "municipality": {
+    "portalCode": "078048",
+    "name": "Diamante"
+  },
+  "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+  "volume": "400",
+  "predictedSales": "612.64",
+  "predictedVat": "116.66",
+  "predictedTotal": "1006.46",
+  "totalBound": "0.015124",
+  "vatBound": "0.015924",
+  "predictedAt": "2026-10-29T23:07:58.987Z"
+}

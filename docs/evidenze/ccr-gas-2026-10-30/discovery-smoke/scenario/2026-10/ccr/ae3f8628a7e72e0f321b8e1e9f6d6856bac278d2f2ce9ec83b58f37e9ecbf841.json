@@ -1,0 +1,37 @@
+{
+  "id": "ccr-C2-1-068028-1200",
+  "kind": "calibration",
+  "source": "official_portal",
+  "profile": "C2",
+  "municipality": {
+    "portalCode": "068028",
+    "name": "Pescara"
+  },
+  "offerCode": "000836GSVML01XX000000000000FGASP",
+  "volume": "1200",
+  "acquisitionMonth": "2026-10",
+  "coverageStart": "2026-10-01",
+  "coverageEnd": "2027-09-30",
+  "baselineSales": "1298.0849991046052",
+  "baselineUncertainty": "0.005000000005",
+  "terms": [
+    {
+      "quarter": "2026-Q4",
+      "consumption": "346.4341068"
+    },
+    {
+      "quarter": "2027-Q1",
+      "consumption": "428.9112972"
+    },
+    {
+      "quarter": "2027-Q2",
+      "consumption": "228.71535"
+    },
+    {
+      "quarter": "2027-Q3",
+      "consumption": "195.9392472"
+    }
+  ],
+  "equation": "observedSales = baselineSales + volume * annualCCR",
+  "predictedAt": "2026-10-29T23:13:15.050Z"
+}

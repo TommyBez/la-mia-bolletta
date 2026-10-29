@@ -1,0 +1,120 @@
+{
+  "calibration": "Three samples 27 October, coefficients unchanged throughout main model; fixed120 from official detail/XML",
+  "sale_coefficients_eur_kwh": [
+    "0.2373633333333333333333333333",
+    "0.2458883333333333333333333333",
+    "0.2180383333333333333333333333"
+  ],
+  "spread": "0.0275",
+  "cdispd": "0.016776",
+  "lambda": "0.100000",
+  "implied_annual_index_eur_kwh": [
+    "0.1755339393939393939393939394",
+    "0.1832839393939393939393939394",
+    "0.1579657575757575757575757575"
+  ],
+  "warning": "Annual averages conditional on documented loss/spread/dispatch decomposition; all seven new checks within .005 euro. Does not uniquely recover quarterly curve.",
+  "checks": [
+    {
+      "code": "001686ESVFL00XXES2PC1026DO000000",
+      "bands": [
+        1000,
+        1000,
+        1000
+      ],
+      "predicted_unrounded_eur": "861.7899999999999999999999999",
+      "observed_eur": "861.79",
+      "residual_eur": "1E-25",
+      "within_0_02_eur": true,
+      "file": "profile-001686ESVFL00XXES2PC1026DO000000-1000-1000-1000.json"
+    },
+    {
+      "code": "001686ESVFL00XXES3PC1026DO000000",
+      "bands": [
+        0,
+        3000,
+        0
+      ],
+      "predicted_unrounded_eur": "857.6649999999999999999999999",
+      "observed_eur": "857.66",
+      "residual_eur": "-0.0049999999999999999999999",
+      "within_0_02_eur": true,
+      "file": "profile-001686ESVFL00XXES3PC1026DO000000-0-3000-0.json"
+    },
+    {
+      "code": "001686ESVFL00XXES3PC1026DO000000",
+      "bands": [
+        1000,
+        1000,
+        1000
+      ],
+      "predicted_unrounded_eur": "821.2899999999999999999999999",
+      "observed_eur": "821.29",
+      "residual_eur": "1E-25",
+      "within_0_02_eur": true,
+      "file": "profile-001686ESVFL00XXES3PC1026DO000000-1000-1000-1000.json"
+    },
+    {
+      "code": "001686ESVFL00XXES3PC1026DO000000",
+      "bands": [
+        1000,
+        1000,
+        2000
+      ],
+      "predicted_unrounded_eur": "1039.328333333333333333333333",
+      "observed_eur": "1039.33",
+      "residual_eur": "0.001666666666666666666667",
+      "within_0_02_eur": true,
+      "file": "profile-001686ESVFL00XXES3PC1026DO000000-1000-1000-2000.json"
+    },
+    {
+      "code": "001686ESVFL00XXES3PC1026DO000000",
+      "bands": [
+        1500,
+        0,
+        0
+      ],
+      "predicted_unrounded_eur": "476.0450000000000000000000000",
+      "observed_eur": "476.04",
+      "residual_eur": "-0.0050000000000000000000000",
+      "within_0_02_eur": true,
+      "file": "profile-001686ESVFL00XXES3PC1026DO000000-1500-0-0.json"
+    },
+    {
+      "code": "001686ESVFL00XXES3PC1026DO000000",
+      "bands": [
+        2000,
+        2000,
+        2000
+      ],
+      "predicted_unrounded_eur": "1522.580000000000000000000000",
+      "observed_eur": "1522.58",
+      "residual_eur": "0E-24",
+      "within_0_02_eur": true,
+      "file": "profile-001686ESVFL00XXES3PC1026DO000000-2000-2000-2000.json"
+    },
+    {
+      "code": "001686ESVFL00XXES3PC1026DO000000",
+      "bands": [
+        2000,
+        500,
+        1500
+      ],
+      "predicted_unrounded_eur": "1044.728333333333333333333333",
+      "observed_eur": "1044.73",
+      "residual_eur": "0.001666666666666666666667",
+      "within_0_02_eur": true,
+      "file": "profile-001686ESVFL00XXES3PC1026DO000000-2000-500-1500.json"
+    }
+  ],
+  "preregistered_arithmetic_error": {
+    "profile": [
+      2000,
+      500,
+      1500
+    ],
+    "recorded_number": "1044.09",
+    "correct_value_from_unchanged_formula": "1044.728333333333333333333333",
+    "explanation": "Arithmetic error in point prediction, not model refit; preserve original prediction file."
+  }
+}

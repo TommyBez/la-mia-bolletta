@@ -1,0 +1,24 @@
+{
+  "status": "proposal_not_yet_approved",
+  "month": "2026-11",
+  "historic_month": "2025-11",
+  "future_band_hours": [
+    "231",
+    "169",
+    "320"
+  ],
+  "historical_band_EUR_MWh": [
+    "129.59",
+    "124.02",
+    "105.51"
+  ],
+  "base_EUR_MWh": "219.44",
+  "normalizer": "117.580375",
+  "derived_band_EUR_MWh": [
+    "241.8535372080587427961511434",
+    "231.4582582339952564362887939",
+    "196.9130851981038502386133740"
+  ],
+  "weighted_mean": "219.4400000000000000000000",
+  "note": "Algebraic normalization check, not forecast accuracy."
+}

@@ -1,0 +1,155 @@
+{
+  "verifiedAt": "2026-10-29T23:07:39.830Z",
+  "environment": "development Neon + private Vercel Blob; local application/Workflow",
+  "referenceVersionId": "7e3a24a442efa8fa495b3a0cd8728ba6e4a3b279fb8fbaccc7f2116b79b45849",
+  "suppliers": 814,
+  "gasSaleSupplements": 11,
+  "statuses": [
+    {
+      "commodity": "electricity",
+      "status": "ready",
+      "catalogStatus": "ready",
+      "reasons": [],
+      "versionId": "0836a638a592e09872f8a02e5c06aca7ac0e05a843b549509c8ea3adec3dffee",
+      "referenceVersionId": "7e3a24a442efa8fa495b3a0cd8728ba6e4a3b279fb8fbaccc7f2116b79b45849",
+      "sourceDate": "2026-10-29",
+      "offerCount": 1872,
+      "peakFingerprintCount": 13,
+      "unqualifiedSaleFingerprints": [],
+      "coverage": {
+        "eligibleGas": 7593,
+        "qualifiedGas": 7593,
+        "gasNationalReady": true,
+        "crosswalkResolved": 7894,
+        "eligibleElectricity": 7964,
+        "unresolvedCrosswalk": 0,
+        "portalMunicipalities": 7972,
+        "currentMunicipalities": 7894,
+        "gasTerritoriesQualified": 7593,
+        "electricityNationalReady": true,
+        "electricityTerritoriesQualified": 7964
+      },
+      "manifest": {
+        "files": [
+          {
+            "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_10/PO_Offerte_E_MLIBERO_20261029.xml",
+            "kind": "offers",
+            "size": 21020959,
+            "sha256": "55c522617793f9d92cd50c0561d07711c6985e361199acbf276b023e4386ffe0",
+            "acquiredAt": "2026-10-29T22:08:35.923Z",
+            "sourceDate": "2026-10-29"
+          },
+          {
+            "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametriML/2026_10/PO_Parametri_Mercato_Libero_E_20261029.csv",
+            "kind": "parameters",
+            "size": 9912,
+            "sha256": "801bb798d551656be3e7e9db45431d81fc0bb5df147dfb4f94b722e577e639d0",
+            "acquiredAt": "2026-10-29T22:08:36.257Z",
+            "sourceDate": "2026-10-29"
+          }
+        ],
+        "perimeter": "official simulable free-market single domestic switching",
+        "exclusions": {
+          "dual_fuel": 33,
+          "not_switch": 25,
+          "non_domestic": 1672
+        },
+        "includedOffers": 1906,
+        "referenceCoverage": {
+          "eligibleGas": 7593,
+          "qualifiedGas": 7593,
+          "gasNationalReady": true,
+          "crosswalkResolved": 7894,
+          "eligibleElectricity": 7964,
+          "unresolvedCrosswalk": 0,
+          "portalMunicipalities": 7972,
+          "currentMunicipalities": 7894,
+          "gasTerritoriesQualified": 7593,
+          "electricityNationalReady": true,
+          "electricityTerritoriesQualified": 7964
+        },
+        "totalSourceOffers": 3636,
+        "normalizationVersion": "au-ml-normalizer-v2",
+        "supplierNameCoverage": {
+          "total": 322,
+          "missingVats": [
+            "03882060712"
+          ]
+        }
+      }
+    },
+    {
+      "commodity": "gas",
+      "status": "ready",
+      "catalogStatus": "ready",
+      "reasons": [],
+      "versionId": "0b348e30bbd8406bae629e9396c77f29ec7f7c2ec82da36b8bce435707ffd50f",
+      "referenceVersionId": "7e3a24a442efa8fa495b3a0cd8728ba6e4a3b279fb8fbaccc7f2116b79b45849",
+      "sourceDate": "2026-10-29",
+      "offerCount": 1529,
+      "peakFingerprintCount": 0,
+      "unqualifiedSaleFingerprints": [],
+      "coverage": {
+        "eligibleGas": 7593,
+        "qualifiedGas": 7593,
+        "gasNationalReady": true,
+        "crosswalkResolved": 7894,
+        "eligibleElectricity": 7964,
+        "unresolvedCrosswalk": 0,
+        "portalMunicipalities": 7972,
+        "currentMunicipalities": 7894,
+        "gasTerritoriesQualified": 7593,
+        "electricityNationalReady": true,
+        "electricityTerritoriesQualified": 7964
+      },
+      "manifest": {
+        "files": [
+          {
+            "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_10/PO_Offerte_G_MLIBERO_20261029.xml",
+            "kind": "offers",
+            "size": 14813873,
+            "sha256": "8b0e2b742b6795324ef2a14e79b1c7cfccab9aa5e62735e1972bb0bb32d09bac",
+            "acquiredAt": "2026-10-29T22:08:37.350Z",
+            "sourceDate": "2026-10-29"
+          },
+          {
+            "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametriML/2026_10/PO_Parametri_Mercato_Libero_G_20261029.csv",
+            "kind": "parameters",
+            "size": 6643,
+            "sha256": "961f3013002f5dd0a06432d2cd868255e2d423aeda6baa1239190c8af1c3c643",
+            "acquiredAt": "2026-10-29T22:08:37.480Z",
+            "sourceDate": "2026-10-29"
+          }
+        ],
+        "perimeter": "official simulable free-market single domestic switching",
+        "exclusions": {
+          "dual_fuel": 37,
+          "not_switch": 16,
+          "non_domestic": 1197
+        },
+        "includedOffers": 1555,
+        "referenceCoverage": {
+          "eligibleGas": 7593,
+          "qualifiedGas": 7593,
+          "gasNationalReady": true,
+          "crosswalkResolved": 7894,
+          "eligibleElectricity": 7964,
+          "unresolvedCrosswalk": 0,
+          "portalMunicipalities": 7972,
+          "currentMunicipalities": 7894,
+          "gasTerritoriesQualified": 7593,
+          "electricityNationalReady": true,
+          "electricityTerritoriesQualified": 7964
+        },
+        "totalSourceOffers": 2805,
+        "normalizationVersion": "au-ml-normalizer-v2",
+        "supplierNameCoverage": {
+          "total": 297,
+          "missingVats": [
+            "03882060712"
+          ]
+        }
+      }
+    }
+  ]
+}

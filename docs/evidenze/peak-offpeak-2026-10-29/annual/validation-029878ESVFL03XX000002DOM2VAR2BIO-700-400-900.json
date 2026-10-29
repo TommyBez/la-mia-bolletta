@@ -1,0 +1,17 @@
+{
+  "OffertaConfrontoResponse": {
+    "offerta": {
+      "codErrore": 0,
+      "codOfferta": "029878ESVFL03XX000002DOM2VAR2BIO",
+      "idCategoriaOfferta": "ML",
+      "idCommodity": "E",
+      "idOfferta": 1406353,
+      "idTipoCliente": "01",
+      "idTipoOfferta": "02",
+      "idTipologiaFasciaOraria": "07",
+      "oggettoFornitura": "DOMESTICO VARIABILE BIO",
+      "tuteleGraduali": false
+    },
+    "result_code": 200
+  }
+}

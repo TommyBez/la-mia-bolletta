@@ -1,0 +1,50 @@
+{
+  "portalCode": "066049",
+  "name": "L'Aquila",
+  "source": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+  "observedAt": "2026-10-29T12:00:00Z",
+  "syntheticAnnualSmc": "4000",
+  "usage": "RISC",
+  "calibrationOffer": "000971GSVML01XXPROD1300109202600",
+  "saleEur": "3527.86",
+  "operationalProfile": "C1 E",
+  "rates": {
+    "excise": [
+      {
+        "label": "Accisa - da 0 a 120 Smc",
+        "eur_smc": "0.038000"
+      },
+      {
+        "label": "Accisa - da 121 a 480 Smc",
+        "eur_smc": "0.135000"
+      },
+      {
+        "label": "Accisa - da 481 a 1.560 Smc",
+        "eur_smc": "0.120000"
+      },
+      {
+        "label": "Accisa - oltre 1.560 Smc",
+        "eur_smc": "0.150000"
+      }
+    ],
+    "regional": [
+      {
+        "label": "Add. reg. fino a 120 Smc",
+        "eur_smc": "0.010330"
+      },
+      {
+        "label": "Add. reg. da 121 a 480 Smc",
+        "eur_smc": "0.010330"
+      },
+      {
+        "label": "Add. reg. da 481 a 1.560 Smc",
+        "eur_smc": "0.010330"
+      },
+      {
+        "label": "Add. reg. - oltre 1.560 Smc",
+        "eur_smc": "0.010330"
+      }
+    ]
+  },
+  "costFragmentSha256": "7607eb73459cea3405c9b3a2638fe0d7b1e2b0cfab749d750975ed3ca6f5e7f9"
+}

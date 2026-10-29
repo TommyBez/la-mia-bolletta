@@ -1,0 +1,2114 @@
+
+--- PAGINA 1 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+1/47 
+ 
+ 
+ 
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO PER LA GESTIONE DEI FLUSSI INFORMATIVI 
+RELATIVI AI MERCATI DELL’ENERGIA ELETTRICA E DEL GAS  
+ 
+ 
+ 
+ 
+ 
+REGOLE PER IL CALCOLO DELLA  
+SPESA ANNUA STIMATA 
+ 
+ 
+ 
+
+--- PAGINA 2 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+2/47 
+ 
+Sommario 
+ 
+1 Contesto normativo .................................................................................................. 7 
+2 Scopo e contenuto del documento .............................................................................. 9 
+2.1 Riferimenti ........................................................................................................ 9 
+3 Algoritmo di calcolo della spesa annua stimata per l’energia elettrica ............................ 10 
+3.1 OFFERTA PLACET - EE ...................................................................................... 11 
+ Spesa Materia prima energia ...................................................................... 11 
+OFFERTA PLACET A PREZZO FISSO .......................................................................... 11 
+OFFERTA PLACET A PREZZO VARIABILE .................................................................... 12 
+ Spesa Commercializzazione ........................................................................ 12 
+ Spesa Dispacciamento ............................................................................... 12 
+ Spesa Tariffa per l’uso della rete elettrica ..................................................... 13 
+ Spesa Oneri generali di sistema .................................................................. 13 
+ Spesa Imposte ......................................................................................... 14 
+3.2 SERVIZIO DI MAGGIOR TUTELA ........................................................................ 16 
+ Spesa Materia prima energia ...................................................................... 16 
+ Spesa Commercializzazione ........................................................................ 16 
+ Spesa Tariffa per l’uso della rete elettrica ..................................................... 17 
+ Spesa Oneri generali di sistema .................................................................. 17 
+ Spesa Imposte ......................................................................................... 17 
+3.3 SERVIZIO A TUTELE GRADUALI per clienti DOMESTICI ......................................... 18 
+ Spesa Materia prima energia ...................................................................... 18 
+ Spesa Commercializzazione ........................................................................ 19 
+ Spesa Dispacciamento ............................................................................... 19 
+ Spesa Tariffa per l’uso della rete elettrica ..................................................... 19 
+ Spesa Oneri generali di sistema .................................................................. 19 
+ Spesa Imposte ......................................................................................... 19 
+3.4 OFFERTA MERCATO LIBERO – EE ....................................................................... 20 
+ Spesa Materia prima energia ...................................................................... 21 
+OFFERTA SCONTO SUL SERVIZIO DI MAGGIOR TUTELA .............................................. 21 
+
+--- PAGINA 3 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+3/47 
+ 
+OFFERTA MERCATO LIBERO EE – PREZZO FISSO ....................................................... 22 
+OFFERTA MERCATO LIBERO EE – PREZZO VARIABILE ................................................. 24 
+OFFERTA MERCATO LIBERO EE – STRUTTURA DI PREZZO MISTA ................................. 25 
+VALIDITA’ CONDIZIONI ECONOMICHE ...................................................................... 25 
+ Spesa Commercializzazione ........................................................................ 26 
+OFFERTA MERCATO LIBERO EE – CORRISPETTIVI ONNICOMPRENSIVI .......................... 26 
+OFFERTA MERCATO LIBERO EE - CORRISPETTIVI ONNICOMPRENSIVI A CANONE........... 27 
+ Spesa Dispacciamento ............................................................................... 27 
+ Spesa Tariffa per l’uso della rete elettrica ..................................................... 28 
+ Spesa Oneri generali di sistema .................................................................. 28 
+ Spesa Componente Impresa Una-Tantum .................................................... 28 
+ Spesa Sconto ........................................................................................... 28 
+VALIDITA’ CONDIZIONI ECONOMICHE ...................................................................... 30 
+ Spesa Imposte ......................................................................................... 30 
+4 Algoritmo di calcolo della spesa annua stimata per il gas naturale ................................ 31 
+4.1 OFFERTA PLACET – GAS NATURALE ................................................................... 31 
+ Spesa Vendita gas naturale ........................................................................ 31 
+OFFERTA PLACET A PREZZO FISSO .......................................................................... 31 
+OFFERTA PLACET A PREZZO VARIABILE .................................................................... 31 
+ Spesa Tariffa per l’uso della rete del gas naturale ......................................... 32 
+ Spesa Oneri generali di sistema .................................................................. 33 
+ Spesa Imposte ......................................................................................... 33 
+4.2 SERVIZIO DI TUTELA DELLA VULNERABILITÀ ...................................................... 35 
+ Spesa Vendita gas naturale ........................................................................ 35 
+ Spesa Tariffa per l’uso della rete del gas naturale ......................................... 35 
+ Spesa Oneri generali di sistema .................................................................. 35 
+ Spesa Imposte ......................................................................................... 35 
+4.3 OFFERTA MERCATO LIBERO - GAS NATURALE ..................................................... 36 
+ Spesa Materia prima gas naturale ............................................................... 37 
+OFFERTA SCONTO SUL SERVIZIO DI TUTELA DELLA VULNERABILITÀ ........................... 37 
+OFFERTA MERCATO LIBERO GAS – PREZZO FISSO ..................................................... 37 
+
+--- PAGINA 4 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+4/47 
+ 
+OFFERTA MERCATO LIBERO GAS – PREZZO VARIABILE............................................... 38 
+OFFERTA MERCATO LIBERO GAS – STRUTTURA DI PREZZO MISTA ............................... 38 
+VALIDITA’ CONDIZIONI ECONOMICHE ...................................................................... 38 
+ Spesa Commercializzazione ........................................................................ 39 
+OFFERTA MERCATO LIBERO GAS – CORRISPETTIVI ONNICOMPRENSIVI ....................... 40 
+OFFERTA MERCATO LIBERO GAS - CORRISPETTIVI ONNICOMPRENSIVI A CANONE ........ 40 
+ Spesa Tariffa per l’uso della rete del gas naturale ......................................... 41 
+ Spesa Oneri generali di sistema .................................................................. 41 
+ Spesa Componente Impresa Una-Tantum .................................................... 41 
+ Spesa Sconto ........................................................................................... 41 
+VALIDITA’ CONDIZIONI ECONOMICHE ...................................................................... 42 
+ Spesa Imposte ......................................................................................... 42 
+5 Regole di utilizzo dei forward per il calcolo della spesa annua stimata per le offerte a prezzo 
+variabile ...................................................................................................................... 43 
+Profili di Prelievo GAS anno termico 2026/2027 ............................................................. 45 
+Codici corrispettivi ..................................................................................................... 46 
+ 
+ 
+
+--- PAGINA 5 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+5/47 
+ 
+Revisioni del documento 
+ 
+Ver Data Natura della Modifica 
+1.00 30/06/2018 Prima stesura del documento 
+1.01 30/09/2018 
+Integrazione regole calcolo della spesa per i servizi di tutela gas 
+e maggior tutela elettrica, nonché offerte a sconto sulla maggior 
+tutela per l’energia elettrica e il gas 
+2.00 20/12/2018 Integrazione regole calcolo della spesa per le offerte del mercato 
+libero per l’energia elettrica e il gas 
+2.01 18/03/2019 Integrazione regole di calcolo con lo “sconto vendita” 
+3.00 11/02/2020 
+Evoluzione regole di calcolo: 
+- Offerte con scaglioni di consumo e validità condizioni 
+economiche 
+- Offerte FLAT 
+- Applicazione componenti regolate 
+3.01 07/10/2021 
+Correzione algoritmo calcolo della spesa per le offerte a sconto 
+su maggior tutela (sconto applicato alla PE) 
+Offerte a prezzo variabile energia elettrica: Applicazione delle 
+perdite di rete solo sui valori forward, lo spread è trasmesso dai 
+venditori già comprensivo delle perdite 
+Aggiornamento profilo prelievo GAS per AT 2021/2022 
+3.02 21/01/2022 
+Integrazione corrispettivo mercato capacità nel calcolo della 
+spesa elettrica annua. 
+- Offerte PLACET il PO considera il corrispettivo 
+automaticamente 
+- Offerte Mercato libero  il venditore deve inserire il 
+corrispettivo come componente del dispacciamento o 
+componente impresa. 
+Eliminazione offerte FLAT 
+3.03 02/10/2023 
+Modifiche in occasione  del t ermine della Maggior Tutela per 
+utenze non domestiche e aggiornamento del profilo di prelievo 
+gas per l’Anno Termico 2023/2024. 
+
+--- PAGINA 6 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+6/47 
+ 
+3.04 23/01/2025 
+Introduzione del Corrispettivo Dispacciamento previsto dal TIDE 
+(Testo Integrato del Dispacciamento Elettrico) e aggiornamento 
+del profilo di prelievo gas per l’Anno Termico 2024/2025. 
+4.0 16/02/2026 Aggiornamenti in ottemperanza alle disposizioni della Delibera 
+386/2025/R/com, in vigore dal 01/04/2026 
+4.1 31/03/2026 Correzione refusi 
+4.2 05/10/2026 Aggiornamento del profilo di prelievo gas per l’Anno Termico 
+2026/2027 e correzione refusi 
+ 
+
+--- PAGINA 7 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+7/47 
+ 
+1 Contesto normativo  
+ 
+L’art. 1 bis della legge 129/10 ha istituito, presso Acquirente Unico SpA, il Sistema Informatico 
+Integrato per la gestione dei flussi informativi relativi ai mercati dell’energia elettrica e del gas 
+naturale (SII), basato su una banca dati dei punti di prelievo e dei dati identificativi dei clienti 
+finali. 
+ 
+L’Allegato A alla deliberazione ARG/com 201/10 dell’Autorità per l’energia elettrica il gas e il 
+sistema idrico, ora Autorità di Regolazione per Energia Reti e Ambiente (di seguito: Autorità ) ha 
+definito i criteri generali, il modello di funzionamento e il modello organizzativo del SII e d ha 
+attributo ad Acquirente Unico il ruolo di Gestore del SII. 
+ 
+Con la deliberazione 79/2012/R/com l’Autorità ha approvato il Regolamento per il funzionamento 
+del SII (Regolamento di Funzionamento), proposto da Acquirente Unico ai sensi dell’articolo 2, 
+comma 2.6, del suindicato Allegato A alla deliberazione ARG/com 201/10. 
+ 
+Con il documento per la consultazione 204/2017/R/com l’Autorità ha definito gli orientamenti in 
+merito all'introduzione delle offerte standard per l'energia elettrica e per il gas naturale e per la 
+revisione delle condizioni contrattuali non economiche delle altre offerte di mercato libero.  
+ 
+Con la deliberazione 553/207/R/eel, preceduta dal documento di consultazione 374/2017/R/com,   
+vengono ridefinite le tempistiche per la determinazione e la pubblicazione, da parte di Terna , di 
+alcuni corrispettivi di dispacciamento al fine di garantire la possibilità, sia in relazione all'offerta 
+PLACET (Offerte a Prezzo Libero a Condizioni Equiparate di Tutela) sia in relazione a ogni altra 
+offerta sul libero mercato, di applicare in manie ra "passante" anche i corrispettivi di 
+dispacciamento, introducendo semplificazioni sia per i venditori sia per i clienti finali e una 
+riduzione degli oneri amministrativi a beneficio di questi.  
+ 
+Con la delibera 555/2017/R/com l ’Autorità approva la disciplina delle offerte a Prezzo Libero A 
+Condizioni Equiparate di Tutela (offerte PLACET), contenuta nell'Allegato A del provvedimento, 
+con lo scopo di rafforzare la capacità di scelta dei clienti di piccole dimensioni e superare 
+l'asimmetria informativa. 
+ 
+Con la deliberazione 610/2017/R/com l’Autorità reca l’avvio di tre procedimenti per l'attuazione 
+dei primi interventi previsti dalla Legge 4 agosto 2017, n. 124 (Legge annuale per il mercato e la 
+
+--- PAGINA 8 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+8/47 
+ 
+concorrenza) relativi all'ulteriore sviluppo del mercato retail e alla cessazione della tutela di 
+prezzo per i clienti domestici e le piccole imprese nei settori dell'energia elettrica e d el gas 
+naturale. 
+ 
+A seguito di tale disposizione viene avviata la consultazione 763/2017/R/com in merito alla 
+realizzazione e la gestione da parte del Gestore del SII di un portale informatico per la raccolta 
+e la pubblicazione delle offerte vigenti sul mercato retail, secondo le disposizioni di cui all'articolo 
+1, comma 61 della legge 124/17.  
+ 
+Con delibera 51/2018/R/com, integrata dalla deliberazione  263/2018/A contenente 
+l’approvazione delle previsioni di spesa  di Acquirente Unico , viene definita  la disciplina per la 
+realizzazione e la gestione del Portale per la pubblicazione delle offerte rivolte ai clienti finali 
+domestici e alle piccole e medie imprese nei mercati al dettaglio dell'energia elettrica e del gas 
+naturale 
+ 
+Con la deliberazione 848/2017/R/com l’Autorità individua lo strumento per la comparazione delle 
+offerte a prezzo libero a condizioni equiparate di tutela (offerte PLACET) e reca chiarimenti in 
+merito alla deliberazione 555/2017/R/com. 
+ 
+Con la deliberazione 386/2025/R/com l’Autorità ha definito misure di razionalizzazione dei 
+corrispettivi delle offerte di energia elettrica e gas naturale per i clienti domestici e introdotto 
+obblighi informativi nella fase precontrattuale, per la redazion e dei contratti di fornitura e per le 
+comunicazioni di modifica delle condizioni contrattuali, al fine di dare piena attuazione delle 
+disposizioni sulla trasparenza e confrontabilità delle offerte. 
+ 
+
+--- PAGINA 9 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+9/47 
+ 
+2 Scopo e contenuto del documento 
+ 
+Il presente documento definisce le regole per il calcolo della spesa annua stimata per le offerte 
+per la fornitura di energia elettrica e gas disponibili sul Portale Offerte. 
+ 
+ 
+2.1 Riferimenti 
+ 
+La presente specifica ed i suoi allegati fanno riferimento alla documentazione seguente.  
+ 
+RIF. DOCUMENTO  INDIRIZZO DI PUBBLICAZIONE 
+[1]  Funzionamento e Specifiche 
+del Processo di Trasmissione 
+Offerte  
+https://siiportale.acquirenteunico.it/processi/trasversali/mer
+cato-retail 
+ 
+ 
+
+--- PAGINA 10 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+10/47 
+ 
+3 Algoritmo di calcolo della spesa annua stimata per l’energia 
+elettrica 
+Nel presente capitolo viene descritto l’algoritmo di calcolo utilizzato dal Portale Offerte ai fini della 
+definizione della spesa annua stimata per le offerte di energia elettrica a prezzo fisso e a prezzo 
+variabile, comprese que lle con una struttura di prezzo mista  e quelle con corrispettivi 
+onnicomprensivi. 
+Ai fini della definizione della spesa vengono sommate le componenti  relative alla vendita  di 
+energia elettrica (che comprendono materia prima, commercializzazione e dispacciamento) , 
+quelle afferenti alla tariffa per l’uso della rete elettrica, gli oneri generali di sistema e le imposte, 
+secondo la seguente formula: 
+SPESA ANNUA = Spesa VenditaEnergiaElettrica + Spesa TariffaUsoReteElettrica + Spesa OneriGeneraliSistema + 
+SpesaImposte 
+ 
+ 
+Il consumo annuo per l’energia elettrica, ai fini del calcolo della spesa stimata, viene considerato 
+costante durante l’anno. 
+Ai fini del calcolo della stima della spesa per la commodity elettrica viene applicato il consumo 
+ripartito tra le fasce orarie secondo i dati storici (se il cliente finale si identifica sul Portale Offerte 
+tramite SPID/CIE) o secondo quanto indicato dal cliente; in caso di mancata valorizzazione da 
+parte di quest’ultimo, è pari al calcolo della stima del consumo effettuata mediante il simulatore 
+disponibile sul portale e ripartito in modo convenzionale tra le fasce secondo la seguente 
+profilazione: 
+ 
+Domestico: 
+Fascia Consumo Annuo 
+F1 33 % 
+F2 31 % 
+F3 36 % 
+ 
+Non Domestico: 
+Fascia Consumo Annuo 
+F1 44 % 
+F2 24 % 
+
+--- PAGINA 11 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+11/47 
+ 
+F3 32 % 
+ 
+FASCIA DESCRIZIONE 
+F0 Monoraria 
+F1 (ore di punta) lun-ven dalle 8.00 alle 19.00, escluse festività nazionali  
+F2 (ore intermedie)              lun-ven dalle 7.00 alle 8.00 e dalle 19.00 alle 23.00,  
+sabato dalle 7.00 alle 23.00,  escluse festività nazionali 
+F3 (ore fuori punta)             lun-sab dalle 23.00 alle 7.00 e la domenica e i festivi 1tutta 
+la giornata 
+F23 F2+F3 
+ 
+ 
+ 
+ 
+3.1  OFFERTA PLACET - EE 
+ 
+ Spesa Materia prima energia 
+OFFERTA PLACET A PREZZO FISSO 
+3.1.1.1   Utente domestico: 
+ 
+In caso di prezzo biorario: 
+𝑆𝑝𝑒𝑠𝑎𝐸𝑛𝑒𝑟𝑔𝑖𝑎 = 𝑃𝐹𝐼𝑋𝐹 + 𝑃𝑉𝑂𝐿𝐵𝐹1
+∗ 𝐶𝑂𝑁𝑆𝐹1 + 𝑃𝑉𝑂𝐿𝐵𝐹23
+∗ (𝐶𝑂𝑁𝑆𝐹2 + 𝐶𝑂𝑁𝑆𝐹3) 
+oppure, in caso di prezzo monorario: 
+𝑆𝑝𝑒𝑠𝑎𝑀𝑎𝑡𝑒𝑟𝑖𝑎𝐸𝑛𝑒𝑟𝑔𝑖𝑎 = 𝑃𝐹𝐼𝑋𝐹 + 𝑃𝑉𝑂𝐿𝑀𝑜𝑛𝑜 ∗ 𝐶𝑂𝑁𝑆𝐹0  
+3.1.1.2  Utente NON domestico: 
+ 
+In caso di prezzo triorario: 
+𝑆𝑝𝑒𝑠𝑎𝐸𝑛𝑒𝑟𝑔𝑖𝑎 = 𝑃𝐹𝐼𝑋𝐹 + 𝑃𝑉𝑂𝐿𝐹𝐹1
+∗ 𝐶𝑂𝑁𝑆𝐹1 + 𝑃𝑉𝑂𝐿𝐹𝐹2
+∗ 𝐶𝑂𝑁𝑆𝐹2 + 𝑃𝑉𝑂𝐿𝐹𝐹3
+∗ 𝐶𝑂𝑁𝑆𝐹3  
+oppure, in caso di prezzo monorario: 
+ 
+1 Si considerano festivi: 1 gennaio; 6 gennaio; lunedì di Pasqua; 25 Aprile; 1 maggio; 2  
+giugno; 15 agosto; 1 novembre; 8 dicembre; 25 dicembre; 26 dicembre 
+
+--- PAGINA 12 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+12/47 
+ 
+𝑆𝑝𝑒𝑠𝑎𝑀𝑎𝑡𝑒𝑟𝑖𝑎𝐸𝑛𝑒𝑟𝑔𝑖𝑎 = 𝑃𝐹𝐼𝑋𝐹 + 𝑃𝑉𝑂𝐿𝑀𝑜𝑛𝑜 ∗ 𝐶𝑂𝑁𝑆𝐹0  
+ 
+OFFERTA PLACET A PREZZO VARIABILE 
+3.1.1.3  Utente domestico: 
+𝑆𝑝𝑒𝑠𝑎𝑀𝑎𝑡𝑒𝑟𝑖𝑎𝐸𝑛𝑒𝑟𝑔𝑖𝑎 = 𝑃𝐹𝐼𝑋𝑉 + ∑ {(1 + λ)∗ [(PINGMBF1 + α)∗ CONSF1 + (PINGMBF23 + α)∗ (CONSF2 + CONSF3)]}4
+𝑖=1   
+oppure, in caso di prezzo monorario: 
+𝑆𝑝𝑒𝑠𝑎𝑀𝑎𝑡𝑒𝑟𝑖𝑎𝐸𝑛𝑒𝑟𝑔𝑖𝑎 = 𝑃𝐹𝐼𝑋𝑉 + ∑ [(1 + λ)∗ (PINGMF0 + α)∗ CONSF0]j
+4
+𝑖=1   
+3.1.1.4  Utente NON domestico: 
+In caso di prezzo triorario: 
+𝑆𝑝𝑒𝑠𝑎𝑀𝑎𝑡𝑒𝑟𝑖𝑎𝐸𝑛𝑒𝑟𝑔𝑖𝑎 = ∑ {PFIXV + (1 + λ)∗ [(PINGMFF1
++ α) ∗ CONSF1 + (PINGMFF2
++ α) ∗ CONSF2 + (PINGMFF3
++ α) ∗4
+𝑖=1
+CONSF3]}𝑗  
+ 
+oppure, in caso di prezzo monorario: 
+𝑆𝑝𝑒𝑠𝑎𝑀𝑎𝑡𝑒𝑟𝑖𝑎𝐸𝑛𝑒𝑟𝑔𝑖𝑎 = 𝑃𝐹𝐼𝑋𝑉 + (1 + 𝜆)∗ (𝑃𝐼𝑁𝐺𝑀𝐹0 + 𝛼)∗ 𝐶𝑂𝑁𝑆𝐹0  
+ 
+ Spesa Commercializzazione 
+ 
+ Spesa Dispacciamento 
+3.1.3.1 Utente domestico: 
+𝑆𝑝𝑒𝑠𝑎𝐷𝑖𝑠𝑝𝑎𝑐𝑐𝑖𝑎𝑚𝑒𝑛𝑡𝑜 = (𝐶𝑑𝑖𝑠𝑝𝐷)∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒 
+Dove: 
+𝑀𝐶𝑚 è il corrispettivo mercato capacità mensile definito dalla ARERA per il trimestre in corso  
+𝐶𝑑𝑖𝑠𝑝𝐷 è il corrispettivo dispacciamento previsto per il Servizio a Tutele Graduali Domestici per il 
+trimestre in corso 
+ 
+3.1.3.2 Utente NON domestico: 
+𝑆𝑝𝑒𝑠𝑎𝐷𝑖𝑠𝑝𝑎𝑐𝑐𝑖𝑎𝑚𝑒𝑛𝑡𝑜
+= [(𝐶𝑜𝑟𝑟𝐷𝑖𝑠𝑝+ 𝑖𝑓(𝑇𝑢𝑡𝑒𝑙𝑒𝐺𝑟𝑎𝑑𝑢𝑎𝑙𝑖; 𝑅𝑆𝑇𝐺; 𝑅𝑆𝑇)] ∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒 + 𝑀𝐶1 + 𝑀𝐶2 + 𝑀𝐶3
+3
+∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒 
+Dove: 
+𝑀𝐶𝑚 è il corrispettivo mercato capacità mensile definito dalla ARERA per il trimestre in corso  
+
+--- PAGINA 13 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+13/47 
+ 
+𝐶𝑜𝑟𝑟𝐷𝑖𝑠𝑝 è il corrispettivo dispacciamento previsto dal TIDE per il trimestre in corso 
+𝑅𝑆𝑇𝐺 è il corrispettivo di reintegrazione oneri per il Servizio a Tutele Graduali  
+𝑅𝑆𝑇 è il corrispettivo di reintegrazione oneri per il Servizio di Salvaguardia 
+  Spesa Tariffa per l’uso della rete elettrica 
+ 
+3.1.4.1 Utente domestico: 
+𝑺𝒑𝒆𝒔𝒂𝑻𝒂𝒓𝒊𝒇𝒇𝒂𝑼𝒔𝒐𝑹𝒆𝒕𝒆𝑬𝒍𝒆𝒕𝒕𝒓𝒊𝒄𝒂 = 𝜎1 + 𝜎2 ∗ 𝑃𝑂𝑇𝐸𝑁𝑍𝐴+ 𝜎3 ∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒 + 𝑈𝐶3 ∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒 + 𝑈𝐶6𝑃𝐷 ∗
+𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒 + 𝑈𝐶6𝑆𝐷 ∗ 𝑃𝑂𝑇𝐸𝑁𝑍𝐴  
+3.1.4.2 Utente NON domestico: 
+𝑺𝒑𝒆𝒔𝒂𝑻𝒂𝒓𝒊𝒇𝒇𝒂𝑼𝒔𝒐𝑹𝒆𝒕𝒆𝑬𝒍𝒆𝒕𝒕𝒓𝒊𝒄𝒂 = 𝐷𝐼𝑆𝐵𝑛𝐹 + 𝐷𝐼𝑆𝐵𝑛𝑃 ∗ 𝑃𝑂𝑇𝐸𝑁𝑍𝐴+ 𝐷𝐼𝑆𝐵𝑛𝐶 ∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒 + 𝑇𝑅𝐴𝑆∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒 +
+𝑀𝐼𝑆+ 𝑈𝐶3 + 𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒 + 𝑈𝐶6𝑃𝑁𝐷 ∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒 + 𝑈𝐶6𝑆𝑁𝐷   
+ 
+Codice tariffa Parametro Potenza 
+BTA1 DIS_B1 <= 1,5 kW 
+BTA2 DIS_B2 da 1,5 <= 3 kW 
+BTA3 DIS_B3 da 3 <= 6 kW 
+BTA4 DIS_B4 da 6 <= 10 kW 
+BTA5 DIS_B5 da 10 <= 16,5 kW 
+BTA6 DIS_B6 > 16,5 kW 
+ 
+ Spesa Oneri generali di sistema 
+3.1.5.1 Utente domestico 
+• se residente: 
+𝑺𝒑𝒆𝒔𝒂𝑶𝒏𝒆𝒓𝒊𝑮𝒆𝒏𝒆𝒓𝒂𝒍𝒊𝑺𝒊𝒔𝒕𝒆𝒎𝒂 = (𝑨𝑺𝑶𝑺𝑫𝑹𝒗 + 𝑨𝑹𝑰𝑴𝑫𝑹𝒗)∗ 𝑪𝑶𝑵𝑺𝑻𝒐𝒕 
+• se NON residente: 
+𝑺𝒑𝒆𝒔𝒂𝑶𝒏𝒆𝒓𝒊𝑮𝒆𝒏𝒆𝒓𝒂𝒍𝒊𝑺𝒊𝒔𝒕𝒆𝒎𝒂
+= 𝐴𝑆𝑂𝑆𝐷𝑁𝑅𝐹 + 𝐴𝑅𝐼𝑀𝐷𝑁𝑅𝐹 + (𝐴𝑆𝑂𝑆𝐷𝑁𝑅𝑣 + 𝐴𝑅𝐼𝑀𝐷𝑁𝑅𝑣)∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡 
+ 
+
+--- PAGINA 14 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+14/47 
+ 
+3.1.5.2 Utente NON domestico 
+𝑺𝒑𝒆𝒔𝒂𝑶𝒏𝒆𝒓𝒊𝑮𝒆𝒏𝒆𝒓𝒂𝒍𝒊𝑺𝒊𝒔𝒕𝒆𝒎𝒂 = 𝐴𝑆𝑂𝑆𝑁𝐷𝐵𝑛𝐹
++ 𝐴𝑆𝑂𝑆𝑁𝐷𝐵𝑛𝑃
+∗ 𝑃𝑂𝑇𝐸𝑁𝑍𝐴+ 𝐴𝑆𝑂𝑆𝑁𝐷𝐵𝑛𝐶
+∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒 +
+𝐴𝑅𝐼𝑀𝑁𝐷𝐵𝑛𝐹
++ 𝐴𝑅𝐼𝑀𝑁𝐷𝐵𝑛𝑃
+∗ 𝑃𝑂𝑇𝐸𝑁𝑍𝐴+ 𝐴𝑅𝐼𝑀𝑁𝐷𝐵𝑛𝐶
+∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒  
+ Spesa Imposte 
+3.1.6.1 Utente domestico 
+𝑺𝒑𝒆𝒔𝒂𝑰𝒎𝒑𝒐𝒔𝒕𝒆 = 𝐴𝑐𝑐𝑖𝑠𝑎𝐸𝑟𝑎𝑟𝑖𝑎𝑙𝑒 + 𝐼𝑉𝐴  
+• se residente: 
+se POTENZA ≤ 3kW 
+𝑨𝒄𝒄𝒊𝒔𝒂𝑬𝒓𝒂𝒓𝒊𝒂𝒍𝒆 = 𝑖𝑓(𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒≤1800; 0; 𝐴𝐶𝐶𝐶𝑅𝐿
+∗ [𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒 − 𝑖𝑓(𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒≤2640; min(1800; 𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒); max((1800− 𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒−2640)); 0)]) 
+altrimenti: 
+𝑨𝒄𝒄𝒊𝒔𝒂𝑬𝒓𝒂𝒓𝒊𝒂𝒍𝒆 = 𝐴𝐶𝐶𝐶𝑅𝐻
+∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒  
+• se NON residente: 
+𝑨𝒄𝒄𝒊𝒔𝒂𝑬𝒓𝒂𝒓𝒊𝒂𝒍𝒆 = 𝐴𝐶𝐶𝐶𝑁𝑅 ∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒  
+𝐼𝑉𝐴= 𝐼𝑉𝐴𝐶 ∗ (𝑆𝑝𝑒𝑠𝑎𝑀𝑎𝑡𝑒𝑟𝑖𝑎𝐸𝑛𝑒𝑟𝑔𝑖𝑎+ 𝑆𝑝𝑒𝑠𝑎𝐶𝑜𝑚𝑚𝑒𝑟𝑐𝑖𝑎𝑙𝑖𝑧𝑧𝑎𝑧𝑖𝑜𝑛𝑒+ 𝑆𝑝𝑒𝑠𝑎𝐷𝑖𝑠𝑝𝑎𝑐𝑐𝑖𝑎𝑚𝑒𝑛𝑡𝑜+
+𝑆𝑝𝑒𝑠𝑎𝑇𝑎𝑟𝑖𝑓𝑓𝑎𝑈𝑠𝑜𝑅𝑒𝑡𝑒𝐸𝑙𝑒𝑡𝑡𝑟𝑖𝑐𝑎+ 𝑆𝑝𝑒𝑠𝑎𝑂𝑛𝑒𝑟𝑖𝐺𝑒𝑛𝑒𝑟𝑎𝑙𝑖𝑆𝑖𝑠𝑡𝑒𝑚𝑎+ 𝐴𝑐𝑐𝑖𝑠𝑎𝐸𝑟𝑎𝑟𝑖𝑎𝑙𝑒)  
+ 
+3.1.6.2 Utente NON domestico 
+𝑺𝒑𝒆𝒔𝒂𝑰𝒎𝒑𝒐𝒔𝒕𝒆 = 𝐴𝑐𝑐𝑖𝑠𝑎𝐸𝑟𝑎𝑟𝑖𝑎𝑙𝑒 + 𝐼𝑉𝐴  
+ 
+se ConsumoAnnuo ≤ 14.400.000  
+𝑨𝒄𝒄𝒊𝒔𝒂𝑬𝒓𝒂𝒓𝒊𝒂𝒍𝒆 = 𝐴𝐶𝐶𝐴𝐿𝐿
+∗ min(𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒; 2.400.000)+ if(𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒 > 2.400.000; 𝐴𝐶𝐶𝐴𝐿𝐻
+∗
+(𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒 − 2.400.000); 0)  
+altrimenti: 
+𝑨𝒄𝒄𝒊𝒔𝒂𝑬𝒓𝒂𝒓𝒊𝒂𝒍𝒆 = 𝐴𝐶𝐶𝐴𝐻𝐿
+∗ 𝑚𝑖𝑛(𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒; 2.400.000)+ 𝐴𝐶𝐶𝐴𝐻𝐻
+∗ 12  
+𝑰𝑽𝑨 = 𝐼𝑉𝐴𝐴 ∗ (𝑆𝑝𝑒𝑠𝑎𝐸𝑛𝑒𝑟𝑔𝑖𝑎 + 𝑆𝑝𝑒𝑠𝑎𝐶𝑜𝑚𝑚𝑒𝑟𝑐𝑖𝑎𝑙𝑖𝑧𝑧𝑎𝑧𝑖𝑜𝑛𝑒+ 𝑆𝑝𝑒𝑠𝑎𝐷𝑖𝑠𝑝𝑎𝑐𝑐𝑖𝑎𝑚𝑒𝑛𝑡𝑜+ 𝑆𝑝𝑒𝑠𝑎𝑇𝑎𝑟𝑖𝑓𝑓𝑒𝑅𝑒𝑡𝑒 +
+𝑆𝑝𝑒𝑠𝑎𝑂𝑛𝑒𝑟𝑖𝑆𝑖𝑠𝑡𝑒𝑚𝑎+ 𝐴𝑐𝑐𝑖𝑠𝑎𝐸𝑟𝑎𝑟𝑖𝑎𝑙𝑒)  
+ 
+ 
+ 
+
+--- PAGINA 15 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+15/47 
+ 
+ 
+ 
+ 
+ACCISA - Imposta erariale c€/kWh 
+  
+USI DOMESTICI  
+Forniture per abitazione di residenza anagrafica ("prima casa")  
+• Forniture fino a 3 kW*  
+- Consumi fino a 150  kWh/mese 0 
+- Consumi oltre 150  kWh/mese 2,27 
+• Forniture oltre 3 kW 2,27 
+Forniture per non residenti ("seconde case") 2,27 
+  
+ALTRI USI  
+Forniture fino a 1.200.000 kWh/mese  
+- Primi 200.000 kWh consumati nel mese 1,25 
+- Consumi oltre 200.000 kWh nel mese 0,75 
+Forniture oltre 1.200.000 kWh/mese  
+- Primi 200.000 kWh consumati nel mese 1,25 
+- Consumi oltre 200.000 kWh nel mese 4820 €  in misura 
+fissa 
+IVA Aliquota 
+USI DOMESTICI e assimilati - Servizi condominiali (edifici residenziali) 10% 
+  
+ALTRI USI  22% 
+ 
+ 
+
+--- PAGINA 16 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+16/47 
+ 
+3.2 SERVIZIO DI MAGGIOR TUTELA 
+ 
+ Spesa Materia prima energia 
+                                                                                                                                                                                                                                            
+3.2.1.1 Utente domestico 
+Algoritmo di calcolo in caso di cliente domestico residente o non residente e prezzo biorario (F1, 
+F23): 
+𝑺𝒑𝒆𝒔𝒂𝑬𝒏𝒆𝒓𝒈𝒊𝒂 = (1 + 𝜆)∗ {
+[∑ (𝑃𝐼𝑁𝐺𝑀𝐹1𝑄𝑖
+)4
+𝑖=1 ]
+4 ∗ 𝐶𝑂𝑁𝑆𝐹1 +
+[∑ (𝑃𝐼𝑁𝐺𝑀𝐹23𝑄𝑖
+)4
+𝑖=1 ]
+4 ∗ (𝐶𝑂𝑁𝑆𝐹2 + 𝐶𝑂𝑁𝑆𝐹3)}
++ (𝑃𝐷𝐵𝐹1 ∗ 𝐶𝑂𝑁𝑆𝐹1)+ 𝑃𝐷𝐵𝐹23 ∗ (𝐶𝑂𝑁𝑆𝐹2 + 𝐶𝑂𝑁𝑆𝐹3)+ (𝑂𝑁𝑓𝑖𝑛 + 𝐹𝑈𝑁𝑍𝐴𝑈)∗ 𝐶𝑂𝑁𝑆_𝑇𝑂𝑇 
+ 
+i= 4 trimestri di riferimento delle quotazioni forward 
+𝑃𝐼𝑁𝐺𝑀_𝐹1𝑄𝑖
+ = valore forward della fascia F1 del trimestre i-esimo 
+𝑃𝐼𝑁𝐺𝑀𝐹23𝑄𝑖
+ = valore forward della fascia F23 del trimestre i-esimo 
+ 
+oppure, in caso di trattamento monorario: 
+𝑺𝒑𝒆𝒔𝒂𝑬𝒏𝒆𝒓𝒈𝒊𝒂 = (1 + 𝜆)∗ {
+[∑ (𝑃𝐼𝑁𝐺𝑀𝐹0𝑄𝑖
+)4
+𝑖=1 ]
+4 ∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒} + (𝑃𝐷𝑀𝐹0 + 𝑂𝑁_𝑓𝑖𝑛+ 𝐹𝑈𝑁𝑍_𝐴𝑈)∗ 𝐶𝑂𝑁𝑆_𝑇𝑂𝑇 
+ 
+i= 4 trimestri di riferimento delle quotazioni forward 
+ 
+ Spesa Commercializzazione            
+                                                                                                                                                                                                                                             
+3.2.2.1 Utente domestico 
+ 
+𝑆𝑝𝑒𝑠𝑎𝐶𝑜𝑚𝑚𝑒𝑟𝑐𝑖𝑎𝑙𝑖𝑧𝑧𝑎𝑧𝑖𝑜𝑛𝑒= 𝐷𝐼𝑆𝑃𝑏𝑡𝐹 + 𝑃𝐶𝑉_𝐹𝐷𝑜𝑚  
+ 
+
+--- PAGINA 17 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+17/47 
+ 
+ 
+ Spesa Tariffa per l’uso della rete elettrica 
+ 
+Vedi 3.1.4 
+ 
+ Spesa Oneri generali di sistema 
+Vedi 3.1.5 
+ 
+ Spesa Imposte 
+Vedi 3.1.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGINA 18 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+18/47 
+ 
+3.3 SERVIZIO A TUTELE GRADUALI per clienti DOMESTICI 
+ 
+Il calcolo della spesa del Servizio a Tutele Graduali per clienti Domestici viene effettuato nel caso 
+in cui l’utente inserisca un codice offerta relativo al servizio fra gli input di ricerca. 
+ Spesa Materia prima energia 
+                                                                                                                                                                                                                                            
+Algoritmo di calcolo in caso di cliente domestico residente o non residente e prezzo biorario (F1, 
+F23): 
+𝑺𝒑𝒆𝒔𝒂𝑬𝒏𝒆𝒓𝒈𝒊𝒂 = (1 + 𝜆)∗ {
+[∑ (𝑃𝐼𝑁𝐺𝑀𝐹1𝑄𝑖
+)4
+𝑖=1 ]
+4 ∗ 𝐶𝑂𝑁𝑆𝐹1 +
+[∑ (𝑃𝐼𝑁𝐺𝑀𝐹23𝑄𝑖
+)4
+𝑖=1 ]
+4 ∗ (𝐶𝑂𝑁𝑆𝐹2 + 𝐶𝑂𝑁𝑆𝐹3)}
++ (𝐶𝑠𝑒𝐷+ 𝐶𝑝𝑠𝑡𝑔𝐷)∗ 𝐶𝑂𝑁𝑆_𝑇𝑂𝑇 
+ 
+i= 4 trimestri di riferimento delle quotazioni forward 
+𝑃𝐼𝑁𝐺𝑀_𝐹1𝑄𝑖
+ = valore forward della fascia F1 del trimestre i-esimo 
+𝑃𝐼𝑁𝐺𝑀𝐹23𝑄𝑖
+ = valore forward della fascia F23 del trimestre i-esimo 
+ 
+oppure, in caso di trattamento monorario: 
+𝑺𝒑𝒆𝒔𝒂𝑬𝒏𝒆𝒓𝒈𝒊𝒂 = (1 + 𝜆)∗ {
+[∑ (𝑃𝐼𝑁𝐺𝑀𝐹0𝑄𝑖
+)4
+𝑖=1 ]
+4 ∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒} + (𝐶𝑠𝑒𝐷+ 𝐶𝑝𝑠𝑡𝑔𝐷)∗ 𝐶𝑂𝑁𝑆_𝑇𝑂𝑇 
+ 
+i= 4 trimestri di riferimento delle quotazioni forward 
+Dove: 
+CSED = corrispettivo previsto per il Servizio a Tutele Graduali Domestici mantenuto fisso per 
+tutta la durata del servizio 
+CPSTGD = corrispettivo previsto per il Servizio a Tutele Graduali Domestici per il trimestre in 
+corso 
+ 
+ 
+ 
+
+--- PAGINA 19 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+19/47 
+ 
+ Spesa Commercializzazione            
+ 
+𝑆𝑝𝑒𝑠𝑎𝐶𝑜𝑚𝑚𝑒𝑟𝑐𝑖𝑎𝑙𝑖𝑧𝑧𝑎𝑧𝑖𝑜𝑛𝑒= 𝐺𝐴𝑀𝑀𝐴 
+Dove: 
+GAMMA è il corrispettivo previsto per il Servizio a Tutele Graduali Domestici determinato a valle 
+delle procedure concorsuali 
+ 
+ Spesa Dispacciamento 
+ 
+𝑆𝑝𝑒𝑠𝑎𝐷𝑖𝑠𝑝𝑎𝑐𝑐𝑖𝑎𝑚𝑒𝑛𝑡𝑜 = (𝐶𝑑𝑖𝑠𝑝𝐷)∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒 
+Dove: 
+𝐶𝑑𝑖𝑠𝑝𝐷 è il corrispettivo dispacciamento previsto per il Servizio a Tutele Graduali Domestici per il 
+trimestre in corso 
+ 
+ Spesa Tariffa per l’uso della rete elettrica 
+ 
+Vedi 3.1.4 
+ 
+ Spesa Oneri generali di sistema 
+Vedi 3.1.5 
+ 
+ Spesa Imposte 
+Vedi 3.1.6 
+
+--- PAGINA 20 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+20/47 
+ 
+3.4 OFFERTA MERCATO LIBERO – EE  
+ 
+Di seguito la struttura delle componenti che concorrono al calcolo della stima della spesa annua. 
+ 
+SPESA ANNUA =  
+𝑆𝑃𝐸𝑆𝐴𝑀𝑎𝑡𝑒𝑟𝑖𝑎𝑃𝑟𝑖𝑚𝑎𝐸𝑁𝐸𝑅𝐺𝐼𝐴 
++𝑆𝑃𝐸𝑆𝐴COMMERCIALIZZAZIONE 
++𝑆𝑃𝐸𝑆𝐴DISPACCIAMENTO 
++𝑆𝑃𝐸𝑆𝐴TARIFFAUSORETEelettrica
+ 
++𝑆𝑃𝐸𝑆𝐴ONERIGENERALISISTEMA
+ 
++S𝑃𝐸𝑆𝐴COMPONENTEIMPRESAUNATANTUM
+ 
+−SPESAScontoVendita 
+−𝑆𝑃𝐸𝑆𝐴SCONTOUNATANTUM (𝑠𝑒 𝐼𝑉𝐴_𝑆𝐶𝑂𝑁𝑇𝑂 =  ‘𝑆𝐼’) 
++𝑆𝑃𝐸𝑆𝐴Imposte 
+−S𝑃𝐸𝑆𝐴SCONTOUNATANTUM (𝑠𝑒 𝐼𝑉𝐴_𝑆𝐶𝑂𝑁𝑇𝑂 =  ‘𝑁𝑂’) 
+ 
+
+--- PAGINA 21 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+21/47 
+ 
+ Spesa Materia prima energia 
+OFFERTA SCONTO SUL SERVIZIO DI MAGGIOR TUTELA 
+ 
+3.4.1.1 Utente domestico 
+• se residente o non residente: 
+𝑺𝒑𝒆𝒔𝒂𝑬𝒏𝒆𝒓𝒈𝒊𝒂 = {(1 + 𝜆)∗
+[∑ (𝑃𝐼𝑁𝐺𝑀𝐹1𝑄𝑖
+)4
+𝑖=1 ]
+4 ∗ 𝐶𝑂𝑁𝑆𝐹1 + (1 + 𝜆)∗
+[∑ (𝑃𝐼𝑁𝐺𝑀𝐹23𝑄𝑖
+)4
+𝑖=1 ]
+4 ∗ (𝐶𝑂𝑁𝑆𝐹2 + 𝐶𝑂𝑁𝑆𝐹3)+
+(𝑂𝑁𝑓𝑖𝑛 + 𝐹𝑈𝑁𝑍𝐴𝑈)∗ 𝐶𝑂𝑁𝑆𝑇𝑂𝑇} ∗ (1 − 𝛽)−  𝛾 ∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒 + 𝐶𝑅𝑃𝑃𝐸 ∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒   
+i= 4 trimestri di riferimento delle quotazioni forward 
+ 
+oppure, in caso di trattamento monorario: 
+𝑺𝒑𝒆𝒔𝒂𝑬𝒏𝒆𝒓𝒈𝒊𝒂 = {(1 + 𝜆)∗
+[∑ (𝑃𝐼𝑁𝐺𝑀𝐹0𝑄𝑖
+)4
+𝑖=1 ]
+4 ∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒 + (𝑂𝑁𝑓𝑖𝑛 + 𝐹𝑈𝑁𝑍𝐴𝑈)∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒} ∗ (1 − 𝛽)
+−  𝛾 ∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒 + 𝐶𝑅𝑃𝑃𝐸 ∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒 
+i= 4 trimestri di riferimento delle quotazioni forward 
+3.4.1.2 Utente NON domestico 
+• Se trattato per fasce 
+𝑆𝑝𝑒𝑠𝑎𝐸𝑛𝑒𝑟𝑔𝑖𝑎 = {(1 + 𝜆)∗
+[∑ (𝑃𝐼𝑁𝐺𝑀𝐹1𝑄𝑖
+)4
+𝑖=1 ]
+4 ∗ 𝐶𝑂𝑁𝑆𝐹1 + (1 + 𝜆)∗
+[∑ (𝑃𝐼𝑁𝐺𝑀𝐹2𝑄𝑖
+)4
+𝑖=1 ]
+4 ∗ 𝐶𝑂𝑁𝑆𝐹2 + (1 + 𝜆)∗
+[∑ (𝑃𝐼𝑁𝐺𝑀𝐹3𝑄𝑖
+)4
+𝑖=1 ]
+4 ∗ 𝐶𝑂𝑁𝑆𝐹3 + (𝑂𝑁𝑓𝑖𝑛 + 𝐹𝑈𝑁𝑍𝐴𝑈)∗ 𝐶𝑂𝑁𝑆𝑇𝑂𝑇} ∗ (1 − 𝛽)−  𝛾 ∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒 + 𝐶𝑅𝑃𝑃𝐸 ∗
+𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒  
+oppure, in caso di trattamento monorario: 
+𝑺𝒑𝒆𝒔𝒂𝑬𝒏𝒆𝒓𝒈𝒊𝒂 = {(1 + 𝜆)∗
+[∑ (𝑃𝐼𝑁𝐺𝑀𝐹0𝑄𝑖
+)4
+𝑖=1 ]
+4 ∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒 + (𝑂𝑁𝑓𝑖𝑛 + 𝐹𝑈𝑁𝑍𝐴𝑈)} ∗ (1 − 𝛽)−  𝛾
+∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒 + 𝐶𝑅𝑃𝑃𝐸 ∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒 
+ 
+
+--- PAGINA 22 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+22/47 
+ 
+NOTE:  
+Lo sconto sulla Maggior Tutela deve essere non condizionato (CONDIZIONE_APPLICAZIONE=00) 
+- β è lo sconto percentuale applicato e trasmesso dal venditore 
+Indicato nella sezione Sconto/PREZZISconto con TIPOLOGIA=04 , UNITA_MISURA=06 e 
+PREZZO=%applicata (es. 5.5% valorizzato 5.5) 
+Si precisa che ulteriori sconti in percentuale (es. Sconto vendita) non saranno considerati in caso 
+di sconto percentuale su maggior tutela. 
+- γ è lo sconto in corrispettivo (€/kWh) applicato e trasmesso dal venditore 
+Indicato nella sezione Sconto/PREZZISconto con TIPOLOGIA=04, UNITA_MISURA=03 €/kWh  
+N.B. le due tipologie di sconto su tutela (β e γ) sono sempre alternativi. 
+Per TIPOLOGIA=04 non è possibile valorizzare la sezione Sconto/PeriodoValidita  
+CRPPE è la Componente Regolata, se inserita dal venditore, con campo CODICE=02  
+ 
+OFFERTA MERCATO LIBERO EE – PREZZO FISSO 
+S_ENERGIA=  componenti fisse +  componenti quota energia +  componenti quota potenza +  
+componenti regolate 
+ 
+3.4.1.3   Utente domestico: 
+ 
+In caso di prezzo biorario: 
+𝑆𝑝𝑒𝑠𝑎𝐸𝑛𝑒𝑟𝑔𝑖𝑎 = 𝑃_𝑓𝑖𝑥FER + (P_volQEBF1
+∗ CONSF1 +  P_volQEBF23
+∗ CONSF23)
++ (P_volFERBF1
+∗ CONSF1 + P_volFERBF23
+∗ CONSF23) + 𝐶𝑅𝑃𝑃𝐸 ∗ 𝐶𝑂𝑁𝑆_𝑇𝑜𝑡𝑎𝑙𝑒 
+Dove: 
+𝑃_𝑓𝑖𝑥FER   è la componente impresa con macroarea = 06 (FER) e unità di misura = 01 (fix) 
+P_volQEBFj
+  è la componente impresa con macroarea = 04 (QE) e unità di misura = 03 (vol) 
+trasmessa per la fascia j con tipologia fasce = 91 (B) 
+P_volFERBFj
+ è la componente impresa con macroarea = 06 (FER) e unità di misura = 03 (vol) 
+trasmessa per la fascia j con tipologia fasce = 91 (B) 
+CONSFj è il consumo nella fascia j, inserito dall’utente nella consultazione del Portale Offerte 
+CRPPE è la Componente Regolata, se inserita dal venditore, con campo CODICE=02 
+
+--- PAGINA 23 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+23/47 
+ 
+N.B. tutti i corrispettivi espressi in €/kWh devono includere le perdite di rete. Il Portale Offerte applica le 
+perdite di rete solo dove espressamente previsti dagli algoritmi del presente documento . 
+Oppure, in caso di prezzo monorario: 
+ 𝑆𝑝𝑒𝑠𝑎𝐸𝑛𝑒𝑟𝑔𝑖𝑎 = 𝑃_𝑓𝑖𝑥FER + (P_volQE𝑀F0
+∗ CONSF0) + (P_volFER𝑀F0
+∗ CONSF0) + 𝐶𝑅𝑃𝑃𝐸 ∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒 
+ 
+Dove: 
+P_volQEMFj
+  è la componente impresa con macroarea = 04 (QE) e unità di misura = 03 (vol) 
+trasmessa per la fascia j con tipologia fasce = 01 (M) 
+P_volFERMFj
+ è la componente impresa con macroarea = 06 (FER) e unità di misura = 03 (vol) 
+trasmessa per la fascia j con tipologia fasce = 01 (M) 
+ 
+ 
+3.4.1.4  Utente NON domestico: 
+ 
+In caso di prezzo per fasce: 
+ 𝑆𝑝𝑒𝑠𝑎𝐸𝑛𝑒𝑟𝑔𝑖𝑎 = 𝑃_𝑓𝑖𝑥FER + (P_volQETF1
+∗ CONSF1 + P_volQETF2
+∗ CONSF2 + P_volQETF3
+∗ CONSF3) +
+(P_volFERTF1
+∗ CONSF1 + P_volFERTF2
+∗ CONSF2 + P_volFERTF3
+∗ CONSF3) + 𝑃_𝑝𝑜𝑡QE ∗ 𝑃𝑂𝑇𝐸𝑁𝑍𝐴+ 𝐶𝑅𝑃𝑃𝐸 ∗
+𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒 
+ 
+Dove: 
+P_volQETFj
+  è la componente impresa con macroarea = 04 (QE) e unità di misura = 03 (vol) 
+trasmessa per la fascia j con tipologia fasce = 03 (T) 
+P_volFERTFj
+ è la componente impresa con macroarea = 06 (FER) e unità di misura = 03 (vol) 
+trasmessa per la fascia j con tipologia fasce = 03 (T) 
+ 
+oppure, in caso di prezzo monorario: 
+S_ENERGIA= 𝑃_𝑓𝑖𝑥FER + (P_volQE𝑀F0
+∗ CONSF0) + (P_volFER𝑀F0
+∗ CONSF0) + 𝑃_𝑝𝑜𝑡QE ∗ 𝑃𝑂𝑇𝐸𝑁𝑍𝐴+ 𝐶𝑅𝑃𝑃𝐸 ∗
+𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒 
+ 
+Dove: 
+P_volQEMFj
+  è la componente impresa con macroarea = 04 (QE) e unità di misura = 03 (vol) 
+trasmessa per la fascia j con tipologia fasce = 01 (M) 
+
+--- PAGINA 24 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+24/47 
+ 
+P_volFERMFj
+ è la componente impresa con macroarea = 06 (FER) e unità di misura = 03 (vol) 
+trasmessa per la fascia j con tipologia fasce = 01 (M) 
+ 
+ 
+OFFERTA MERCATO LIBERO EE – PREZZO VARIABILE 
+S_ENERGIA =  componenti fisse +  componenti quota energia +   componenti quota potenza+  
+componenti regolate 
+di cui in quota energia :  
+[∑ (𝐼𝐷𝑋𝐹1𝑄𝑖)4
+𝑖=1 ]
+4 + 𝑆𝑃𝑅𝐸𝐴𝐷 (sommatoria dei valori forward F1 dei 
+quattro trimestri/4 + SPREAD) e 𝑃_𝑣𝑜𝑙𝐹𝐸𝑅  
+i= 4 trimestri di riferimento delle quotazioni forward 
+j=fasce orarie utilizzate per il calcolo (accettate F1, F2, F3, F0, F23, F13, F12)  
+ 
+3.4.1.5  Utente domestico: 
+𝑺𝒑𝒆𝒔𝒂𝑬𝒏𝒆𝒓𝒈𝒊𝒂 = 𝑃_𝑓𝑖𝑥𝐹𝐸𝑅 + {[
+[∑ (𝐼𝐷𝑋𝐹1𝑄𝑖)4
+𝑖=1 ]
+4 ∗ (1 + 𝜆)+ 𝑆𝑃𝑅𝐸𝐴𝐷] ∗ 𝐶𝑂𝑁𝑆𝐹1 + [
+[∑ (𝐼𝐷𝑋𝐹23𝑄𝑖)4
+𝑖=1 ]
+4 ∗ (1 + 𝜆)+
+𝑆𝑃𝑅𝐸𝐴𝐷] ∗ (𝐶𝑂𝑁𝑆𝐹2 + 𝐶𝑂𝑁𝑆𝐹3)} + (𝑃_𝑣𝑜𝑙𝐹𝐸𝑅𝐵𝐹1
+∗ 𝐶𝑂𝑁𝑆𝐹1 + 𝑃_𝑣𝑜𝑙𝐹𝐸𝑅𝐵𝐹23
+∗ 𝐶𝑂𝑁𝑆𝐹23) + 𝐶𝑅𝑃𝑃𝐸 ∗
+𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒  
+ 
+Dove: 
+𝐼𝐷𝑋𝐹1𝑄𝑖 indice di riferimento indicato nel campo IDX_PREZZO_ENERGIA per la fascia F1 e trimestre 
+i-esimo 
+𝐼𝐷𝑋𝐹23𝑄𝑖 indice di riferimento indicato nel campo IDX_PREZZO_ENERGIA  per la fascia F23 e 
+trimestre i-esimo 
+SPREAD è la componente impresa con Nome=SPREAD, Macroarea = 04 e Unità di misura = 03   
+La sezione prezzi componente impresa “spread”, come tutte le componenti impresa 
+con Macroarea = 04 e Unità di misura = 03, per la commodity energia elettrica dovrà 
+essere ripetuta in funzione delle fasce indicate in TIPOLOGIA_FASCE. 
+ 
+Oppure, in caso di prezzo monorario: 
+𝑺𝒑𝒆𝒔𝒂𝑬𝒏𝒆𝒓𝒈𝒊𝒂 = 𝑃_𝑓𝑖𝑥𝐹𝐸𝑅 + {[
+[∑ (𝐼𝐷𝑋𝐹0𝑄𝑖)4
+𝑖=1 ]
+4 ∗ (1 + 𝜆)+ 𝑆𝑃𝑅𝐸𝐴𝐷] ∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒} + (𝑃_𝑣𝑜𝑙𝐹𝐸𝑅𝑀𝐹0
+∗
+𝐶𝑂𝑁𝑆𝐹0) + 𝐶𝑅𝑃𝑃𝐸 ∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒  
+
+--- PAGINA 25 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+25/47 
+ 
+3.4.1.6  Utente NON domestico: 
+ 
+In caso di prezzo per fasce: 
+𝑺𝒑𝒆𝒔𝒂𝑬𝒏𝒆𝒓𝒈𝒊𝒂 = 𝑃_𝑓𝑖𝑥𝐹𝐸𝑅 + {[
+[∑ (𝐼𝐷𝑋𝐹1𝑄𝑖)4
+𝑖=1 ]
+4 ∗ (1 + 𝜆)+ 𝑆𝑃𝑅𝐸𝐴𝐷] ∗ 𝐶𝑂𝑁𝑆𝐹1 + [
+[∑ (𝐼𝐷𝑋𝐹2𝑄𝑖)4
+𝑖=1 ]
+4 ∗ (1 + 𝜆)+
+𝑆𝑃𝑅𝐸𝐴𝐷] ∗ 𝐶𝑂𝑁𝑆𝐹2 + [
+[∑ (𝐼𝐷𝑋𝐹3𝑄𝑖)4
+𝑖=1 ]
+4 ∗ (1 + 𝜆)+ 𝑆𝑃𝑅𝐸𝐴𝐷] ∗ 𝐶𝑂𝑁𝑆𝐹3} + (𝑃_𝑣𝑜𝑙𝐹𝐸𝑅𝑇𝐹1
+∗ 𝐶𝑂𝑁𝑆𝐹1 + 𝑃_𝑣𝑜𝑙𝐹𝐸𝑅𝑇𝐹2
+∗
+𝐶𝑂𝑁𝑆𝐹2 + 𝑃_𝑣𝑜𝑙𝐹𝐸𝑅𝑇𝐹3
+∗ 𝐶𝑂𝑁𝑆𝐹3) + 𝑃_𝑝𝑜𝑡𝑄𝐸 ∗ 𝑃𝑂𝑇𝐸𝑁𝑍𝐴+ 𝐶𝑅𝑃𝑃𝐸 ∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒  
+oppure, in caso di prezzo monorario: 
+𝑺𝒑𝒆𝒔𝒂𝑬𝒏𝒆𝒓𝒈𝒊𝒂 = 𝑃_𝑓𝑖𝑥𝐹𝐸𝑅 + {[
+[∑ (𝐼𝐷𝑋𝐹0𝑄𝑖)4
+𝑖=1 ]
+4 ∗ (1 + 𝜆)+ 𝑆𝑃𝑅𝐸𝐴𝐷] ∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒} + (𝑃_𝑣𝑜𝑙𝐹𝐸𝑅𝑀𝐹0
+∗ 𝐶𝑂𝑁𝑆𝐹0)
++ 𝑃_𝑝𝑜𝑡𝑄𝐸 ∗ 𝑃𝑂𝑇𝐸𝑁𝑍𝐴+ 𝐶𝑅𝑃𝑃𝐸 ∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒 
+ 
+Dal 01/04/2026, nei casi in cui venga trasmesso più di un indice di riferimento per l’offerta , per 
+ognuno di essi viene svolto il calcolo descritto in questo paragrafo e il risultato viene moltiplicato 
+per il valore indicato nel campo COEFFICIENTE della sezione RiferimentiPrezzoEnergia del 
+tracciato per la trasmissione delle offerte. 
+ 
+ 
+OFFERTA MERCATO LIBERO EE – STRUTTURA DI PREZZO MISTA 
+Dal 01/04/2026 per le offerte in cui coesistono componenti a prezzo fisso e a prezzo variabile, 
+valgono le regole di calcolo descritte nei due paragrafi precedenti, che vengono applicate  
+alternativamente in base a  come viene valorizzato il campo TIPO_PREZZO nella sezione 
+ComponenteImpreza/IntervalloPrezzi del tracciato per la trasmissione delle offerte , per fascia, 
+scaglione e periodo di riferimento. 
+ 
+ 
+ 
+VALIDITA’ CONDIZIONI ECONOMICHE 
+Compilando la sezione ComponenteImpresa/IntervalloPrezzi/PeriodoValidita il venditore può 
+indicare se il prezzo applicato, trasmesso come Componente impresa, ha validità per periodi 
+temporali inferiori all’anno, a partire dalla data di attivazione dell’offerta (ossia l’interrogazione 
+del Portale Offerte). 
+DURATA, indica i primi mesi dalla attivazione dell’offerta  
+VALIDO_FINO, indica il mese fino al quale il prezzo è valido 
+
+--- PAGINA 26 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+26/47 
+ 
+MESE_VALIDITA, mese solare di validità, possibile indicare un prezzo per ogni mese (gen -dic). 
+Le 3 modalità sono sempre alternative.  Solo VALIDO_FINO può essere utilizzato in più  
+IntervalloPrezzo per la stessa ComponenteImpresa. 
+Se si inserisce un prezzo con indicazione dello scaglione e/o della validità è obbligatorio  
+aggiungere una sezione IntervalloPrezzi senza indicazione né di scaglione né di validità.  Tale 
+prezzo sarà utilizzato, ai fini della stima della spesa annua,  di default in caso i prezzi trasmessi 
+non coprano un periodo temporale e/o parte di consumo. 
+ 
+ Spesa Commercializzazione 
+S_COMMERCIALIZZAZIONE =  Componenti Impresa commercializzazioneFisse +  
+Componenti Impresa commercializzazioneQuotaEnergia +  componenti regolate 
+ + DISP_bt 
+3.4.2.1 Utente domestico 
+ 
+𝑆𝑝𝑒𝑠𝑎𝐶𝑜𝑚𝑚𝑒𝑟𝑐𝑖𝑎𝑙𝑖𝑧𝑧𝑎𝑧𝑖𝑜𝑛𝑒= PfixCF + PvolCE ∗ CONSTotale + 𝐷𝐼𝑆𝑃𝑏𝑡𝐹 + CRPCV  
+ 
+3.4.2.2 Utente NON domestico 
+ 
+𝑆𝑝𝑒𝑠𝑎𝐶𝑜𝑚𝑚𝑒𝑟𝑐𝑖𝑎𝑙𝑖𝑧𝑧𝑎𝑧𝑖𝑜𝑛𝑒= 𝑃𝑓𝑖𝑥𝐶𝐹 + 𝑃𝑣𝑜𝑙𝐶𝐸 ∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒 + 𝐷𝐼𝑆𝑃𝑏𝑡𝐹 + CRPCV 
+ 
+Dove: 
+PfixCF è la componente impresa con macroarea = 01 (CF) e unità di misura = 05 (fix)  
+𝑃𝑣𝑜𝑙𝐶𝐸 è la componente impresa con macroarea = 02 (CE) e unità di misura = 03 (vol)  
+CRPCV è la Componente Regolata  per utenze domestiche , se inserita dal venditore, con campo 
+CODICE=01 
+𝐷𝐼𝑆𝑃𝑏𝑡𝐹 è la Componente Regolata per utenze domestiche, se inserita dal venditore, con valore 
+nel campo TIPO_DISPACCIAMENTO = 13 
+ 
+OFFERTA MERCATO LIBERO EE – CORRISPETTIVI ONNICOMPRENSIVI 
+Di seguito la struttura delle componenti che concorrono al calcolo della stima della spesa annua 
+per le offerte con corrispettivi onnicomprensivi, a partire dal 01/04/2026: 
+ 
+SPESA ANNUA =  
+
+--- PAGINA 27 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+27/47 
+ 
+𝑆𝑃𝐸𝑆𝐴COMMERCIALIZZAZIONE 
+−𝑆𝑃𝐸𝑆𝐴SCONTOUNATANTUM (𝑠𝑒 𝐼𝑉𝐴_𝑆𝐶𝑂𝑁𝑇𝑂 =  ‘𝑆𝐼’) 
++𝑆𝑃𝐸𝑆𝐴Imposte 
+−S𝑃𝐸𝑆𝐴SCONTOUNATANTUM (𝑠𝑒 𝐼𝑉𝐴_𝑆𝐶𝑂𝑁𝑇𝑂 =  ‘𝑁𝑂’) 
+ 
+ 
+OFFERTA MERCATO LIBERO EE - CORRISPETTIVI ONNICOMPRENSIVI A CANONE 
+ 
+In caso di offerta con corrispettivi onnicomprensivi a canone, dal 01/04/2026 la spesa per la 
+commercializzazione viene calcolata come di seguito descritto: 
+PREZZO FISSO 
+𝑆𝑝𝑒𝑠𝑎𝐶𝑜𝑚𝑚𝑒𝑟𝑐𝑖𝑎𝑙𝑖𝑧𝑧𝑎𝑧𝑖𝑜𝑛𝑒= PfixOC + [PvolOC ∗ (CONSTotale − CONSRifOfferta)] 
+ 
+PREZZO VARIABILE 
+𝑆𝑝𝑒𝑠𝑎𝐶𝑜𝑚𝑚𝑒𝑟𝑐𝑖𝑎𝑙𝑖𝑧𝑧𝑎𝑧𝑖𝑜𝑛𝑒= PfixOC + [
+[∑ (𝐼𝐷𝑋𝐹0𝑄𝑖)4
+𝑖=1 ]
+4 ∗ (1 + 𝜆)+ PvolOC] ∗ (CONSTotale −  CONSRifOfferta) 
+ 
+Dove: 
+PfixOC è la componente impresa onnicomprensiva con macroarea = 01 e unità di misura = 01 
+PvolOC è la componente impresa onnicomprensiva con macroarea = 02 e unità di misura = 03 
+CONSRifOfferta è il consumo di riferimento dell’offerta, indicato nel campo CONSUMO_CANONE della 
+sezione DettaglioOfferta del tracciato per la trasmissione delle offerte. 
+ 
+ 
+ Spesa Dispacciamento 
+ 
+3.4.3.1 Utente domestico: 
+ 
+- Se TIPO_DISPACCIAMENTO=14 (Corrispettivo Dispacciamento Tutele Graduali)  
+(dal 01/04/2026) 
+S_DISPACCIAMENTO= (CdispD)∗ CONSTot  
+ 
+
+--- PAGINA 28 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+28/47 
+ 
+3.4.3.2 Utente NON domestico: 
+ 
+- Se TIPO_DISPACCIAMENTO=01 (Corrispettivo Dispacciamento previsto dal TIDE)  
+S_DISPACCIAMENTO= (CorrDisp)∗ CONSTot  
+ 
+- Se TIPO_DISPACCIAMENTO=02 (Maggior Tutela) 
+S_DISPACCIAMENTO= 𝑃𝐷 ∗ CONSTot 
+ 
+- Se TIPO_DISPACCIAMENTO=14 (Corrispettivo Dispacciamento Tutele Graduali)  
+ 
+S_DISPACCIAMENTO= (CdispD)∗ CONSTot  
+ 
+- Se TIPO_DISPACCIAMENTO=99 (Altro) 
+S_DISPACCIAMENTO= 𝑉𝐴𝐿𝑂𝑅𝐸𝐷𝑖𝑠𝑝 ∗ CONSTot 
+ 
+ 
+ Spesa Tariffa per l’uso della rete elettrica 
+Vedi 3.1.4 
+ 
+ Spesa Oneri generali di sistema 
+Vedi 3.1.5 
+ 
+ Spesa Componente Impresa Una-Tantum 
+S_COMPONENTE_IMPRESA_UNA_TANTUM = 𝑃_𝑓𝑖𝑥UnaTantum 
+Dove: 
+𝑃_𝑓𝑖𝑥UnaTantum   è la componente impresa con macroarea = 05 (Una Tantum) e unità di misura 
+= 05 (fix) 
+ 
+ 
+ 
+ Spesa Sconto 
+Applicato nel calcolo della spesa annua SOLO se (VALIDITA = 01 (INGRESSO) O 02 (ENTRO 12 
+MESI)) E se CONDIZIONE_APPLICAZIONE = 00 (Non condizionato)) 
+
+--- PAGINA 29 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+29/47 
+ 
+3.4.7.1 Sconto Una-Tantum 
+S_SCONTO_UNA_TANTUM = 𝑆𝐶𝑂𝑁𝑇𝑂UnaTantum 
+Dove: 
+𝑆𝐶𝑂𝑁𝑇𝑂UnaTantum   è lo Sconto con TIPOLOGIA=01 (Sconto fisso) e unità di misura=05 (€)  o 
+01 (€/Anno) 
+N.B. Per TIPOLOGIA=01 (Sconto fisso) è possibile selezionare solo le unità di misura 05 e 01 
+Applicato alla somma totale prima dell’applicazione dell’IVA (se IVA_SCONTO = ‘SI’) o dopo 
+l’applicazione dell’IVA (se IVA_SCONTO = ‘NO’) 
+3.4.7.2 Sconto Vendita 
+ 
+SCONTO VENDITA – corrispettivi 
+S_SCONTO_VENDITA =  Sconti T03/03-04 * CONSTOT 
+Dove: 
+ScontiT03/03-04 è lo sconto trasmesso con TIPOLOGIA = 03 (Sconto vendita) e UNITA_MISURA = 
+03 o 04 (€/kWh o €/Smc)  
+ 
+SCONTO VENDITA – percentuale 
+ 
+OFFERTA A PREZZO FISSO 
+S_SCONTO_VENDITA =  Componenti Impresa M04/03-04 *  Sconti T03/06 
+N.B. lo sconto percentuale sarà applicato a tutte le componenti impresa con Macroarea 04 (Prezzo 
+quota energia) e unità di misura = 03 o 04 (€/kWh o €/Smc) 
+ 
+OFFERTA A PREZZO VARIABILE 
+S_SCONTO_VENDITA = ∑ [∑ [3
+𝑗=0 CONSFj ∗ (PERC𝐼𝐷𝑋𝐹𝑗 ∗ IDX+ SPREAD)]4
+𝑖=1 *  Sconti T03/06 
+N.B. lo sconto percentuale sarà applicato al prezzo indicizzato, comprensivo di eventuale SPREAD 
+Dove: 
+ScontiT03/06 è lo sconto trasmesso con TIPOLOGIA = 03 (Sconto vendita) e UNITA_MISURA = 06 
+(percentuale) 
+COMPONENTI REGOLATE E FASCE DI CONSUMO 
+Valorizzando il campo CODICE_COMPONENTE_FASCIA nella sezione Sconto è possibile applicare 
+uno sconto percentuale ad una componente regolata, espressamente indicata nel tracciato.  
+
+--- PAGINA 30 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+30/47 
+ 
+Inoltre, per la commodity energia elettrica è possibile differenziare gli sconti per fascia di 
+consumo. 
+VALIDITA’ CONDIZIONI ECONOMICHE 
+Compilando la sezione Sconto/PeriodoValidita il venditore può indicare se lo sconto applicato ha 
+validità per periodi temporali inferiori all’anno, a partire dalla data di attivazione dell’offerta (ossia 
+l’interrogazione del Portale Offerte). 
+DURATA, indica i primi mesi dalla attivazione dell’offerta  
+VALIDO_FINO, indica il mese fino al quale lo sconto è valido 
+MESE_VALIDITA, mese solare di validità, possibile indicare uno sconto per ogni mese (gen -dic). 
+Le 3 modalità sono sempre alternative.  
+ 
+ 
+ Spesa Imposte 
+Vedi 3.1.6 
+
+--- PAGINA 31 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+31/47 
+ 
+4 Algoritmo di calcolo della spesa annua stimata  per il gas 
+naturale 
+Nel presente capitolo viene descritto l’algoritmo di calcolo utilizzato dal Portale Offerte ai fini della 
+definizione della spesa annua  stimata per le offerte di gas naturale a prezzo fisso e a prezzo 
+variabile, comprese quelle con una struttura di prezzo mista e quelle con corrispettivi 
+onnicomprensivi. 
+Ai fini della definizione della spesa vengono sommate le componenti relative alla vendita di gas 
+naturale (che comprendono materia prima e commercializzazione), quelle afferenti alla tariffa per 
+l’uso della rete del gas naturale, gli oneri generali di sistema e le imposte, secondo  la seguente 
+formula: 
+SPESA ANNUA= SpesaVenditaGasNaturale + SpesaTariffaUsoReteGas + SpesaOneriGeneraliSistema + SpesaImposte 
+ 
+ 
+Il consumo annuo per il gas, ai fini del calcolo della spesa stimata, si basa su l dato dichiarato 
+dall’utente medesimo in sede di interrogazione del Portale Offerte o, nel caso in cui il cliente finale 
+si identifichi sul Portale tramite SPID/CIE,  sui dati storici; in caso di mancata valorizzazione  
+manuale e  di nessuna autenticazione , è pari al calcolo della stima del consumo effettuata 
+mediante il simulatore disponibile sul portale . Il consumo annuo viene considerato pari ai profili 
+convenzionali di riferimento per l’anno termico in  corso, riportati in appendice al presente 
+documento. 
+ 
+4.1 OFFERTA PLACET – GAS NATURALE  
+ 
+ Spesa Vendita gas naturale 
+ 
+OFFERTA PLACET A PREZZO FISSO 
+Per tutti i tipi utenza: 
+𝑆𝑝𝑒𝑠𝑎𝑉𝑒𝑛𝑑𝑖𝑡𝑎𝐺𝑎𝑠𝑁𝑎𝑡𝑢𝑟𝑎𝑙𝑒= 𝑃𝐹𝐼𝑋𝐹 + 𝑃𝑉𝑂𝐿𝐹 ∗ 𝐶𝑂𝑁𝑆 
+ 
+OFFERTA PLACET A PREZZO VARIABILE 
+Per tutti i tipi utenza: 
+
+--- PAGINA 32 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+32/47 
+ 
+𝐶𝑂𝑁𝑆𝑀𝐸𝑆𝐸𝑖 = 𝑃𝐸𝑅𝐶𝐶𝑀𝑖 ∗ 𝐶𝑂𝑁𝑆 
+𝑆𝑝𝑒𝑠𝑎𝑉𝑒𝑛𝑑𝑖𝑡𝑎𝐺𝑎𝑠𝑁𝑎𝑡𝑢𝑟𝑎𝑙𝑒= 𝑃𝐹𝐼𝑋𝑉 + ∑ [(𝑃𝐼𝑁𝐺𝑇𝑄𝑛 + 𝛼) ∗ 𝐶𝑂𝑁𝑆𝑀𝐸𝑆𝐸𝑖]
+12
+𝑖=1
+ 
+ 
+ Spesa Tariffa per l’uso della rete del gas naturale 
+Per tutti i tipi utenza: 
+𝑆𝑝𝑒𝑠𝑎𝑇𝑎𝑟𝑖𝑓𝑓𝑎𝑈𝑠𝑜𝑅𝑒𝑡𝑒𝐺𝑎𝑠= 𝜏1𝐶𝐶𝑚𝐴𝑛 + 𝑆𝑇𝐴𝑛 + 𝑉𝑅𝐴𝑛 + (𝑇3𝐹𝑚𝐴𝑛 + 𝑄𝑇+ 𝑅𝑆+ 𝑈𝐺1) ∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡 
+ 
+Ambito Regioni 
+1 Valle d'Aosta, Piemonte, Liguria 
+2 Lombardia, Trentino-Alto Adige, Veneto, Friuli-Venezia Giulia, Emilia-
+Romagna 
+3 Toscana, Umbria, Marche 
+4 Abruzzo, Molise, Puglia, Basilicata 
+5 Lazio, Campania 
+6 Calabria, Sicilia 
+ 
+1 
+Gruppo Portata del contatore 
+1 < G6 
+2 tra G10 e G40 
+3 > G40 
+ 
+ 
+Fascia Valori di consumo (Smc) 
+1 0 – 120 
+2 121 – 480 
+3 481 - 1.560 
+4 1.561 - 5.000 
+
+--- PAGINA 33 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+33/47 
+ 
+5 5.001 - 80.000 
+6 80.001 - 200.000 
+ 
+ Spesa Oneri generali di sistema 
+4.1.3.1 Utente domestico: 
+ 
+𝑆𝑝𝑒𝑠𝑎𝑂𝑛𝑒𝑟𝐺𝑒𝑛𝑒𝑟𝑎𝑙𝑖𝑆𝑖𝑠𝑡𝑒𝑚𝑎= 𝑈𝐺2𝑆 + (𝑅𝐸+ 𝑈𝐺2𝑃𝐹𝑛 + 𝑈𝐺3)∗ 𝐶𝑂𝑁𝑆 
+ 
+ 
+4.1.3.2 Utente NON domestico e Condominio uso domestico: 
+ 
+𝑆𝑝𝑒𝑠𝑎𝑂𝑛𝑒𝑟𝑖𝐺𝑒𝑛𝑒𝑟𝑎𝑙𝑖𝑆𝑖𝑠𝑡𝑒𝑚𝑎= 𝑈𝐺2𝑆 + (𝑅𝐸+ 𝑈𝐺2𝑃𝐹𝑛 + 𝑈𝐺3 + 𝐺𝑆)∗ 𝐶𝑂𝑁𝑆 
+ 
+ Spesa Imposte 
+ 
+𝑆𝑝𝑒𝑠𝑎𝐼𝑚𝑝𝑜𝑠𝑡𝑒𝑆𝑈𝐵 = 𝐴𝑐𝑐𝑖𝑠𝑎𝐸𝑟𝑎𝑟𝑖𝑎𝑙𝑒 + 𝐴𝑑𝑑𝑖𝑧𝑖𝑜𝑛𝑎𝑙𝑒𝑅𝑒𝑔𝑖𝑜𝑛𝑎𝑙𝑒 
+ 
+𝐼𝑀𝑃𝑂𝑁𝐼𝐵𝐼𝐿𝐸= 𝑆𝑝𝑒𝑠𝑎𝐸𝑛𝑒𝑟𝑔𝑖𝑎 + 𝑆𝑝𝑒𝑠𝑎𝑂𝑛𝑒𝑟𝑖𝑅𝑒𝑡𝑒 + 𝑆𝑝𝑒𝑠𝑎𝑂𝑛𝑒𝑟𝑖𝑆𝑖𝑠𝑡𝑒𝑚𝑎+ 𝑆𝑝𝑒𝑠𝑎𝐼𝑚𝑝𝑜𝑠𝑡𝑒𝑆𝑈𝐵 
+𝐼𝑉𝐴= 𝐴𝑙𝑖𝑞𝑢𝑜𝑡𝑎∗ 𝐼𝑀𝑃𝑂𝑁𝐼𝐵𝐼𝐿𝐸 
+4.1.4.1 Utente domestico e Condominio uso domestico: 
+Se il comune NON appartiene ai Territori ex Cassa del Mezzogiorno: 
+ 
+𝐴𝑐𝑐𝑖𝑠𝑎𝐸𝑟𝑎𝑟𝑖𝑎𝑙𝑒 = 𝐴𝐶𝐶𝐹𝑛 ∗ 𝐶𝑂𝑁𝑆 
+ 
+altrimenti: 
+𝐴𝑐𝑐𝑖𝑠𝑎𝐸𝑟𝑎𝑟𝑖𝑎𝑙𝑒 = 𝐴𝐶𝐶𝐹𝑛𝐶𝑀𝑍 ∗ 𝐶𝑂𝑁𝑆 
+ 
+𝐴𝑑𝑑𝑖𝑧𝑖𝑜𝑛𝑎𝑙𝑒𝑅𝑒𝑔𝑖𝑜𝑛𝑎𝑙𝑒 =  𝐴𝑑𝑑𝑖𝑧𝑖𝑜𝑛𝑎𝑙𝑒𝑅𝑒𝑔𝑖𝑜𝑛𝑎𝑙𝑒𝐹𝑛𝑐𝑜𝑚𝑢𝑛𝑒 ∗ 𝐶𝑂𝑁𝑆 
+
+--- PAGINA 34 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+34/47 
+ 
+𝐼𝑉𝐴 =  𝐼𝑉𝐴𝐹𝑛 ∗  𝐼𝑀𝑃𝑂𝑁𝐼𝐵𝐼𝐿𝐸 
+ 
+ 
+4.1.4.2 Utente NON domestico: 
+Se il comune NON appartiene ai Territori ex Cassa del Mezzogiorno: 
+𝐴𝑐𝑐𝑖𝑠𝑎𝐸𝑟𝑎𝑟𝑖𝑎𝑙𝑒  =  𝐴𝐶𝐶𝑈𝐼 ∗  𝐶𝑂𝑁𝑆 
+ 
+altrimenti: 
+𝐴𝑐𝑐𝑖𝑠𝑎𝐸𝑟𝑎𝑟𝑖𝑎𝑙𝑒  =  𝐴𝐶𝐶_𝑈𝐼𝐶𝑀𝑍 ∗  𝐶𝑂𝑁𝑆 
+𝐴𝑑𝑑𝑖𝑧𝑖𝑜𝑛𝑎𝑙𝑒𝑅𝑒𝑔𝑖𝑜𝑛𝑎𝑙𝑒 =  𝐴𝐷𝐷𝑅𝐸𝐺𝑈𝐼𝑐𝑜𝑚𝑢𝑛𝑒 ∗ 𝐶𝑂𝑁𝑆 
+𝐼𝑉𝐴 =  𝐼𝑉𝐴𝑈𝐼 ∗  𝐼𝑀𝑃𝑂𝑁𝐼𝐵𝐼𝐿𝐸 
+Fasce per calcolo imposte 
+Fascia Valori di consumo (Smc) 
+1 0 – 120 
+2 121 – 480 
+3 481 - 1.560 
+4 > 1.560 
+Fasce per calcolo imposte 
+# Regione Zone 
+climatiche 
+Ex Cassa del 
+Mezzogiorno 
+1 Piemonte   
+2 Veneto   
+3 Liguria 4  
+4 Emilia Romagna   
+5 Toscana   
+6 Umbria   
+7 Marche   
+8 Lazio  SI 
+9 Abruzzo 2  
+10 Molise   
+
+--- PAGINA 35 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+35/47 
+ 
+11 Campania   
+12 Puglia   
+13 Basilicata   
+14 Calabria   
+ 
+ 
+4.2 SERVIZIO DI TUTELA DELLA VULNERABILITÀ 
+ 
+ Spesa Vendita gas naturale 
+4.2.1.1 Utente domestico: 
+𝑆𝑝𝑒𝑠𝑎𝑉𝑒𝑛𝑑𝑖𝑡𝑎𝐺𝑎𝑠𝑁𝑎𝑡𝑢𝑟𝑎𝑙𝑒= 𝑄𝑉𝐷𝐹𝑑 + {∑ [(𝑃𝐼𝑁𝐺𝑇𝑄𝑛) ∗ 𝐶𝑂𝑁𝑆𝑀𝐸𝑆𝐸𝑖 + (𝐶𝐶𝑅𝑛 ∗ 𝐶𝑂𝑁𝑆𝑀𝐸𝑆𝐸𝑖)]12
+𝑖=1 }+ 𝑄𝑉𝐷𝑉 ∗
+𝐶𝑂𝑁𝑆𝐴𝑛𝑛𝑜  
+ 
+ 
+ Spesa Tariffa per l’uso della rete del gas naturale 
+Vedi 4.1.2 
+ 
+ Spesa Oneri generali di sistema 
+ 
+Vedi 4.1.3 
+ 
+ 
+ Spesa Imposte 
+Vedi 4.1.4 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGINA 36 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+36/47 
+ 
+4.3 OFFERTA MERCATO LIBERO - GAS NATURALE 
+ 
+Di seguito la struttura delle componenti che concorrono al calcolo della stima della spesa annua. 
+ 
+SPESA ANNUA =  
+𝑆𝑃𝐸𝑆𝐴𝑀𝑎𝑡𝑒𝑟𝑖𝑎𝑃𝑟𝑖𝑚𝑎𝐺𝐴𝑆 
++𝑆𝑃𝐸𝑆𝐴COMMERCIALIZZAZIONE 
++𝑆𝑃𝐸𝑆𝐴DISPACCIAMENTO 
++𝑆𝑃𝐸𝑆𝐴TARIFFAUSORETEgas
+ 
++𝑆𝑃𝐸𝑆𝐴ONERIGENERALISISTEMA
+ 
++S𝑃𝐸𝑆𝐴COMPONENTEIMPRESAUNATANTUM
+ 
+−SPESAScontoVendita 
+−𝑆𝑃𝐸𝑆𝐴SCONTOUNATANTUM (𝑠𝑒 𝐼𝑉𝐴_𝑆𝐶𝑂𝑁𝑇𝑂 =  ‘𝑆𝐼’) 
++𝑆𝑃𝐸𝑆𝐴Imposte 
+−S𝑃𝐸𝑆𝐴SCONTOUNATANTUM (𝑠𝑒 𝐼𝑉𝐴_𝑆𝐶𝑂𝑁𝑇𝑂 =  ‘𝑁𝑂’) 
+ 
+
+--- PAGINA 37 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+37/47 
+ 
+ Spesa Materia prima gas naturale 
+OFFERTA SCONTO SUL SERVIZIO DI TUTELA DELLA VULNERABILITÀ 
+ 
+4.3.1.1 Utente domestico: 
+ 
+𝑆𝑝𝑒𝑠𝑎𝐺𝑎𝑠 = {∑ [(𝑃𝐼𝑁𝐺𝑇𝑄𝑛) ∗ 𝐶𝑂𝑁𝑆𝑀𝐸𝑆𝐸𝑖 + (𝐶𝐶𝑅𝑛 ∗ 𝐶𝑂𝑁𝑆𝑀𝐸𝑆𝐸𝑖)]
+12
+𝑖=1
+}∗ (1 − 𝛽)−  𝛾 ∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡𝑎𝑙𝑒 
+ 
+NOTE:  
+Lo sconto sulla tutela deve essere non condizionato (CONDIZIONE_APPLICAZIONE=00) 
+- β è lo sconto percentuale applicato e trasmesso dal venditore 
+Indicato nella sezione Sconto/PREZZISconto con TIPOLOGIA=04, UNITA_MISURA=06 e 
+PREZZO=%applicata (es. 5.5% valorizzato 5.5) 
+Si precisa che ulteriori sconti in percentuale (es. Sconto vendita) non saranno considerati in caso 
+di sconto percentuale sulla tutela. 
+- γ è lo sconto in corrispettivo (€/Smc) applicato e trasmesso dal venditore 
+Indicato nella sezione Sconto/PREZZISconto con TIPOLOGIA=04, UNITA_MISURA=04 €/Smc  
+N.B. le due tipologie di sconto su tutela (β e γ) sono sempre alternative. 
+Per TIPOLOGIA=04 non è possibile valorizzare la sezione Sconto/PeriodoValidita  
+CR  sono le Componenti Regolate, se inserite dal venditore, con campo CODICE=02  
+ 
+ 
+OFFERTA MERCATO LIBERO GAS – PREZZO FISSO 
+S_GAS =  Componenti Impresa quota energia 
+4.3.1.2  Per tutti i tipi utenza: 
+ 
+S_GAS= (P_volQE𝐺 ∗ CONSTOT )+ ∑𝐶𝑅𝑄𝐸 ∗ 𝐶𝑂𝑁𝑆_𝑇𝑜𝑡 
+ 
+Dove: 
+P_volQE𝐺  è la componente impresa con macroarea = 04 (QE) e unità di misura = 04 (vol) 
+trasmessa per la commodity Gas. Corrisponde al prezzo applicato. 
+
+--- PAGINA 38 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+38/47 
+ 
+CRQE componente regolata in quota energia (CODICE=03,06 o 07) 
+ 
+ 
+OFFERTA MERCATO LIBERO GAS – PREZZO VARIABILE 
+S_GAS =  Componenti Impresa quota energia + ∑ [12
+i=1 CONSUMOMESE𝑖 × (PREZZO INDICEi 
+ + SPREAD)] 
+ 
+i= mesi anno termico 
+ 
+4.3.1.1  Per tutti i tipi utenza: 
+ 
+S_GAS= (P_volQE𝐺 ∗ CONSTOT )+ {∑ [𝐶𝑂𝑁𝑆𝑀𝑒𝑠𝑒𝑖 ∗12
+𝑖=1  (𝐼𝐷𝑋𝑖 + 𝑆𝑃𝑅𝐸𝐴𝐷)]}+ ∑𝐶𝑅𝑄𝐸 ∗ 𝐶𝑂𝑁𝑆_𝑇𝑜𝑡 
+ 
+Dove: 
+IDX indice di riferimento indicato nel campo IDX_PREZZO_ENERGIA 
+SPREAD è la componente impresa con Nome=SPREAD, Macroarea = 04 e Unità di misura = 04   
+ 
+Dal 01/04/2026, nei casi in cui venga trasmesso più di un indice di riferimento per l’offerta, per 
+ognuno di essi viene svolto il calcolo descritto in questo paragrafo e il risultato viene moltiplicato 
+per il valore indicato nel campo COEFFICIENTE della se zione RiferimentiPrezzoEnergia del 
+tracciato per la trasmissione delle offerte. 
+ 
+OFFERTA MERCATO LIBERO GAS – STRUTTURA DI PREZZO MISTA 
+Dal 01/04/2026 per le offerte in cui coesistono componenti a prezzo fisso e a prezzo variabile, 
+valgono le regole di calcolo descritte nei due paragrafi precedenti, che vengono applicate 
+alternativamente in base a come viene valorizzato il campo TIPO_PREZZ O nella sezione 
+ComponenteImpreza/IntervalloPrezzi del tracciato per la trasmissione delle offerte, per scaglione 
+e periodo di riferimento. 
+ 
+VALIDITA’ CONDIZIONI ECONOMICHE 
+Compilando la sezione ComponenteImpresa/IntervalloPrezzi/PeriodoValidita il venditore può 
+indicare se il prezzo applicato, trasmesso come Componente impresa, ha validità per periodi 
+temporali inferiori all’anno, a partire dalla data di attivazione dell’offerta (ossia l’interrogazione 
+del Portale Offerte). 
+
+--- PAGINA 39 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+39/47 
+ 
+DURATA, indica i primi mesi dalla attivazione dell’offerta  
+VALIDO_FINO, indica il mese fino al quale il prezzo è valido 
+MESE_VALIDITA, mese solare di validità, possibile indicare un prezzo per ogni mese (gen -dic). 
+Le 3 modalità sono sempre alternative.  Solo VALIDO_FINO può essere utilizzato in più  
+IntervalloPrezzo per la stessa ComponenteImpresa. 
+Se si inserisce un prezzo con indicazione dello scaglione e/o della validità è obbligatorio  
+aggiungere una sezione IntervalloPrezzi senza indicazione né di scaglione né di validità.  Tale 
+prezzo sarà utilizzato, ai fini della stima della spesa annua,  di default in caso i prezzi trasmessi 
+non coprano un periodo temporale e/o parte di consumo. 
+ 
+ 
+ 
+ 
+ Spesa Commercializzazione            
+                                                                                                                                                                                                                                             
+S_COMMERCIALIZZAZIONE =  Componenti Impresa commercializzazioneFisse +  Componenti 
+Impresa commercializzazioneQuotaEnergia   ∗ consumo annuo 
+4.3.2.1 Utente domestico: 
+ 
+S_COMMERCIALIZZAZIONE=[PfixCF + (𝑃𝑣𝑜𝑙𝐶𝐸 ∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡)]   
+ 
+4.3.2.2 Utente Condominio uso domestico: 
+ 
+S_COMMERCIALIZZAZIONE=[PfixCF + (𝑃𝑣𝑜𝑙𝐶𝐸 ∗ 𝐶𝑂𝑁𝑆𝑇𝑜𝑡)]   
+Dove: 
+PfixCF è la componente impresa con macroarea = 01 (CF) e unità di misura = 05 (fix)  
+𝑃𝑣𝑜𝑙𝐶𝐸 è la componente impresa con macroarea = 02 (CE) e unità di misura = 04 (vol)  
+ 
+ 
+ 
+ 
+ 
+
+--- PAGINA 40 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+40/47 
+ 
+OFFERTA MERCATO LIBERO GAS – CORRISPETTIVI ONNICOMPRENSIVI 
+Di seguito la struttura delle componenti che concorrono al calcolo della stima della spesa annua 
+per le offerte con corrispettivi onnicomprensivi, a partire dal 01/04/2026: 
+ 
+SPESA ANNUA =  
+𝑆𝑃𝐸𝑆𝐴COMMERCIALIZZAZIONE 
+−𝑆𝑃𝐸𝑆𝐴SCONTOUNATANTUM (𝑠𝑒 𝐼𝑉𝐴_𝑆𝐶𝑂𝑁𝑇𝑂 =  ‘𝑆𝐼’) 
++𝑆𝑃𝐸𝑆𝐴Imposte 
+−S𝑃𝐸𝑆𝐴SCONTOUNATANTUM (𝑠𝑒 𝐼𝑉𝐴_𝑆𝐶𝑂𝑁𝑇𝑂 =  ‘𝑁𝑂’) 
+ 
+ 
+OFFERTA MERCATO LIBERO GAS - CORRISPETTIVI ONNICOMPRENSIVI A CANONE 
+ 
+In caso di offerta con corrispettivi onnicomprensivi a canone, dal 01/04/2026 la spesa per la 
+commercializzazione viene calcolata come di seguito descritto: 
+PREZZO FISSO 
+𝑆𝑝𝑒𝑠𝑎𝐶𝑜𝑚𝑚𝑒𝑟𝑐𝑖𝑎𝑙𝑖𝑧𝑧𝑎𝑧𝑖𝑜𝑛𝑒= PfixOC + [PvolOC ∗ (CONSTotale − CONSRifOfferta)] 
+ 
+PREZZO VARIABILE 
+𝑆𝑝𝑒𝑠𝑎𝐶𝑜𝑚𝑚𝑒𝑟𝑐𝑖𝑎𝑙𝑖𝑧𝑧𝑎𝑧𝑖𝑜𝑛𝑒= PfixOC + [
+[∑ (𝐼𝐷𝑋𝑖 ∗ 𝐶𝑂𝑁𝑆𝑖)12
+𝑖=1 ]
+CONSTotale
+∗ (1 + 𝜆)+ PvolOC] ∗ (CONSTotale −  CONSRifOfferta) 
+Dove: 
+PfixOC è la componente impresa onnicomprensiva con macroarea = 01 e unità di misura = 01  
+PvolOC è la componente impresa onnicomprensiva con macroarea = 02 e unità di misura = 04 
+CONSRifOfferta è il consumo di riferimento dell’offerta, indicato nel campo CONSUMO_CANONE della 
+sezione DettaglioOfferta del tracciato per la trasmissione delle offerte. 
+ 
+ 
+
+--- PAGINA 41 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+41/47 
+ 
+ Spesa Tariffa per l’uso della rete del gas naturale 
+Vedi 4.1.2 
+ Spesa Oneri generali di sistema 
+Vedi 4.1.3 
+ Spesa Componente Impresa Una-Tantum 
+S_COMPONENTE_IMPRESA_UNA_TANTUM = 𝑃_𝑓𝑖𝑥UnaTantum 
+Dove: 
+𝑃_𝑓𝑖𝑥UnaTantum   è la componente impresa con macroarea = 05 (Una Tantum) e unità di misura 
+= 05 (fix) 
+ 
+ Spesa Sconto 
+Applicato nel calcolo della spesa annua SOLO se (VALIDITA = 01 (INGRESSO) O 02 (ENTRO 12 
+MESI)) E se CONDIZIONE_APPLICAZIONE = 00 (Non condizionato)) 
+4.3.6.1 Sconto Una-Tantum 
+S_SCONTO_UNA_TANTUM = 𝑆𝐶𝑂𝑁𝑇𝑂UnaTantum 
+Dove: 
+𝑆𝐶𝑂𝑁𝑇𝑂UnaTantum   è lo Sconto con TIPOLOGIA=01 (Sconto fisso) e unità di misura=05 (€) o 
+01 (€/Anno) 
+N.B. Per TIPOLOGIA=01 (Sconto fisso) è possibile selezionare solo le unità di misura 05 e 01 
+Applicato alla somma totale prima dell’applicazione dell’IVA (se IVA_SCONTO = ‘SI’) o dopo 
+l’applicazione dell’IVA (se IVA_SCONTO = ‘NO’) 
+4.3.6.2 Sconto Vendita 
+ 
+SCONTO VENDITA - corrispettivi 
+S_SCONTO_VENDITA =  Sconti T03/03-04 * CONSTOT 
+Dove: 
+ScontiT03/03-04 è lo sconto trasmesso con TIPOLOGIA = 03 (Sconto vendita) e UNITA_MISURA = 
+03 o 04 (€/kWh o €/Smc)  
+ 
+ 
+SCONTO VENDITA – percentuale 
+ 
+
+--- PAGINA 42 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+42/47 
+ 
+OFFERTA A PREZZO FISSO 
+S_SCONTO_VENDITA =  Componenti Impresa M04/03-04 *  Sconti T03/06 
+N.B. lo sconto percentuale sarà applicato a tutte le componenti impresa con Macroarea 04 (Prezzo 
+quota energia) e unità di misura = 03 o 04 (€/kWh o €/Smc) 
+ 
+OFFERTA A PREZZO VARIABILE 
+S_SCONTO_VENDITA = ∑ [∑ [3
+𝑗=0 CONSFj ∗ (PERC𝐼𝐷𝑋𝐹𝑗 ∗ IDX+ SPREAD)]4
+𝑖=1 *  Sconti T03/06 
+N.B. lo sconto percentuale sarà applicato al prezzo indicizzato, comprensivo di eventuale SPREAD 
+Dove: 
+ScontiT03/06 è lo sconto trasmesso con TIPOLOGIA = 03 (Sconto vendita) e UNITA_MISURA = 06 
+(percentuale) 
+ 
+COMPONENTI REGOLATE 
+Valorizzando il campo CODICE_COMPONENTE_FASCIA nella sezione Sconto è possibile applicare 
+uno sconto percentuale ad una componente regolata, espressamente indicata nel tracciato.  
+ 
+VALIDITA’ CONDIZIONI ECONOMICHE 
+Compilando la sezione Sconto/PeriodoValidita il venditore può indicare se lo sconto applicato ha 
+validità per periodi temporali inferiori all’anno, a partire dalla data di attivazione dell’offerta (ossia 
+l’interrogazione del Portale Offerte). 
+DURATA, indica i primi mesi dalla attivazione dell’offerta  
+VALIDO_FINO, indica il mese fino al quale lo sconto è valido 
+MESE_VALIDITA, mese solare di validità, possibile indicare uno sconto per ogni mese (gen -dic). 
+Le 3 modalità sono sempre alternative.  
+ 
+ Spesa Imposte 
+Vedi 4.1.4 
+
+--- PAGINA 43 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+43/47 
+ 
+5 Regole di utilizzo dei forward per il calcolo  della spesa 
+annua stimata per le offerte a prezzo variabile 
+ 
+La spesa annua stimata delle offerte variabili pubblicate nel Portale Offerte avviene sulla base del 
+consumo annuo associato all’utente, sia esso ricavato dai dati storici (se l’utente accede al Portale 
+tramite SPID/CIE), inserito dall’utente o ricavato dal simulatore disponibile sul Portale. 
+ 
+Il calcolo della spesa annua stimata è effettuato con riferimento a quattro trimestri 
+solari a partire dal primo giorno del trimestre in cui l’utente consulta il Portale Offerte. 
+ 
+Esempio:  
+In caso di consultazione in data 15 maggio 2018, la stima della spesa viene effettuata sul 
+periodo Aprile 2018-marzo 2019, vale a dire a partire dal trimestre aprile-giugno 2018, in cui 
+l’utente consulta il Portale Offerte. 
+ 
+L’Acquirente Unico SpA rende accessibili agli operatori, nell’Area di scambio processi del Sistema 
+Informativo Integrato, nella sezione Trasmissione Offerte di Mercato , i valori, elaborati da 
+Acquirente Unico, che saranno utilizzati per il calcolo della  spesa relativa alle offerte a prezzo 
+variabile (ELT e GAS) presenti sul Portale Offerte. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Per la commodity gas l’utente, se non accede tramite SPID/CIE e non si avvale del simulatore  
+di consumo, in fase di input inserisce i propri consumi  a cui vengono applicati i profili 
+convenzionali definiti in occasione del nuovo anno termico e differenziati per fascia climatica.  
+ 
+
+
+--- PAGINA 44 ---
+ 
+Nome doc:  Regole per il calcolo della Spesa  Versione: 4.2  
+Data:               5 ottobre 2026 Uso Pubblico  
+ 
+ 
+SISTEMA INFORMATIVO INTEGRATO   
+REGOLE PER IL CALCOLO DELLA SPESA ANNUA 
+ 
+ 
+ 
+44/47 
+ 
+I consumi sono profilati dal portale in funzione dell’utilizzo del gas con la distinzione tra:  
+• Riscaldamento (Utilizzo termico) 
+• Cottura e ACS  (Non termico) 
+• Altri Usi (Uso Tecnologico) 
+ 
+I profili di prelievo da considerare nell’algoritmo di calcolo della spesa annua stimata sono riportati 
+in appendice al presente documento. 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGINA 45 ---
+ 
+ 
+    
+ 
+Appendice  
+Profili di Prelievo GAS anno termico 2026/2027 
+ 
+ 
+Codice Zona  
+climatica Descrizione uso gas ott-26 nov-26 dic-26 gen-27 feb-27 mar-27 apr-27 mag-27 giu-27 lug-27 ago-27 set-27 
+C1 B 
+Riscaldamento  
+(media classi di prelievo 
+zona B) 0,0000003 0,0000003 26,8354898 30,8451745 24,5712509 17,7480824 0,0000003 0,0000003 0,0000003 0,0000003 0,0000003 0,0000003 
+C1 C 
+Riscaldamento  
+(media classi di prelievo 
+zona C) 0,0000003 10,9317533 23,2220068 25,8017099 20,6096423 15,1140916 4,3207942 0,0000003 0,0000003 0,0000003 0,0000003 0,0000003 
+C1 D 
+Riscaldamento  
+(media classi di prelievo 
+zona D) 0,0000003 14,1177804 21,7751921 24,9674109 18,9434624 13,2683819 6,9277704 0,0000003 0,0000003 0,0000003 0,0000003 0,0000003 
+C1 E 
+Riscaldamento  
+(media classi di prelievo 
+zona E) 5,5291941 15,5359823 22,4841923 23,4824746 17,3481891 10,7839477 4,8360183 0,0000003 0,0000003 0,0000003 0,0000003 0,0000003 
+C1 F 
+Riscaldamento  
+(media classi di prelievo 
+zona F) 6,5209245 14,3804445 20,6392188 22,0169601 16,5472608 10,5027208 5,0201040 2,3520138 0,3282637 0,0000003 0,0000003 1,6920882 
+C2  
+Cottura cibi e/o 
+produzione  
+di acqua calda sanitaria 7,3264263 9,2534510 12,2896316 13,4804629 11,2326411 11,0295041 7,4275383 6,1823497 5,4497245 5,1209326 5,2648205 5,9425175 
+T1  Uso tecnologico 
+8,9883544 9,1403375 8,0558840 8,2851982 8,1106180 8,4887180 8,4295164 8,0806925 8,1104055 8,4811263 6,8479089 8,9812403 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGINA 46 ---
+ 
+ 
+    
+      
+Codici corrispettivi 
+ 
+    
+ 
+ 
+ 
+Settore Codice Nome Area Unità misura Descrizione Tipologia cliente
+EE On_Fin Oneri finanziari PREZZO Energia Maggior Tutela Energia (EUR/kWh) oneri finanziari comprensivi di perdite
+EE Funz_AU Funzionamento AU PREZZO Energia Maggior Tutela Energia (EUR/kWh) funzionamento AU comprensivo di perdite
+EE ppe Perequazione MT PREZZO Energia Maggior Tutela Energia (EUR/kWh) PEREQUAZIONE comprensivo delle perdite DOMESTICO
+EE pd PD MT DISPACCIAMENTO Maggior Tutela Energia (EUR/kWh) PD MT comprensivo di perdite DOMESTICO
+EE CseD CseD Tutele Graduali Domestici Energia (EUR/kWh) CseD comprensivo di perdite DOMESTICO
+EE CpstgD CpstgD Tutele Graduali Domestici Energia (EUR/kWh) CpstgD comprensivo di perdite DOMESTICO
+EE Gamma Gamma Tutele Graduali Domestici Fissa (EUR/anno) Parametro Gamma DOMESTICO
+EE CorrDisp Corrispettivo Dispacciamento DISPACCIAMENTO Energia (EUR/kWh) Corrispettivo Dispacciamento previsto dal TIDE
+EE CdispD Corrispettivo Dispacciamento tutele graduali DISPACCIAMENTO Energia (EUR/kWh) Corrispettivo Dispacciamento previsto per il servizio a tutele graduali domestici DOMESTICO
+EE rst Reintegrazione oneri salvaguardia DISPACCIAMENTO Energia (EUR/kWh) Art.25bis del 107/09 dato al lordo delle perdite NON DOMESTICO avente diritto la salvaguardia
+EE rstg Reintegrazione oneri tutele graduali DISPACCIAMENTO Energia (EUR/kWh) Art.25ter del 107/09 dato al lordo delle perdite NON DOMESTICO avente diritto il servizio di Tutele Graduali
+EE mc1 Mercato capacità m1 DISPACCIAMENTO Energia (EUR/kWh) Del 566/2021/R/eel dato al lordo delle perdite
+EE mc2 Mercato capacità m2 DISPACCIAMENTO Energia (EUR/kWh) Del 566/2021/R/eel dato al lordo delle perdite
+EE mc3 Mercato capacità m3 DISPACCIAMENTO Energia (EUR/kWh) Del 566/2021/R/eel dato al lordo delle perdite
+EE dispbt_d DISPbt COMMERCIALIZZAZIONE Fissa (EUR/anno) Componente di dispacciamento (parte fissa) DOMESTICO
+EE pcv_c PCV COMMERCIALIZZAZIONE Fissa (EUR/anno) Commercializzazione vendita DOMESTICO
+EE lambda lambda Perdite di Rete Fattore di correzione per tener conto delle perdite di rete (LAMBDA)
+EE sigma1 sigma1 TARIFFE DI RETE Fissa (EUR/anno) Commercializzazione e Misura (Sigma1) DOMESTICO
+EE sigma2 sigma2 TARIFFE DI RETE Potenza (EUR/kW/anno Distribuzione (Sigma2) DOMESTICO
+EE sigma3 sigma3 TARIFFE DI RETE Energia (EUR/kWh) Trasmissione (Sigma3) DOMESTICO
+EE uc3 uc3 TARIFFE DI RETE Energia (EUR/kWh) Perequazione (UC3) DOMESTICO E NON DOMESTICO
+EE uc6s_d uc6s_d TARIFFE DI RETE Potenza (EUR/kW/anno Qualità  (UC6 secondo) DOMESTICO
+EE uc6p_d uc6p_d TARIFFE DI RETE Energia (EUR/kWh) Qualità  (UC6 primo) DOMESTICO
+EE uc6s_nd uc6s_nd TARIFFE DI RETE Fissa (EUR/anno) Qualità  (UC6 secondo) NON DOMESTICO
+EE uc6p_nd uc6p_nd TARIFFE DI RETE Energia (EUR/kWh) Qualità  (UC6 primo) NON DOMESTICO
+EE mis mis TARIFFE DI RETE Fissa (EUR/anno) Misura (MIS) NON DOMESTICO
+EE tras tras TARIFFE DI RETE Energia (EUR/kWh) Trasmissione (TRAS) NON DOMESTICO
+EE dis_Bn_f dis_b1_f TARIFFE DI RETE Fissa (EUR/anno) Distribuzione (DIS) NON DOMESTICO BTAn quota fissa
+EE dis_Bn_p dis_b1_p TARIFFE DI RETE Potenza (EUR/kW/anno Distribuzione (DIS) NON DOMESTICO BTAn quota potenza
+EE dis_Bn_c dis_b1_c TARIFFE DI RETE Energia (EUR/kWh) Distribuzione (DIS) NON DOMESTICO BTAn quota energia
+EE asos_dr ASOS ONERI DI SISTEMA Energia (EUR/kWh) Oneri generali relativi al sostegno delle energie rinnovabili ed alla cogenerazione CIP 6/92  (ASOS) DOMESTICO RESIDENTE
+EE asos_dnr_v ASOS ONERI DI SISTEMA Energia (EUR/kWh) Oneri generali relativi al sostegno delle energie rinnovabili ed alla cogenerazione CIP 6/92  (ASOS)  DOMESTICO NON RESIDENTE
+EE asos_dnr_f ASOS ONERI DI SISTEMA Fissa (EUR/anno) Oneri generali relativi al sostegno delle energie rinnovabili ed alla cogenerazione CIP 6/92  (ASOS)  DOMESTICO NON RESIDENTE quota fissa
+EE asos_nd_Bn_fASOS ONERI DI SISTEMA Fissa (EUR/anno) Oneri generali relativi al sostegno delle energie rinnovabili ed alla cogenerazione CIP 6/92  (ASOS) NON DOMESTICO BTAn quota fissa
+EE asos_nd_Bn_pASOS ONERI DI SISTEMA Potenza (EUR/kW/anno Oneri generali relativi al sostegno delle energie rinnovabili ed alla cogenerazione CIP 6/92  (ASOS) NON DOMESTICO BTAn quota potenza
+EE asos_nd_Bn_cASOS ONERI DI SISTEMA Energia (EUR/kWh) Oneri generali relativi al sostegno delle energie rinnovabili ed alla cogenerazione CIP 6/92  (ASOS) NON DOMESTICO BTAn quota energia
+EE arim_dr ARIM ONERI DI SISTEMA Energia (EUR/kWh) Rimanenti oneri generali (ARIM) DOMESTICO RESIDENTE
+EE arim_dnr_v ARIM ONERI DI SISTEMA Energia (EUR/kWh) Rimanenti oneri generali (ARIM) DOMESTICO NON RESIDENTE
+EE arim_dnr_f ARIM ONERI DI SISTEMA Fissa (EUR/anno) Rimanenti oneri generali (ARIM) DOMESTICO NON RESIDENTE quota fissa
+EE arim_nd_Bn_fARIM ONERI DI SISTEMA Fissa (EUR/anno) Rimanenti oneri generali (ARIM) NON DOMESTICO BTAn quota fissa
+EE arim_nd_Bn_pARIM ONERI DI SISTEMA Potenza (EUR/kW/anno Rimanenti oneri generali (ARIM) NON DOMESTICO BTAn quota potenza
+EE arim_nd_Bn_cARIM ONERI DI SISTEMA Energia (EUR/kWh) Rimanenti oneri generali (ARIM) NON DOMESTICO BTAn quota energia
+
+--- PAGINA 47 ---
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+Settore Codice Nome Area Unità misura Descrizione Tipologia cliente
+GAS ccr_gj_1 CCR COMMERCIALIZZAZIONE=>COMPONENTE COPERTURA  RISCHI Quota energia (euro/Smc) CCR per PCS pari a 0,03852 GJ/Smc
+GAS ccr_gj_2 CCR COMMERCIALIZZAZIONE=>COMPONENTE COPERTURA  RISCHI Quota energia (euro/Smc) CCR per PCS pari a 0,03852 GJ/Smc
+GAS ccr_gj_3 CCR COMMERCIALIZZAZIONE=>COMPONENTE COPERTURA  RISCHI Quota energia (euro/Smc) CCR per PCS pari a 0,03852 GJ/Smc
+GAS ccr_gj_4 CCR COMMERCIALIZZAZIONE=>COMPONENTE COPERTURA  RISCHI Quota energia (euro/Smc) CCR per PCS pari a 0,03852 GJ/Smc
+GAS cpr Cpr COMMERCIALIZZAZIONE==> COMPONENTE COPERTURA RINEGOZIAZIONE Energia (EUR/Smc) Cpr
+GAS grad GRAD COMMERCIALIZZAZIONE Energia (EUR/Smc) GRAD
+GAS qvd_f_d QVD_F COMMERCIALIZZAZIONE Fissa (EUR/pdp) Quota Vendita al Dettaglio (parte fissa) DOMESTICO
+GAS qvd_f_nd QVD_F COMMERCIALIZZAZIONE Fissa (EUR/pdp) Quota Vendita al Dettaglio (parte fissa) CONDOMINI USO DOMESTICO
+GAS qvd_v_d QVD_V COMMERCIALIZZAZIONE Energia (EUR/Smc) Quota Vendita al Dettaglio (parte variabile) DOMESTICO
+GAS qvd_v_nd QVD_V COMMERCIALIZZAZIONE Energia (EUR/Smc) Quota Vendita al Dettaglio (parte variabile) CONDOMINI USO DOMESTICO
+GAS tau1_ccm_an TAU1 SERVIZI DI DISTRIBUZIONE, MISURA E COMMERCIALIZZAZIONE Quota fissa (euro/anno) DIS+MIS+COT contatore classe "m" - ambito "n"
+GAS tau3_fm_an TAU3 SERVIZI DI DISTRIBUZIONE, MISURA E COMMERCIALIZZAZIONE Quota energia (euro/Smc) DISTRIBUZIONE (TAU 3) scaglione "m" - ambito "n"
+GAS qt QT TRASPORTO E GESTIONE CONTATORE Quota energia (euro/Smc) Trasporto (QT) QT con PCS 0,03852 GJ/Smc
+GAS rs RS TRASPORTO E GESTIONE CONTATORE Quota energia (euro/Smc) Qualità  (RS) Per consumi annui <= 200.000 Smc
+GAS ug1 UG1 TRASPORTO E GESTIONE CONTATORE Quota energia (euro/Smc) perequazione (UG1) Per consumi annui <= 200.000 Smc
+GAS gs GS ONERI DI SISTEMA Quota energia (euro/Smc) Bonus gas. CONDOMINI USO DOMESTICO E ALTRI USI < 200.000
+GAS re RE ONERI DI SISTEMA Quota energia (euro/Smc) Risparmio energetico (RE). Per consumi annui <= 200.000 Smc
+GAS ug2s UG2 (UG2'') ONERI DI SISTEMA Quota fissa (euro/anno) UG2 (UG2'')
+GAS ug2p_d_fn UG2 (UG2') ONERI DI SISTEMA Quota energia (euro/Smc) Compensazione quota commercializzazione (UG2) scaglione "n"
+GAS ug3 UG3 ONERI DI SISTEMA Quota energia (euro/Smc) Recupero morosità  (UG3)
+GAS st_an ST SERVIZI DI DISTRIBUZIONE, MISURA E COMMERCIALIZZAZIONE Quota fissa (euro/anno) SCONTO TARIFFARIO DI GARA ambito "n"
+GAS vr_an VR SERVIZI DI DISTRIBUZIONE, MISURA E COMMERCIALIZZAZIONE Quota fissa (euro/anno) COPERTURA DIFFERENZA VIR E RAB ambito "n"

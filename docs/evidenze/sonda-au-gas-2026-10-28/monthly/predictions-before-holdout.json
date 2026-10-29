@@ -1,0 +1,19 @@
+{
+  "calibration_curve_eur_smc": {
+    "Q4": "0.8568583333333333333333333333",
+    "Q1": "0.84325",
+    "Q2": "0.62185",
+    "Q3": "0.5751583333333333333333333333"
+  },
+  "formula": "sale=vendor_fixed+SUM_month(consumption_month*(quarter_index+spread))",
+  "holdout_months": {
+    "202512": 120,
+    "202602": 240,
+    "202605": 360,
+    "202608": 480
+  },
+  "ZERO_sale_prediction": "979.1450000000000000000000000",
+  "S_sale_prediction": "1045.145000000000000000000000",
+  "maximum_uncertainty_from_calibration_rounding_eur": ".005",
+  "before_query": true
+}

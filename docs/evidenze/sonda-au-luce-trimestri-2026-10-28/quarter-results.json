@@ -1,0 +1,112 @@
+{
+  "calibration": [
+    {
+      "historical_input_month": "202512",
+      "quarter_group": "Q4",
+      "F1": {
+        "sale_eur": "1011.23",
+        "index_eur_kwh": "0.2298187878787878787878787879",
+        "uncertainty_from_cent_rounding_eur_kwh": "0.000001515151515151515151515151515"
+      },
+      "F2": {
+        "sale_eur": "998.18",
+        "index_eur_kwh": "0.2258642424242424242424242425",
+        "uncertainty_from_cent_rounding_eur_kwh": "0.000001515151515151515151515151515"
+      },
+      "F3": {
+        "sale_eur": "895.17",
+        "index_eur_kwh": "0.1946490909090909090909090909",
+        "uncertainty_from_cent_rounding_eur_kwh": "0.000001515151515151515151515151515"
+      }
+    },
+    {
+      "historical_input_month": "202602",
+      "quarter_group": "Q1",
+      "F1": {
+        "sale_eur": "942.34",
+        "index_eur_kwh": "0.2089430303030303030303030303",
+        "uncertainty_from_cent_rounding_eur_kwh": "0.000001515151515151515151515151515"
+      },
+      "F2": {
+        "sale_eur": "945.53",
+        "index_eur_kwh": "0.209909696969696969696969697",
+        "uncertainty_from_cent_rounding_eur_kwh": "0.000001515151515151515151515151515"
+      },
+      "F3": {
+        "sale_eur": "849.88",
+        "index_eur_kwh": "0.1809248484848484848484848485",
+        "uncertainty_from_cent_rounding_eur_kwh": "0.000001515151515151515151515151515"
+      }
+    },
+    {
+      "historical_input_month": "202605",
+      "quarter_group": "Q2",
+      "F1": {
+        "sale_eur": "664.53",
+        "index_eur_kwh": "0.1247581818181818181818181818",
+        "uncertainty_from_cent_rounding_eur_kwh": "0.000001515151515151515151515151515"
+      },
+      "F2": {
+        "sale_eur": "733.62",
+        "index_eur_kwh": "0.1456945454545454545454545455",
+        "uncertainty_from_cent_rounding_eur_kwh": "0.000001515151515151515151515151515"
+      },
+      "F3": {
+        "sale_eur": "667.19",
+        "index_eur_kwh": "0.1255642424242424242424242425",
+        "uncertainty_from_cent_rounding_eur_kwh": "0.000001515151515151515151515151515"
+      }
+    },
+    {
+      "historical_input_month": "202608",
+      "quarter_group": "Q3",
+      "F1": {
+        "sale_eur": "710.25",
+        "index_eur_kwh": "0.1386127272727272727272727273",
+        "uncertainty_from_cent_rounding_eur_kwh": "0.000001515151515151515151515151515"
+      },
+      "F2": {
+        "sale_eur": "753.32",
+        "index_eur_kwh": "0.1516642424242424242424242425",
+        "uncertainty_from_cent_rounding_eur_kwh": "0.000001515151515151515151515151515"
+      },
+      "F3": {
+        "sale_eur": "684.21",
+        "index_eur_kwh": "0.1307218181818181818181818182",
+        "uncertainty_from_cent_rounding_eur_kwh": "0.000001515151515151515151515151515"
+      }
+    }
+  ],
+  "quarter_labels": "Quarter groups inferred from calendar-dependent response and official four-quarter method; dates of historical synthetic inputs are not delivery dates.",
+  "controls": {
+    "ordered_vs_ascending_Dec_F1_same": true,
+    "flat_monthly_F1_sale": "832.09",
+    "October_vs_December_F1_same": "1011.23"
+  },
+  "holdouts": [
+    {
+      "code": "001686ESVFL00XXES3PC1026DO000000",
+      "mode": "holdout",
+      "expected": "821.785",
+      "observed": "821.78"
+    },
+    {
+      "code": "001686ESVFL00XXES2PC1026DO000000",
+      "mode": "holdout",
+      "expected": "862.285",
+      "observed": "862.28"
+    },
+    {
+      "code": "001686ESVFL00XXES3PC1026DO000000",
+      "mode": "mixedholdout",
+      "expected": "797.232",
+      "observed": "797.23"
+    },
+    {
+      "code": "044848ESVFL01XX0000POWERHOME4ALL",
+      "mode": "mixedholdout",
+      "expected": "774.132",
+      "observed": "774.13"
+    }
+  ]
+}

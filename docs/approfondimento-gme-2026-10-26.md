@@ -1,5 +1,7 @@
 # GME come fonte per le stime di La mia bolletta
 
+**Aggiornamento del 27 ottobre:** Q39 approva trimestrali prima dei mensili per mesi scoperti; lo snapshot copre temporalmente novembre 2026–ottobre 2027 per baseload e gas. La [conversione gas al riferimento convenzionale](./qualifica-conversione-gas-2026-10-27.md) è qualificata con fattore 0,0107. Le sezioni sotto conservano l'audit iniziale: l'assenza di Q4 2026 non è da sola un buco nel periodo scelto. Restano distinti fasce previsionali e acquisizione sistematica.
+
 Verifica del 26 ottobre 2026. Vincoli: dati gratuiti; applicazione e MCP pubblici totalmente gratuiti nella fase iniziale. Questo documento qualifica una fonte; non attesta un'integrazione di produzione.
 
 ## Valutazione

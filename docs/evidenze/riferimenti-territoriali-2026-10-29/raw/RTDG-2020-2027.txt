@@ -1,0 +1,3806 @@
+        Allegato B 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+Testo Unico delle disposizioni della regolazione della qualità e delle tariffe 
+dei servizi di distribuzione e misura del gas per il periodo di regolazione 2020 - 2027 
+(TUDG) 
+ 
+ 
+ 
+PARTE II  
+REGOLAZIONE DELLE TARIFFE 
+DEI SERVIZI DI DISTRIBUZIONE E MISURA DEL GAS 
+PER IL PERIODO DI REGOLAZIONE 2020 - 2027 
+(RTDG 2020-2027) 
+ 
+ 
+ 
+ 
+ 
+ 
+Per il periodo dall’1 gennaio 2026 
+ 
+Versione approvata con deliberazione 532/2025/R/GAS e modificata e integrata con 
+deliberazione 574/2025/R/GAS 
+        Allegato B 
+ 
+ 
+ 
+ 
+2 
+INDICE 
+SEZIONE I  DISPOSIZIONI GENERALI 7 
+Articolo 1 Definizioni ............................................................................................... 7 
+TITOLO 1  ASPETTI PROCEDURALI 14 
+Articolo 2 Obblighi informativi in capo alle imprese distributrici ai fini tariffari 14 
+Articolo 3 Definizione e pubblicazione delle tariffe ............................................... 17 
+Articolo 4 Richieste di rettifica .............................................................................. 18 
+TITOLO 2  DISPOSIZIONI PER L’APPLICAZIONE DI TARIFFE E 
+CORRISPETTIVI 19 
+Articolo 5 Criteri di applicazione delle tariffe ....................................................... 19 
+Articolo 6 Modalità di calcolo dei coefficienti di conversione dei volumi misurati 
+per il gas naturale .................................................................................................. 19 
+Articolo 7 Modalità di calcolo dei coefficienti di conversione dei volumi misurati 
+per i gas diversi dal gas naturale ........................................................................... 22 
+Articolo 8 Divieto di applicazione di corrispettivi non espressamente previsti nella 
+presente RTDG ....................................................................................................... 22 
+Articolo 9 Disposizioni in tema di documenti di fatturazione del servizio di 
+distribuzione ........................................................................................................... 22 
+TITOLO 3  ASPETTI RELATIVI ALLA DETERMINAZIONE DEL COSTO 
+RICONOSCIUTO 23 
+Articolo 10 Costo storico ai fini regolatori ............................................................ 23 
+Articolo 11 Criteri generali per la determinazione del capitale investito di località
+ ................................................................................................................................ 23 
+Articolo 12 Trattamento dei contributi pubblici e privati percepiti a partire 
+dall’anno 2012 ........................................................................................................ 24 
+Articolo 13 Trattamento dello stock di contributi esistente al 31 dicembre 2011 . 24 
+Articolo 14 Meccanismo di gradualità per il degrado dei contributi applicabile nel 
+periodo 2020-2027 ................................................................................................. 25 
+Articolo 15 Tasso di remunerazione del capitale investito .................................... 25 
+Articolo 16 Tasso di riduzione annuale dei costi unitari riconosciuti a copertura 
+dei costi operativi ................................................................................................... 26 
+Articolo 17 Maggiorazione a copertura degli extra-costi connessi alle verificazioni 
+periodiche previste dal decreto 93/17 .................................................................... 26 
+Articolo 18 Vite utili ai fini regolatori ................................................................... 27 
+SEZIONE II  REGOLAZIONE TARIFFARIA SERVIZI DISTRIBUZIONE E 
+MISURA DEL GAS NATURALE 28 
+TITOLO 1  AMBITO DI APPLICAZIONE 28 
+        Allegato B 
+ 
+ 
+ 
+ 
+3 
+Articolo 19 Ambito oggettivo di applicazione ........................................................ 28 
+TITOLO 2  DISPOSIZIONI SPECIFICHE PER LE GESTIONI D’AMBITO 29 
+Articolo 20 Decorrenze .......................................................................................... 29 
+Articolo 21 Componenti a copertura dei costi operativi e tasso di riduzione 
+annuale per le gestioni d’ambito ............................................................................ 29 
+Articolo 22 Trattamento dello stock di contributi esistente al 31 dicembre 2011 per 
+le gestioni d’ambito ................................................................................................ 30 
+Articolo 23 Valore iniziale delle immobilizzazioni di località a seguito 
+dell’affidamento mediante gara d’ambito .............................................................. 30 
+Articolo 24 Valore delle immobilizzazioni nette disallineate rispetto alle medie di 
+settore ..................................................................................................................... 31 
+Articolo 25 Valore parametrico delle immobilizzazioni lorde ............................... 31 
+Articolo 26 Profili soggettivi di gestore entrante e gestore uscente ...................... 32 
+Articolo 27 Stratificazione del valore di rimborso e del valore di ricostruzione a 
+nuovo ...................................................................................................................... 33 
+Articolo 28 Valorizzazione delle immobilizzazioni nette di località a conclusione 
+del primo periodo di affidamento ........................................................................... 33 
+Articolo 29 Misure per l’uscita anticipata dai contratti di concessione in essere 
+con scadenza posteriore a quella delle gare d’ambito ........................................... 34 
+TITOLO 3  TARIFFA DI RIFERIMENTO 35 
+Articolo 30 Tariffa di riferimento per il servizio di distribuzione .......................... 35 
+Articolo 31 Tariffa di riferimento per il servizio di misura ................................... 36 
+Articolo 32 Tariffa di riferimento relativa alla commercializzazione dei servizi di 
+distribuzione e di misura ........................................................................................ 37 
+Articolo 33 Disposizioni per le località in avviamento .......................................... 37 
+TITOLO 4  VINCOLI AI RICAVI AMMESSI 39 
+Articolo 34 Composizione del vincolo ai ricavi ammessi di impresa .................... 39 
+Articolo 35 Composizione del vincolo ai ricavi ammessi a copertura dei costi del 
+servizio di distribuzione .......................................................................................... 39 
+Articolo 36 Vincolo a copertura dei costi centralizzati del servizio di distribuzione
+ ................................................................................................................................ 39 
+Articolo 37 Vincoli ai ricavi ammessi a copertura dei costi di località relativi al 
+servizio di distribuzione .......................................................................................... 40 
+Articolo 38 Vincolo ai ricavi ammessi a copertura dei costi del servizio di misura
+ ................................................................................................................................ 41 
+Articolo 39 Vincoli ai ricavi ammessi a copertura dei costi di centralizzati relativi 
+al servizio di misura ............................................................................................... 41 
+Articolo 40 Vincoli ai ricavi ammessi a copertura dei costi di località relativi al 
+servizio di misura ................................................................................................... 41 
+        Allegato B 
+ 
+ 
+ 
+ 
+4 
+Articolo 41 Vincoli ai ricavi ammessi a copertura dei costi operativi relativi alla 
+commercializzazione dei servizi di distribuzione e di misura ................................ 42 
+TITOLO 5  TARIFFE OBBLIGATORIE 43 
+Articolo 42 Tariffa obbligatoria per i servizi di distribuzione e misura ................ 43 
+Articolo 43 Ambito tariffario .................................................................................. 45 
+TITOLO 6  MECCANISMI DI PEREQUAZIONE 46 
+Articolo 44 Perequazione ....................................................................................... 46 
+Articolo 45 Perequazione dei ricavi relativi al servizio di distribuzione – Importo a 
+consuntivo ............................................................................................................... 46 
+Articolo 46 Perequazione dei costi relativi al servizio di misura .......................... 48 
+Articolo 47 Perequazione dei ricavi relativi al servizio di distribuzione – Importi 
+in acconto. .............................................................................................................. 51 
+Articolo 48 Quantificazione ed erogazione dei saldi di perequazione .................. 52 
+TITOLO 7  AGGIORNAMENTO DELLE COMPONENTI DELLA TARIFFA 
+DI RIFERIMENTO 54 
+Articolo 49 Aggiornamento delle componenti a copertura dei costi operativi del 
+servizio di distribuzione .......................................................................................... 54 
+Articolo 50 Aggiornamento delle componenti 
+cou
+gtdist ,)(  e 
+coa
+gtdist ,)(  ..................... 54 
+Articolo 51 Aggiornamento della componente  ....................................... 55 
+Articolo 52 Aggiornamento delle componenti  , ,   a 
+copertura dei costi operativi dei servizi di commercializzazione e di misura ....... 55 
+Articolo 52.bis Aggiornamento della componente 𝒕(𝒕𝒆𝒍𝒄𝒐𝒏)𝒕, 𝒄 a copertura dei 
+costi operativi e di capitale per i sistemi di telelettura/telegestione e concentratori
+ ................................................................................................................................ 55 
+Articolo 53 Aggiornamento delle componenti  a copertura dei costi di 
+capitale centralizzati .............................................................................................. 56 
+Articolo 54 Aggiornamento delle componenti   e   a copertura 
+dei costi di capitale di località ............................................................................... 56 
+Articolo 55 Aggiornamento delle componenti  e   a copertura 
+dei costi di capitale di località ............................................................................... 57 
+Articolo 56 Criteri per la valorizzazione dei nuovi investimenti ........................... 58 
+Articolo 57 Disposizioni in materia di dismissioni di gruppi di misura ................ 58 
+TITOLO 8  AGGIORNAMENTO ANNUALE DELLE TARIFFE 
+OBBLIGATORIE 60 
+Articolo 58 Aggiornamento annuale delle tariffe obbligatorie .............................. 60 
+TITOLO 9  DISPOSIZIONI PARTICOLARI 60 
+
+        Allegato B 
+ 
+ 
+ 
+ 
+5 
+Articolo 59 Riconoscimento maggiori oneri derivanti dalla presenza di canoni di 
+concessione ............................................................................................................. 60 
+SEZIONE III  DISPOSIZIONI IN MATERIA DI ASSETTO DEL SERVIZIO 
+DI MISURA 62 
+TITOLO 1  SOGGETTI RESPONSABILI DEL SERVIZIO DI MISURA GAS 
+NATURALE 62 
+Articolo 60 Responsabilità per installazione e manutenzione dei misuratori ....... 62 
+Articolo 61 Responsabilità per raccolta, validazione e registrazione dati di misura
+ ................................................................................................................................ 62 
+Articolo 62 Disposizioni relativi ai dati di misura raccolti ................................... 62 
+Articolo 63 Conservazione delle rilevazioni .......................................................... 63 
+SEZIONE IV  RETI ISOLATE DI GAS NATURALE 64 
+TITOLO 1  AMBITO DI APPLICAZIONE 64 
+Articolo 64 Ambito di applicazione ........................................................................ 64 
+TITOLO 2 OPZIONI TARIFFARIE 64 
+Articolo 65 Opzioni tariffarie per i servizi di distribuzione e misura in reti isolate 
+di gas naturale ........................................................................................................ 64 
+Articolo 66 Periodo di avviamento ........................................................................ 66 
+TITOLO 3  AGGIORNAMENTO ANNUALE DELLE OPZIONI 
+TARIFFARIE 66 
+Articolo 67 Aggiornamento annuale delle opzioni tariffarie ................................. 66 
+SEZIONE V  DISTRIBUZIONE DI GAS DIVERSI DAL NATURALE A 
+MEZZO DI RETI CANALIZZATE 67 
+TITOLO 1 AMBITO DI APPLICAZIONE 67 
+Articolo 68 Ambito di applicazione ........................................................................ 67 
+TITOLO 2  OPZIONI TARIFFARIE 68 
+Articolo 69 Opzioni tariffarie per i servizi di distribuzione e misura .................... 68 
+Articolo 70 Periodo di avviamento ........................................................................ 69 
+TITOLO 3  AGGIORNAMENTO ANNUALE DELLE OPZIONI 
+TARIFFARIE 69 
+Articolo 71 Aggiornamento annuale delle opzioni tariffarie ................................. 69 
+SEZIONE VI  PRESTAZIONI PATRIMONIALI IMPOSTE 70 
+Articolo 72 Disposizioni generali .......................................................................... 70 
+Articolo 73 Esazione delle componenti .................................................................. 70 
+        Allegato B 
+ 
+ 
+ 
+ 
+6 
+Articolo 73.bis Obblighi informativi delle imprese distributrici ............................ 71 
+Articolo 74 Conti di gestione.................................................................................. 71 
+Articolo 74 Fondo per misure ed interventi per il risparmio energetico e lo 
+sviluppo delle fonti rinnovabili nel settore del gas naturale .................................. 72 
+Articolo 75 Conto per la qualità dei servizi gas .................................................... 72 
+Articolo 76 Conto per la perequazione tariffaria distribuzione gas ...................... 72 
+Articolo 77 Conto per la compensazione delle agevolazioni tariffarie ai clienti del 
+settore gas in stato di disagio ................................................................................. 73 
+Articolo 78 Fondo di garanzia a sostegno della realizzazione di reti di 
+teleriscaldamento ................................................................................................... 73 
+Articolo 79 Fondo riconoscimento fornitori ultima istanza ................................... 73 
+Articolo 80 Conto oneri connessi all’intervento di interruzione dell’alimentazione 
+del punto di riconsegna .......................................................................................... 74 
+Articolo 81 Conto per i servizi di ultima istanza ................................................... 74 
+Articolo 82 Conto per la copertura del meccanismo per la promozione della 
+rinegoziazione dei contratti pluriennali di approvvigionamento di gas naturale .. 74 
+Articolo 83 Conto per la gradualità della componente di commercializzazione 
+della vendita al dettaglio gas ................................................................................. 75 
+Articolo 84 Conto per il riconoscimento degli importi derivanti dalla 
+rideterminazione del coefficiente k effettuata in ottemperanza alla sentenza 
+4825/16 del Consiglio di Stato ............................................................................... 75 
+Articolo 85 Altre disposizioni ................................................................................. 75 
+SEZIONE VII  CONTRIBUTI PER PRESTAZIONI DELLE IMPRESE 
+DISTRIBUTRICI 77 
+Articolo 86 Contributi per l’attivazione della fornitura e per la disattivazione della 
+fornitura su richiesta del cliente finale................................................................... 77 
+ 
+  
+        Allegato B 
+ 
+ 
+ 
+ 
+7 
+SEZIONE I 
+ 
+DISPOSIZIONI GENERALI 
+ 
+Articolo 1  
+Definizioni  
+ 
+1.1 Ai fini dell’interpretazione e dell’applicazione delle disposizioni contenute nella 
+presente Parte II del Testo Unico della regolazione della qualità e delle tariffe dei 
+servizi di distribuzione e misura del gas, relativa alla Regolazione tariffaria dei 
+servizi di distribuzione e misura del gas per il periodo di regolazione 2020-2027 (di 
+seguito: RTDG 2020-2027), si applicano le definizioni di cui all’articolo 2 del 
+decreto legislativo 23 maggio 2000, n. 164, e le seguenti definizioni: 
+• alta pressione è la pressione relativa del gas superiore a 5 bar (1a, 2a e 3a specie, 
+definite dal decreto 16 aprile 2008, pubblicato l’8 maggio 2008 sul 
+Supplemento Ordinario n. 115 alla Gazzetta Ufficiale n. 107, dei Ministeri 
+dello sviluppo economico e dell’interno (di seguito: decreto 16 aprile 2008)); 
+• ambito gas diversi è l’ambito di determinazione delle opzioni tariffarie per il 
+servizio di distribuzione di gas diversi dal gas naturale formato dall’insieme 
+delle località gas diversi, servite dal medesimo tipo di gas distribuito, 
+appartenenti alla medesima regione e servi te dalla medesima impresa 
+distributrice; 
+• ambito reti isolate alimentato con carro bombolaio è l’ambito di 
+determinazione delle opzioni tariffarie per il servizio di distribuzione di gas 
+naturale in reti alimentate con carro bombolaio, formato dall’insieme delle 
+località gas naturale in reti alimentate con carro bombolaio appartenenti alla 
+medesima regione e servite dalla medesima impresa distributrice; 
+• ambito reti isolate di GNL è l’ambito di determinazione delle opzioni 
+tariffarie per il servizio di distribuzione di gas naturale in reti isolate di GNL 
+formato dall’insieme delle località gas naturale in reti isolate di GNL 
+appartenenti alla medesima regione e servite dalla medesim a impresa 
+distributrice; 
+• ambito reti isolate di gas naturale è l’ambito di determinazione delle opzioni 
+tariffarie per il servizio di distribuzione di gas naturale in reti isolate formato 
+dall’insieme delle località gas naturale in reti isolate appartenenti alla 
+medesima regione e servite dalla medesima impresa distributrice; 
+• anno di prima fornitura è l’anno in cui è stata registrata la prima fornitura di 
+gas in una località, indipendentemente dalla titolarità della gestione; 
+• attivazione della fornitura  è l’avvio dell’alimentazione del punto di 
+riconsegna, a seguito o di un nuovo contratto di fornitura, o di modifica delle 
+condizioni contrattuali, o di subentro ad una fornitura preesistente disattivata, 
+        Allegato B 
+ 
+ 
+ 
+ 
+8 
+attraverso interventi limitati al gruppo di misura, inclusa l’eventuale 
+installazione del gruppo di misura o sua sostituzione;  
+• Autorità è l’Autorità di regolazione per energia reti e ambiente , istituita ai 
+sensi della legge 14 novembre 1995, n. 481; 
+• bassa pressione è la pressione relativa del gas, definita per il gas naturale dal 
+decreto 16 aprile 2008 e per i gas di petrolio liquefatti dalla norma UNI EN 
+9860 edizione febbraio 2006: 
+o non superiore a 0,04 bar (7a specie) nel caso in cui il gas distribuito sia gas 
+naturale o gas manifatturato; 
+o non superiore a 0,07 bar (7a specie) nel caso in cui il gas distribuito sia gas 
+di petrolio liquefatto; 
+• Cassa è la Cassa per i servizi energetici e ambientali; 
+• cespiti in esercizio sono i cespiti, presenti nel bilancio, acquisiti dall’esterno o 
+realizzati internamente, ovvero di proprietà del Comune titolare del servizio o 
+di altra società di capitali appositamente costituita ai sensi della normativa 
+vigente, installati e utilizzabi li per lo scopo per il quale sono stati acquisiti o 
+realizzati, che non siano stati oggetto di radiazioni o dismissioni, ovvero 
+oggetto di successivi interventi di sostituzione ancorché non radiati e/o 
+dismessi; 
+• condizioni standard di un gas sono ai fini tariffari la temperatura di 15°C e la 
+pressione assoluta di 1,01325 bar; 
+• Direttive per la messa in servizio dei gruppi di misura del gas sono le direttive 
+per la messa in servizio dei gruppi di misura del gas approvate con la 
+deliberazione dell’Autorità  27 dicembre 2013, 631/2013 /R/GAS, come 
+successivamente modificate e integrate; 
+• Direzione Infrastrutture è la Direzione Infrastrutture Energia dell’Autorità; 
+• disattivazione della fornitura su richiesta del cliente finale è la sospensione 
+dell’alimentazione del punto di riconsegna a seguito della disdetta del contratto 
+da parte del cliente finale con sigillatura o rimozione del gruppo di misura;  
+• distribuzione del gas naturale è il servizio di cui all’articolo 4, comma18, del 
+TIUC, ivi compresa la commercializzazione del servizio di distribuzione; 
+• distribuzione, misura e vendita di altri gas a mezzo di reti è l’attività di cui 
+all’articolo 4, comma 23, del TIUC; 
+• fonti contabili obbligatorie sono il bilancio di esercizio, il libro cespiti, il libro 
+giornale, il libro degli inventari e ogni altro documento contabile tenuto ai sensi 
+di legge. Nel caso di cespiti di proprietà dell’ente locale  sono fonti contabili 
+obbligatorie gli estratti del conto del patrimonio ovvero delle relative scritture 
+inventariali; 
+• gruppo di misura, o misuratore, è la parte dell’impianto di alimentazione del 
+cliente finale che serve per l’intercettazione, per la misura del gas e per il 
+collegamento all’impianto interno del cliente finale; è comprensivo di un 
+eventuale correttore dei volumi misurati;  
+        Allegato B 
+ 
+ 
+ 
+ 
+9 
+• gruppo di riduzione  è il complesso (assiemato) costituito da regolatori di 
+pressione, da apparecchi ausiliari, da tubazioni, da raccordi e pezzi speciali, 
+aventi la funzione di ridurre la pressione del gas canalizzato da un valore di 
+pressione in entrata variabile a un valore di pressione in uscita predeterminato, 
+fisso o variabile; 
+• gruppo di riduzione finale è: 
+o un gruppo di riduzione avente la funzione di ultima riduzione della 
+pressione per alimentare i clienti finali attraverso una rete di bassa 
+pressione; 
+o un gruppo di riduzione installato presso il punto di riconsegna in reti in 
+media pressione per l’alimentazione di singoli punti di riconsegna in bassa 
+pressione o media pressione; 
+• impianto di derivazione di utenza o allacciamento  è il complesso di 
+tubazioni con dispositivi ed elementi accessori che costituiscono le 
+installazioni necessarie a fornire il gas al cliente finale; l’impianto di 
+derivazione di utenza o allacciamento ha inizio dall’organo di presa (compreso) 
+e si estende fino al gruppo di misura (escluso) e comprende l’eventuale gruppo 
+di riduzione; in assenza del gruppo di misura, l’impianto di derivazione di 
+utenza o allacciamento si estende fino all’organo di intercettazi one terminale 
+(incluso) della derivazione stessa; 
+• impresa distributrice è il soggetto che esercita il servizio di distribuzione e di 
+misura del gas; 
+• indice di rivalutazione del capitale è, fino alla rivalutazione dei costi di 
+capitale all’anno 2023 incluso (ossia fino all’Indice con base 1 nell’anno 2023), 
+il deflatore degli investimenti fissi lordi rilevato dall’Istat, riferito agli ultimi 
+quattro trimestri disponibili sulla base del cal endario di pubblicazione 
+dell’Istat; a decorrere dalla rivalutazione all’anno 2024 (ossia dall’Indice con 
+base 1 nell’anno 2024), con prima applicazione ai fini della determinazione 
+delle tariffe di riferimento provvisorie per l’anno 2025, è l’Indice dei prezzi al 
+consumo armonizzato per i Paesi dell’Unione Europea relativo all’Italia (IPCA 
+Italia), facendo riferimento all’indice generale pubblicato da Eurostat; per la 
+determinazione della variazione dell’Indice rilevante per l’aggiornamento delle 
+tariffe d i riferimento per l’anno 2025, al fine di consentire di esprimere il 
+capitale investito riconosciuto con i valori effettivi dell’Indice di rivalutazione 
+del capitale dell’anno 2024, si considera sia la variazione dell’IPCA Italia 
+relativa all’anno 2024 ris petto all’anno 2023, sia la variazione del deflatore 
+degli investimenti fissi lordi relativa ai trimestri dell’anno 2023 non considerati 
+per l’ultimo aggiornamento tariffario precedente, pari a 0,2% (c.d. raccordo); 
+• investimenti funzionali a garantire l’immissione in rete di gas rinnovabile 
+sono gli investimenti riferiti all’“ impianto di connessione alla rete ” come 
+definito nell’Allegato A alla deliberazione 29 gennaio 2019, 27/2019/R/ GAS, 
+come successivamente modificato e integrato; 
+        Allegato B 
+ 
+ 
+ 
+ 
+10 
+• lettura di switch è la lettura effettuata in occasione del cambio di fornitore; 
+• località è l’unità territoriale minima di riferimento ai fini delle determinazioni 
+tariffarie. La località di norma coincide con il territorio di un singolo comune. 
+Qualora in uno stesso Comune siano presenti reti di distribuzione del gas 
+naturale non interconnesse, la località è la parte del territorio del comune 
+servita da una singola rete di distribuzione non interconnessa; 
+• località gas diversi è il comune o la parte di esso servito dalla singola impresa 
+distributrice di gas diversi dal naturale; 
+• media pressione è la pressione relativa del gas, definita per il gas naturale dal 
+decreto 16 aprile 2008 e per i gas di petrolio liquefatti dalla norma UNI EN 
+9860 edizione febbraio 2006: 
+o superiore a 0,04 bar e non superiore a 5 bar (4 a, 5a e 6a specie) nel caso in 
+cui il gas distribuito sia gas naturale o gas manifatturato; 
+o superiore a 0,07 bar e non superiore a 5 bar (4 a, 5a e 6a specie) nel caso in 
+cui il gas distribuito sia gas di petrolio liquefatto; 
+• misura del gas naturale è l’attività di cui all’articolo 4, comma 19, del TIUC; 
+• periodo di avviamento è il periodo intercorrente tra la data di prima fornitura 
+del gas e il 31 dicembre del secondo anno successivo all’anno di prima 
+fornitura; 
+• processo di aggregazione societaria è l’acquisizione di rami d’azienda da 
+parte di altra impresa distributrice, la fusione di due o più imprese distributrici 
+o l’incorporazione di un’impresa distributrice da parte di altra impresa 
+distributrice. Non è processo di aggregazione societaria  l‘acquisizione di 
+pacchetti azionari né la trasformazione di un soggetto giuridico;  
+• punto di consegna dell’impianto di distribuzione, o punto di consegna, è: 
+o per il gas naturale, il punto coincidente con il punto di riconsegna della 
+rete di trasporto, dove viene reso disponibile all’impresa distributrice il gas 
+naturale;  
+o per i gas diversi dal naturale, è il punto di alimentazione dell’impianto di 
+distribuzione; 
+• punto di interconnessione è il punto di interconnessione tra due impianti di 
+distribuzione gestiti da imprese distributrici diverse; 
+• punto di riconsegna dell’impianto di distribuzione, o punto di riconsegna, 
+è il punto di confine tra l’impianto di distribuzione e l’impianto del cliente 
+finale, dove l’impresa di distribuzione riconsegna il gas naturale per la fornitura 
+al cliente finale; 
+• reti isolate di gas naturale  sono le reti isolate di gas naturale alimentate o 
+mediante rigassificazione in loco di gas naturale liquefatto o mediante carro 
+bombolaio; 
+• reti isolate di GNL sono le reti isolate alimentate mediante rigassificazione in 
+loco di gas naturale liquefatto; 
+        Allegato B 
+ 
+ 
+ 
+ 
+11 
+• standard metro cubo  è ai fini tariffari il metro cubo di gas riferito alle 
+condizioni standard; 
+• tariffe sono, ai sensi dell’articolo 2, comma 17, della legge n. 481/95 i prezzi 
+massimi unitari dei servizi al netto dell’imposte; 
+• decreto 19 gennaio 2011 è il decreto del Ministro dello Sviluppo Economico, di 
+concerto con il Ministro per i Rapporti con le Regioni e la Coesione Territoriale, 
+19 gennaio 2011, recante “Determinazione degli ambiti territoriali nel settore della 
+distribuzione del gas naturale”;  
+• decreto 12 novembre 2011 è il decreto del Ministro dello Sviluppo Economico, 
+di concerto con il Ministro per i Rapporti con le Regioni e la Coesione Territoriale, 
+12 novembre 2011, n. 226, recante “Regolamento per i criteri di gara e per la 
+valutazione dell’offerta per l’affidamento del servizio della distribuzione del gas 
+naturale, in attuazione dell’articolo 46-bis del decreto-legge 1 ottobre 2007, n. 159, 
+convertito in legge, con modificazioni, dalla legge 29 novembre 2007, n. 222”; 
+• decreto 28 dicembre 2012 è il decreto del Ministro dello Sviluppo Economico 
+di concerto con il Ministro dell’Ambiente e della Tutela del Territorio e del 
+Mare e con il Ministro delle Politiche Agricole Alimentari e Forestali 28 
+dicembre 2012; 
+• decreto 93/17 è il decreto ministeriale 21 aprile 2017, n. 93; 
+• decreto-legge 1 ottobre 2007, n. 159 è il decreto-legge 1 ottobre 2007, n. 159, 
+convertito con modifiche dalla legge 29 novembre 2007, n. 222 e 
+successivamente modificato dalla legge 24 dicembre 2007, n. 244; 
+• decreto-legge n. 185/08 è il decreto  legge 29 novembre 2008, n. 185, 
+convertito in legge, con modificazioni, dall’articolo 1 della legge 28 gennaio 
+2009, n. 2; 
+• decreto legislativo n. 127/91 è il decreto legislativo 9 aprile 1991, n. 127, di 
+attuazione delle direttive n. 78/660/CEE e 83/349/CEE in materia societaria, 
+relative ai conti annuali e consolidati, ai sensi dell'art. 1, comma 1, della legge 26 
+marzo 1990; 
+• decreto legislativo n. 28/11 è il decreto legislativo 3 marzo 2011, n. 28, recante 
+“Attuazione della direttiva 2009/28/CE sulla promozione dell’uso dell’energia 
+da fonti rinnovabili, recante modifica e successiva abrogazione della direttiva 
+2001/77/CE e 2003/30/CE”;  
+• dPR n. 412/93 è il decreto del Presidente della Repubblica 26 agosto 1993, n. 
+412, pubblicato nel Supplemento ordinario alla Gazzetta Ufficiale, Serie 
+generale n. 242 del 14 ottobre 1993 e successive modifiche e integrazioni; 
+• dPCM 29 marzo 2022 è il decreto del Presidente del Consiglio dei Ministri 
+del 29 marzo 2022, pubblicato nella Gazzetta Ufficiale n. 125 del 30 maggio 
+2022; 
+• dPCM 10 settembre 2025 è il decreto del Presidente del Consiglio dei Ministri 
+del 10 settembre 2025, pubblicato nella Gazzetta Ufficiale n. 255 del 3 
+novembre 2025; 
+        Allegato B 
+ 
+ 
+ 
+ 
+12 
+• deliberazione n. 170/04 è la deliberazione dell’Autorità 29 settembre 2004, n. 
+170, come successivamente modificata e integrata; 
+• deliberazione ARG/gas 42/11 è la deliberazione dell’Autorità 11 aprile 2011, 
+ARG/gas 42/11; 
+• deliberazione 573/2013/R/ GAS è la deliberazione 12 dicembre 2013, 
+573/2013/R/GAS; 
+• deliberazione 455/2014/R/GAS è la  deliberazione 25 settembre 2014, 
+455/2014/R/GAS; 
+• deliberazione 525/2022/R /GAS è la deliberazione 25 ottobre 2022, 
+525/2022/R/GAS e il relativo Allegato A, come successivamente modificato e 
+integrato; 
+• deliberazione 541/2022/R/ GAS è la deliberazione 2 novembre 2022, 
+541/2022/R/GAS; 
+• RQDG 2020-2027 è il testo integrato della Regolazione della qualità servizi di 
+distribuzione e misura del gas per il periodo di regolazione 2020 -2027, 
+approvato con la deliberazione dell’Autorità 2 dicembre 2025, 
+532/2025/R/GAS; 
+• RTDG 2009-2012 è il testo integrato della Regolazione delle tariffe dei servizi 
+di distribuzione e misura del gas per il periodo di regolazione 2009-2012; 
+• RTDG 2014-2019 è il testo integrato della Regolazione delle tariffe dei servizi 
+di distribuzione e misura del gas per il periodo di regolazione 2014-2019; 
+• TIBEG è l’Allegato A alla deliberazione 26 settembre 2013, 402/2013/R/COM, 
+come successivamente modificato e integrato; 
+• TIUC è l’Allegato A alla deliberazione dell’Autorità 24 marzo 2016, 
+137/2016/R/COM; 
+• TIUF è l’Allegato A alla deliberazione dell’Autorità 22 giugno 2015, 
+296/2015/R/COM, come successivamente modificato e integrato; 
+• TIT è il Testo Integrato delle disposizioni dell’Autorità per l’erogazione dei 
+servizi di trasmissione, distribuzione, e misura dell’energia elettrica per il 
+periodo di regolazione 2020-2023, approvato con la deliberazione dell’Autorità 
+27 dicembre 2019, 568/2019/R/EEL; 
+• TIVG è il Testo Integrato delle attività di vendita al dettaglio di gas naturale e 
+gas diversi da gas naturale distribuiti a mezzo di reti urbane, allegato alla 
+deliberazione dell’Autorità 28 maggio 2009, ARG/gas 64/09, come 
+successivamente modificato e integrato; 
+• TIWACC 2016-2021 è l’ Allegato A alla deliberazione 583/ 2015/R/COM, 
+recante criteri per la determinazione e l’aggiornamento del tasso di 
+remunerazione del capitale investito per i servizi infrastrutturali dei settori 
+elettrico e gas per il periodo 2016 -2021 (TIWACC 2016 -2021), come 
+successivamente modificato e integrato; 
+• TIWACC 2022 -2027 è l’Allegato A alla deliberazione 614/2021/R/COM, 
+recante criteri per la determinazione e l’aggiornamento del tasso di 
+        Allegato B 
+ 
+ 
+ 
+ 
+13 
+remunerazione del capitale investito per i servizi infrastrutturali dei settori 
+elettrico e gas per il periodo 2022-2027; 
+• RTTG è la parte II del Testo Unico della regolazione della qualità e delle tariffe 
+dei servizi di trasporto e dispacciamento del gas naturale per il periodo 2020-
+2023 (TUTG), relativa alla Regolazione delle tariffe per il servizio di trasporto 
+e dispacciamento del gas naturale per il periodo di regolazione 2020-2023 
+(RTTG), approvat a con deliberazione dell’Autorità 28 marzo 2019, 
+114/2019/R/GAS; 
+• TIMG è l’Allegato A alla deliberazione 21 luglio 2011, ARG/gas 99/11, come 
+successivamente modificato e integrato; 
+• determina DIEU n. 3/2021 è la determinazione del Direttore della Direzione 
+Infrastrutture Energia e Unbundling dell’Autorità 16 luglio 2021, n. 3/2021. 
+ 
+ 
+ 
+ 
+  
+        Allegato B 
+ 
+ 
+ 
+ 
+14 
+TITOLO 1 
+ 
+ASPETTI PROCEDURALI 
+ 
+Articolo 2  
+Obblighi informativi in capo alle imprese distributrici ai fini tariffari  
+ 
+2.1 Ai fini dell’aggiornamento tariffario annuale delle tariffe di riferimento e delle 
+tariffe obbligatorie per i servizi di distribuzione e misura del gas naturale  e delle 
+opzioni tariffarie gas diversi, in ciascun anno t, a partire dall’anno 2023, ciascuna 
+impresa distributrice trasmette all’Autorità, attenendosi alle modalità e alle 
+tempistiche disciplinate con determina del Direttore della Direzione Infrastrutture, 
+una richiesta di determinazione delle tariffe.  
+2.2 Le imprese distributrici sono tenute a comunicare all’Autorità, tramite il protocollo 
+informatico denominato “Anagrafica Territoriale Distribuzione Gas” , entro 
+quindici (15) giorni dal suo verificarsi, ogni variazione relativa alle località servite 
+e al tipo di gas distribuito.  
+2.3 L’Autorità verifica, anche mediante controlli a campione:  
+a) la corrispondenza del valore degli incrementi patrimoniali comunicati ai sensi 
+delle disposizioni di cui al comma 2.1 con i valori riportati sulle fonti contabili 
+obbligatorie dei soggetti proprietari; 
+b) la pertinenza e la corretta imputazione degli incrementi patrimoniali di cui alla 
+precedente lettera a) rispetto all’attività di distribuzione e misura del gas.  
+2.4 Nel caso di cespiti di proprietà di soggetti diversi dall’impresa distributrice, la 
+medesima impresa distributrice  è obbligata ad acquisire una dichiarazione di 
+veridicità sottoscritta dal legale rappresentante del soggetto proprietario, contenente 
+l’impegno a rendere disponibili, su richiesta dell’Autorità, le fonti contabili 
+obbligatorie relative agli incrementi patrimoniali comunicati ai sensi delle 
+disposizioni di cui al comma 2.1. 
+2.5 La mancata comunicazione delle informazioni di cui al comma  2.1, ovvero il 
+mancato rispetto dei termini e delle modalità di invio previste dalla determina del 
+Direttore della Direzione Infrastrutture , comportano la non inclusione dei nuovi 
+investimenti al fine dell’aggiornamento tariffario annuale per l’anno t+1 e per gli 
+anni successivi, fino ad ottemperanza delle richiamate disposizioni, senza 
+conguaglio. 
+2.6 Qualora la mancata comunicazione delle informazioni di cui al comma 2.1 abbia per 
+oggetto i dati fisici relativi al numero di punti di riconsegna:  
+        Allegato B 
+ 
+ 
+ 
+ 
+15 
+a) le componenti 
+rem
+ictdist ,,)( , 
+amm
+ictdist ,,)( ,  di cui al successivo Articolo 30, sono 
+fissate pari al valore minimo, escluso il primo decile, calcolato dall’Autorità 
+per le località aventi la medesima densità e appartenenti al medesimo ambito 
+tariffario in relazione alle quali si è proceduto al calcolo puntuale sulla base 
+dei dati trasmessi; 
+b) le componenti 
+rem
+ictmist ,,)(  e 
+amm
+ictmist ,,)( , di cui al successivo Articolo 31, sono 
+fissate pari al valore minimo calcolato dall’Autorità per le località in relazione 
+alle quali si è proceduto al calcolo puntuale sulla base dei dati trasmessi, 
+escluso il primo decile; 
+c) la componente ot3 delle opzioni reti isolate di gas naturale alimentate con carro 
+bombolaio, reti isolate di GNL, reti isolate di gas diversi, di cui ai successivi 
+Articolo 65 e Articolo 69 è posta pari a zero; 
+d) le componenti ot1 delle opzioni reti isolate di gas naturale alimentate con carro 
+bombolaio, reti isolate di GNL, reti isolate di gas diversi, di cui ai successivi 
+Articolo 65 e Articolo 69, sono calcolate assumendo il valore minimo, escluso 
+il primo decile, calcolato dall’Autorità per le località reti isolate di gas naturale 
+e per le località gas diversi aventi la medesima densità e appartenenti al 
+medesimo ambito tariffario in relazione alle quali si è proceduto al calcolo 
+puntuale sulla base dei dati trasmessi;  
+e) 1(mis) delle opzioni reti isolate di gas naturale  alimentate con carro 
+bombolaio, reti isolate di GNL, reti isolate di gas diversi, di cui ai successivi 
+Articolo 65  e Articolo 69 , sono fissate pari al valore minimo calcolato 
+dall’Autorità per le località in relazione alle quali si è proceduto al calcolo 
+puntuale sulla base dei dati trasmessi, escluso il primo decile. 
+2.7 Qualora, a seguito di verifiche ispettive o altri accertamenti, emerga che le 
+stratificazioni di dati relativi a cespiti non siano supportate dai dati riportati nelle 
+fonti contabili obbligatorie, si applicano le seguenti disposizioni: 
+a) il valore regolatorio dei cespiti relativi ad anni antecedenti il 2008 è 
+determinato d’ufficio, in coerenza con quanto previsto dall’articolo 7 della 
+RTDG 2009-2012, sulla base del valore della quota parte del vincolo calcolato 
+per l’anno termico 2007-2008 a copertura dei costi di capitale, corretto per le 
+variazioni relative all’anno 2007, al netto dei costi di capitale relativi ai cespiti 
+centralizzati ed effettuando una decurtazione a forfait del 10% sul risultato 
+così ottenuto con efficacia fino all’ese rcizio in cui saranno resi disponibili i 
+dati relativi ai costi sostenuti per lo svolgimento del servizio;  
+b) nel caso non sia disponibile il vincolo per l’anno termico 2007 -2008 
+richiamato alla precedente lettera a) ovvero non siano disponibili i dati relativi 
+ai punti di riconsegna serviti: 
+o le componenti tariffarie 
+rem
+ictdist ,,)(  e 
+amm
+ictdist ,,)( , di cui al successivo 
+Articolo 30, sono fissate pari al valore minimo, escluso il primo decile, 
+        Allegato B 
+ 
+ 
+ 
+ 
+16 
+calcolato dall’Autorità per le località aventi la medesima densità e 
+appartenenti al medesimo ambito tariffario in relazione alle quali si è 
+proceduto al calcolo puntuale sulla base dei dati trasmessi; 
+o le componenti tariffarie 
+rem
+ictmist ,,)(  e 
+amm
+ictmist ,,)( , di cui al successivo 
+Articolo 31, sono fissate pari al valore minimo calcolato dall’Autorità 
+per le località in relazione alle quali si è proceduto al calcolo puntuale 
+sulla base dei dati trasmessi, escluso il primo decile; 
+o la componente ot3 delle opzioni reti isolate di gas naturale  alimentate 
+con carro bombolaio, reti isolate di GNL, reti isolate di gas diversi, di 
+cui all’Articolo 65 e all’Articolo 69 della RTDG, è posta pari a zero; 
+o la componente ot1 delle opzioni reti isolate di gas naturale  alimentate 
+con carro bombolaio, reti isolate di GNL, reti isolate di gas diversi, di 
+cui all’ Articolo 65  e all’ Articolo 69  della RTDG, è calcolata 
+assumendo il valore minimo, escluso il primo decile, calcolato 
+dall’Autorità per le località reti isolate di gas naturale e per le località 
+gas diversi aventi la medesima densità e appartenenti al medesimo 
+ambito tariffario in rela zione alle quali si è proceduto al calcolo 
+puntuale sulla base dei dati trasmessi; 
+o la componente τ1(mis) delle opzioni reti isolate di gas naturale  
+alimentate con carro bombolaio, reti isolate di GNL, reti isolate di gas 
+diversi, di cui Articolo 65 e all’Articolo 69 della RTDG, sono fissate 
+pari al valore minimo calcolato dall’Autorità per le località in relazione 
+alle quali si è proceduto al calcolo puntuale sulla base dei dati 
+trasmessi, escluso il primo decile. 
+c) il valore regolatorio dei cespiti relativi ad anni successivi il 2007 è posto pari 
+a zero con riferimento agli anni oggetto della verifica o altri accertamenti.  
+2.8 Qualora, a seguito di verifica ispettiva o di altri accertamenti, emerga l’assenza delle 
+fonti contabili obbligatorie oggetto della dichiarazione di cui al precedente comma 
+2.4, salvo altre conseguenze previste dalla legge per le dichiarazioni non veritiere, 
+si procederà secondo quanto previsto dal comma 2.7, a meno che l’ente locale sia in 
+grado di regolarizzare l’assenza di fonti contabili predisponendole in un momento 
+successivo a quello in cui sono stati realizzati i cespiti cui le fonti si riferiscono.  
+2.9 Il termine per la regolarizzazione di cui al precedente comma 2.8 è indicato 
+all’impresa distributrice interessata dal Direttore della Direzione Infrastrutture ed è 
+perentorio. 
+2.10 Nei casi diversi da quello contemplato al comma 2.8, l’eventuale predisposizione, 
+da parte dell’ente locale, delle fonti contabili obbligatorie in un momento successivo 
+a quello in cui sono stati realizzati i relativi cespiti, può assumere rilievo solo ai fini 
+delle previsioni di cui all’Articolo 4. 
+        Allegato B 
+ 
+ 
+ 
+ 
+17 
+2.11 Qualora, a seguito di verifica ispettiva o di altri accertamenti, emerga la carenza, 
+fattuale o documentale, di un presupposto che ha determinato il riconoscimento di 
+una maggiore remunerazione o di una premialità comunque denominata, prevista 
+dalla regolazione tariffaria anche di precedenti periodi regolatori, tale accertamento 
+comporterà la perdita dell’intera maggiore remunerazione o premialità, con il 
+conseguente obbligo, per l’impresa distributrice interessata, di restituire le somme 
+percepite a tale titolo. 
+2.12 Con riferimento alle reti isolate di gas naturale alimentate con carro bombolaio, reti 
+isolate di GNL, reti isolate di gas diversi, di cui ai successivi Articolo 65 e Articolo 69, 
+nei casi di richiesta di applicazione della tariffa d’ufficio, si applicano i criteri individuati 
+al comma 2.7 del presente articolo. 
+ 
+Articolo 3  
+Definizione e pubblicazione delle tariffe  
+ 
+3.1 A decorrere dall’anno 2023, l’Autorità definisce e pubblica, entro il 31 dicembre di 
+ciascun anno: 
+• le tariffe obbligatorie per i servizi di distribuzione e misura del gas naturale, da 
+applicare nell’anno successivo alle attuali o potenziali controparti di contratti 
+relativi ai servizi di cui all’Articolo 19; 
+• le opzioni tariffarie per i servizi di distribuzione e misura reti isolate di gas 
+naturale alimentate con carro bombolaio e  reti isolate di GNL , da applicare 
+nell’anno successivo alle attuali o potenziali controparti di contratti relativi ai 
+servizi di cui all’Articolo 64; 
+• le opzioni tariffarie per i servizi  di distribuzione e misura di gas diversi, da 
+applicare nell’anno successivo alle attuali o potenziali controparti di contratti 
+relativi ai servizi di cui all’Articolo 68; 
+• le componenti 𝑡(𝑐𝑒𝑛)𝑡
+𝑐𝑎𝑝, 𝑡(𝑑𝑖𝑠)𝑡,𝑑,𝑟
+𝑜𝑝𝑒  e 𝑡(𝑑𝑖𝑠)𝑡,𝑑,𝑔
+𝑜𝑝𝑒  della tariffa di riferimento 
+TVD, relative al servizio di distribuzione del gas naturale, di cui all’Articolo 30, 
+valide per l’anno successivo; 
+• le componenti 𝑡(𝑖𝑛𝑠)𝑡
+𝑜𝑝𝑒 e 𝑡(𝑟𝑎𝑐)𝑡
+𝑜𝑝𝑒 della tariffa di riferimento TVM, relative 
+al servizio di misura del gas naturale, di cui all’ Articolo 31, valide per l’anno 
+successivo;  
+• la tariffa di riferimento COT, relativa al servizio di commercializzazione dei 
+servizi di distribuzione e di misura del gas naturale, di cui all’ Articolo 32 , 
+valide per l’anno successivo. 
+• importi di perequazione bimestrale in acconto di cui al comma 47.1, validi per 
+l’anno successivo. 
+        Allegato B 
+ 
+ 
+ 
+ 
+18 
+3.2 A decorrere dall’anno 2023, l’Autorità definisce e pubblica: 
+a) entro il 30 aprile dell’anno t, in via provvisoria le tariffe di riferimento, relative 
+all’anno t, TVD, di cui all’Articolo 30, e TVM, di cui all’Articolo 31, calcolate 
+sulla base dei dati patrimoniali pre-consuntivi relativi all’anno t-1; 
+b) entro il 31 marzo  dell’anno t+1, in via definitiva, le tariffe di riferimento , 
+relative all’anno t, TVD,  di cui all’Articolo 30, e TVM, di cui all’Articolo 31, 
+calcolate sulla base dei dati patrimoniali consuntivi relativi all’anno t-1. 
+3.3 Entro 30 (trenta) giorni dalla data di pubblicazione delle tariffe da parte 
+dell’Autorità, le imprese distributrici  pubblicano a loro volta, sul proprio sito 
+internet, le tariffe obbligatorie e le opzioni tariffarie relative ai servizi erogati. Le  
+medesime devono essere altresì rese disponibili presso i propri uffici aperti al 
+pubblico.  
+ 
+Articolo 4  
+Richieste di rettifica  
+ 
+4.1 Le richieste di rettifica di dati relativi a incrementi patrimoniali e contributi possono 
+essere presentate dalle imprese all’Autorità in ciascun anno del periodo regolatorio, 
+secondo le modalità definite con determina del Direttore della Direzione 
+Infrastrutture, nelle seguenti finestre: 
+a) 1 febbraio – 15 febbraio; 
+b) 1 settembre – 15 settembre.  
+4.2 Le richieste di rettifica di dati relativi a incrementi patrimoniali e contributi, qualora 
+comportino vantaggi  per i  clienti finali, sono accolte con decorrenza dall’anno 
+tariffario a cui è riferibile l’errore. 
+4.3 Le richieste di rettifica di dati patrimoniali, qualora comportino vantaggi per le 
+imprese distributrici, sono accolte con decorrenza dall’anno tariffario successivo a 
+quello in cui è stata presentata la richiesta di rettifica completa di tutti i suoi elementi.  
+4.4 Le richieste di rettifica di dati fisici sono accolte per l’anno tariffario a cui è riferibile 
+l’errore. 
+4.5 Le richieste di rettifica di dati patrimoniali o fisici comportano l’applicazione di una 
+indennità amministrativa a carico dell’impresa distributrice che richiede la rettifica, 
+pari all’1% della variazione del livello dei ricavi attesi causato dalla medesima 
+rettifica, con un minimo di 1.000 euro; 
+4.6 Qualora la variazione del livello dei ricavi attesi non sia determinabile, si applica 
+un’indennità amministrativa di 1.000 euro. 
+        Allegato B 
+ 
+ 
+ 
+ 
+19 
+4.7 L’indennità amministrativa di cui ai precedenti commi  è applicata dalla Cassa ed è 
+versata sul Conto per la perequazione tariffaria distribuzione gas  di cui al  
+comma 76.1. 
+ 
+ 
+TITOLO 2 
+ 
+DISPOSIZIONI PER L’APPLICAZIONE DI TARIFFE E CORRISPETTIVI 
+ 
+Articolo 5  
+Criteri di applicazione delle tariffe  
+ 
+5.1 Le tariffe obbligatorie e le opzioni tariffarie sono applicate dall’impresa distributrice 
+in maniera non discriminatoria a tutte le attuali e potenziali controparti di contratti 
+per i servizi di distribuzione e misura del gas. 
+5.2 Le componenti tariffarie espresse in euro/punto di riconsegna per anno, sono 
+addebitate in quote mensili calcolate dividendo per dodici i medesimi importi e 
+arrotondando il risultato con criterio commerciale alla quarta cifra decimale. 
+5.3 In nessun caso può essere richiesto il pagamento dei corrispettivi con riferimento al 
+periodo successivo alla cessazione dell’erogazione del servizio. Nel caso di 
+cessazione, subentro, voltura o nuova connessione, nel mese in cui la cessazione, il 
+subentro o la nuova connessione si verificano, le componenti tariffarie espresse in 
+euro/punto di riconsegna per anno devono essere moltiplicate, ai fini della 
+determinazione degli importi dovuti per il medesimo mese, per un coefficiente pari 
+al rapporto tra il numero di giorni di durata del contratto nel medesimo anno e 365 
+(trecentosessantacinque). 
+ 
+Articolo 6  
+Modalità di calcolo dei coefficienti di conversione dei volumi misurati per il gas 
+naturale  
+ 
+6.1 Nel caso in cui in un punto di riconsegna il gruppo di misura installato non sia dotato 
+di apparecchiatura per la correzione delle misure alle condizioni standard, la 
+correzione a fini tariffari dei volumi misurati avviene secondo le disposizioni di cui 
+ai commi seguenti. 
+6.2 Per ciascun punto di riconsegna dotato di un gruppo di misura non provvisto di 
+apparecchiature di correzione dei volumi, la correzione alle condizioni standard dei 
+        Allegato B 
+ 
+ 
+ 
+ 
+20 
+quantitativi misurati avviene mediante l’applicazione di un coefficiente calcolato 
+secondo la seguente formula: 
+ 
+Tp KKC *=
+ 
+ 
+dove: 
+• 
+( )
+r
+mcb
+p
+p
+ppK += ; 
+• 
+mc
+r
+T
+T
+TK = ; 
+con: 
+• 
+2559,55 )*10*25577,21(*01325,1 Hpb
+−−=  è la pressione barometrica 
+assoluta, espressa in bar, dove H, determinata secondo i criteri indicati nel 
+successivo comma 6.3, rappresenta: 
+o per i punti di riconsegna nei quali la pressione relativa di misura è inferiore 
+o uguale a 0,025 bar, e siano caratterizzati da un dislivello tra l’altitudine 
+del suolo ove sono ubicati gli edifici serviti dai medesimi punti di 
+riconsegna e l’altitudine sul livello del mare del Comune nel quale è 
+ubicato il punto di riconsegna inferiore o pari a 150 metri,  l’altitudine sul 
+livello del mare del Comune nel quale è ubicato il punto di riconsegna; 
+o per i punti di riconsegna nei quali la pressione relativa di misura è inferiore 
+o uguale a 0,025 bar, siano dotati di apparecchiature per la sola correzione 
+del gas prelevato a condizioni standard di temperatura e siano 
+caratterizzati da un dislivello tra l’altitudine del suolo ove sono ubicati gli 
+edifici serviti dai medesimi punti di riconsegna e l’altitudine sul livello del 
+mare del Comune nel quale è ubicato il punto di riconsegna superiore a 
+150 metri, e per i punti di riconsegna nei quali la pressione relativa di 
+misura è superiore a 0,025 bar, è l’altitudine media per fascia altimetrica. 
+La fascia altimetrica è, per ciascun comune, l’insieme delle zone che si 
+trovano ad altitudini comprese all ’interno di un intervallo di dislivello 
+massimo pari a 200 m. L’estremo superiore (incluso) di ciascuna fascia 
+altimetrica n (
+sup
+nFA ) è determinato secondo la seguente formula: 
+200*100sup nAFA COM
+n ++=
+  
+con: 
+▪ ACOM è l’altitudine sul livello del mare del Comune nel quale è 
+ubicato il punto di riconsegna; 
+▪ n è il numero che identifica la fascia altimetrica. Per convenzione la 
+fascia altimetrica nella quale è compresa l’altitudine sul livello del 
+        Allegato B 
+ 
+ 
+ 
+ 
+21 
+mare del Comune è identificata con il numero 0. Le fasce 
+altimetriche di altitudine media superiore a quella del Comune sono 
+numerate progressivamente con numeri interi positivi a partire da 1. 
+Le fasce altimetriche di altitudine media inferiore a quella d el 
+Comune sono numerate progressivamente con numeri interi negativi 
+a partire da –1; 
+• 
+mcp  è la pressione relativa di misura convenzionale, pari a: 
+o 0,020 bar, per i punti di riconsegna nei quali la pressione relativa di misura 
+convenzionale è inferiore o uguale a 0,025 bar; 
+o la pressione di taratura dell’impianto di riduzione finale della pressione del 
+gas a monte del gruppo di misura, per i punti di riconsegna nei quali la 
+pressione relativa di misura è superiore a 0,025 bar; nel caso in cui la 
+misura avvenga a pressione non regolata, l’impresa di distribuzione 
+installa un’apparecchiatura idonea per la correzione delle misure;  
+• è la pressione assoluta di riferimento, pari a 1,01325 bar; 
+• 
+rT  è la temperatura assoluta di riferimento, pari a 288,15 Kelvin; 
+• 
+mcT  è la temperatura assoluta di misura convenzionale, espressa in Kelvin, 
+calcolata secondo la seguente formula: 
+
+
+
+
+
+ −+= ng
+GGTmc 2215,273
+ 
+essendo i parametri GG e ng rispettivamente il numero dei gradi giorno del 
+Comune e il numero dei giorni di esercizio dell’impianto, determinati secondo 
+i criteri di cui al successivo comma 6.3. 
+6.3 Ai fini della determinazione dei parametri di cui al comma 6.2 si fa riferimento: 
+a) per la definizione della zona climatica di appartenenza, dell’altitudine H e del 
+numero dei gradi giorno GG di ciascun Comune, all’allegato A del dPR n. 
+412/93; 
+b) per la determinazione del numero di giorni di esercizio dell’impianto ng, ai 
+valori indicati nella Tabella 1. 
+6.4 Nel caso di presenza di apparecchiature per la correzione della sola pressione o della 
+sola temperatura, i relativi coefficienti Kp e KT assumono valore pari a 1. 
+6.5 I valori del coefficiente C, dei coefficienti Kp e KT, del rapporto 
+ng
+GG  e del 
+parametro 
+bp  di cui al comma  6.2, sono arrotondati alla sesta cifra decimale con 
+criterio commerciale. 
+rp
+        Allegato B 
+ 
+ 
+ 
+ 
+22 
+Articolo 7  
+Modalità di calcolo dei coefficienti di conversione dei volumi misurati per i gas diversi 
+dal gas naturale  
+ 
+7.1 Ai fini della correzione dei quantitativi misurati dei gas diversi dal gas naturale si 
+applicano le disposizioni di cui al l’Articolo 6 , considerando i seguenti valori di 
+pressione relativa di misura convenzionale 
+mcp :  
+• 0,020 bar per i punti alimentati in bassa pressione con miscele di gas naturale 
+o di gas di petrolio liquefatti con aria e per i gas manifatturati; 
+• 0,030 bar per le miscele di gas di petrolio liquefatti e per gli altri tipi di gas. 
+7.2 Ai fini della determinazione della pressione barometrica assoluta pb, espressa in bar, 
+di cui al comma 6.2, si assume l’altitudine sul livello del mare del Comune nel quale 
+è ubicato il punto di riconsegna per tutti i punti di riconsegna nei quali la pressione 
+relativa di misura è inferiore o uguale a 0,035 bar. Per gli altri punti di riconsegna si 
+identificano le fasce altimetriche di appartenenza di ciascun punto di riconsegna, 
+secondo quanto previsto nel medesimo comma 6.2. 
+ 
+Articolo 8  
+Divieto di applicazione di corrispettivi non espressamente previsti nella presente RTDG  
+ 
+8.1 I soggetti responsabili del servizio di misura non sono autorizzati ad addebitare 
+corrispettivi che non siano regolati nella presente RTDG per prestazioni fornite 
+nell’ambito dello svolgimento del medesimo servizio. 
+ 
+Articolo 9  
+Disposizioni in tema di documenti di fatturazione del servizio di distribuzione 
+ 
+9.1 In relazione a quanto previsto dall’ Articolo 59 le imprese distributrici forniscono 
+dettagli relativi agli addebiti della componente tariffaria canoni comunali per singolo 
+punto di riconsegna servito agli utenti del servizio di distribuzione. 
+  
+        Allegato B 
+ 
+ 
+ 
+ 
+23 
+TITOLO 3 
+ 
+ASPETTI RELATIVI ALLA DETERMINAZIONE DEL COSTO 
+RICONOSCIUTO 
+ 
+Articolo 10  
+Costo storico ai fini regolatori 
+ 
+10.1 Il costo storico per singoli cespiti è pari al costo d’acquisizione del cespite al 
+momento della sua prima utilizzazione ovvero al costo di realizzazione dello stesso, 
+nell’anno t, come risulta dalle fonti contabili obbligatorie. Dalla valorizzazione a 
+costo storico sono esclusi: rivalutazioni economiche e monetarie, altre poste 
+incrementative non costituenti costo storico originario degli impianti, oneri 
+promozionali, concessioni,  ivi inclusi oneri per il rinnovo e la stipula delle 
+medesime, avviamento. 
+10.2 Il costo storico per singoli cespiti acquisiti al di fuori di processi di aggregazione 
+societaria o realizzati all’interno dell’impresa distributrice è pari al costo 
+d’acquisizione del cespite al momento della sua prima utilizzazione ovvero al costo 
+di realizzazione dello stesso, nell’anno t, come risulta dalle fonti contabili 
+obbligatorie. Dalla valorizzazione a costo storico sono esclusi: rivalutazioni 
+economiche e monetarie, altre poste incrementative non costituenti costo storico 
+originario degli impian ti, oneri promozionali, concessioni, ivi inclusi oneri per il 
+rinnovo e la stipula delle medesime, avviamento. Per la valorizzazione dei cespiti in 
+esercizio al 31 dicembre 2003 sono fatte salve le disposizioni degli articoli 13 e 
+seguenti della RTDG 2009-2012. 
+10.3 Per l’acquisizione di cespiti all’interno di processi di aggregazione societaria, ai fini 
+tariffari la valorizzazione dei cespiti è effettuata in modo tale che l’onere posto in 
+capo ai clienti finali non sia superiore a quello che i medesimi avrebbero sost enuto 
+per la remunerazione del capitale e gli ammortamenti nell’ipotesi di continuità nella 
+gestione. 
+ 
+Articolo 11  
+Criteri generali per la determinazione del capitale investito di località 
+ 
+11.1 Le immobilizzazioni di località per il servizio di distribuzione sono costituite dalle 
+seguenti tipologie di cespite: 
+a) terreni sui quali insistono fabbricati industriali; 
+b) fabbricati industriali; 
+c) impianti principali e secondari; 
+        Allegato B 
+ 
+ 
+ 
+ 
+24 
+d) condotte stradali; 
+e) impianti di derivazione (allacciamenti). 
+11.2 Le immobilizzazioni di località per il servizio di misura sono costituite dalle seguenti 
+tipologie di cespite: 
+a) gruppi di misura convenzionali; 
+b) gruppi di misura elettronici; 
+c) dispositivi add-on. 
+11.3 Il capitale investito netto per ciascuna località i, relativo al servizio di distribuzione 
+e il capitale investito netto per ciascuna località i, relativo al servizio di misura, è 
+determinato come somma algebrica delle seguenti componenti: 
+a) immobilizzazioni nette di località (assunte con segno positivo); 
+b) immobilizzazioni in corso di località (assunte con segno positivo); 
+c) capitale circolante netto riferito alle immobilizzazioni di località, calcolato in 
+misura pari allo 0,8% del valore delle immobilizzazioni lorde , comprensivo 
+delle immobilizzazioni in corso (assunto con segno positivo); 
+d) poste rettificative  riferite alle immobilizzazioni di località, fissate pari allo 
+0,7% delle immobilizzazioni nette (assunte con segno negativo); 
+e) contributi pubblici in conto capitale e contributi privati (assunti con segno 
+negativo).  
+ 
+Articolo 12  
+Trattamento dei contributi pubblici e privati percepiti a partire dall’anno 2012 
+ 
+12.1 I contributi pubblici e privati percepiti a partire dall’anno 2012 sono portati in 
+detrazione dal valore delle immobilizzazioni sia ai fini della determinazione della 
+remunerazione del capitale investito, sia ai fini della determinazione delle quote di 
+ammortamento e vengono degradati per la quota portata in deduzione dagli 
+ammortamenti. 
+ 
+Articolo 13  
+Trattamento dello stock di contributi esistente al 31 dicembre 2011  
+ 
+13.1 Per le vecchie gestioni comunali o sovracomunali, con riferimento allo stock di 
+contributi esistente al 31 dicembre 2011, il trattamento dello stock di contributi 
+esistente al 31 dicembre 2011 è effettuato sulla base delle scelte operate dalle 
+imprese ai sensi delle deliberazioni 573/2013/R/GAS e 455/2014/R/GAS e di quanto 
+previsto dal punto 2 della deliberazione 27 dicembre 2019, 570/2019/R/GAS tra le 
+seguenti due modalità:  
+        Allegato B 
+ 
+ 
+ 
+ 
+25 
+a) in continuità con l’approccio adottato nel terzo periodo di regolazione, i 
+contributi, non soggetti a degrado, sono portati interamente in deduzione dal 
+capitale investito mentre gli ammortamenti sono calcolati al lordo dei 
+contributi; 
+b) degrado graduale, attuato secondo le modalità indicate nell’Articolo 14. 
+ 
+Articolo 14  
+Meccanismo di gradualità per il degrado dei contributi applicabile nel periodo 2020-
+2027 
+ 
+14.1 La quota annua di degrado per ciascuna impresa distributrice c per la quale si applica 
+il regime di degrado graduale di cui all’ Articolo 13, con riferimento alle gestioni 
+comunali e sovracomunali, e all’ Articolo 22 , con riferimento alle gestioni per 
+ambito,  è calcolata in base alla seguente formula: 
+d
+CONT
+c
+CONT
+ct kkgkgSTQA = 21,2011,
+ 
+ 
+dove: 
+a) 
+CONT
+cST ,2011 è lo stock di contributi pubblici e privati esistente al 31 dicembre 
+2011; 
+b) kg1 è il coefficiente di rilascio immediato, riportato nella Tabella 2. Tale 
+coefficiente esprime la quota di
+CONT
+cST ,2011  soggetta a rilascio nel corso del 
+quinto periodo di regolazione; 
+c) kg2 è il coefficiente di modulazione delle quote di degrado, riportato nella 
+Tabella 2; 
+d) kd è il coefficiente di degrado, fissato pari a 0,025. 
+14.2 L’ammontare dello stock di contributi pubblici e privati da considerare ai fini della 
+determinazione del capitale investito nel periodo di regolazione 20 20-2027 per le 
+imprese distributrici per le quali si applica il regime di degrado graduale è calcolato 
+in base alla seguente formula: 
+−=
+t
+CONT
+ct
+CONT
+c
+CONT
+ct QAkgSTST ,1,2011,
+ 
+ 
+Articolo 15  
+Tasso di remunerazione del capitale investito 
+ 
+15.1 Il tasso di remunerazione reale pre -tasse del capitale investito netto riconosciuto è 
+fissato e aggiornato: 
+        Allegato B 
+ 
+ 
+ 
+ 
+26 
+• per gli anni 2020 e 2021, ai sensi del TIWACC 2016-2021; 
+• per gli anni dal 2022 al 2027, ai sensi del TIWACC 2022-2027. 
+ 
+Articolo 16  
+Tasso di riduzione annuale dei costi unitari riconosciuti a copertura dei costi operativi  
+ 
+16.1 Il tasso di riduzione annuale dei costi unitari riconosciuti a copertura dei costi 
+operativi del servizio di distribuzione è fissato: 
+a) con riferimento al gas naturale, per le imprese distributrici appartenenti alla 
+classe dimensionale fino a 50.000 punti di riconsegna serviti, per gli anni 
+2020-2025, pari al 6,55%; 
+b) con riferimento al gas naturale, per le imprese distributrici appartenenti alla 
+classe dimensionale oltre 50.000 e fino a 300.000 punti di riconsegna serviti, 
+per gli anni 2020-2025, pari al 4,77%; 
+c) con riferimento al gas naturale, per le imprese distributrici appartenenti alla 
+classe dimensionale oltre 300.000 punti di riconsegna serviti, per gli anni 
+2020-2025, pari al 2,74%; 
+d) con riferimento ai gas diversi dal naturale, pari a 0%. 
+Il tasso di riduzione annuale dei costi unitari riconosciuti di cui alle lettere a), b) e 
+c) per gli anni 2026-2027 è fissato pari a 0%. 
+16.2 Il tasso di riduzione annuale dei costi unitari riconosciuti a copertura dei costi 
+operativi relativi al servizio di misura è fissato pari a 0%. 
+16.3 Il tasso di riduzione annuale dei costi unitari riconosciuti a copertura dei costi 
+operativi relativi al servizio di commercializzazione è fissato pari a 1,57%, per gli 
+anni 2020-2025, e pari a 0%, per gli anni 2026-2027. 
+ 
+Articolo 17   
+Maggiorazione a copertura degli extra-costi connessi alle verificazioni periodiche 
+previste dal decreto 93/17 
+ 
+17.1 I costi unitari riconosciuti a copertura dei costi operativi connessi alle verificazioni 
+periodiche previste dal decreto 93/17 dei gruppi di misura di classe maggiore di G6 
+conformi ai requisiti delle Direttive per la messa in servizio dei gruppi di misura del 
+gas sono riconosciuti a consuntivo. 
+17.2 Il riconoscimento dei costi di cui al comma precedente è subordinato al rispetto degli 
+obblighi previsti dal decreto 93/17 per il titolare della proprietà dello strumento di 
+misura o che, ad altro titolo, ha la responsabilità dell’attività di misura. 
+        Allegato B 
+ 
+ 
+ 
+ 
+27 
+17.3 Il riconoscimento degli extra-costi di cui al comma 17.1 è inoltre subordinato al 
+rispetto delle seguenti condizioni: 
+• le imprese devono poter  documentare i costi sostenuti sulla base delle 
+indicazioni puntuali rispetto ai documenti da rendere disponibili all’Autorità 
+che saranno identificati con determina del Direttore della Direzione 
+Infrastrutture; 
+• le imprese devono disporre di idonea documentazione contabile a supporto dei 
+costi sostenuti; 
+• i costi devono essere  dichiarati nei conti annuali separati nell’apposito 
+comparto dell’attività di misura, i) verificazione periodica ex lege dei gruppi 
+di misura di cui al punto a); 
+• i costi non devono aver già trovato copertura in altre componenti della tariffa 
+di riferimento. 
+17.4 La documentazione e le modalità di trasmissione della medesima documentazione 
+sono definite con determina del Direttore della Direzione infrastrutture 
+dell’Autorità. 
+17.5 In relazione ai costi di cui al comma 17.1, per gli anni 2023-2025 a ciascun esercente 
+è riconosciuto in acconto un importo di 40 euro per ciascun punto di riconsegna 
+equipaggiato con misuratore di classe superiore a classe G6 conformi ai requisiti 
+delle Direttive per la messa in servizio dei gruppi di misura del gas . Per gli anni 
+2026-2027 a ciascun esercente è riconosciuto in acconto un importo di 35 euro per 
+ciascun punto di riconsegna equipaggiato con misuratore di classe superiore a classe 
+G6 conforme ai requisiti delle Direttive per la messa in servizio dei gruppi di misura 
+del gas. 
+ 
+Articolo 18  
+Vite utili ai fini regolatori  
+ 
+18.1 Per la determinazione della quota annua di ammortamento riconosciuta ai fini 
+tariffari si applicano le durate convenzionali dei cespiti riportati nella Tabella 3.  
+ 
+ 
+  
+        Allegato B 
+ 
+ 
+ 
+ 
+28 
+SEZIONE II 
+ 
+REGOLAZIONE TARIFFARIA SERVIZI DISTRIBUZIONE E MISURA DEL 
+GAS NATURALE 
+ 
+ 
+TITOLO 1 
+ 
+AMBITO DI APPLICAZIONE 
+ 
+Articolo 19  
+Ambito oggettivo di applicazione 
+ 
+19.1 La presente Sezione II reca le disposizioni aventi a d oggetto la regolazione dei 
+corrispettivi per la remunerazione dei seguenti servizi di pubblica utilità: 
+a) distribuzione del gas naturale; 
+b) misura del gas naturale. 
+19.2 Nel caso di servizio di distribuzione erogato mediante reti isolate di GNL o 
+alimentate a mezzo carro bombolaio, l’impresa distributrice interessata può 
+presentare istanza di assimilazione di tali reti a reti di distribuzione interconnesse 
+con il sistema n azionale di trasporto. In tale caso, trovano applicazione le 
+disposizioni di cui alla presente Sezione II alle reti oggetti dell’istanza, per un 
+periodo di cinque anni decorrenti dalla presentazione della medesima.  Tali 
+disposizioni non si applicano alle r eti situate nella Regione Sardegna che non 
+rispettino i requisiti dall’articolo 8, comma 2, del dPCM 29 marzo 2022. Le imprese 
+che gestiscono reti non in esercizio al 31 dicembre 2019 per le quali è stata presentata 
+istanza di assimilazione alle reti di distribuzione interconnesse ai sensi del comma 
+19.2 della RTDG sono tenute a informare i propri clienti finali, all’atto della richiesta 
+di connessione e in ogni caso in modo tempestivo, del possibile mutamento delle 
+condizioni tariffarie applicate al termin e dei cinque anni, in assenza di 
+interconnessione con la rete di trasporto. 
+19.3 La regolazione dei corrispettivi di cui al comma 19.1 è riferita a prestazioni rese nel 
+rispetto delle condizioni e dei livelli di qualità dei servizi definiti nella RQDG 2020-
+2027 e nei codici di rete. 
+ 
+ 
+ 
+ 
+        Allegato B 
+ 
+ 
+ 
+ 
+29 
+TITOLO 2 
+ 
+DISPOSIZIONI SPECIFICHE PER LE GESTIONI D’AMBITO 
+ 
+Articolo 20  
+Decorrenze  
+ 
+20.1 Le disposizioni per le gestioni d’ambito si applicano a partire dalla data di 
+affidamento come risulta dal contratto di servizio stipulato dalla stazione appaltante 
+e dal gestore entrante. 
+20.2 Qualora la data di decorrenza dell’affidamento di cui al comma 20.1 non coincida 
+con la data dell’1 gennaio  dell’anno di riferimento , i corrispettivi riconosciuti si 
+applicano con il criterio del pro-die. 
+ 
+Articolo 21  
+Componenti a copertura dei costi operativi e tasso di riduzione annuale per le gestioni 
+d’ambito  
+ 
+21.1 Nel primo anno di gestione del servizio per ambito i corrispettivi a copertura dei 
+costi operativi sono pari: 
+• per gli ambiti che servono oltre 300.000 punti di riconsegna, al livello dei 
+corrispettivi unitari previsti per le imprese di grande dimensione in relazione 
+alle gestioni comunali o sovracomunali; 
+• per gli ambiti che servono fino a 300.000 punti di riconsegna, alla media dei 
+corrispettivi unitari previsti per le imprese di grande e media dimensione in 
+relazione alle gestioni comunali o sovracomunali. 
+21.2 Ai fini degli aggiornamenti tariffari per il secondo e il terzo anno di gestione per 
+ambito, si applica un x-factor pari a 0%. 
+21.3 Nel secondo triennio di gestione del servizio per ambito i corrispettivi a copertura 
+dei costi operativi sono determinati secondo i seguenti criteri: 
+• per gli ambiti che servono oltre 300.000 punti di riconsegna, a partire dal 
+quarto anno della gestione per ambito si assumono i valori unitari dei 
+corrispettivi previsti per le gestioni comunali e sovracomunali, fissati per la 
+classe di densità corrisponde nte, per le imprese di dimensione grande. Tali 
+valori unitari sono aggiornati annualmente sulla base dell’x-factor previsto per 
+le imprese di grandi dimensioni; 
+• per gli  ambiti che servono fino a 300.000 punti di riconsegna, in ottica di 
+gradualità: 
+        Allegato B 
+ 
+ 
+ 
+ 
+30 
+o nel quarto anno di affidamento si considerano con un peso pari al 50% i 
+corrispettivi previsti per le gestioni comunali o sovracomunali per le 
+imprese di media dimensione e con un peso pari al 50% i corrispettivi 
+previsti per le gestioni comunali o sovracomunali per le imprese di grande 
+dimensione; 
+o nel quinto anno di affidamento si considerano con un peso pari al 25% i 
+corrispettivi previsti per le gestioni comunali o sovracomunali per le 
+imprese di media dimensione e con un peso pari al 75% i corrispettivi 
+previsti per le gestioni comunali o sovracomunali per le imprese di grande 
+dimensione; 
+o a partire dal sesto anno di affidamento si considerano con un peso pari al 
+100% i corrispettivi previsti per le gestioni comunali o sovracomunali per 
+le imprese di grande dimensione. 
+ 
+Articolo 22  
+Trattamento dello stock di contributi esistente al 31 dicembre 2011 per le gestioni 
+d’ambito 
+ 
+22.1 Con riferimento allo stock di contributi esistente al 31 dicembre 2011, per il periodo 
+1 gennaio 2020 – 31 dicembre 2027 si applica il regime di degrado graduale, attuato 
+secondo le modalità indicate nell’Articolo 14.  
+ 
+Articolo 23  
+Valore iniziale delle immobilizzazioni di località a seguito dell’affidamento mediante 
+gara d’ambito 
+ 
+23.1 Il valore iniziale, per il periodo di affidamento, delle immobilizzazioni nette di 
+località oggetto di trasferimento a titolo oneroso al gestore entrante, riferito al 31 
+dicembre dell’anno precedente a quello dell’affidamento del servizio mediante gara, 
+è calcolato sulla base del: 
+a) valore di rimborso, di cui all’articolo 5 del decreto 226/11  riconosciuto al 
+gestore uscente, nel caso in cui il gestore entrante sia diverso dal gestore 
+uscente, secondo quanto precisato al successivo Articolo 26;    
+b) valore delle immobilizzazioni nette di località riconosciute ai fini regolatori 
+negli altri casi. 
+23.2 Le disposizioni di cui al comma 23.1, lettera a), si applicano anche nei casi di 
+trasferimento di proprietà di reti e impianti da un Ente locale al nuovo gestore 
+subentrante all’atto della gara di affidamento del servizio di distribuzione , ai sensi 
+delle disposizioni dell’articolo 6 della legge n. 118/2022. 
+        Allegato B 
+ 
+ 
+ 
+ 
+31 
+Articolo 24  
+Valore delle immobilizzazioni nette disallineate rispetto alle medie di settore 
+ 
+24.1 Nei casi di cui al comma 23.1, lettera b), se il valore effettivo delle immobilizzazioni 
+lorde di località per metro di rete relativo ai servizi di distribuzione e misura, di cui 
+al comma 24.2, lettera a), risulta inferiore del 25% rispetto al valore unitario per 
+metro di rete di cui al comma 24.2, lettera b), allora il valore iniziale riferito ai cespiti 
+esistenti al 31 dicembre 2017, per il periodo di affidamento per ambito, delle 
+immobilizzazioni nette è calcolato in funzione del valore lordo parametrico di cui 
+all’Articolo 25, applicando un coefficiente pari a 0,75 e sommando il valore delle 
+immobilizzazioni nette relative a smart meter entrate in esercizio dal 2012 al 2017. 
+24.2 Ai fini della verifica dei termini della condizione di cui al comma 24.1:  
+a) il valore effettivo delle immobilizzazioni lorde di località per metro di rete 
+relativo ai servizi di distribuzione e misura (primo termine della condizione) 
+è valutato al 31 dicembre dell’anno 2017 rispetto a quello del passaggio a 
+gestione d’ambito, determinato dividendo il valore delle immobilizzazioni 
+lorde di località al 31 dicembre 2017, valutate a prezzi 2018, per l’estensione 
+della rete in metri al 31 dicembre dell’anno 2017; 
+b) il valore unitario per metro di rete (secondo termine della condizione) è 
+determinato dividendo la somma del valore parametrico calcolato secondo la 
+formula riportata all’ Articolo 25  e del valore lordo delle immobilizzazioni 
+lorde relative a smart meter entrate in esercizio dal 2012 al 2017. 
+24.3 Le modalità procedurali per l’esecuzione del test di cui al comma 24.1 sono definite 
+con determina del Direttore della Direzione Infrastrutture del 4 marzo 2020, n. 4. 
+24.4 Ai fini della determinazione del valore iniziale dei cespiti esistenti all’anno t-1 
+rispetto all’avvio della gestione d’ambito al valore parametrico di cui al comma 24.1 
+si sommano i valori de lle immobilizzazioni nette relative a cespiti del servizio di 
+distribuzione del servizio di misura entrati in esercizio dopo il 2017. 
+24.5 Le disposizioni di cui al comma 24.1 si applicano anche ai cespiti di proprietà degli 
+Enti locali concedenti, con le medesime decorrenze previste per i cespiti soggetti a 
+trasferimento dal gestore uscente, o dall’Ente locale concedente, al gestore entrante. 
+ 
+ 
+Articolo 25  
+Valore parametrico delle immobilizzazioni lorde 
+ 
+25.1 Il valore parametrico unitario, espresso a prezzi 2018, delle immobilizzazioni lorde 
+di località per i servizi di distribuzione e misura, è determinato secondo la seguente 
+formula: 
+ 
+        Allegato B 
+ 
+ 
+ 
+ 
+32 
+ 
+ 
+dove: 
+ 
+iY
+ rappresenta il valore stimato dell’immobilizzato lordo per metro di rete per 
+ciascuna località i; 
+ 
+           0  se la località i ha un’altitudine superiore a 600 metri o ha un numero di 
+punti di riconsegna superiore a 50 mila; 
+D1= 
+           1  se la località i ha un’altitudine inferiore o uguale a 600 metri e ha un 
+numero di punti di riconsegna inferiore o uguale a 50 mila; 
+ 
+           0  se la località i ha un’altitudine inferiore o uguale a 600 metri o ha un 
+numero di punti di riconsegna superiore a 50 mila 
+D2= 
+           1  se la località i ha un’altitudine superiore a 600 metri e ha un numero di 
+punti di riconsegna inferiore o uguale a 50 mila; 
+ 
+           0  se la località i ha un numero di punti di riconsegna inferiore o uguale a 50 
+mila 
+D3= 
+      1  se la località i ha un numero di punti di riconsegna superiore a 50 mila; 
+ 
+iX
+ rappresenta la densità, espressa in punti di riconsegna per metro di rete, per 
+ciascuna località i. 
+ 
+Articolo 26  
+Profili soggettivi di gestore entrante e gestore uscente  
+ 
+26.1 Ai fini della valutazione del profilo soggettivo di gestore entrante e gestore uscente, 
+nel caso di raggruppamenti temporanei sono valutati come gestore uscente o gestore 
+entrante gli interi perimetri delle società appartenenti ai raggruppamenti medesimi.  
+26.2 Ai fini della valutazione del profilo soggettivo di gestore entrante e gestore uscente 
+si considera la nozione di gruppo societario, quale insieme di società tra le quali 
+sussistano situazioni di controllo ai sensi dell’articolo 26 del decreto legislativo n. 
+127/91. 
+26.3 Nel caso di partecipazioni del gestore entrante nel gestore uscente che non rientrino 
+nelle fattispecie di cui al comma 26.2, il valore iniziale di cui al comma 23.1 viene 
+determinato: 
+)(77,1314)(13,1077)(55,73391,8685,74 32121 iiii XDXDXDDDY ++++=
+  
+  
+  
+        Allegato B 
+ 
+ 
+ 
+ 
+33 
+a) sulla base del valore delle immobilizzazioni nette di località riconosciute ai 
+fini regolatori, di cui al comma 23.1, lettera b), per una quota del valore dei 
+cespiti pari alla quota della partecipazione detenuta; 
+b) sulla base del valore di rimborso, di cui al comma 23.1, lettera a), per la quota 
+del valore dei cespiti residua rispetto a quella identificata alla precedente 
+lettera a). 
+ 
+Articolo 27  
+Stratificazione del valore di rimborso e del valore di ricostruzione a nuovo 
+ 
+27.1 Il valore di rimborso e il valore di ricostruzione a nuovo relativo ai cespiti in 
+esercizio al 31 dicembre dell’anno precedente a quello dell’affidamento del servizio 
+è stratificato per tipologia di cespite e per anno di entrata in esercizio. 
+27.2 La stratificazione per tipologia di cespite e per anno di entrata in esercizio è 
+effettuata sulla base delle risultanze dello stato di consistenza e/o delle perizie di 
+stima, se disponibili in modo completo  e a condizione che la stratificazione sia 
+pubblicata nel bando di gara. 
+27.3 Nel caso in cui non siano disponibili informazioni puntuali desumibili dallo stato di 
+consistenza e/o dalle perizie di stima o nel caso in cui la stratificazione non sia stata 
+pubblicata nel bando di gara, si applica la stratificazione standard individuata 
+secondo modalità definite con determina del Direttore della Direzione Infrastrutture. 
+27.4 Le disposizioni relative al metodo alternativo di determinazione della stratificazione 
+di cui a l precedente comma si applicano anche ai casi di valore delle 
+immobilizzazioni nette disallineate rispetto alle medie di settore, di cui al precedente 
+Articolo 24. 
+ 
+Articolo 28  
+Valorizzazione delle immobilizzazioni nette di località a conclusione del primo periodo 
+di affidamento  
+ 
+28.1 Il valore di rimborso , di cui all’articolo 14, comma 8,  del decreto legislativo n. 
+164/00, al termine del primo periodo di affidamento d’ambito è determinato come 
+somma di:   
+a) valore residuo dello stock esistente a inizio periodo di affidamento, valutato 
+per tutti i cespiti soggetti a trasferimento a titolo oneroso al gestore entrante 
+nel secondo periodo di affidamento in funzione del valore di rimborso, di cui 
+all’articolo 5 del decreto 226/11,  riconosciuto al gestore uscente, o all’Ente 
+locale concedente, in sede di primo affidamento per ambito, tenendo conto 
+        Allegato B 
+ 
+ 
+ 
+ 
+34 
+degli ammortamenti e delle dismissioni riconosciute ai fini tariffari nel 
+periodo di affidamento;  
+b) valore residuo dei nuovi investimenti realizzati nel periodo di affidamento ed 
+esistenti a fine periodo, valutati sulla base dei criteri individuati dall’Articolo 56. 
+ 
+Articolo 29  
+Misure per l’uscita anticipata dai contratti di concessione in essere con scadenza 
+posteriore a quella delle gare d’ambito  
+ 
+29.1 Nei casi di scadenza dell’affidamento posteriore alla data di affidamento del servizio 
+per ambito, di cui all’articolo 3 del decreto 19 gennaio 2011, il gestore subentrante 
+può presentare istanza per l’applicazione degli incentivi per l’anticipata risoluzione 
+previsti dal medesimo articolo 3 del decreto 19 gennaio 2011. 
+29.2 L’istanza di cui al comma 29.1 deve essere corredata da: 
+a) business plan dettagliato che evidenzi, per ciascun anno residuo della vecchia 
+concessione comunale o sovracomunale , costi e benefici connessi 
+all’aggregazione dell’enclave nella gestione d’ambito; 
+b) valutazione di analisi costi e benefici riferita agli utenti del servizio 
+dell’ambito. 
+29.3 L’Autorità, sulla base delle informazioni disponibili, valuta i benefici netti connessi 
+all’anticipata risoluzione e riconosce un incentivo non superiore al 50% dei benefici 
+attesi per gli utenti del servizio. 
+29.4 Le disposizioni del presente articolo si applicano solo nel caso in cui il gestore 
+entrante sia diverso dal gestore uscente.     
+  
+        Allegato B 
+ 
+ 
+ 
+ 
+35 
+TITOLO 3 
+ 
+TARIFFA DI RIFERIMENTO  
+ 
+Articolo 30  
+Tariffa di riferimento per il servizio di distribuzione  
+ 
+30.1 La tariffa di riferimento per il servizio di distribuzione è denominata tariffa TVD ed 
+è composta, in ciascun anno t, dalle seguenti componenti: 
+a) 𝑡(𝑐𝑒𝑛)𝑡
+𝑐𝑎𝑝, espressa in euro per punto di riconsegna , a copertura della 
+remunerazione del capitale investito e degli ammortamenti relativi a 
+immobilizzazioni centralizzate, come riportata nella Tabella 5; 
+b) 𝑡(𝑑𝑖𝑠)𝑡,𝑐,𝑖
+𝑟𝑒𝑚, espressa in euro per punto di riconsegna, a copertura della 
+remunerazione del capitale investito relativo alle immobilizzazioni materiali 
+di località propri e del servizio di distribuzione , per le località i a regime  
+nell’anno t; 
+c) 𝑡(𝑑𝑖𝑠)𝑡,𝑐,𝑖
+𝑎𝑚𝑚, espressa in euro per punto di riconsegna, a copertura degli 
+ammortamenti relativi alle immobilizzazioni materiali di località proprie del 
+servizio di distribuzione, per le località i a regime nell’anno t; 
+d) 𝑡(𝑑𝑖𝑠)𝑡,𝑑,𝑟
+𝑜𝑝𝑒 , espressa in euro per punto di riconsegna,  a copertura dei costi 
+operativi relativi al servizio di distribuzione fornito nelle località a regime 
+nell’anno t, che risultano gestite sulla base delle vecchie concessioni comunali 
+o sovracomunali. Tale componente è differenziata in base alla densità d e alla 
+classe dimensionale r, relativa al perimetro servito da ciascuna impresa 
+distributrice nell’anno t-1, come individuato sulla base della configurazione 
+comunicata in sede di raccolta dati , escludendo, con riferimento alla 
+definizione della densità d, tutte le località appartenenti all’ambito nel quale, 
+nel corso dell’anno t-1, è stata avviata la gestione del servi zio d’ambito . I 
+valori della componente sono riportati nella Tabella 4; 
+e) 𝑡(𝑑𝑖𝑠)𝑡,𝑑,𝑔
+𝑜𝑝𝑒 , espressa in euro per punto di riconsegna,  a copertura dei costi 
+operativi relativi al servizio di distribuzione fornito nelle località a regime 
+nell’anno t, che risultano gestite sulla base di gestioni d’ambito, considerando 
+anche le località dell’ambito con scadenza dell’affidamento successiva alla 
+gara d’ambito. Tale componente è differenziata in base alla densità d, relativa 
+al perimetro servito in gestione d’ambito nell’anno t-1, enclave incluso, come 
+individuato sulla base della configurazione comunicata in sede di raccolta dati 
+e all’ambito di concessione g. I valori della componente sono riportati nella 
+Tabella 4; 
+f) 𝑡(𝑑𝑖𝑠)𝑡,𝑔
+𝑐𝑜𝑢, espressa in euro per punto di riconsegna,  a copertura degli oneri 
+connessi alla corresponsione alla stazione appaltante dell’ una tantum di cui 
+        Allegato B 
+ 
+ 
+ 
+ 
+36 
+all’articolo 8, comma 1, del decreto 12 novembre 2011 , relativi all’anno t e 
+riferiti all’ambito g; 
+g)  𝑡(𝑑𝑖𝑠)𝑡,𝑔
+𝑐𝑜𝑎, espressa in euro per punto di riconsegna,  a copertura degli oneri 
+connessi alla corresponsione alla stazione appaltante del corrispettivo annuale 
+di cui all’articolo 8, comma 2, del decreto 12 novembre 2011, relativi all’anno 
+t e riferiti all’ambito g. 
+30.2 Il corrispettivo unitario 𝑡(𝑑𝑖𝑠)𝑡,𝑑,𝑔
+𝑜𝑝𝑒 , a copertura dei costi operativi relativi al servizio 
+di distribuzione del gas, per le località con scadenza dell’affidamento successiva alla 
+gara d’ambito non può risultare superiore al corrispettivo 𝑡(𝑑𝑖𝑠)𝑡,𝑑,𝑟
+𝑜𝑝𝑒  che si 
+applicherebbe qualora le località venissero considerate come appartenenti al 
+perimetro a gestione comunale e sovracomunale. Tale disposizione trova 
+applicazione fino alla data di effettivo passaggio a gestione per ambito di tali località.  
+ 
+Articolo 31  
+Tariffa di riferimento per il servizio di misura  
+ 
+31.1 La tariffa di riferimento per il servizio di misura è denominata tariffa TVM ed è 
+composta dalle seguenti componenti: 
+a) 𝑡(𝑚𝑖𝑠)𝑡,𝑐,𝑖
+𝑟𝑒𝑚, espressa in euro per punto di riconsegna,  a copertura della 
+remunerazione del capitale investito relativo alle immobilizzazioni materiali 
+di località proprie del servizio di misura, per le località i  a regime nell’anno t; 
+b) 𝑡(𝑚𝑖𝑠)𝑡,𝑐,𝑖
+𝑎𝑚𝑚, espressa in euro per punto di riconsegna, a copertura degli 
+ammortamenti relativi alle immobilizzazioni materiali di località proprie del 
+servizio di misura, per le località i a regime nell’anno t; 
+c) 𝑡(𝑖𝑛𝑠)𝑡
+𝑜𝑝𝑒, espressa in euro per punto di riconsegna, a copertura dei costi 
+operativi relativi alle funzioni di installazione e manutenzione . I valori della 
+componente sono riportati nella Tabella 5; 
+d) 𝑡(𝑟𝑎𝑐)𝑡,
+𝑜𝑝𝑒, espressa in euro per punto di riconsegna, a copertura dei costi 
+operativi relativi alla funzione di raccolta, validazione e registrazione delle 
+misure. I valori della componente sono riportati nella Tabella 5; 
+e) 𝑡(𝑡𝑒𝑙𝑐𝑜𝑛)𝑡,𝑐, espressa in euro per punto di riconsegna  presso cui sia stato 
+messo in servizio uno smart meter, a copertura dei costi centralizzati per i 
+sistemi di telelettura/telegestione e concentratori . I valori della componente 
+sono riportati nella Tabella 5; 
+f) 𝑉𝐸𝑅𝑡,𝑐, espressa in euro , a copertura dei costi operativi relativi alle 
+verificazioni periodiche previste da l decreto 93/17  dei gruppi di misura di 
+classe maggiore di G6 conformi ai requisiti delle Direttive per la messa in 
+servizio dei gruppi di misura del gas. 
+ 
+        Allegato B 
+ 
+ 
+ 
+ 
+37 
+Articolo 32  
+Tariffa di riferimento relativa alla commercializzazione dei servizi di distribuzione e di 
+misura 
+ 
+32.1 La tariffa di riferimento relativa alla commercializzazione dei servizi di 
+distribuzione e di misura è denominata COT ed è composta dalla componente 
+𝑡(𝑐𝑜𝑡)𝑡, espressa in euro per punto di riconsegna, a copertura dei costi operativi 
+relativi ai servizi di commercializzazione della distribuzione e della misura. I valori 
+della componente 𝑡(𝑐𝑜𝑡)𝑡 sono riportati nella Tabella 5. 
+ 
+Articolo 33  
+Disposizioni per le località in avviamento  
+ 
+33.1 Per le località in avviamento: 
+• in luogo delle componenti a copertura dei costi di capitale di località relative 
+al servizio di distribuzione, 𝑡(𝑑𝑖𝑠)𝑡,𝑐,𝑖
+𝑟𝑒𝑚 e 𝑡(𝑑𝑖𝑠)𝑡,𝑐,𝑖
+𝑎𝑚𝑚,  è previsto il 
+riconoscimento di un ammontare 𝐶𝐴𝑃𝑡,𝑐,𝑖
+𝑎𝑣𝑣,𝑑𝑖𝑠,  calcolato sulla base dei costi 
+effettivi sostenuti, espresso in euro; 
+• in luogo delle componenti a copertura dei costi di capitale di località relative 
+al servizio di misura, 𝑡(𝑚𝑖𝑠)𝑡,𝑐,𝑖
+𝑟𝑒𝑚 e 𝑡(𝑚𝑖𝑠)𝑡,𝑐,𝑖
+𝑎𝑚𝑚, è previsto il riconoscimento 
+di un ammontare 𝐶𝐴𝑃𝑡,𝑐,𝑖
+𝑎𝑣𝑣,𝑚𝑖𝑠, calcolato sulla base dei costi effettivi sostenuti, 
+espresso in euro; 
+• in luogo della componente a copertura dei costi operativi di località 𝑡(𝑑𝑖𝑠)𝑡,𝑑,𝑟
+𝑜𝑝𝑒  
+è riconosciuta la componente 𝑡(𝑑𝑖𝑠)𝑡
+𝑎𝑣𝑣, come riportati nella Tabella 5. 
+33.2 A partire dall’anno tariffe 2018, limitatamente alle località con anno di prima 
+fornitura successivo al 2017, si applica un tetto all’ammontare dei costi riconosciuti 
+a copertura dei costi di capitale nelle località in avviamento. 
+33.3 Il tetto di cui al comma 33.2 trova applicazione anche negli anni successivi al primo 
+triennio ed è rappresentato da una soglia massima in termini di spesa per utente 
+servito, espressa a prezzi 2017, pari a: 
+• 8.700 euro/pdr, per le località montane in zona climatica F, di cui all’articolo 
+23, comma 4-bis, del decreto legislativo n. 164/00; 
+• 11.800 euro/pdr, per le località ex deliberazione CIPE 5/2015, di cui 
+all’articolo 23, comma 4-bis, del decreto legislativo n. 164/00; 
+• 5.250 euro/pdr, per le località diverse da quelle di cui ai punti precedenti. 
+Tale tetto, nel caso in cui una quota degli investimenti sia coperta con contributi 
+pubblici, trova applicazione con riferimento alla restante quota degli investimenti 
+che non sia coperta da contributi pubblici. Con riferimento alle località di cui 
+        Allegato B 
+ 
+ 
+ 
+ 
+38 
+all’articolo 23, comma 4 -bis, del decreto legislativo 164/00, sono esclusi 
+dall’applicazione del tetto gli “ investimenti funzionali a garantire l’immissione in 
+rete di gas rinnovabile ” come definiti al comma 1.1. Ai fini dell’applicazione del 
+tetto sono identificate tre fasi:  
+i. una prima fase, in cui gli investimenti sono riconosciuti integralmente, pur in 
+via provvisoria, in attesa delle decisioni che vengono assunte nella terza fase, 
+come precisato al successivo punto iii., avente durata: 
+o di sette anni successivi all’anno di prima fornitura, per le località di cui 
+all’articolo 23, comma 4-bis, del decreto legislativo n. 164/00; 
+o di tre anni successivi all’anno di prima fornitura, per le località diverse 
+da quelle di cui al punto precedente; 
+ii. una seconda fase, che si avvia dal quarto anno di gestione del servizio 
+successivo all’anno di prima fornitura, in cui trova applicazione un tetto 
+calcolato sulla base di una valutazione prospettica dei punti di riconsegna che 
+potenzialmente potrebbero ess ere connessi alla rete, basata sulle curve di 
+penetrazione dell’utenza tipiche di ciascun ambito tariffario; tale disposizione 
+non trova applicazione con riferimento alle località di cui all’articolo 23, 
+comma 4-bis, del decreto legislativo 164/00; 
+iii. una terza fase, in cui, qualora risulti superato il tetto, si procede alla 
+decurtazione retroattiva degli investimenti riconosciuti a partire dall’anno di 
+prima fornitura, con un piano di rientro di durata triennale, che si avvia: 
+o dall’ottavo anno di gestione del servizio successivo all’anno di prima 
+fornitura, per le località di cui all’articolo 23, comma 4-bis, del decreto 
+legislativo n. 164/00; 
+o dal sesto anno di gestione del servizio successivo all’anno di prima 
+fornitura, per le località diverse da quelle di cui al punto precedente. 
+33.4 Il tetto all’ammontare dei costi riconosciuti a copertura dei costi di capitale trova 
+applicazione sia con riferimento alle imprese distributrici che gestiscono il servizio 
+per ambito comunale o sovra-comunale, sia con riferimento alle imprese distributrici 
+che si aggiudicano le gare per l’affidamento del servizio per ambito territoriale 
+minimo. 
+33.5 Il valore del tetto di cui al comma  33.3 viene aggiornato annualmente in funzione 
+del tasso di variazione medio annuo dell’Indice di rivalutazione del capitale. 
+33.6 Le modalità operative di gestione della seconda e della terza fase di cui al comma 
+33.3, sono disciplinate dall’Allegato A alla deliberazione 525/2022/R/GAS. 
+ 
+ 
+ 
+ 
+ 
+        Allegato B 
+ 
+ 
+ 
+ 
+39 
+TITOLO 4 
+ 
+VINCOLI AI RICAVI AMMESSI  
+ 
+Articolo 34  
+Composizione del vincolo ai ricavi ammessi di impresa 
+ 
+34.1 Per ciascuna impresa distributrice c, in ciascun anno t, è determinato un vincolo ai 
+ricavi ammessi 𝑉𝑅𝑇𝑡,𝑐 a copertura dei costi per l’erogazione del servizio di 
+distribuzione e del servizio di misura. 
+34.2 Il vincolo ai ricavi ammessi 𝑉𝑅𝑇𝑡,𝑐 è composto da tre parti: 
+a) vincolo ai ricavi ammessi a copertura del servizio di distribuzione 𝑉𝑅𝐷𝑡,𝑐; 
+b) vincolo ai ricavi ammessi a copertura dei costi del servizio di misura 𝑉𝑅𝑀𝑡,𝑐; 
+c) vincolo ai ricavi ammessi a copertura dei costi per la commercializzazione dei 
+servizi di distribuzione e di misura 𝑉𝑅𝐶𝑡,𝑐. 
+ 
+Articolo 35  
+Composizione del vincolo ai ricavi ammessi a copertura dei costi del servizio di 
+distribuzione  
+ 
+35.1 Il vincolo ai ricavi ammessi 𝑉𝑅𝐷𝑡,𝑐 è suddiviso in due elementi: 
+• vincolo ai ricavi ammessi a copertura dei costi centralizzati 𝑉𝑅𝐷𝑡,𝑐
+𝐶𝐸𝑁; 
+• vincolo ai ricavi ammessi a copertura dei costi di località 𝑉𝑅𝐷𝑡,𝑐
+𝐿𝑂𝐶. 
+ 
+Articolo 36  
+Vincolo a copertura dei costi centralizzati del servizio di distribuzione  
+ 
+36.1 Per ciascun anno t del periodo di regolazione 2020-2027 e per ciascuna impresa 
+distributrice c il vincolo ai ricavi ammessi a copertura dei costi centralizzati è 
+determinato secondo la seguente formula: 
+𝑉𝑅𝐷𝑡,𝑐
+𝐶𝐸𝑁 = 𝑡(𝑐𝑒𝑛)𝑡
+𝑐𝑎𝑝 ⋅ 𝑁𝑈𝐴𝑡,𝑐
+𝑒𝑓𝑓 
+ 
+dove: 
+• 𝑁𝑈𝐴𝑡,𝑐
+𝑒𝑓𝑓è il numero di punti di riconsegna attivi effettivamente serviti 
+nell’anno t dall’impresa c, calcolato come rapporto tra il ricavo rinveniente di 
+competenza del medesimo anno t dall’applicazione della componente t(cot), 
+        Allegato B 
+ 
+ 
+ 
+ 
+40 
+di cui è data separata evidenza contabile, e il valore unitario della componente 
+t(cot) nel medesimo anno t. 
+ 
+Articolo 37  
+Vincoli ai ricavi ammessi a copertura dei costi di località relativi al servizio di 
+distribuzione  
+ 
+37.1 Per ciascun anno t e per ciascuna impresa distributrice c, il vincolo ai ricavi ammessi 
+a copertura dei costi di località 
+LOC
+ctVRD ,  è determinato secondo la seguente formula: 
+ 
+ 
+
+
+
+−+
++−++++
++++=
+i
+it
+regeff
+ct
+ope
+gdt
+regatt
+ictit
+coa
+gt
+cou
+gt
+i
+disavv
+i
+avveff
+ct
+avv
+t
+i
+it
+regeff
+ict
+ope
+rdt
+i
+regatt
+ict
+amm
+ict
+rem
+ict
+LOC
+ct
+NUAdist
+NUAdistdistCAPNUAdist
+NUAdistNUAdistdistVRD
+)1()(
+)1()()()(
+)()()(
+,
+,
+,,,
+,
+,,,,,
+,,
+,
+,
+,
+,,,,
+,
+,,,,,,,
+
+
+
+ 
+dove: 
+• 𝑁𝑈𝐴𝑡,𝑐,𝑖
+𝑎𝑡𝑡,𝑟𝑒𝑔, con riferimento alle località a regime nell’anno t, il numero di 
+punti di riconsegna atteso per l’anno t assunto pari al dato relativo all’anno t-
+2; 
+• 𝑁𝑈𝐴𝑡,𝑐
+𝑒𝑓𝑓,𝑟𝑒𝑔è il numero di punti di riconsegna attivi effettivamente serviti 
+nell’anno t dall’impresa c nelle località a regime  nell’anno t, calcolato come 
+rapporto tra il ricavo rinveniente di competenza del medesimo anno t 
+dall’applicazione della componente t(cot), di cui è data separata evidenza 
+contabile, e il valore unitario della componente t(cot) nel medesimo anno t; 
+• 𝑁𝑈𝐴𝑡,𝑐
+𝑒𝑓𝑓,𝑎𝑣𝑣è il numero di punti di riconsegna attivi effettivamente serviti 
+nell’anno t dall’impresa c nelle località in avviamento  nell’anno t, calcolato 
+come rapporto tra il ricavo rinveniente di competenza del medesimo anno t 
+dall’applicazione della componente t(cot), di cui è data separata evidenza 
+contabile, e il valore unitario della componente t(cot) nel medesimo anno t; 
+• 𝐶𝐴𝑃𝑖
+𝑎𝑣𝑣,𝑑𝑖𝑠è un valore in euro, pari alla somma della remunera zione del 
+capitale investito e de gli ammortamenti relativi al servizio di distribuzione , 
+calcolato per la località i in avviamento nell’anno t; 
+• 𝜔𝑡,𝑖 è la frazione d’anno (rapportata a 365 o 366 giorni, negli anni bisestili) in 
+cui nell’anno t una località è stata gestita in base alle vecchie gestioni comunali 
+o sovracomunali. 
+ 
+        Allegato B 
+ 
+ 
+ 
+ 
+41 
+Articolo 38  
+Vincolo ai ricavi ammessi a copertura dei costi del servizio di misura  
+ 
+38.1 Per ciascun anno t e per ciascuna impresa distributrice c, il vincolo ai ricavi ammessi 
+a copertura dei costi del servizio di misura 𝑉𝑅𝑀𝑡,𝑐 è suddiviso in due elementi: 
+• vincolo ai ricavi ammessi a copertura dei costi centralizzati del servizio di 
+misura 𝑉𝑅𝑀𝑡,𝑐
+𝐶𝐸𝑁
+ ; 
+• vincolo ai ricavi ammessi a copertura dei costi di località 𝑉𝑅𝑀𝑡,𝑐
+𝐿𝑂𝐶. 
+ 
+Articolo 39  
+Vincoli ai ricavi ammessi a copertura dei costi di centralizzati relativi al servizio di 
+misura  
+ 
+39.1 Per ciascun anno t e per ciascuna impresa distributrice c, il vincolo ai ricavi ammessi 
+a copertura dei costi centralizzati relativi al servizio di misura è determinato secondo 
+la seguente formula: 
+𝑉𝑅𝑀𝑡,𝑐
+𝑐𝑒𝑛 = 𝑡(𝑡𝑒𝑙𝑐𝑜𝑛)𝑡,𝑐 ∙ 𝑁𝑈𝐴𝑡,𝑐
+𝑠𝑚𝑎𝑟𝑡  
+ 
+dove: 
+• 𝑁𝑈𝐴𝑡,𝑐
+𝑠𝑚𝑎𝑟𝑡, con riferimento alle località a regime nell’anno t, è il numero di 
+punti di riconsegna al 31 dicembre dell’anno t equipaggiato con un gruppo di 
+misura avente i requisiti minimi di cui alle Direttive per la messa in servizio 
+dei gruppi di misura del gas; 
+ 
+Articolo 40  
+Vincoli ai ricavi ammessi a copertura dei costi di località relativi al servizio di misura 
+ 
+40.1 Per ciascun anno t e per ciascuna impresa distributrice c, il vincolo ai ricavi ammessi 
+a copertura dei costi di località  del servizio di misura è determinato secondo la 
+seguente formula: 
+𝑉𝑅𝑀𝑡,𝑐
+𝐿𝑂𝐶 = ∑[𝑡(𝑚𝑖𝑠)𝑡,𝑐,𝑖
+𝑟𝑒𝑚 + 𝑡(𝑚𝑖𝑠)𝑡,𝑐,𝑖
+𝑎𝑚𝑚] ⋅ 𝑁𝑈𝐴𝑡,𝑐,𝑖
+𝑎𝑡𝑡,𝑟𝑒𝑔
+𝑖
++ 
++[𝑡(𝑖𝑛𝑠)𝑡
+𝑜𝑝𝑒 + 𝑡(𝑟𝑎𝑐)𝑡
+𝑜𝑝𝑒] ⋅ 𝑁𝑈𝐴𝑡,𝑐
+𝑒𝑓𝑓 + 𝑉𝐸𝑅𝑡,𝑐 + ∑ 𝐶𝐴𝑃𝑖
+𝑎𝑣𝑣,𝑚𝑖𝑠
+𝑖
+  
+dove: 
+        Allegato B 
+ 
+ 
+ 
+ 
+42 
+• 𝑁𝑈𝐴𝑡,𝑐,𝑖
+𝑎𝑡𝑡,𝑟𝑒𝑔, con riferimento alle località a regime nell’anno t, il numero di 
+punti di riconsegna atteso per l’anno t assunto pari al dato relativo all’anno t-
+2; 
+• 𝑁𝑈𝐴𝑡,𝑐
+𝑒𝑓𝑓è il numero di punti di riconsegna attivi effettivamente serviti 
+nell’anno t dall’impresa c, calcolato come rapporto tra il ricavo rinveniente di 
+competenza del medesimo anno t dall’applicazione della componente t(cot), 
+di cui è data separata evidenza contabile, e il valore unitario della componente 
+t(cot) nel medesimo anno t; 
+• 𝐶𝐴𝑃𝑖
+𝑎𝑣𝑣,𝑚𝑖𝑠è un valore in euro, pari alla somma della remunerazione del 
+capitale investito e degli ammortamenti relativi al servizio di misura, 
+calcolato, per la località i in avviamento nell’anno t. 
+ 
+Articolo 41  
+Vincoli ai ricavi ammessi a copertura dei costi operativi relativi alla 
+commercializzazione dei servizi di distribuzione e di misura 
+ 
+41.1 Per ciascun anno t e per ciascuna impresa distributrice c, il vincolo ai ricavi ammessi 
+a copertura dei costi di commercializzazione dei servizi di distribuzione e misura del 
+gas naturale è determinato secondo la seguente formula: 
+𝑉𝑅𝐶𝑡,𝑐 = 𝑡(𝑐𝑜𝑡)𝑡 ⋅ 𝑁𝑈𝐴𝑡,𝑐
+𝑒𝑓𝑓 
+ 
+dove: 
+• 𝑁𝑈𝐴𝑡,𝑐
+𝑒𝑓𝑓è il numero di punti di riconsegna attivi effettivamente serviti 
+nell’anno t dall’impresa c, calcolato come rapporto tra il ricavo rinveniente di 
+competenza del medesimo anno t dall’applicazione della componente t(cot), 
+di cui è data separata evidenza contabile, e il valore unitario della componente 
+t(cot) nel medesimo anno t. 
+ 
+ 
+ 
+  
+        Allegato B 
+ 
+ 
+ 
+ 
+43 
+ 
+TITOLO 5 
+ 
+TARIFFE OBBLIGATORIE 
+ 
+Articolo 42  
+Tariffa obbligatoria per i servizi di distribuzione e misura  
+ 
+42.1 Ciascuna impresa distributrice applica alle attuali e potenziali controparti di contratti 
+aventi ad oggetto i servizi di cui al comma 19.1 una tariffa obbligatoria fissata 
+dall’Autorità a copertura dei costi relativi ai servizi di distribuzione, misura e 
+commercializzazione. 
+42.2 Le tariffe sono differenziate per ambito  tariffario, come definit o al successivo  
+Articolo 43, e riflettono i costi del servizio in ciascuno di tali ambiti. 
+42.3 La tariffa obbligatoria è composta dalle seguenti componenti  differenziate per 
+ambito tariffario: 
+a) 1, composta dagli elementi 1(dis), 1(mis), 1(cot), espressi in euro per punto 
+di riconsegna;  
+b) 3, composta dall’elemento 𝜏3
+𝑓(𝑑𝑖𝑠), espresso in centesimi di euro per 
+standard metro cubo, differenziato per scaglione di consumo f, come riportati 
+nella Tabella 6; 
+c) GS, espressa in centesimi di euro/ standard metro cubo, a copertura del 
+sistema di compensazione tariffaria per i clienti economicamente disagiati; 
+d) RE, espressa in centesimi di euro/standard metro cubo, a copertura degli oneri 
+che gravano sul Fondo per misure ed interventi per il risparmio energetico e 
+lo sviluppo delle fonti rinnovabili nel settore del gas naturale , di cui 
+all’Articolo 74, sul Fondo di garanzia a sostegno della realizzazione di reti 
+di teleriscaldamento , di cui all’ Articolo 78  e sul Conto per lo sviluppo 
+tecnologico e industriale, di cui all’articolo 57 del TIT; 
+e) RS, espressa in centesimi di euro/standard metro cubo, a copertura degli oneri 
+gravanti sul Conto per la qualità dei servizi gas, di cui all’Articolo 75; 
+f) UG1, espressa in centesimi di euro/ standard metro cubo, a copertura di 
+eventuali squilibri dei sistemi di perequazione e a copertura di eventuali 
+conguagli; 
+g) UG2, espressa in centesimi di euro/standard metro cubo e in euro per punto 
+di riconsegna, pari alla somma dei seguenti elementi: 
+i. UG2c a compensazione dei costi di commercializzazione della vendita al 
+dettaglio, che gravano sul Conto di cui all’Articolo 80; 
+        Allegato B 
+ 
+ 
+ 
+ 
+44 
+ii. UG2k per il riconoscimento degli importi derivanti dalla rideterminazione 
+del coefficiente k effettuata in ottemperanza alla sentenza 4825/16 del 
+Consiglio di Stato, che gravano sul Conto di cui all’Articolo 84; 
+h) UG3, espressa in centesimi di euro/ standard metro cubo, pari alla somma 
+degli elementi: 
+i. UG3INT, a copertura degli oneri connessi all’intervento di interruzione di 
+cui all’articolo 12bis del TIMG;  
+ii. UG3UI, a copertura degli oneri connessi a eventuali squilibri dei saldi dei 
+meccanismi perequativi specifici per il FD D, di cui all’articolo 37 del 
+TIVG, e degli oneri della morosità sostenuti dai fornitori di ultima 
+istanza, limitatamente ai clienti finali non disalimentabili;  
+iii. UG3FT, a copertura degli importi di morosità riconosciuti ai fornitori 
+transitori del sistema di trasporto ai sensi dell’articolo 3 della 
+deliberazione 363/2012/R/GAS; 
+i) ST, espressa in euro per punto di riconsegna, relativa allo sconto tariffario di 
+gara di cui all’articolo 13 del decreto 12 novembre 2011; 
+j) VR, espressa in euro per punto di riconsegna, a copertura della differenza tra 
+VIR e RAB; 
+k) CE, espressa in euro per punto di riconsegna, relativa alla compensazione dei 
+maggiori costi unitari relativi al servizio di distribuzione delle aree di nuova 
+metanizzazione con costi unitari elevati  in applicazione del dPCM 29 marzo 
+2022 e, con decorrenza dall’1 gennaio 2026, del dPCM 10 settembre 2025 ; 
+nel triennio 2023-2025 la componente CE trova applicazione limitatamente 
+alle reti di distribuzione ubicate nell a Regione Sardegna , realizzate o con 
+cantiere avviato al momento dell’entrata in vigore del medesimo dPCM 29 
+marzo 2022; nel biennio 2026-2027, la componente CE trova applicazione 
+limitatamente alle reti di distribuzione ubicate nella Regione Sardegna di cui 
+al dPCM 10 settembre 2025. 
+42.4 L’elemento 1(dis), espresso in euro per punto di riconsegna, è destinato alla 
+copertura di quota parte dei costi di capitale relativi al servizio di distribuzione.  
+42.5 L’elemento 𝜏3
+𝑓(𝑑𝑖𝑠), espresso in centesimi di euro per standard metro cubo , 
+articolato per scaglioni tariffari, secondo quanto riportato nella Tabella 6, è destinato 
+alla copertura dei costi operativi e della quota parte dei costi di capitale che non 
+trovano copertura dall’applicazione delle quote fisse di cui al comma 42.4. 
+42.6 L’elemento 𝜏3
+𝑓(𝑑𝑖𝑠) è ottenuto moltiplicando i corrispettivi dell’articolazione 
+tariffaria di riferimento, come riportati nella Tabella 7, per i coefficienti correttivi 
+t,s dell’ambito tariffario s. 
+        Allegato B 
+ 
+ 
+ 
+ 
+45 
+42.7 L’elemento 1(mis), espresso in euro per punto di riconsegna, è destinato alla 
+copertura dei costi operativi e di capitale relativi al servizio di misura ed è 
+differenziato per ambito tariffario. 
+42.8 L’elemento 1(cot), espresso in euro per punto di riconsegna, è destinato alla 
+copertura dei costi del servizio di commercializzazione ed è uguale in tutto il 
+territorio nazionale.   
+42.9 Le componenti 1(dis) e 1(mis) sono articolate per scaglioni, come individuati nella 
+Tabella 8. 
+42.10 La componente GS, di cui al comma  42.3, lettera c), è posta pari a zero per i punti 
+di riconsegna nella titolarità di clienti domestici, come individuati ai sensi del 
+comma 2.3, lettera a), del TIVG. 
+42.11 La componente tariffaria RE, di cui al comma 42.3, lettera d), è applicata in maniera 
+differenziata per le classi di agevolazione di cui al comma 2.3 dell’Allegato A alla 
+deliberazione 541/2022/R/GAS ed è composta dai seguenti elementi: 
+a) 𝑅𝐸𝐼𝐺 per la copertura degli oneri relativi alle misure ed interventi per il 
+risparmio energetico e lo sviluppo delle fonti rinnovabili nel settore del gas 
+naturale ad eccezione degli oneri derivanti dalle disposizioni di cui all’articolo 
+22 e all’articolo 32 del decreto legislativo n. 28/11, come prevista dall’articolo 
+2, lettera d), del decreto 21 dicembre 2021, n. 541. Tale elemento è applicato 
+in misura ridotta ai punti di riconsegna nella titolarità di imprese a forte 
+consumo di gas naturale, come previsto dal comma 2.4 dell’Allegato A alla 
+deliberazione 541/2022/R/GAS; 
+b) 𝑅𝐸𝐺 per la copertura degli oneri derivanti dall’applicazione in misura ridotta 
+dell’elemento 𝑅𝐸𝐼𝐺 di cui alla precedente lettera a). Tale elemento è applicato 
+ai punti di riconsegna che non sono nella titolarità di imprese a forte consumo 
+di gas naturale, come previsto dal comma 2.6 dell’Allegato A alla 
+deliberazione 541/2022/R/GAS; 
+c) 𝑅𝐸𝑚𝑖𝑛per la copertura degli oneri relativi alle finalità di cui all’articolo 22 del 
+decreto legislativo n. 28/11 e degli oneri relativi alle finalità di cui all’articolo 
+32 del decreto legislativo n. 28/11. Tale elemento è applicato indistintamente 
+a tutti i punti di riconsegna. 
+ 
+Articolo 43  
+Ambito tariffario 
+ 
+43.1 L’ambito tariffario è l’area geografica dove trovano applicazione le medesime tariffe 
+per i servizi di distribuzione e misura. 
+43.2 Sono identificati i seguenti ambiti tariffari: 
+        Allegato B 
+ 
+ 
+ 
+ 
+46 
+• Ambito nord occidentale, comprendente le regioni Valle d’Aosta, Piemonte e 
+Liguria; 
+• Ambito nord orientale, comprendente le regioni: Lombardia, Trentino – Alto 
+Adige, Veneto, Friuli - Venezia Giulia, Emilia – Romagna; 
+• Ambito centrale, comprendente le regioni Toscana, Umbria e Marche; 
+• Ambito centro -sud orientale , comprendente le regioni Abruzzo, Molise, 
+Puglia, Basilicata; 
+• Ambito centro-sud occidentale, comprendente le regioni Lazio e Campania; 
+• Ambito meridionale, comprendente le regioni Calabria e Sicilia; 
+• Ambito Sardegna, comprendente la regione Sardegna. 
+ 
+ 
+ 
+ 
+TITOLO 6 
+ 
+MECCANISMI DI PEREQUAZIONE  
+ 
+Articolo 44  
+Perequazione  
+ 
+44.1 La perequazione dei costi e dei ricavi di distribuzione e di misura per gli anni 2020-
+2027 si articola in: 
+a) perequazione dei ricavi relativi al servizio di distribuzione; 
+b) perequazione dei costi relativi al servizio di misura. 
+44.2 Le perequazioni di cui al comma 44.1 si applicano a tutte le imprese distributrici. 
+44.3 In relazione all’interpretazione ed attuazione delle norme in materia di perequazione 
+la Cassa si attiene alle indicazioni dell’Autorità. Ogni eventuale contestazione circa 
+le modalità di applicazione dei meccanismi di perequazione e di raccolta delle 
+relative informazioni è demandata alla valutazione e decisione dell’Autorità. 
+ 
+Articolo 45  
+Perequazione dei ricavi relativi al servizio di distribuzione – Importo a consuntivo 
+ 
+45.1 In ciascun anno t l’ammontare di perequazione PDt,c, riconosciuto a consuntivo a 
+ciascuna impresa distributrice, relativo al meccanismo di cui al comma 44.1, lettera 
+a), è pari a: 
+ 
+        Allegato B 
+ 
+ 
+ 
+ 
+47 
+𝑃𝐷𝑡,𝑐 = 𝑉𝑅𝐷𝑡,𝑐 − 𝑅𝐸𝑡,𝑐 − ∑ 𝑃𝐷𝑡,𝑐,𝑏
+𝑎𝑐𝑐
+𝑏
+− 𝐷𝐸𝐹𝑡,𝑐 + ∆𝑂𝑃𝐸𝑡,𝑐 +  ∆𝑅𝐼𝐷𝑡,𝑐 
+ 
+dove: 
+• 𝑅𝐸𝑡,𝑐 è il ricavo effettivo di competenza dell’anno t, ottenuto dall’applicazione 
+delle tariffe obbligatorie ai clienti titolari dei contratti per il servizio di 
+distribuzione, al lordo della componente ST e al netto della componente CE, 
+nei punti di riconsegna serviti dall’impresa c nel medesimo anno; 
+• 𝑃𝐷𝑡,𝑐,𝑏
+𝑎𝑐𝑐  è la somma degli ammontari di perequazione in acconto  per ciascun 
+bimestre b, calcolato ai sensi del successivo comma 47.1; 
+• 𝐷𝐸𝐹𝑡,𝑐 è l’ammontare equivalente ai ricavi relativi all’anno t, derivanti 
+dall’applicazione della tariffa obbligatoria per i servizi di distribuzione misura 
+e relativa commercializzazione, riferito ai punti di riconsegna per i quali 
+l’impresa non abbia portato ad esito la disalimentazione fisica di cui al comma 
+40.2 del TIVG, nei termini previsti dal medesimo comma, determinato ai sensi 
+dell’Articolo 43 del TIVG; 
+• ∆𝑂𝑃𝐸𝑡,𝑐 è l’ammontare di competenza dell’anno t, finalizzato al 
+riconoscimento delle componenti a copertura dei costi operativi di località 
+𝑡(𝑑𝑖𝑠)𝑡,𝑑,𝑟
+𝑜𝑝𝑒 , e 𝑡(𝑑𝑖𝑠)𝑡,𝑑,𝑔
+𝑜𝑝𝑒  in misura massima pari al numero di punti di 
+riconsegna serviti nel 2018 , al fine di mitigare gli effetti derivanti dalla 
+riduzione dei punti di riconsegna in singole località, attivato al verificarsi delle 
+condizioni indicate al successivo comma 45.2; 
+• ∆𝑅𝐼𝐷𝑡,𝑐 è l’ammontare di competenza dell’anno t, spettante all’impresa 
+distributrice c, finalizzato al riconoscimento degli effetti derivanti 
+dall’applicazione di tassi di riduzione dei costi operativi riconosciuti 
+“personalizzati” in luogo del tasso di riduzione annuale dei costi applicato alla 
+generalità delle imprese che servono oltre 30 0.000 punti di riconsegna; tale 
+riconoscimento è attivato su istanza dell’impresa interessata al verificarsi delle 
+condizioni indicate al successivo comma 45.4, in relazione alle località a 
+regime nell’anno t che risultano gestite sulla base delle vecchie concessioni 
+comunali o sovracomunali, tenendo opportunamente conto degli eventuali 
+effetti dell’elemento ∆𝑂𝑃𝐸𝑡,𝑐. 
+45.2 L’ammontare ∆𝑂𝑃𝐸𝑡,𝑐 di cui al precedente comma 45.1, si attiva qualora ricorrano 
+le seguenti condizioni: 
+• deve verificarsi una riduzione dei punti di riconsegna serviti nella singola 
+località superiore al 2% rispetto al numero di punti riconsegna serviti nel 2018;  
+• a livello di gruppo societario, non deve essersi registrata una variazione 
+positiva nel numero di punti di riconsegna serviti rispetto al 2018; a tale fine, 
+non rilevano eventuali cessioni di ram o d’azienda, eventuali cessioni di 
+impianti in esito ad assegnazione delle gare d’ambito o, più in generale, 
+        Allegato B 
+ 
+ 
+ 
+ 
+48 
+variazioni derivanti da eventi non connessi all 'ordinaria evoluzione del 
+servizio. 
+45.3 Le modalità applicative di determinazione dell’elemento ∆𝑂𝑃𝐸𝑡,𝑐 sono definite, ove 
+necessario, con determina del Direttore della Direzione Infrastrutture, Energia e 
+Unbundling dell’Autorità. 
+45.4 L’ammontare ∆𝑅𝐼𝐷𝑡,𝑐 di cui al comma 45.1 si attiva in esito ad apposita istruttoria, 
+su istanza dell’impresa interessata, qualora ricorrano congiuntamente le seguenti 
+condizioni: 
+• l’impresa risulta servire al 31 dicembre 2018 oltre 300.000 punti di 
+riconsegna; 
+• successivamente al 2018, non siano intervenute variazioni societarie che 
+abbiano comportato la cessione totale o parziale di rami aziendali, per effetto 
+delle quali, a partire dall’anno tariffario 2020, la società richiedente non risulti 
+più attiva ai fini  dell’erogazione del servizio di distribuzione o risulti 
+appartenere ad una classe dimensionale inferiore rispetto a quella con oltre 
+300.000 punti di riconsegna serviti; 
+• il costo operativo effettivo unitario dell’impresa distributrice c relativo al 
+servizio di distribuzione - gestione delle infrastrutture di rete, rilevato per 
+l’anno 2018 e opportunamente aggiornato all’anno 2025, risulti superiore al 
+costo operativo unitario medio obiettivo, riferito al 2025, relativo alla classe 
+dimensionale oltre 300.000 punti di riconsegna serviti. 
+45.5 Ai fini della valorizzazione dell’ammontare ∆𝑅𝐼𝐷𝑡,𝑐, il valore dell’ X-factor 
+“personalizzato” non può assumere valori inferiori all’1,6%. 
+45.6 Le modalità applicative di determinazione dell’elemento ∆𝑅𝐼𝐷𝑡,𝑐  sono definite con 
+determina del Direttore della Direzione Infrastrutture Energia dell’Autorità. 
+ 
+Articolo 46  
+Perequazione dei costi relativi al servizio di misura 
+ 
+46.1 In ciascun anno t, l’ammontare di perequazione 𝑃𝑀𝑡,𝑐, riconosciuto a consuntivo a 
+ciascuna impresa distributrice c, relativo al meccanismo di cui al comma 44.1, lettera 
+b) è pari a: 
+ 
+𝑃𝑀𝑡,𝑐 = 𝐶𝑆𝑡,𝑐
+𝑠𝑤𝑖𝑡𝑐ℎ − 𝑅𝐸𝑡,𝑐
+𝑠𝑤𝑖𝑡𝑐ℎ + 𝑉𝑅𝑀𝑡,𝑐 − 𝑅𝐸𝑡,𝑐
+𝑚𝑖𝑠 − 𝑅𝑃𝑀𝑡,𝑐 + 𝐶𝐼𝑁𝐷  
+ 
+dove: 
+        Allegato B 
+ 
+ 
+ 
+ 
+49 
+• 𝐶𝑆𝑡,𝑐
+𝑠𝑤𝑖𝑡𝑐ℎ è il costo standard per le letture di switch, ottenuto dal prodotto del 
+corrispettivo unitario per switch, fissato dall’Autorità per l’anno t pari a: 
+o 0,5 euro, per il numero di letture di switch effettive dell’anno t relative a 
+punti di riconsegna equipaggiati con un gruppo di misura messo in 
+servizio avente i requisiti minimi di cui alle Direttive per la messa in 
+servizio dei gruppi di misura del gas; 
+o 5 euro, per il numero di letture di switch effettive dell’anno t relative a 
+punti di riconsegna equipaggiati con un gruppo di misura convenzionale; 
+• 𝑅𝐸𝑡,𝑐
+𝑠𝑤𝑖𝑡𝑐ℎ è il ricavo conseguito applicando la quota parte della componente 
+tariffaria 1(mis) destinata alla copertura dell’incremento del numero di letture 
+di switch rispetto all’anno 201 8, fissata unitariamente pari a 0,10 euro per 
+punto di riconsegna per anno; 
+• 𝑅𝐸𝑡,𝑐
+𝑚𝑖𝑠 è il ricavo conseguito applicando la componente tariffaria 1(mis) al 
+netto della componente a copertura dei costi di switch, assunta pari a 0,10 euro 
+per punto di riconsegna per anno; 
+• 𝑅𝑃𝑀𝑡,𝑐 è la penale relativa a ciascuna impresa distributrice c, in relazione al 
+grado di assolvimento degli obblighi previsti dalle disposizioni delle Direttive 
+per la messa in servizio dei gruppi di misura del gas. In termini formali: 
+ 
+𝑅𝑃𝑀𝑡,𝑐 = ∑ 𝑚𝑎𝑥(𝛥𝑁𝑐
+𝑔; 0) ∗ 𝑃𝑔
+𝑔
+ 
+con: 
+o Pg è la penale unitaria per singolo gruppo di misura, appartenente alla 
+classe g non installato nei termini previsti, il cui valore è riportato nella 
+Tabella 9; 
+o 𝛥𝑁𝑐
+𝑔 = 𝑚𝑖𝑛(𝑁𝑐
+𝑔|𝑝𝑟𝑒𝑣𝑖𝑠𝑡𝑖 − 𝑁𝑐
+𝑔|𝑒𝑓𝑓𝑒𝑡𝑡𝑖𝑣𝑖; 0,5 ∗ 𝑁𝑐
+𝑔|𝑝𝑟𝑒𝑣𝑖𝑠𝑡𝑖) 
+dove: 
+− 
+previsti
+g
+cN  è il numero di punti di riconsegna, dotati di gruppi di 
+misura della classe g, serviti dall’impresa distributrice c, per i quali 
+entro il 31 dicembre dell’anno t è prevista, ai sensi delle Direttive 
+per la messa in servizio dei gruppi di misura del gas, l’installazione 
+di gruppi di misura aventi i requisiti minimi definiti nella medesima 
+deliberazione; 
+− 𝑁𝑐
+𝑔|𝑒𝑓𝑓𝑒𝑡𝑡𝑖𝑣𝑖 è il numero di punti di riconsegna, dotati di gruppi di 
+misura della classe g, serviti dall’impresa distributrice c, per i quali 
+entro il 31 dicembre dell’anno t è stato messo in servizio un gruppo 
+        Allegato B 
+ 
+ 
+ 
+ 
+50 
+di misura avente i requisiti minimi di cui alle Direttive per la messa 
+in servizio dei gruppi di misura del gas. 
+• 𝐶𝐼𝑁𝐷 è la compensazione per indennizzi riconosciuti ai clienti finali di cui 
+all’articolo 17 del TIF, determinata come somma delle componenti CIND>500 
+e CIND≤500 di cui ai commi 46.4 e 46.5. 
+46.2 Nei casi in cui, per la singola impresa distributrice, risulti: 
+∑ 𝑁𝑐
+𝑔
+𝑔
+|
+𝑝𝑟𝑒𝑣𝑖𝑠𝑡𝑖
+− ∑𝑁𝑐
+𝑔|𝑒𝑓𝑓𝑒𝑡𝑡𝑖𝑣𝑖
+𝑔
+> 0,5 ∗ ∑𝑁𝑐
+𝑔|𝑝𝑟𝑒𝑣𝑖𝑠𝑡𝑖
+𝑔
+ 
+l’Autorità avvia un procedimento finalizzato alla erogazione di una sanzione per 
+inottemperanza alle disposizioni di cui al comma 10.1 delle Direttive per la messa 
+in servizio dei gruppi di misura del gas in relazione all’inadempienza eccedente la 
+quota oggetto di penale. 
+46.3 Con riferimento a classi di gruppo di misura inferiori a G40, il termine 
+g
+cN  nella 
+formula per il calcolo del parametro RPM di cui al  comma 46.1 è definito come 
+segue: 
+𝛥𝑁𝑐
+𝑔 = 𝑚𝑖𝑛(0,98 ∗ (𝑁𝑐
+𝑔|𝑝𝑟𝑒𝑣𝑖𝑠𝑡𝑖 − 𝑁𝑐
+𝑔|𝑒𝑓𝑓𝑒𝑡𝑡𝑖𝑣𝑖) ; 0,5 ∗ 𝑁𝑐
+𝑔|𝑝𝑟𝑒𝑣𝑖𝑠𝑡𝑖) 
+con 0,98 ∗ (𝑁𝑐
+𝑔|𝑝𝑟𝑒𝑣𝑖𝑠𝑡𝑖 − 𝑁𝑐
+𝑔|𝑒𝑓𝑓𝑒𝑡𝑡𝑖𝑣𝑖) approssimato per difetto a numero intero. 
+46.4 La componente 𝐶𝐼𝑁𝐷>500 è determinata sulla base della seguente formula, con 
+riferimento all’anno civile precedente: 
+𝐶𝐼𝑁𝐷>500 =  𝛼 ∗ min  [𝑁 ∗ 𝐼𝐹 ∗  𝑉𝑖𝑛𝑑∗ 𝑛; ∑ 𝐼𝑁𝐷𝑖
+𝑁
+𝑖=1
+] 
+dove: 
+•  è un coefficiente che assume valore pari a 0,8; 
+• N è il numero di clienti finali con smart meter gas di classe G4 -G6 alla fine 
+dell’anno con consumi annui superiori a 500 Smc nel medesimo anno; 
+• IF è il tasso di insuccesso fisiologico della telelettura con smart meter gas per 
+i punti con consumi annui superiori a 500 Smc; 
+• Vind è il valore unitario dell’indennizzo di cui al comma 17.1bis del TIF; 
+• n è pari a 2; 
+• 𝐼𝑁𝐷𝑖 è la somma degli indennizzi, in euro, riconosciuti al cliente finale i 
+nell’anno civile precedente ai clienti con consumi annui superiori a 500 Smc. 
+46.5 La componente 𝐶𝐼𝑁𝐷≤500è determinata sulla base della seguente formula, con 
+riferimento all’anno civile precedente: 
+        Allegato B 
+ 
+ 
+ 
+ 
+51 
+𝐶𝐼𝑁𝐷≤500 =  𝛼 ∗ min  [𝑁 ∗ 𝐼𝐹 ∗  𝑉𝑖𝑛𝑑∗ 𝑛; ∑ 𝐼𝑁𝐷𝑖
+𝑁
+𝑖=1
+] 
+dove: 
+•  è un coefficiente che assume valore pari a 0,8; 
+• N è il numero di clienti finali con smart meter gas di classe G4 -G6 alla fine 
+dell’anno con consumi fino a 500 Smc nel medesimo anno; 
+• IF è il tasso di insuccesso fisiologico della telelettura con smart meter gas per 
+i punti con consumi annui fino a 500 Smc; 
+• Vind è il valore unitario dell’indennizzo di cui al comma 17.1bis del TIF; 
+• n è pari a 1; 
+• 𝐼𝑁𝐷𝑖 è la somma degli indennizzi, in euro, riconosciuti al cliente finale i 
+nell’anno civile precedente ai clienti con consumi annui fino a 500 Smc. 
+46.6 Ciascuna impresa comunica annualmente all’Autorità, secondo modalità e 
+tempistica stabilite dalla stessa Autorità, con riferimento all’anno civile precedente, 
+l’ammontare degli indennizzi riconosciuti ai clienti finali ai sensi dell’articolo 17 del 
+TIF evidenziando il sottoinsieme dei clienti finali i cui misuratori non hanno mai 
+comunicato nell’anno civile precedente e suddividendo per punti il cui consumo 
+annuo è risultato fino a 500 Smc oppure superiore e per numero di indennizzi per 
+punto. 
+ 
+Articolo 47  
+Perequazione dei ricavi relativi al servizio di distribuzione – Importi in acconto. 
+ 
+47.1 In ciascun anno t e per ciascuna impresa distributrice c, l’Autorità determina entro 
+il 31 dicembre un ammontare di perequazione bimestrale d’acconto 
+acc
+bctPD ,, , 
+calcolato secondo la seguente formula: 
+𝑃𝐷𝑡,𝑐,𝑏
+𝑎𝑐𝑐 = (𝑉𝑅𝐷𝑡,𝑐
+𝑎𝑡𝑡 − 𝑅𝐸𝑡,𝑐
+𝑎𝑡𝑡) ⋅ 1
+6 
+dove: 
+• 𝑉𝑅𝐷𝑐
+𝑎𝑡𝑡 è il valore del vincolo ai ricavi ammessi per l’impresa di distributrice 
+c, atteso per l’anno t, come stimato dall’Autorità; 
+• 𝑅𝐸𝑐
+𝑎𝑡𝑡 è il ricavo atteso per l’anno t, stimato dall’Autorità, derivante 
+dall’applicazione della tariffa obbligatoria. 
+47.2 Nel caso in cui l’impresa distributrice risult i inadempiente nell’invio dei dati 
+tariffari, il valore della perequazione in acconto viene posto pari al minimo tra quello 
+calcolato nell’ultimo anno in cui l’impresa distributrice è risultata adempiente e zero. 
+        Allegato B 
+ 
+ 
+ 
+ 
+52 
+47.3 Qualora successivamente alla determinazione di cui al precedente comma 47.2, 
+l’impresa distributrice inadempiente provveda all’invio dei dati tariffari secondo le 
+modalità previste dall’ Articolo 4 , l’Autorità procede a rideterminare l’importo di 
+perequazione in acconto di cui al precedente paragrafo sulla base dei dati puntuali 
+resi disponibili dall’impresa distributrice ai sensi del richiamato Articolo 4. 
+ 
+Articolo 48  
+Quantificazione ed erogazione dei saldi di perequazione  
+ 
+48.1 Entro quindici giorni lavorativi dalla chiusura di ciascun bimestre le imprese 
+distributrici, i cui importi in acconto 𝑃𝐷𝑡,𝑐,𝑏
+𝑎𝑐𝑐 , di cui al comma 47.1, sono negativi, 
+versano alla Cassa quanto dovuto. 
+48.2 Entro trenta giorni lavorativi dalla chiusura del bimestre la Cassa provvede a erogare 
+gli importi in acconto di cui al comma 47.1. 
+48.3 Annualmente la Cassa provvede alla quantificazione dei saldi di perequazione di cui 
+al comma 45.1 e al comma 46.1. A tal fine, e con la finalità di contenere rischi di 
+insolvenza da parte degli esercenti, la Cassa adotta procedure specifiche applicabili 
+nei casi di esercenti che non rispettino i termini previsti per l’invio delle 
+dichiarazioni e i conseguenti versamenti. 
+48.4 Ai fini di quanto previsto dal comma 48.3 ciascuna impresa distributrice, entro il 31 
+luglio di ogni anno, fa pervenire alla Cassa, con le modalità da questa definite in 
+coerenza con le disposizioni del presente Titolo, le informazioni necessarie al 
+calcolo dell’ammontare di perequazione relativo all’anno precedente. 
+48.5 Nel caso in cui l’impresa distributrice non rispetti il termine di cui al comma  48.4, 
+la Cassa provvede a calcolare l’ammontare di perequazione utilizzando ogni 
+informazione disponibile e provvedendo a una stima prudenziale delle informazioni 
+mancanti, in un’ottica di minimizzazione dell’ammontare di perequazione 
+eventualmente dovuto dal sistema all’impresa distributrice inadempiente e viceversa 
+di massimizzazione di qua nto eventualmente dovuto dalla  stessa al sistema di 
+perequazione nel suo complesso. 
+48.6 La Cassa comunica in via preliminare entro il 15 settembre di ciascun anno 
+all’Autorità e a ciascuna impresa distributrice l’ammontare di perequazione relativo 
+ai singoli meccanismi di perequazione, a consuntivo, di cui al comma 45.1 e al 
+comma 46.1. Entro il 31 ottobre di ciascun anno la Cassa comunica in via definitiva 
+all’Autorità e a ciascuna impresa distributrice l’ammontare di perequazione relativo 
+ai singoli meccanismi di perequazione, a consuntivo, di cui al comma 45.1 e al 
+comma 46.1. 
+        Allegato B 
+ 
+ 
+ 
+ 
+53 
+48.7 Ciascuna impresa distributrice, in relazione ai singoli meccanismi di perequazione a 
+consuntivo, entro il 30 novembre di ogni anno, provvede a versare alla Cassa quanto 
+dovuto. 
+48.8 La Cassa, in relazione ai singoli meccanismi di perequazione a consuntivo, entro il 
+15 dicembre di ogni anno eroga quanto dovuto a ciascuna impresa distributrice. Nel 
+caso in cui le disponibilità del conto di cui all’ Articolo 76 non siano sufficienti a 
+erogare quanto di spettanza di ogni impresa distributrice, la Cassa effettua pagamenti 
+pro-quota rispetto agli importi vantati dalle diverse imprese distributrici, fino a 
+concorrenza delle disponibilità dei conti suddetti. 
+48.9 Nel caso in cui la liquidazione delle somme dovute alle imprese distributrici in 
+relazione ai meccanismi di perequazione non possa essere completata entro 3 mesi 
+dal termine di cui al comma 48.8, la Cassa riconosce alle medesime imprese 
+distributrici un interesse pari al tasso di riferimento fissato dalla Banca Centrale 
+Europea, con un minimo pari allo 0,5%, calcolato a decorrere dall’1 gennaio del 
+secondo anno successivo a quello a cui si riferiscono gli ammontari di perequazione.  
+48.10 In caso di inottemperanza da parte degli esercenti dei termini di versamento in 
+relazione ai meccanismi di perequazione, la Cassa applica sulla somma dovuta un 
+tasso di interesse di mora calcolato secondo quanto previsto dal comma 41.4 del 
+TIT. 
+48.11 Ai fini della perequazione, eventuali richieste di rettifica dei dati inviati da parte 
+delle imprese distributrici alla Cassa, se successive alla scadenza del 30 settembre, 
+comportano l'applicazione di una indennità amministrativa a carico dell'impresa 
+distributrice che richiede la rettifica, pari all'1% del valore economico della rettifica 
+medesima, con un minimo definito pari a 1.000,00 euro. Tale disposizione trova 
+applicazione con riferimento a rettifiche non aventi impatto ai fini tariffari, già 
+oggetto di indennità amministrativa ai sensi della RTDG. 
+48.12 I versamenti alla Cassa per gli importi derivanti da rettifiche per errori di 
+comunicazione delle informazioni necessarie al calcolo dell’ammontare di 
+perequazione sono maggiorati secondo le modalità operative definite dalla Cassa. 
+  
+        Allegato B 
+ 
+ 
+ 
+ 
+54 
+TITOLO 7 
+ 
+AGGIORNAMENTO DELLE COMPONENTI DELLA TARIFFA DI 
+RIFERIMENTO  
+ 
+Articolo 49  
+Aggiornamento delle componenti a copertura dei costi operativi del servizio di 
+distribuzione  
+ 
+49.1 Nel corso del periodo di regolazione 1 gennaio 20 20 – 31 dicembre 2027, a partire 
+dall’anno 2023, l’Autorità aggiorna, entro il 15 dicembre dell’anno precedente a 
+quello di efficacia, le componenti  𝑡(𝑑𝑖𝑠)𝑡,𝑑,𝑟
+𝑜𝑝𝑒 , e 𝑡(𝑑𝑖𝑠)𝑡,𝑑,𝑔
+𝑜𝑝𝑒  a copertura dei costi 
+operativi, applicando: 
+a) il tasso di variazione medio annuo, riferito ai dodici mesi precedenti, dei 
+prezzi al consumo per le famiglie di operai e impiegati, rilevato dall’Istat; 
+b) il tasso di riduzione annuale dei costi unitari riconosciuti , di cui al  comma 
+16.1, per le vecchie gestioni comunali o sovracomunali; 
+c) il tasso di riduzione annuale dei costi unitari riconosciuti, di cui all’Articolo 21, 
+per le gestioni d’ambito; 
+d) il tasso di variazione collegato a modifiche dei costi riconosciuti derivanti da 
+eventi imprevedibili ed eccezionali e da mutamenti del quadro normativo. 
+ 
+Articolo 50  
+Aggiornamento delle componenti 
+cou
+gtdist ,)(  e 
+coa
+gtdist ,)(   
+ 
+50.1 Nel corso del periodo di regolazione 1 gennaio 2020 – 31 dicembre 2027 la 
+componente 𝑡(𝑑𝑖𝑠)𝑡,𝑔
+𝑐𝑜𝑢 è aggiornata per gli anni del periodo di affidamento 
+successivi al primo applicando il tasso di variazione medio annuo, riferito ai dodici 
+mesi precedenti, dei prezzi al consumo per le famiglie di operai e impiegati, rilevato 
+dall’Istat. 
+50.2 Nel corso del periodo di regolazione 1 gennaio 2020 – 31 dicembre 2027 la 
+componente 𝑡(𝑑𝑖𝑠)𝑡,𝑔
+𝑐𝑜𝑎 è aggiornata per gli anni del periodo di affidamento 
+successivi al primo in funzione degli aggiornamenti delle componenti a copertura di 
+costi di capitale di località secondo quanto previsti dall’Articolo 54 e dall’Articolo 55. 
+ 
+        Allegato B 
+ 
+ 
+ 
+ 
+55 
+Articolo 51  
+Aggiornamento della componente  
+ 
+51.1 Nel corso del periodo di regolazione 1 gennaio 2020 – 31 dicembre 2027, a partire 
+dall’anno 2023, l’Autorità aggiorna, entro il 15 dicembre dell’anno precedente a 
+quello di efficacia, la componente 𝑡(𝑑𝑖𝑠)𝑡
+𝑎𝑣𝑣 a copertura dei costi operativi nelle 
+località in avviamento, applicando: 
+a) il tasso di variazione medio annuo, riferito ai dodici mesi precedenti, dei 
+prezzi al consumo per le famiglie di operai e impiegati, rilevato dall’Istat; 
+b) il tasso di variazione collegato a modifiche dei costi riconosciuti derivanti da 
+eventi imprevedibili ed eccezionali e da mutamenti del quadro normativo. 
+ 
+Articolo 52  
+Aggiornamento delle componenti  , ,   a copertura dei costi 
+operativi dei servizi di commercializzazione e di misura  
+ 
+52.1 Nel corso del periodo di regolazione 1 gennaio 2020 – 31 dicembre 2027, a partire 
+dall’anno 2023, l’Autorità aggiorna, entro il 15 dicembre dell’anno precedente a 
+quello di efficacia, le componenti 𝑡(𝑖𝑛𝑠)𝑡
+𝑜𝑝𝑒, 𝑡(𝑟𝑎𝑐)𝑡
+𝑜𝑝𝑒, 𝑡(𝑐𝑜𝑡)𝑡 a copertura dei costi 
+operativi, applicando: 
+a) il tasso di variazione medio annuo, riferito ai dodici mesi precedenti, dei 
+prezzi al consumo per le famiglie di operai e impiegati, rilevato dall’Istat; 
+b) il tasso di riduzione annuale dei costi unitari riconosciuti , di cui al comma 
+16.2 per le componenti  𝑡(𝑖𝑛𝑠)𝑡
+𝑜𝑝𝑒, 𝑡(𝑟𝑎𝑐)𝑡
+𝑜𝑝𝑒 e di cui al comma 16.3 per la 
+componente 𝑡(𝑐𝑜𝑡)𝑡; 
+c) il tasso di variazione collegato a modifiche dei costi riconosciuti derivanti da 
+eventi imprevedibili ed eccezionali e da mutamenti del quadro normativo. 
+ 
+Articolo 52.bis  
+Aggiornamento della componente 𝒕(𝒕𝒆𝒍𝒄𝒐𝒏)𝒕,𝒄 a copertura dei costi operativi e di 
+capitale per i sistemi di telelettura/telegestione e concentratori 
+ 
+52bis.1 Nel corso del periodo di regolazione 1 gennaio 2020 – 31 dicembre 2027, a 
+partire dall’anno 2023, l’Autorità aggiorna, entro il 15 dicembre dell’anno 
+precedente a quello di efficacia, la componente 𝑡(𝑡𝑒𝑙𝑐𝑜𝑛)𝑡,𝑐 a copertura dei costi 
+operativi e di capitale per i sistemi di telelettura/telegestione e concentratori, 
+applicando: 
+
+        Allegato B 
+ 
+ 
+ 
+ 
+56 
+a) alla quota parte a copertura dei costi operativi, il cui valore è riportato nella 
+Tabella 5, il tasso di variazione medio annuo, riferito ai dodici mesi 
+precedenti, dei prezzi al consumo per le famiglie di operai e impiegati, 
+rilevato dall’Istat; 
+b) alla quota parte a copertura dei costi di capitale, il cui valore è riportato 
+nella Tabella 5, il tasso di variazione medio annuo  dell’Indice di 
+rivalutazione del capitale. 
+ 
+Articolo 53  
+Aggiornamento delle componenti  a copertura dei costi di capitale centralizzati  
+ 
+53.1 Nel corso del periodo di regolazione 1 gennaio 2020 – 31 dicembre 2027, a partire 
+dall’anno 2023, l’Autorità aggiorna, entro il 15 dicembre dell’anno precedente a 
+quello di efficacia, la componente 𝑡(𝑐𝑒𝑛)𝑡,𝑐
+𝑐𝑎𝑝, in funzione  del tasso di variazione 
+medio annuo dell’Indice di rivalutazione del capitale. 
+ 
+Articolo 54  
+Aggiornamento delle componenti   e   a copertura dei costi di 
+capitale di località  
+ 
+54.1 Nel corso del periodo di regolazione 1 gennaio 2020 – 31 dicembre 2027, a partire 
+dall’anno 2023, l’Autorità aggiorna, entro il 15 dicembre dell’anno precedente a 
+quello di efficacia, le componenti  𝑡(𝑑𝑖𝑠)𝑡,𝑐,𝑖
+𝑟𝑒𝑚
+ e 𝑡(𝑚𝑖𝑠)𝑡,𝑐,𝑖
+𝑟𝑒𝑚 a remunerazione del 
+capitale investito, in funzione: 
+a) del tasso di variazione medio annuo dell’Indice di rivalutazione del capitale; 
+b) del tasso di variazione collegato ai nuovi investimenti netti realizzati dalla 
+singola impresa distributrice c nelle singole località i nell’anno t-1, 
+determinato in base a quanto disposto dall’Articolo 56; 
+c) del tasso di variazione collegato ai nuovi contributi pubblici in conto capitale 
+e dei contributi privati percepiti, indipendentemente dal trattamento contabile; 
+d) del tasso di variazione collegato al degrado dei contributi pubblici e privati 
+percepiti a partire dall’anno 2012;  
+e) limitatamente alle imprese che hanno optato per l’opzione degrado dello stock 
+di contributi esistenti al 31 dicembre 2011 , del tasso di variazione collegato 
+al degrado dei contributi pubblici e privati percepiti prima dell’anno 2012 , 
+calcolato in applicazione delle disposizioni dell’Articolo 14; 
+f) del tasso di variazione collegato alla variazione del perimetro di applicazione 
+della maggior remunerazione riconosciuta agli investimenti sulle reti di 
+
+        Allegato B 
+ 
+ 
+ 
+ 
+57 
+distribuzione incentivati ai sensi di quanto disposto dall’articolo 4 5 della 
+RTDG 2009-2012; 
+g) del tasso di variazione collegato a operazioni di riclassificazione di reti del 
+gas, valutate in modo da assicurare continuità ed evitare duplicazioni nei 
+conteggi dei riconoscimenti dei costi di capitale. Il valore dei cespiti oggetto 
+di riclassificazione  da rete di trasporto regionale a rete di distribuzione è 
+assunto pari al valore delle immobilizzazioni nette al netto dei contributi in 
+continuità con quanto riconosciuto nella regolazione tariffaria del servizio di 
+trasporto, in applicazione della RTTG. 
+ 
+Articolo 55  
+Aggiornamento delle componenti  e   a copertura dei costi di 
+capitale di località  
+ 
+55.1 Nel corso del periodo di regolazione 1 gennaio 2020 – 31 dicembre 2027, a partire 
+dall’anno 2023, l’Autorità aggiorna, entro il 15 dicembre dell’anno precedente a 
+quello di efficacia, le componenti 𝑡(𝑑𝑖𝑠)𝑡,𝑐,𝑖
+𝑎𝑚𝑚 e 𝑡(𝑚𝑖𝑠)𝑡,𝑐,𝑖
+𝑎𝑚𝑚 a copertura degli 
+ammortamenti, in funzione: 
+a) del tasso di variazione medio annuo dell’Indice di rivalutazione del capitale; 
+b) del tasso di variazione collegato agli investimenti lordi, al netto dei contributi 
+pubblici e privati percepiti, indipendentemente dal trattamento contabile,  
+entrati in esercizio nell’anno t-1; 
+c) del tasso di variazione collegato alla riduzione del capitale investito lordo per 
+effetto di alienazioni, dismissioni effettuate a qualsiasi titolo e completamento 
+della vita utile regolatoria dei cespiti nell’anno t-1, con l’esclusione delle 
+dismissioni di: 
+i. gruppi di misura convenzionali sostituiti con gruppi di misura 
+elettronici ai sensi delle Direttive per la messa in servizio dei gruppi di 
+misura del gas nell’anno t-1, secondo le disposizioni dell’Articolo 57; 
+ii. gruppi di misura elettronici di classe minore o uguale a G6, installati ai 
+sensi delle Direttive per la messa in servizio dei gruppi di misura del 
+gas negli anni dal 2012 al 2018, purché con anno di fabbricazione non 
+successivo al 2016, e dismessi nell’anno t-1, secondo le disposizioni di 
+cui all’Articolo 57;  
+
+        Allegato B 
+ 
+ 
+ 
+ 
+58 
+d) limitatamente alle imprese che hanno optato per l’opzione degrado dello stock 
+di contributi esistenti al 31 dicembre 2011, calcolato in applicazione delle 
+disposizioni della RTDG 2009-2012, del tasso di variazione collegato 
+all’applicazione del meccanismo di gradualità di cui all’Articolo 14 e del tasso 
+di variazione collegato alla riduzione dello stock di contributi esistenti al 31 
+dicembre 2011 per effetto del completamento del processo di degrado; 
+e) del tasso di variazione collegato alla variazione delle immobilizzazioni lorde 
+conseguente a operazioni di riclassificazione di reti del gas, calcolato, nel caso 
+di riclassificazione di reti di trasporto regionale in reti di distribuzione del gas, 
+secondo criteri convenzionali definiti con determina del Direttore della 
+Direzione Infrastrutture. 
+ 
+Articolo 56  
+Criteri per la valorizzazione dei nuovi investimenti 
+ 
+56.1 Ai fini degli aggiornamenti annuali, gli inv estimenti relativi al servizio di 
+distribuzione e misura sono valutati a consuntivo.  
+56.2 Ai fini degli aggiornamenti annuali, gli investimenti relativi all’installazione di 
+gruppi di misura  e dispositivi add on effettuata in applicazione delle disposizioni 
+delle Direttive per la messa in servizio dei gruppi di misura del gas  sono valutati 
+come media del costo effettivamente sostenuto e del costo standard, come fissato 
+nella Tabella 10, espresso a prezzi 2022, aggiornato sulla base del tasso di variazione 
+medio dell’Indice di rivalutazione del capitale. 
+56.3 La media del costo effettivamente sostenuto e del costo standard di cui al comma 
+56.2 è calcolata assumendo un peso pari rispettivamente al 70% e al 30%. 
+ 
+Articolo 57  
+Disposizioni in materia di dismissioni di gruppi di misura  
+ 
+57.1 Ai fini dell’aggiornamento dello stock di capitale investito esistente, le dismissioni 
+di gruppi di misura effettuate in applicazione delle disposizioni delle Direttive per 
+la messa in servizio dei gruppi di misura del gas, indipendentemente dalla classe di 
+appartenenza del gruppo di misura dismesso, sono convenzionalmente portate in 
+diminuzione della stratificazione dei valori lordi storici a partire dai valori delle 
+immobilizzazioni lorde relative ai cespiti di più antica installazione.  
+57.2 Ai fini dell’aggiornamento della quota parte della componente a copertura degli 
+ammortamenti, il riconoscimento del valore residuo dei gruppi di misura tradizionali 
+di classe minore o uguale a G6 dismessi e sostituiti con misuratori elettronici ai sensi 
+delle Direttive per la messa in servizio dei gruppi di misura del gas è posto:  
+        Allegato B 
+ 
+ 
+ 
+ 
+59 
+a) pari a zero, laddove ricorra una delle seguenti condizioni:  
+i. il gruppo di misura sostituito sia stato installato da almeno 15 anni; 
+ii. il gruppo di misura sostituito sia stato installato successivamente al 31 
+dicembre 2014;  
+b) pari alle quote di ammortamento residue fino a 15 anni di vita utile, in tutti gli 
+altri casi.  
+57.3 Per i casi di cui al precedente comma 57.2 è riconosciuto l’importo a recupero dei 
+mancati ammortamenti (IRMA) di cui all’articolo 1 della deliberazione 
+559/2021/R/GAS, secondo quanto indicato nella determina DIEU n. 3/2021. 
+57.4 Ai fini dell'aggiornamento della quota parte della componente a copertura degli 
+ammortamenti, il riconoscimento del valore residuo dei gruppi di misura di classe 
+minore o uguale a G6  conformi ai requisiti previsti delle Direttive per la messa in 
+servizio dei gruppi di misura del gas  dismessi anticipatamente rispetto al termine 
+della vita utile, nei limiti del costo standard previsto per l’anno di installazione del 
+gruppo di misura dismesso opportunamente rivalutato all’anno di dismissione,  è 
+posto:  
+a) pari a zero, laddove ricorra una delle seguenti condizioni:  
+i. il gruppo di misura dismesso sia stato installato successivamente al 31 
+dicembre 2018; 
+ii. il gruppo di misura dismesso sia stato fabbricato successivamente al 31 
+dicembre 2016;  
+b) pari alle quote di ammortamento residue fino a 15 anni di vita utile, in tutti gli 
+altri casi.   
+        Allegato B 
+ 
+ 
+ 
+ 
+60 
+TITOLO 8 
+ 
+AGGIORNAMENTO ANNUALE DELLE TARIFFE OBBLIGATORIE  
+ 
+Articolo 58  
+Aggiornamento annuale delle tariffe obbligatorie  
+ 
+58.1 L’Autorità, a partire dall’anno 2023, entro il 31 dicembre di ciascun anno, aggiorna 
+le componenti 1 e 3, in coerenza con le disposizioni previste dal Titolo 7 relative 
+alle tariffe di riferimento , utilizzando, dall’anno tariffario 2026, un tasso medio di 
+variazione dell’Indice di rivalutazione del capitale con base 1 nell’anno t-1, definito 
+sulla base dei valori dell’Indice del medesimo anno t-1 più aggiornati a disposizione, 
+considerando le aspettative di andamento dei prezzi al consumo in Italia rese 
+disponibili dalla Banca d’Italia. 
+ 
+ 
+ 
+ 
+TITOLO 9 
+ 
+DISPOSIZIONI PARTICOLARI  
+ 
+Articolo 59  
+Riconoscimento maggiori oneri derivanti dalla presenza di canoni di concessione 
+ 
+59.1 Gli oneri connessi al pagamento di canoni di concessione di norma non sono oggetto 
+di riconoscimento tariffario, ad eccezione dei casi in cui siano espressamente previsti 
+da disposizioni normative primarie nazionali, regionali o delle province autonome. 
+59.2 Qualora i Comuni concedenti abbiano incrementato il canone delle concessioni di 
+distribuzione ai sensi di quanto previsto dal comma 4, articolo 46 -bis, del decreto-
+legge 1 ottobre 2007, n. 159, le imprese distributrici interessate possono presentare 
+apposita istanza all’Autorità per il riconoscimento dei maggiori oneri derivanti per 
+effetto di tali disposizioni, nei termini previsti dal comma 2.1. 
+59.3 Con riferimento alle disposizioni del comma 59.2, l’Autorità riconosce i maggiori 
+oneri qualora ricorrano le seguenti condizioni: 
+a) sia fornita da parte delle imprese distributrici idonea documentazione relativa 
+all’attivazione da parte dei Comuni dei meccanismi di tutela nei confronti 
+delle fasce deboli di utenti, cui, secondo le disposizioni di legge, devono 
+        Allegato B 
+ 
+ 
+ 
+ 
+61 
+risultare destinati prioritariamente i fondi raccolti con l’incremento dei 
+canoni; 
+b) il Comune non abbia assegnato una nuova concessione successivamente 
+all’entrata in vigore della legge 29 novembre 2007, n.222; 
+c) la concessione deve essere scaduta. 
+59.4 L’ammontare massimo del riconoscimento dei maggiori oneri di cui al comma 59.1, 
+determinato per ciascuna impresa distributrice c, con riferimento alla singola località 
+i, COLc,i, è calcolato secondo la seguente formula: 
+𝐶𝑂𝐿𝑐,𝑖 = 𝑚𝑎𝑥{[0,1 ∗ 𝑉𝑅𝐷07−08,𝑐,𝑖
+170/04 − 𝐶𝐴𝑁0,𝑐,𝑖] ∗ (1 − 𝐺𝑃𝑖); 0} 
+ 
+dove: 
+• 𝑉𝑅𝐷07−08,𝑐,𝑖
+170/04   è il vincolo ai ricavi determinato ai sensi delle disposizioni della 
+deliberazione n. 170/04 per l’anno termico 2007-2008; 
+• 𝐶𝐴𝑁0,𝑐,𝑖 è il valore del canone di concessione richiesto dal comune 
+precedentemente l’aumento disposto ai sensi delle disposizioni del comma 4, 
+dell’articolo 46 -bis, del decreto -legge 1 ottobre 2007, n. 159, all’impresa 
+distributrice c, per la località i; 
+• 𝐺𝑃𝑖 è il coefficiente che esprime il grado di proprietà delle reti da parte del 
+Comune e può variare tra zero e uno. Assume valore uno quando il comune è 
+interamente proprietario delle reti. Il grado di proprietà è determinato sulla 
+base del valore delle singole componenti delle reti medesime, come risultante 
+dall’esame dello stato delle consistenze fisiche e dai dati contabili. 
+59.5 Nell’istanza di cui al comma 59.2 l’impresa distributrice propone per l’approvazione 
+dell’Autorità il valore della componente COLc,i . 
+59.6 Il riconoscimento dei maggiori oneri di cui al comma 59.2 è limitato al periodo che 
+intercorre dalla data di efficacia dell’aumento del canone fino alla data in cui viene 
+aggiudicata la nuova gara. 
+59.7 L’impresa distributrice, cui sono stati riconosciuti i maggiori oneri di cui al comma 
+59.2, istituisce un’apposita componente tariffaria a copertura dei maggiori oneri di 
+cui al comma 59.2, denominata canoni comunali, di cui è data separata evidenza in 
+bolletta. Tale componente tariffaria è espressa in euro per punto di riconsegna ed è 
+applicata ai soli punti di riconsegna siti nell’ambito del territorio comunale dove è 
+stata deliberata la maggiorazione. Il valore di tale componente tariffaria è 
+determinato dividendo il valore di COLc,i per il numero di punti di riconsegna atteso 
+per l’anno t, sulla base della miglior stima disponibile. 
+59.8 Dei ricavi rinvenienti dall’applicazione della maggiorazione di cui al comma 59.2 è 
+data separata evidenza contabile. 
+        Allegato B 
+ 
+ 
+ 
+ 
+62 
+SEZIONE III 
+ 
+DISPOSIZIONI IN MATERIA DI ASSETTO DEL SERVIZIO DI MISURA 
+ 
+ 
+TITOLO 1 
+ 
+SOGGETTI RESPONSABILI DEL SERVIZIO DI MISURA GAS NATURALE 
+ 
+Articolo 60  
+Responsabilità per installazione e manutenzione dei misuratori 
+ 
+60.1 Il soggetto responsabile dell’installazione e della manutenzione dei misuratori è: 
+a) con riferimento ai punti di consegna, l’impresa distributrice; 
+b) con riferimento ai punti di riconsegna, l’impresa distributrice per i clienti 
+finali che prelevano gas da tali punti; 
+c) con riferimenti ai punti di interconnessione, l’impresa distributrice 
+sottendente. 
+ 
+Articolo 61  
+Responsabilità per raccolta, validazione e registrazione dati di misura 
+ 
+61.1 Il soggetto responsabile della raccolta e della validazione e registrazione dei dati di 
+misura del gas è: 
+a) con riferimento ai punti di consegna, l’impresa di trasporto; 
+b) con riferimento ai punti di riconsegna, l’impresa distributrice per i clienti 
+finali che prelevano gas da tali punti; 
+c) con riferimenti ai punti di interconnessione, l’impresa distributrice 
+sottendente. 
+ 
+Articolo 62  
+Disposizioni relativi ai dati di misura raccolti 
+ 
+62.1 Con riferimento ai punti di consegna, l ’impresa distributrice è tenuta a rendere 
+accessibili i gruppi di misura o rendere disponibili le misure secondo le specifiche 
+definite dall’impresa di trasporto. 
+        Allegato B 
+ 
+ 
+ 
+ 
+63 
+62.2 I dati di misura rilevati, validati  e registrati nei punti di consegna e di riconsegna 
+sono rilevanti ai fini della regolazione delle partite economiche relative ai servizi di 
+dispacciamento, trasporto, distribuzione e vendita. Salvo quanto previsto dalla 
+regolazione dell’Autorità e salvo il consenso scritto da parte del cliente finale i dati 
+di misura rilevati nei punti di riconsegna non possono essere utilizzat i per finalità 
+diverse. 
+62.3 I dati di misura relativi ai punti di interconnessione sono resi disponibili dall’impresa 
+distributrice che li rileva all’impresa distributrice sottesa e all’impresa di trasporto. 
+ 
+Articolo 63  
+Conservazione delle rilevazioni 
+ 
+63.1 Il responsabile dell’attività di raccolta, validazione e registrazione archivia e 
+custodisce, ai fini regolatori, per un periodo minimo di 10 anni, i dati di misura del 
+gas, in modalità tale per cui questi possano essere disponibili e riutilizzati a scopi di 
+verifica e controllo dell’applicazione dei meccanismi tariffari vigenti e con finalità 
+legate ai servizi regolati. 
+63.2 Qualora l’ambito di competenza del responsabile dell’attività di rilevazione e 
+registrazione dei dati di misura risulti variato a seguito di cessioni e incorporazioni 
+di attività, il soggetto cedente ha l’obbligo di trasferire integralmente gli archivi dei 
+dati di misura  al soggetto cessionario, contestualmente al perfezionamento della 
+cessione, nel rispetto delle regole di riservatezza disposte dal TIUF.  
+  
+        Allegato B 
+ 
+ 
+ 
+ 
+64 
+SEZIONE IV 
+ 
+RETI ISOLATE DI GAS NATURALE 
+ 
+ 
+TITOLO 1 
+ 
+AMBITO DI APPLICAZIONE 
+ 
+Articolo 64  
+Ambito di applicazione  
+ 
+64.1 La presente Sezione IV definisce i criteri per la determinazione dei corrispettivi per 
+la remunerazione dei seguenti servizi di pubblica utilità: 
+a) distribuzione di gas naturale in reti isolate di GNL; 
+b) misura di gas naturale in reti isolate di GNL; 
+c) distribuzione di gas naturale in reti isolate alimentate con carro bombolaio; 
+d) misura di gas naturale in reti isolate alimentate con carro bombolaio. 
+64.2 La presente Sezione IV non trova applicazione nel periodo di cui all’ Articolo 19, 
+comma 19.2.  
+64.3 Rientrano nell’ambito di applicazione della presente Sezione IV le reti isolate di 
+GNL e alimentate con carro bombolaio che siano gestite in concessione e servano 
+almeno 300 punti di riconsegna dal primo anno successivo al raggiungimento di tale 
+soglia. Per le reti isolate che non soddisfino tale condizione, l’Autorità si riserva di 
+intervenire, mediante i suoi poteri di regolazione e/o prescrittivi, in ragione delle 
+specifiche esigenze di tutela che eventualmente si possano presentare. 
+ 
+ 
+ 
+ 
+TITOLO 2 
+OPZIONI TARIFFARIE   
+ 
+Articolo 65  
+Opzioni tariffarie per i servizi di distribuzione e misura in reti isolate di gas naturale 
+ 
+65.1 Le opzioni tariffarie per i servizi di distribuzione e misura nelle reti isolate di GNL 
+coprono i costi delle infrastrutture di rete, i costi di esercizio e manutenzione delle 
+        Allegato B 
+ 
+ 
+ 
+ 
+65 
+reti canalizzate per la distribuzione del gas e comprendono anche il costo di eventuali 
+serbatoi criogenici e dei rigassificatori locali direttamente connessi alle medesime 
+reti e funzionali alla immissione in rete del gas . Non coprono invece i costi della 
+commercializzazione del servizio di distribuzione. 
+65.2 Le opzioni tariffarie per i servizi di distribuzione e misura nelle reti isolate 
+alimentate con carro bombolaio coprono i costi delle infrastrutture di rete, i costi di 
+esercizio e manutenzione delle reti canalizzate per la distribuzione del gas e 
+comprendono anche il costo delle infrastrutture necessarie per la connessione del 
+carro bombolaio. Non coprono invece i costi della commercializzazione del servizio 
+di distribuzione. 
+65.3 Ai fini della determinazione delle opzioni tariffarie per i servizi di distribuzione e 
+misura nelle reti isolate di GNL e alimentate con carro bombolaio la quota parte del 
+costo riconosciuto a copertura dei costi operativi relativi alla gestione delle 
+infrastrutture di rete è calcolato in base ai valori riportati nella Tabella 5. 
+65.4 Le opzioni tariffarie per i servizi di distribuzione e misura nelle reti isolate di GNL  
+e alimentate con carro bombolaio  riflettono i costi del servizio, come determinati 
+dall’Autorità, sono differenziate rispettivamente per ambito reti isolate di GNL e 
+ambito reti isolate alimentate con carro bombolaio  e si articolano nelle seguenti 
+componenti: 
+a) ot1, espressa in euro per punto di riconsegna. L’esercente può differenziare la 
+componente ot1 per scaglione di consumo, nei limiti previsti dalla Tabella 6; 
+b) ot3, espressa in centesimi di euro/ standard metro cubo. L’esercente può 
+articolare i corrispettivi per scaglioni di consumo f, in numero non superiore 
+a otto, aventi come limiti i valori scelti tra quelli indicati nella Tabella 6; 
+c) 1(mis). 
+65.5 L’impresa distributrice ha facoltà di aggregare in un unico ambito reti isolate di gas 
+naturale le reti isolate di GNL e le reti isolate alimentate con carro bombolaio gestite 
+nella medesima regione. 
+65.6 Qualora l’impresa distributrice intenda applicare valori delle componenti tariffarie 
+ot1, ot3 e τ1(mis) inferiori a quelli fissati dall’Autorità, ne dà comunicazione scritta 
+entro il 31 marzo dell’anno di applicazione.  Una tale applicazione deve avvenire 
+senza discriminazioni tra gli utenti.  
+65.7 Nei casi disciplinati dal comma 2.6 o dal comma 2.12, l’impresa distributrice, entro 
+il 31 marzo dell’anno di applicazione, presenta istanza per l’applicazione di 
+un’opzione tariffaria alternativa rispetto a quella approvata dall’Autorità, 
+caratterizzata da una diversa articolazione tra quote fisse e quote variabili. 
+65.8 Ai fini dell’accoglimento dell’istanza di cui al comma 65.7, la somma dei ricavi 
+conseguibili dall’applicazione della suddetta opzione tariffaria alternativa, valutata 
+ex-ante sulla base dei dati fisici relativi all’anno t-2 rispetto a quello di applicazione 
+        Allegato B 
+ 
+ 
+ 
+ 
+66 
+tariffaria, non sia superiore al ricavo conseguibile dall’applicazione dell’opzione 
+tariffaria determinata d’ufficio, calcolato sulle medesime quantità fisiche. 
+65.9 In caso di accoglimento dell’istanza di cui al comma 65.7, l’opzione tariffaria 
+alternativa è applicata senza discriminazioni tra gli utenti. 
+ 
+Articolo 66  
+Periodo di avviamento  
+ 
+66.1 Nel periodo di avviamento, nelle singole località interessate, l’impresa distributrice 
+applica opzioni tariffarie ot1, ot3 e τ1(mis) relative ai servizi di distribuzione e misura 
+liberamente determinate. 
+ 
+ 
+ 
+ 
+TITOLO 3 
+ 
+AGGIORNAMENTO ANNUALE DELLE OPZIONI TARIFFARIE  
+ 
+Articolo 67  
+Aggiornamento annuale delle opzioni tariffarie  
+ 
+67.1 L’Autorità aggiorna annualmente, a partire dal 2023, le componenti ot1, ot3 e τ1(mis) 
+in funzione dei tassi di variazione delle variabili che influenzano il costo del servizio, 
+determinati in coerenza con le regole previste per i servizi di distribuzione e misura 
+del gas naturale  in reti di distribuzione interconnesse con il sistema nazionale di 
+trasporto.  
+ 
+ 
+  
+        Allegato B 
+ 
+ 
+ 
+ 
+67 
+SEZIONE V 
+ 
+DISTRIBUZIONE DI GAS DIVERSI DAL NATURALE A MEZZO DI RETI 
+CANALIZZATE 
+ 
+ 
+TITOLO 1 
+AMBITO DI APPLICAZIONE 
+ 
+Articolo 68  
+Ambito di applicazione  
+ 
+68.1 La presente Sezione V definisce i criteri per la determinazione dei corrispettivi per 
+la remunerazione dei seguenti servizi di pubblica utilità: 
+a) distribuzione di gas diversi dal naturale a mezzo di reti canalizzate; 
+b) misura di gas diversi dal naturale distribuiti a mezzo di reti canalizzate. 
+68.2 Ai fini del presente provvedimento i gas diversi da gas naturale si suddividono nelle 
+seguenti categorie: 
+a) gas di petrolio liquefatti sono i gas di petrolio liquefatti e loro miscele, anche 
+con aria; 
+b) gas manifatturati sono i gas manifatturati composti in prevalenza da propano 
+o da gas naturale e i gas in condensabili da raffineria (di seguito: gas 
+manifatturati). 
+68.3 La presente Sezione V si applica alle reti canalizzate che siano gestite in concessione 
+e servano almeno 300 punti di riconsegna dal primo anno successivo al 
+raggiungimento di tale soglia. Per le reti isolate che non soddisfino tale condizione, 
+l’Autorità si riserva di intervenire, mediante i suoi poteri di regolazione e/o 
+prescrittivi, in ragione delle specifiche esigenze di tutela che eventualmente si 
+possano presentare. 
+ 
+  
+        Allegato B 
+ 
+ 
+ 
+ 
+68 
+TITOLO 2 
+ 
+OPZIONI TARIFFARIE   
+ 
+Articolo 69  
+Opzioni tariffarie per i servizi di distribuzione e misura  
+ 
+69.1 Le opzioni tariffarie per i servizi di distribuzione e misura di gas diversi dal naturale 
+coprono i costi delle infrastrutture di rete, i costi di esercizio e manutenzione delle 
+reti canalizzate per la distribuzione del gas e comprende anche il costo di eventuali 
+serbatoi di alimentazione direttamente connessi alle medesime reti canalizzate di 
+distribuzione. Non coprono invece i costi della commercializzazione del servizio di 
+distribuzione. 
+69.2 Ai fini della determinazione de lle opzioni tariffarie per i servizi di distribuzione e 
+misura di gas diversi dal naturale la quota parte del costo riconosciuto a copertura 
+dei costi operativi relativi alla gestione delle infrastrutture di rete è calcolato in base 
+ai valori riportati nella Tabella 5. 
+69.3 Le opzioni tariffarie per i servizi di distribuzione e misura di gas diversi dal naturale 
+riflettono i costi del servizio, come determinati dall’Autorità, sono differenziate per 
+ambito gas diversi e si articolano nelle seguenti componenti: 
+a) ot1, espressa in euro per punto di riconsegna. L’esercente può differenziare la 
+componente ot1 per scaglione di consumo, nei limiti previsti dalla Tabella 6; 
+b) ot3, espressa  in centesimi di euro/ standard metro cubo. L’esercente può 
+articolare i corrispettivi per scaglioni di consumo f, in numero non superiore 
+a otto, aventi come limiti i valori scelti tra quelli indicati nella Tabella 6; 
+c) 1(mis). 
+69.4 Qualora l’impresa distributrice intenda applicare valori delle componenti tariffarie 
+ot1, ot3 e τ1(mis) inferiori a quelli fissati dall’Autorità, ne dà comunicazione scritta 
+entro il 31 marzo dell’anno di applicazione.  Una tale applicazione deve avvenire 
+senza discriminazioni tra gli utenti. 
+69.5 Nei casi disciplinati dal comma 2.6 o dal comma 2.12, l’impresa distributrice, entro 
+il 31 marzo dell’anno di applicazione, presenta istanza per l’applicazione di 
+un’opzione tariffaria alternativa rispetto a quella approvata dall’Autorità, 
+caratterizzata da una diversa articolazione tra quote fisse e quote variabili. 
+69.6 Ai fini dell’accoglimento dell’istanza di cui al comma 69.5, la somma dei ricavi 
+conseguibili dall’applicazione della suddetta opzione tariffaria alternativa, valutata 
+ex-ante sulla base dei dati fisici relativi all’anno t-2 rispetto a quello di applicazione 
+tariffaria, non sia superiore al ricavo conseguibile dall’applicazione dell’opzione 
+tariffaria determinata d’ufficio. 
+        Allegato B 
+ 
+ 
+ 
+ 
+69 
+69.7 In caso di accoglimento dell’istanza di cui al comma 69.5, l’opzione tariffaria 
+alternativa è applicata senza discriminazioni tra gli utenti. 
+ 
+Articolo 70  
+Periodo di avviamento  
+ 
+70.1 Nel periodo di avviamento, nelle singole località interessate, l’impresa distributrice 
+applica opzioni tariffarie ot1, ot3 e τ1(mis) relative ai servizi di distribuzione e misura 
+liberamente determinate. 
+ 
+ 
+ 
+ 
+TITOLO 3 
+ 
+AGGIORNAMENTO ANNUALE DELLE OPZIONI TARIFFARIE  
+ 
+Articolo 71  
+Aggiornamento annuale delle opzioni tariffarie  
+ 
+71.1 L’Autorità aggiorna annualmente, a partire dal 2023, le componenti ot1, ot3 e τ1(mis) 
+in funzione dei tassi di variazione delle variabili che influenzano il costo del servizio, 
+determinati in coerenza con le regole previste per i servizi di distribuzione e misura 
+del gas naturale. 
+ 
+ 
+ 
+  
+        Allegato B 
+ 
+ 
+ 
+ 
+70 
+SEZIONE VI 
+ 
+PRESTAZIONI PATRIMONIALI IMPOSTE 
+ 
+Articolo 72  
+Disposizioni generali  
+ 
+72.1 Nella presente Sezione VI sono disciplinate le modalità di esazione delle componenti 
+tariffarie GS, RE, RS, UG1, UG2 e UG3, e della relativa gestione del gettito. 
+ 
+Articolo 73  
+Esazione delle componenti  
+ 
+73.1 Le imprese distributrici versano alla Cassa, con cadenza mensile, entro il 15° giorno 
+del secondo mese successivo a quello in cui è avvenuta la relativa fatturazione  il 
+gettito delle componenti RE, RS, UG1, UG2 e UG3. 
+73.2 Qualora il gettito della componente UG 2 risulti negativo, la Cassa, entro 60 
+(sessanta) giorni dal termine del mese in cui è avvenuta la fatturazione, liquida tale 
+importo a favore dell’impresa distributrice. 
+73.3 Le imprese distributrici versano alla Cassa, con cadenza mensile, entro il 15° giorno 
+del secondo mese successivo a quello in cui è avvenuta la relativa fatturazione , se 
+positiva, la differenza tra:  
+a) il gettito derivante dall’applicazione della componente GS di cui al comma  
+42.3, lettera c), in relazione al servizio di distribuzione erogato nel bimestre 
+medesimo;  
+b) le compensazioni complessivamente riconosciute nel medesimo bimestre ai 
+sensi del TIBEG.  
+73.4 Qualora la differenza di cui al comma 73.3 risulti negativa, la Cassa, entro 60 
+(sessanta) giorni dal termine del mese, liquida tale importo a favore dell’impresa 
+distributrice. 
+73.5 La Cassa definisce le modalità operative in base alle quali gli esercenti provvedono 
+ai versamenti sui conti da essa gestiti. A tal fine e con la finalità di contenere rischi 
+di insolvenza da parte degli esercenti, la Cassa adotta procedure specifiche 
+applicabili nei casi di esercenti che non rispettano i termini previsti per l’invio delle 
+dichiarazioni e i conseguenti versamenti. 
+73.6 Qualora si verifichino situazioni particolari, in cui il valore della componente UG 2 
+negativa o le compensazioni ai sensi del TIBEG comportino importi tali da generare 
+possibili criticità di ordine finanziario per le imprese distributrici, l’Autorità può 
+        Allegato B 
+ 
+ 
+ 
+ 
+71 
+dare mandato alla Cassa di definire modalità operative provvisorie che consentano 
+di anticipare, in maniera opportuna e per il solo periodo necessario , le tempistiche 
+di erogazione previste dai medesimi commi , di norma in sede di aggiornamento 
+trimestrale degli oneri generali. 
+ 
+Articolo 73.bis  
+Obblighi informativi delle imprese distributrici 
+ 
+73.bis.1 Ciascuna impresa distributrice comunica alla Cassa, secondo modalità 
+operative e tempistiche definite dalla stessa: 
+a) nel mese di maggio dell’anno t, i dati previsionali fisici sottostanti alla 
+fornitura di gas naturale che prevedono di corrispondere ai propri clienti 
+per ciascun mese, relativamente all’orizzonte temporale da luglio 
+dell’anno t a giugno dell’anno t+1; 
+b) nel mese di novembre dell’anno t, i dati previsionali fisici sottostanti alla 
+fornitura di gas naturale che prevedono di corrispondere ai propri clienti 
+per ciascun mese, relativamente all’orizzonte temporale da gennaio 
+dell’anno t+1 a dicembre dell’anno t+1. 
+73bis.2  La Cassa adotta procedure specifiche applicabili nei casi in cui gli esercenti 
+non rispettino i termini previsti per l’invio dei dati di cui al precedente comma 
+73bis.1. 
+ 
+Articolo 74  
+Conti di gestione  
+ 
+73.7 Sono istituiti presso la Cassa: 
+a) il Fondo per misure ed interventi per il risparmio energetico e lo sviluppo 
+delle fonti rinnovabili nel settore del gas naturale; 
+b) il Conto per la qualità dei servizi gas; 
+c) il Conto per la perequazione tariffaria distribuzione gas; 
+d) il Conto per la compensazione delle agevolazioni tariffarie ai clienti del 
+settore gas in stato di disagio; 
+e) il Fondo di garanzia a sostegno della realizzazione di reti di teleriscaldamento; 
+f) il Fondo riconoscimento fornitori di ultima istanza; 
+g) il Conto oneri connessi all’intervento di interruzione dell’alimentazione del 
+punto di riconsegna; 
+h) il Conto per i servizi di ultima istanza; 
+i) il Conto per la copertura del meccanismo per la promozione della rinegoziazione 
+dei contratti pluriennali di approvvigionamento di gas naturale; 
+        Allegato B 
+ 
+ 
+ 
+ 
+72 
+j) il Conto per la gradualità della componente di commercializzazione della vendita 
+al dettaglio gas; 
+k) il Conto per il riconoscimento degli importi derivanti dalla rideterminazione 
+del coefficiente k effettuata in ottemperanza alla sentenza 4825/16 del 
+Consiglio di Stato. 
+ 
+Articolo 74  
+Fondo per misure ed interventi per il risparmio energetico e lo sviluppo delle fonti 
+rinnovabili nel settore del gas naturale 
+ 
+74.1 Il Fondo per misure ed interventi per il risparmio energetico e lo sviluppo delle fonti 
+rinnovabili nel settore del gas naturale è utilizzato per il finanziamento degli oneri 
+relativi al conseguimento degli obiettivi di cui al decreto 28 dicembre 2012 e per la 
+copertura delle risorse necessarie per l’incentivazione del biometano immesso nelle 
+reti di trasporto e distribuzione del gas naturale, come prevista dall’articolo 3 del 
+decreto 5 dicembre 2013. 
+74.2 Il Fondo per misure ed interventi per il risparmio energetico e lo sviluppo delle fonti 
+rinnovabili nel settore del gas naturale  è alimentato dal gettito rinveniente 
+dall’applicazione di una quota parte della componente RE, di cui al comma 42.3, 
+lettera d) e di una quota parte della componente RET di cui al comma 36.1, lettera c), 
+della RTTG.  
+ 
+Articolo 75  
+Conto per la qualità dei servizi gas 
+ 
+75.1 Il Conto qualità dei servizi gas è utilizzato per il finanziamento, per i rispettivi anni 
+di competenza, degli incentivi in materia di qualità dei servizi gas, come disciplinati 
+nella Parte I del presente Testo integrato. 
+75.2 Il Conto qualità dei servizi gas è alimentato dal gettito rinveniente dall’applicazione 
+della componente RS, di cui al comma 42.3, lettera e). 
+ 
+Articolo 76  
+Conto per la perequazione tariffaria distribuzione gas 
+ 
+76.1 Il Conto per la perequazione tariffaria distribuzione gas è utilizzato per la copertura 
+dei saldi di perequazione, per la copertura di eventuali conguagli tariffari che 
+dovessero emergere a seguito di rettifiche comunicate dalle imprese distributrici e 
+        Allegato B 
+ 
+ 
+ 
+ 
+73 
+per la copertura dei costi propri delle attività istruttorie relative al regime 
+individuale. 
+76.2 Il Conto per la perequazione tariffaria  distribuzione gas è alimentato dal gettito 
+rinveniente dall’applicazione della componente UG1, di cui al comma 42.3, lettera 
+f). 
+ 
+Articolo 77  
+Conto per la compensazione delle agevolazioni tariffarie ai clienti del settore gas in 
+stato di disagio 
+ 
+77.1 Il Conto per la compensazione delle agevolazioni tariffarie ai clienti del settore gas 
+in stato di disagio è utilizzato per la copertura degli oneri connessi al regime di 
+compensazione della spesa per la fornitura di gas naturale sostenuta dai clienti 
+domestici economicamente svantaggiati, introdotto ai sensi del decreto -legge n. 
+185/08. 
+77.2 Il Conto per la compensazione delle agevolazioni tariffarie ai clienti del settore gas 
+in stato di disagio  è alimentato dal gettito rinveniente dall’applicazione della 
+componente GS, di cui al comma 42.3, lettera c) e della componente GST di cui al 
+comma 36.1, lettera b), della RTTG. 
+ 
+Articolo 78  
+Fondo di garanzia a sostegno della realizzazione di reti di teleriscaldamento 
+ 
+78.1 Il Fondo di garanzia a sostegno della realizzazione di reti di teleriscaldamento è 
+utilizzato per le finalità di cui all’articolo 22 del decreto legislativo n. 28/11. 
+78.2 Il Fondo di garanzia a sostegno della realizzazione di reti di teleriscaldamento  è 
+alimentato da una quota parte della componente RE, di cui al comma 42.3, lettera d) 
+e da una quota parte de lla componente RET di cui al comma 36.1, lettera c), della 
+RTTG. 
+ 
+Articolo 79  
+Fondo riconoscimento fornitori ultima istanza 
+ 
+79.1 Il Fondo riconoscimento fornitori ultima istanza  è destinato al riconoscimento ai 
+fornitori di ultima istanza delle condizioni economiche per l’erogazione del servizio 
+svolto. 
+ 
+        Allegato B 
+ 
+ 
+ 
+ 
+74 
+Articolo 80  
+Conto oneri connessi all’intervento di interruzione dell’alimentazione del punto di 
+riconsegna 
+ 
+80.1 Il Conto oneri connessi all’intervento di interruzione dell’alimentazione del punto 
+di riconsegna  è destinato al riconoscimento alle imprese di distribuzione degli 
+ammontari a copertura degli oneri connessi all’intervento di interruzione.  
+80.2 Il Conto oneri connessi all’intervento di interruzione dell’alimentazione del punto 
+di riconsegna è alimentato dall’elemento UG3INT, di cui al comma  42.3, lettera h), 
+punto i), della componente UG3. 
+ 
+Articolo 81  
+Conto per i servizi di ultima istanza 
+ 
+81.1 Il Conto per i servizi di ultima istanza è utilizzato per la copertura dei: 
+a) saldi dei meccanismi perequativi specifici per il FDD, di cui all’articolo 37 del 
+TIVG; 
+b) saldi del meccanismo di reintegrazione morosità FUI. 
+81.2 Il Conto per i servizi di ultima istanza  è alimentato dall’elemento UG3UI, di cui al 
+comma 42.3, lettera h), punto ii), della componente UG3. 
+ 
+Articolo 82  
+Conto per la copertura del meccanismo per la promozione della rinegoziazione dei 
+contratti pluriennali di approvvigionamento di gas naturale  
+ 
+82.1 Il Conto per la copertura del meccanismo per la rinegoziazione dei contratti 
+pluriennali di approvvigionamento di gas naturale  è utilizzato per garantire la 
+copertura del meccanismo finalizzato a promuovere la rinegoziazione dei contratti 
+pluriennali di approvvigionamento del gas naturale.  
+82.2 Il Conto per la copertura del meccanismo per la promozione della rinegoziazione dei 
+contratti pluriennali di approvvigionamento di gas naturale è alimentato dal gettito 
+rinveniente dall’applicazione della componente C PR di cui all’articolo 8bis del 
+TIVG. 
+ 
+        Allegato B 
+ 
+ 
+ 
+ 
+75 
+Articolo 83  
+Conto per la gradualità della componente di commercializzazione della vendita al dettaglio 
+gas  
+ 
+83.1 Il Conto per la gradualità della componente di commercializzazione della vendita al 
+dettaglio gas  è utilizzato per garantire la copertura del meccanismo finalizzato a 
+garantire la gradualità nell’applicazione delle modifiche della componente di vendita 
+disposte con la deliberazione ARG/gas 64/09.  
+83.2 Il Conto per la gradualità della componente di commercializzazione della vendita al 
+dettaglio gas è alimentato dalla componente UG2, di cui al comma 42.3, lettera g). 
+ 
+Articolo 84  
+Conto per il riconoscimento degli importi derivanti dalla rideterminazione del 
+coefficiente k effettuata in ottemperanza alla sentenza 4825/16 del Consiglio di Stato  
+ 
+84.1 Il Conto per il riconoscimento degli importi derivanti dalla rideterminazione del 
+coefficiente k effettuata in ottemperanza alla sentenza 4825/16 del Consiglio di Stato 
+è utilizzato per garantire la copertura del meccanismo di riconoscimento di cui alla 
+deliberazione 32/2019/R/GAS.  
+84.2 Il Conto per il riconoscimento degli importi derivanti dalla rideterminazione del 
+coefficiente k effettuata in ottemperanza alla sentenza 4825/16 del Consiglio di Stato 
+è alimentato dall’elemento UG2k, di cui al comma  42.3, lettera g), punto ii. della 
+componente UG2. 
+ 
+Articolo 85  
+Altre disposizioni 
+ 
+85.1 Entro dodici giorni lavorativi antecedenti il termine di ciascun trimestre, la Cassa 
+trasmette all’Autorità un rapporto dettagliato della gestione dei conti da essa gestiti, 
+fornendo elementi utili per gli aggiornamenti delle corrispondenti componenti 
+tariffarie, secondo le modalità previste dalla medesima Autorità. 
+85.2 La Cassa può utilizzare le giacenze esistenti presso i conti di cui al comma 73.7 per 
+far fronte a eventuali carenze temporanee di disponibilità di taluno di essi, a 
+condizione che sia garantita la capienza dei conti dai quali il prelievo è stato 
+effettuato a fronte dei previsti pagamenti e che, a tal fine, si provveda al loro 
+progressivo reintegro. 
+        Allegato B 
+ 
+ 
+ 
+ 
+76 
+85.3 In caso di mancato o parziale versamento da parte degli esercenti, la Cassa applica 
+sulla somma dovuta un tasso di interesse di mora  secondo quanto indicato 
+all’articolo 41.4 del TIT. 
+85.4 Ai fini delle determinazioni di sua competenza, la Cassa può procedere ad 
+accertamenti di natura amministrativa, tecnica, contabile e gestionale, consistenti 
+nell’audizione e nel confronto dei soggetti coinvolti, nella ricognizione di luoghi ed 
+impianti, nella ricerca, verifica e comparazione di documenti. In caso di rifiuto di 
+collaborazione da parte degli esercenti, la Cassa procede a far menzione della 
+circostanza nel verbale, onde trarne elementi di valutazione. 
+  
+        Allegato B 
+ 
+ 
+ 
+ 
+77 
+SEZIONE VII 
+ 
+CONTRIBUTI PER PRESTAZIONI DELLE IMPRESE DISTRIBUTRICI 
+ 
+ 
+Articolo 86  
+Contributi per l’attivazione della fornitura e per la disattivazione della fornitura su 
+richiesta del cliente finale 
+ 
+86.1 Per l’attivazione della fornitura si applica il contributo in quota fissa riportato nella 
+Tabella 11. 
+86.2 Per la disattivazione della fornitura su richiesta del cliente finale si applica il 
+contributo in quota fissa riportato nella Tabella 11. 
+86.3 In esito al procedimento avviato con la deliberazione ARG/gas 42/11 i contributi di 
+cui ai precedenti commi 86.1 e 86.2 potranno essere oggetto di revisione. 
+ 
+ 
+ 
+  
+        Allegato B 
+ 
+ 
+ 
+ 
+78 
+Tabella 1 – Numero di giorni di esercizio dell’impianto di ciascuna località in funzione della zona 
+climatica di appartenenza 
+ 
+Zona climatica B C D E F 
+numero di giorni 121 137 166 183 272 
+ 
+ 
+Tabella 2 – Coefficienti di gradualità per degrado contributi 
+  
+Anno tariffe kg1 kg2 
+2014 0,8000 0,8000 
+2015 0,8000 0,8600 
+2016 0,8000 0,9200 
+2017 0,8000 0,9900 
+2018 0,8000 1,0600 
+2019 0,8000 1,1400 
+2020 0,8059 1,0200 
+2021 0,8118 1,0500 
+2022 0,8176 1,0800 
+2023 0,8235 1,1100 
+2024 0,8294 1,1400 
+2025 0,8353 1,1700 
+2026 0,8412 1,1700 
+2027 0,8471 1,1700 
+ 
+ 
+Tabella 3 – Vite utili ai fini regolatori 
+ 
+Categoria di cespite Gestioni comunali 
+e sovracomunali 
+Gestioni per 
+ambito 
+Fabbricati industriali 40 60 
+Condotte stradali 50 60 
+Impianti di derivazione (allacciamenti) 40 50 
+Impianti principali e secondari 20 25 
+Altre immobilizzazioni materiali e 
+immobilizzazioni immateriali 7 7 
+Sistemi di telelettura/telegestione 15 15 
+Concentratori 15 15 
+Misuratori elettronici 15 15 
+Misuratori tradizionali (esclusi <= G6) 20 20 
+Misuratori tradizionali <= G6 15 15 
+Dispositivi add-on 15 15 
+ 
+ 
+Allegato B 
+ 
+ 
+ 
+ 
+Tabella 4: Valori della componente a copertura dei costi operativi relativi al servizio di distribuzione (euro/punto di ricon segna) 
+ 
+a) Gestioni comunali e sovracomunali 
+ 
+ 
+ Anno 2020 Anno 2021 Anno 2022 Anno 2023 Anno 2024 Anno 2025 Anno 2026 
+ Densità clientela Densità clientela Densità clientela Densità clientela Densità clientela Densità clientela Densità clientela 
+  alta media bassa alta media bassa alta media bassa alta media bassa alta media bassa alta media bassa alta media bassa 
+Dimensione 
+imprese grandi 28,96 30,81 32,36 28,47 30,29 31,81 27,71 29,48 30,96 28,05 29,85 31,34 29,80 31,72 33,30 29,70 31,61 33,18 30,04 31,98 33,56 
+medie 34,37 36,56 38,38 33,09 35,20 36,95 31,54 33,55 35,22 31,29 33,28 34,94 32,61 34,68 36,41 31,83 33,85 35,54 32,20 34,24 35,95 
+piccole 43,17 45,93 48,22 40,80 43,40 45,57 38,16 40,59 42,62 37,18 39,55 41,52 38,09 40,52 42,53 36,51 38,83 40,76 36,93 39,28 41,23 
+ 
+ 
+Dimensione imprese 
+Grandi: oltre 300.000 punti di riconsegna 
+Medie: oltre 50.000 e fino a 300.000 punti di riconsegna 
+Piccole: fino a 50.000 punti di riconsegna 
+ 
+Densità clientela 
+Alta densità: oltre 0,12 punti di riconsegna per metro di condotta 
+Media densità: oltre 0,07 e fino a 0,12 punti di riconsegna per metro di condotta 
+Bassa densità: fino a 0,07 punti di riconsegna per metro di condotta 
+ 
+  
+ 
+Allegato B 
+ 
+ 
+b) Gestioni per ambito 
+ 
+ANNO CONSEGNA IMPIANTO 2020 
+ 
+ Anno Tariffe 2020 Anno Tariffe 2021 Anno Tariffe 2022 Anno Tariffe 2023 Anno Tariffe 2024 Anno Tariffe 2025 Anno Tariffe 2026 
+ 1° anno affidam. 2° anno affidam. 3° anno affidam. 4° anno affidam. 5° anno affidam. 6° anno affidam. 7° anno affidam. 
+ Densità clientela Densità clientela Densità clientela Densità clientela Densità clientela Densità clientela Densità clientela 
+ alta media bassa alta media bassa alta media bassa alta media bassa alta media bassa alta media bassa alta media bassa 
+Ambiti fino a 300.000 
+punti di riconsegna 31,67 33,69 35,37 32,00 34,04 35,74 32,03 34,07 35,77 29,67 31,57 33,14 30,50 32,46 34,08 29,70 31,61 33,18 30,04 31,98 33,56 
+Ambiti con oltre 300.000 
+punti di riconsegna 28,96 30,81 32,36 29,26 31,13 32,70 29,28 31,15 32,73 28,05 29,85 31,34 29,80 31,72 33,30 29,70 31,61 33,18 30,04 31,98 33,56 
+ 
+ANNO CONSEGNA IMPIANTO 2021 
+ 
+  Anno Tariffe 2021 Anno Tariffe 2022 Anno Tariffe 2023 Anno Tariffe 2024 Anno Tariffe 2025 Anno Tariffe 2026 
+  1° anno affidam. 2° anno affidam. 3° anno affidam. 4° anno affidam. 5° anno affidam. 6° anno affidam. 
+  Densità clientela Densità clientela Densità clientela Densità clientela Densità clientela Densità clientela 
+  alta media bassa alta media bassa alta media bassa alta media bassa alta media bassa alta media bassa 
+Ambiti fino a 300.000 
+punti di riconsegna 30,78 32,75 34,38 30,80 32,78 34,41 32,03 34,08 35,78 31,21 33,20 34,86 30,23 32,17 33,77 30,04 31,98 33,56 
+Ambiti con oltre 300.000 
+punti di riconsegna 28,47 30,29 31,81 28,49 30,31 31,84 29,62 31,52 33,11 29,80 31,72 33,30 29,70 31,61 33,18 30,04 31,98 33,56 
+ 
+ANNO CONSEGNA IMPIANTO 2022 
+ 
+  Anno Tariffe 2022 Anno Tariffe 2023 Anno Tariffe 2024 Anno Tariffe 2025 Anno Tariffe 2026 
+  1° anno affidam. 2° anno affidam. 3° anno affidam. 4° anno affidam. 5° anno affidam. 
+  Densità clientela Densità clientela Densità clientela Densità clientela Densità clientela 
+  alta media bassa alta media bassa alta media bassa alta media bassa alta media bassa 
+Ambiti fino a 300.000 
+punti di riconsegna 29,63 31,52 33,09 30,81 32,77 34,41 33,58 35,72 37,50 30,77 32,73 34,36 30,58 32,55 34,16 
+Ambiti con oltre 300.000 
+punti di riconsegna 27,71 29,48 30,96 28,81 30,65 32,19 31,40 33,41 35,08 29,70 31,61 33,18 30,04 31,98 33,56 
+ 
+Allegato B 
+ 
+ 
+ANNO CONSEGNA IMPIANTO 2023 
+ 
+  Anno Tariffe 2023 Anno Tariffe 2024 Anno Tariffe 2025 Anno Tariffe 2026 
+  1° anno affidam. 2° anno affidam. 3° anno affidam. 4° anno affidam. 
+  Densità clientela Densità clientela Densità clientela Densità clientela 
+  alta media bassa alta media bassa alta  media bassa alta  media bassa 
+Ambiti fino a 300.000 
+punti di riconsegna 29,67 31,57 33,14 32,34 34,41 36,12 33,11 35,23 36,98 31,12 33,11 34,76 
+Ambiti con oltre 300.000 
+punti di riconsegna 28,05 29,85 31,34 30,57 32,53 34,16 31,30 33,31 34,98 30,04 31,98 33,56 
+ 
+ANNO CONSEGNA IMPIANTO 2024 
+ 
+ Anno Tariffe 2024 Anno Tariffe 2025 Anno Tariffe 2026 
+ 1° anno affidam. 2° anno affidam. 3° anno affidam. 
+ Densità clientela Densità clientela Densità clientela 
+ alta media bassa alta media bassa alta media bassa 
+Ambiti fino a 300.000 
+punti di riconsegna 31,21 33,20 34,86 31,96 33,99 35,69 32,33 34,38 36,10 
+Ambiti con oltre 300.000 
+punti di riconsegna 29,80 31,72 33,30 30,51 32,48 34,10 30,86 32,86 34,50 
+ 
+ANNO CONSEGNA IMPIANTO 2025 
+ 
+ Anno Tariffe 2025 Anno Tariffe 2026 
+ 1° anno affidam. 2° anno affidam. 
+ Densità clientela Densità clientela 
+ alta media bassa alta media bassa 
+Ambiti fino a 300.000 
+punti di riconsegna 30,77 32,73 34,36 31,13 33,11 34,76 
+Ambiti con oltre 300.000 
+punti di riconsegna 29,70 31,61 33,18 30,04 31,98 33,56 
+ 
+ 
+ 
+Allegato B 
+ 
+ 
+ANNO CONSEGNA IMPIANTO 2026 
+ 
+ Anno Tariffe 2026 
+ 1° anno affidam. 
+ Densità clientela 
+ alta media bassa 
+Ambiti fino a 300.000 
+punti di riconsegna 31,12 33,11 34,76 
+Ambiti con oltre 300.000 
+punti di riconsegna 30,04 31,98 33,56 
+ 
+ 
+ 
+ 
+Allegato A 
+83 
+ 
+ 
+ 
+Tabella 5: Valori delle componenti a copertura dei costi di capitale centralizzati e dei costi operativi 
+relativi al servizio di misura e alla commercializzazione dei servizi di distribuzione e misura 
+(euro/punto di riconsegna) 
+ 
+Componente Anno 
+2020 
+Anno 
+2021 
+Anno 
+2022 
+Anno 
+2023 
+Anno 
+2024 
+Anno 
+2025 
+Anno 
+2026 
+𝑡(𝑐𝑒𝑛)𝑡
+𝑐𝑎𝑝
+ 8,54 8,60 8,36 8,60 9,55 9,39 9,55 
+𝑡(𝑖𝑛𝑠)𝑡
+𝑜𝑝𝑒,𝑏 3,47 3,48 3,48 3,62 3,95 4,04 4,09 
+𝑡(𝑟𝑎𝑐)𝑡
+𝑜𝑝𝑒 3,67 3,68 3,68 3,83 4,17 4,27 4,32 
+𝑡(𝑐𝑜𝑡)𝑡  1,84 1,81 1,79 1,83 1,97 1,99 2,01 
+𝑡(𝑑𝑖𝑠)𝑡
+𝑎𝑣𝑣
+ 222,22 222,55 222,73 231,59 252,41 258,44 261,44 
+𝑡(𝑑𝑖𝑠)𝑡
+𝑜𝑝𝑒,𝑑𝑖𝑣
+ 58,97 59,06 59,11 61,46 66,99 68,59 69,39 
+𝑡(𝑡𝑒𝑙𝑐𝑜𝑛)𝑡  - - - 1,59 1,71 1,75 1,77 
+𝑡(𝑡𝑒𝑙𝑐𝑜𝑛)𝑡  di cui opex - - - 1,03 1,12 1,15 1,16 
+𝑡(𝑡𝑒𝑙𝑐𝑜𝑛)𝑡  di cui capex - - - 0,56 0,59 0,60 0,61 
+ 
+ 
+Allegato A 
+84 
+ 
+Tabella 6: Scaglioni di consumo per la definizione delle quote variabili della tariffa obbligatoria  
+ 
+Scaglione di consumo Consumo annuo (smc/anno) 
+1 0-120 
+2 121-480 
+3 481-1.560 
+4 1.561-5.000 
+5 5.001-80.000 
+6 80.001-200.000 
+7 200.001-1.000.000 
+8 oltre 1.000.000 
+ 
+ 
+Tabella 7: Articolazione della struttura tariffaria di riferimento della quota variabile della tariffa 
+obbligatoria  
+ 
+Scaglione di consumo Corrispettivi unitari 
+(centesimi di euro/smc) 
+1 0,00 
+2 7,79 
+3 7,13 
+4 7,16 
+5 5,35 
+6 2,71 
+7 1,33 
+8 0,37 
+ 
+Tabella 8: Scaglioni per l’applicazione delle quote fisse della tariffa obbligatoria 1(dis)  e 1(mis)  
+ 
+Scaglione quote fisse Classe di gruppo di misura  
+A inferiore o uguale a G6 
+B superiore a G6 e inferiore o uguale a G40 
+C superiore a G40 
+ 
+ 
+Tabella 9: Valori unitari della penale per mancata installazione dei gruppi di misura (euro)  
+ 
+Classe del gruppo di 
+misura 
+Anno  
+tariffe 
+2020 
+Anno  
+tariffe 
+2021 
+Anno 
+tariffe 
+2022 
+Anno  
+tariffe 
+2023 
+Anno 
+tariffe 
+2024 
+Anno 
+tariffe 
+2025 
+Anno 
+tariffe 
+2026 
+Anno 
+tariffe 
+2027 
+Fino a G6 4 4 4 4 4 4 4 4 
+Oltre G6 fino a G16 12 12 12 12 12 12 12 12 
+Oltre G16 fino a G40 21 21 21 21 21 21 21 21 
+Oltre G40 54 54 54 54 54 54 54 54 
+ 
+ 
+Allegato A 
+85 
+ 
+Tabella 10: Costi standard inclusivi dei costi di installazione e messa in servizio da applicare ai gruppi 
+di misura (euro/gruppo di misura), valori espressi a prezzi 2022 (ifl2022=1) 
+ 
+ 
+Anno 
+tariffe 
+2023 
+Anno 
+tariffe 
+2024 
+Anno 
+tariffe 
+2025 
+Anno 
+tariffe 
+2026 
+Anno 
+tariffe 
+2027 
+G4 150 122 122 122 122 
+G6 189 159 159 159 159 
+G10 555 524 524 524 524 
+G16 560 467 467 467 467 
+G25 665 577 577 577 577 
+G40 1220 1220 1220 1220 1220 
+G65 1774 1774 1774 1774 1774 
+G100 2440 2440 2440 2440 2440 
+G160 3992 3992 3992 3992 3992 
+G250 4325 4325 4325 4325 4325 
+G400 4880 4880 4880 4880 4880 
+G650 5323 5323 5323 5323 5323 
+G1000 8318 8318 8318 8318 8318 
+G1600 10314 10314 10314 10314 10314 
+G2500 12088 12088 12088 12088 12088 
+GdM ≥ G4000 17411 17411 17411 17411 17411 
+Add on applicati a un 
+misuratore tradizionale già 
+installato di classe > G40 
+1109 1109 1109 1109 1109 
+Add on applicati a un 
+misuratore tradizionale già 
+installato di classe > G6 e 
+≤ G40 
+699 699 699 699 699 
+ 
+ 
+Tabella 11: Contributi per prestazioni delle imprese distributrici (euro) 
+ 
+Prestazione 
+Classi gruppi di misura  
+≤ G6  > G6 
+Contributo per attivazione della 
+fornitura  30 45 
+Contributo per disattivazione della 
+fornitura su richiesta del cliente finale 30 45 
+ 

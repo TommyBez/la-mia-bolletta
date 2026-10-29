@@ -1,0 +1,12 @@
+{
+  "code": "000971GSVML01XXPROD1300109202600",
+  "city_code": "022252",
+  "city_name": "Borgo d'Anaunia",
+  "volume_smc": 600,
+  "usage": "RISC",
+  "profile": "C1 F",
+  "expected_sale_eur_unrounded": "670.39079175812999",
+  "rounded_prediction": "670.39",
+  "basis": "AU profile C1F and independently recovered quarterly PSV; no fitting to 600Smc query",
+  "recording_boundary": "Recorded before reading the 600Smc response; request had already been launched. Model and coefficients fixed independently."
+}

@@ -1,0 +1,18 @@
+{
+  "sourceDate": "2026-10-27",
+  "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_10/PO_Offerte_G_MLIBERO_20261027.xml",
+  "fullSourceSha256": "1c8c944a6911980c9946ea58e0fdd1b60cbeb795634e07e73f324eb75ae558df",
+  "extraction": "Complete official offerta subtrees; namespace prefixes rewritten by ElementTree, no price fields edited",
+  "fixtures": {
+    "gas-official.xml": "9e47632225b1fad3d425ffb9d0c9ca165397a9a71a5586f10d7704a98e48aa55",
+    "gas-mixed-official.xml": "22baa797319d273640d8386fb49707af90cd2996a8da78830530cfe45d3e154f"
+  },
+  "additionalSources": {
+    "gas-supplement-required-official.xml": {
+      "sourceDate": "2026-10-29",
+      "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_10/PO_Offerte_G_MLIBERO_20261029.xml",
+      "fullSourceSha256": "8b0e2b742b6795324ef2a14e79b1c7cfccab9aa5e62735e1972bb0bb32d09bac",
+      "fixtureSha256": "d073bf742281ac088e67ba6d999e3900e8343f102f54d46689b407e9f5d98d34"
+    }
+  }
+}

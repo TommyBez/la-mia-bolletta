@@ -1,0 +1,83 @@
+{
+  "town": "Portoferraio",
+  "istat": "049014",
+  "code": "000971GSVML01XXPROD1300109202600",
+  "volume": "4000",
+  "usage": "RISC",
+  "tax_rows": [
+    [
+      "",
+      "Accisa - da 0 a 120 Smc",
+      "0,044000",
+      ""
+    ],
+    [
+      "",
+      "Accisa - da 121 a 480 Smc",
+      "0,175000",
+      ""
+    ],
+    [
+      "",
+      "Accisa - da 481 a 1.560 Smc",
+      "0,170000",
+      ""
+    ],
+    [
+      "",
+      "Accisa - oltre 1.560 Smc",
+      "0,186000",
+      ""
+    ],
+    [
+      "",
+      "Add. reg. fino a 120 Smc",
+      "0,022000",
+      ""
+    ],
+    [
+      "",
+      "Add. reg. da 121 a 480 Smc",
+      "0,030987",
+      ""
+    ],
+    [
+      "",
+      "Add. reg. da 481 a 1.560 Smc",
+      "0,030987",
+      ""
+    ],
+    [
+      "",
+      "Add. reg. - oltre 1.560 Smc",
+      "0,030987",
+      ""
+    ],
+    [
+      "IVA 5%",
+      "",
+      "0,00 \u20ac"
+    ],
+    [
+      "IVA 10%",
+      "",
+      "63,74 \u20ac"
+    ],
+    [
+      "IVA 22%",
+      "",
+      "1.098,82 \u20ac"
+    ]
+  ],
+  "summary_rows": [
+    "Vendita di gas naturale \u20ac 3.527,31",
+    "Tariffa per l'uso della rete del gas naturale 1.043,56 \u20ac",
+    "Oneri generali di sistema 232,53 \u20ac",
+    "Spesa netto imposte stimata 4.803,4 \u20ac",
+    "Imposte 828,59 \u20ac",
+    "IVA 5% 0,00 \u20ac",
+    "IVA 10% 63,74 \u20ac",
+    "IVA 22% 1.098,82 \u20ac",
+    "Spesa annua stimata 6.794,55 \u20ac"
+  ]
+}
