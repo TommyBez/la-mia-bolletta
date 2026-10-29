@@ -8,12 +8,12 @@ Un operatore lancia lo script separato, valida i coefficienti impliciti e import
 
 ## Acceptance criteria
 
-- [ ] Q43: esecuzione manuale mensile, nessuno scheduler e nessuna simulazione Portale nel confronto utente. Nessun dato energetico a pagamento.
-- [ ] Sonde e condizioni ufficiali, input sintetici, risposte sanificate, componenti sottratte, incertezza e verifiche indipendenti conservati. Gestire sonde scadute e cambiamenti del calcolatore.
-- [ ] F0/F1/F2/F3/F23, PSV e periodicità equivalenti; per Peak/OffPeak qualificare coefficienti annui effettivi per firma economica/versione dei record osservati, distinguendo fisse/variabili e componenti regolate, con componenti incluse e dominio dichiarati. Completare controlli sulle nuove fisse del catalogo29ottobre con prezziPeak/Offdiversi; nessuna pubblicazione come scenario completo prima dei controlli. Non presentarli come8forwardtrimestrali né fare IF sul codice offerta; nessuna rinomina arbitraria Peak→F1 o OffPeak→F23.
-- [ ] Importazione valida atomica, rifiuto di record mancanti/incoerenti e versioni fuori ordine; interfaccia operativa mostra esito e versione leggibile dall’applicazione.
-- [ ] Q44/Q47: quattro trimestri dal trimestre corrente e snapshot del mese corrente; dati assenti non diventanozero. RipiegoGME+nostra elaborazione è esplicito e validato se il recupero non è operativo, mai sostituzione silenziosa.
-- [ ] Test script/importazione→lettura con snapshot congelati e risultati numerici indipendenti; testano le formule di deduzione e i controlli, non soltanto validitàJSON.
+- [x] Q43: esecuzione manuale mensile, nessuno scheduler e nessuna simulazione Portale nel confronto utente. Nessun dato energetico a pagamento.
+- [x] Sonde e condizioni ufficiali, input sintetici, risposte sanificate, componenti sottratte, incertezza e verifiche indipendenti conservati. Gestire sonde scadute e cambiamenti del calcolatore.
+- [x] F0/F1/F2/F3/F23, PSV e periodicità equivalenti; per Peak/OffPeak qualificare coefficienti annui effettivi per firma economica/versione dei record osservati, distinguendo fisse/variabili e componenti regolate, con componenti incluse e dominio dichiarati. Completare controlli sulle nuove fisse del catalogo29ottobre con prezziPeak/Offdiversi; nessuna pubblicazione come scenario completo prima dei controlli. Non presentarli come8forwardtrimestrali né fare IF sul codice offerta; nessuna rinomina arbitraria Peak→F1 o OffPeak→F23.
+- [x] Importazione valida atomica, rifiuto di record mancanti/incoerenti e versioni fuori ordine; interfaccia operativa mostra esito e versione leggibile dall’applicazione.
+- [x] Q44/Q47: quattro trimestri dal trimestre corrente e snapshot del mese corrente; dati assenti non diventanozero. RipiegoGME+nostra elaborazione è esplicito e validato se il recupero non è operativo, mai sostituzione silenziosa.
+- [x] Test script/importazione→lettura con snapshot congelati e risultati numerici indipendenti; testano le formule di deduzione e i controlli, non soltanto validitàJSON.
 
 ## Blocked by
 

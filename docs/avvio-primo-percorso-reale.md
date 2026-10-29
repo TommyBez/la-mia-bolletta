@@ -37,11 +37,18 @@ Impostare `TEST_DATABASE_URL=postgresql://postgres:lmb_local_test_only@127.0.0.1
 ```sh
 pnpm test
 pnpm typecheck
+pnpm lint:real
 pnpm test:e2e
 node --import tsx scripts/verify/parity.ts http://localhost:3100
 ```
 
 Playwright usa Chrome e il server locale sulla porta 3100; `E2E_BASE_URL` seleziona un deployment già avviato. Le prove con dati reali verificano le fonti pubblicate, senza sostituirle con esempi in caso di errore. I controlli numerici usano valori attesi indipendenti e documentano gli scarti del simulatore. La prova di parità usa un profilo sintetico pubblico, le stesse versioni e tutti i campi salvo l'istante del calcolo; non stampa credenziali.
+
+Per la preview interna, il browser aggiunge il token OIDC locale soltanto all'origine del deployment. `LMB_LIVE_OCR_SMOKE=1` abilita la prova a costo misurato con PDF sintetico generato dal test. Nelle Function l'AI SDK risolve automaticamente OIDC dal contesto Vercel; non richiedere la sola variabile d'ambiente locale come condizione preventiva.
+
+`scripts/verify/parity.ts URL electricity` e `scripts/verify/parity.ts URL gas` verificano entrambe le forniture. `scripts/verify/workflow.ts URL` avvia i due import nella preview autorizzata; `scripts/verify/workflow.ts URL status` ne legge l'esito applicativo. Per lo stato asincrono usare anche `workflow inspect run ID --backend vercel --env preview` con progetto e team corretti.
+
+Esito della consegna e limiti: [verifica del 30 ottobre](./verifica-primo-percorso-reale-2026-10-30.md).
 
 Il corpus di bollette reali autorizzate è una verifica distinta dai test sintetici di upload/provider: misurare correttezza per campo/formato, costo e latenza prima di dichiarare qualificato l'OCR. Le bollette conservate non devono finire in Git, screenshot pubblici o commenti dei ticket.
 

@@ -1,0 +1,18 @@
+{
+  "from": "2026-10-29T23:16:00.000Z",
+  "to": "2026-10-29T23:40:00.000Z",
+  "models": [
+    {
+      "model": "google/gemini-3.8-flash",
+      "attempts": 3,
+      "completed": 2,
+      "failed": 1,
+      "inputTokens": 2990,
+      "outputTokens": 3131,
+      "durationMs": 17197,
+      "gatewayReportedCostUsd": "0.01398375",
+      "estimatedCostUsd": "0.01398375",
+      "unknownCostAttempts": 1
+    }
+  ]
+}

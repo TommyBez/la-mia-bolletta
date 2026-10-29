@@ -1,0 +1,33 @@
+{
+  "checkedAt": "2026-10-29T23:29:36.822Z",
+  "baseUrl": "https://la-mia-bolletta-8bumk8krn-tommasos-projects-bb9d6551.vercel.app",
+  "status": "passed",
+  "commodity": "gas",
+  "profile": "public synthetic 1200 Smc, Pescara, G4, heating",
+  "versions": {
+    "catalog": "0b348e30bbd8406bae629e9396c77f29ec7f7c2ec82da36b8bce435707ffd50f",
+    "references": "7e3a24a442efa8fa495b3a0cd8728ba6e4a3b279fb8fbaccc7f2116b79b45849",
+    "parameters": "0d45e75e8132815b3cb2668a8cb1d028d91ba154370c300783dc68a5738cbdf9",
+    "scenario": "dd168f3d90ea2139ed737f7fe14cb47df4d6efcc606bb13805463b514d682ebf",
+    "method": "portal-v4.2-project-v2"
+  },
+  "coverage": {
+    "source": "official_portal",
+    "complete": true,
+    "considered": 1529,
+    "excluded": {
+      "dual_fuel": 37,
+      "not_switch": 16,
+      "non_domestic": 1197,
+      "profile_ineligible": 123
+    }
+  },
+  "pagination": {
+    "offset": 0,
+    "limit": 20,
+    "eligibleTotal": 1054,
+    "conditionalTotal": 352
+  },
+  "equalFields": "all except calculation timestamp",
+  "source": "live published data; no fixture fallback"
+}
