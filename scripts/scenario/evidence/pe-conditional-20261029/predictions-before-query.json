@@ -1,0 +1,23 @@
+{
+  "method": "PE05 with conditional tutela discount excluded: PUN-index baseline hypothesis",
+  "fixedAnnual": "84",
+  "spread": ".0065",
+  "cdispd": ".016776",
+  "predictions": [
+    {
+      "band": "F1",
+      "prediction": "777.7025000000000000000000001",
+      "volume": "3000"
+    },
+    {
+      "band": "F2",
+      "prediction": "814.6525000000000000000000002",
+      "volume": "3000"
+    },
+    {
+      "band": "F3",
+      "prediction": "721.7025000000000000000000000",
+      "volume": "3000"
+    }
+  ]
+}

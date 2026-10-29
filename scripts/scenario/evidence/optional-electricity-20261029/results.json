@@ -1,0 +1,160 @@
+{
+  "observedAt": "2026-10-29T23:54:51.617822+01:00",
+  "catalogVersionId": "7a090139d4c9708b2b05a0f09475d94a5c5d0603ca2c5d60d084baff5f91b506",
+  "scenarioVersionId": "ebd4bc56f1c45cad350a52dcf459a521bfe76bcf7fefd1c303816a1953b7cf04",
+  "results": [
+    {
+      "offerCode": "000732ESFFL01XXRFED2609AXXXXXXXX",
+      "supplierVat": "01262680190",
+      "economicFingerprint": "b0206763711ed503ecda21ca8ecef796ed23571a0f5aa23600b3f1723225f07d",
+      "offerType": "fixed",
+      "expectedAnnualCost": "1024.43",
+      "expectedSales": "686.0232",
+      "observedSales": "686.02",
+      "observedAnnualCost": "1024.43",
+      "difference": "0.00",
+      "sourceEvidence": {
+        "blobKey": "scenario/2026-10/3fd1acb7824cafcbed58f0cb7023a01451e6328232966575f9693d0d0c11f633.html",
+        "sha256": "3fd1acb7824cafcbed58f0cb7023a01451e6328232966575f9693d0d0c11f633",
+        "kind": "official_method"
+      },
+      "status": "qualified"
+    },
+    {
+      "offerCode": "000732ESFML01XXEQED2610XXXXXXXXX",
+      "supplierVat": "01262680190",
+      "economicFingerprint": "ce67122b84da740e1d282c874b54d422b836ee4988551d2527efe69fd6b1f63d",
+      "offerType": "fixed",
+      "expectedAnnualCost": "924.73",
+      "expectedSales": "595.39520000000000000000000000000000000000000000001",
+      "observedSales": "595.40",
+      "observedAnnualCost": "924.73",
+      "difference": "0.00",
+      "sourceEvidence": {
+        "blobKey": "scenario/2026-10/17a4c76c3366ea076e2a9ef78b98b252fbdf6a5a51299abef819b84d7f96b783.html",
+        "sha256": "17a4c76c3366ea076e2a9ef78b98b252fbdf6a5a51299abef819b84d7f96b783",
+        "kind": "official_method"
+      },
+      "status": "qualified"
+    },
+    {
+      "offerCode": "000732ESFML01XXRHED2609AXXXXXXXX",
+      "supplierVat": "01262680190",
+      "economicFingerprint": "02ae97e3c4659fabb116ec187ad55612a8678ec5064643099e74d89b7ba4f2a2",
+      "offerType": "fixed",
+      "expectedAnnualCost": "962.13",
+      "expectedSales": "629.3952",
+      "observedSales": "629.40",
+      "observedAnnualCost": "962.13",
+      "difference": "0.00",
+      "sourceEvidence": {
+        "blobKey": "scenario/2026-10/a439b86ebebdaa6ce61c0852b57181e5bb8f2e06f69aa371d1a7f282e276de2a.html",
+        "sha256": "a439b86ebebdaa6ce61c0852b57181e5bb8f2e06f69aa371d1a7f282e276de2a",
+        "kind": "official_method"
+      },
+      "status": "qualified"
+    },
+    {
+      "offerCode": "000971ESFFL01XXPRDEE133011020260",
+      "supplierVat": "05941460965",
+      "economicFingerprint": "da85d245ec8b99487da7e4390ad098dafee623195c612f4946c945e23f6d6c93",
+      "offerType": "fixed",
+      "expectedAnnualCost": "1014.22",
+      "expectedSales": "676.74756",
+      "observedSales": "676.75",
+      "observedAnnualCost": "1014.22",
+      "difference": "0.00",
+      "sourceEvidence": {
+        "blobKey": "scenario/2026-10/3d04be2150f32446e4d418633e67500802c08f991d2bb62c0442b1ab8f354a41.html",
+        "sha256": "3d04be2150f32446e4d418633e67500802c08f991d2bb62c0442b1ab8f354a41",
+        "kind": "official_method"
+      },
+      "status": "qualified"
+    },
+    {
+      "offerCode": "001010ESFFL01XXLWERELAXINGHOME27",
+      "supplierVat": "04039180759",
+      "economicFingerprint": "59bb2156f04e2e07a38cac1c7a6d1e30f3461f8b5ba3abac6e6375d553442715",
+      "offerType": "fixed",
+      "expectedAnnualCost": "867.75",
+      "expectedSales": "543.5952",
+      "observedSales": "543.60",
+      "observedAnnualCost": "867.75",
+      "difference": "0.00",
+      "sourceEvidence": {
+        "blobKey": "scenario/2026-10/1dc740ba24e30f88212f843bc68239dd4e4f1256781b41e9681aaf677b1a6eb6.html",
+        "sha256": "1dc740ba24e30f88212f843bc68239dd4e4f1256781b41e9681aaf677b1a6eb6",
+        "kind": "official_method"
+      },
+      "status": "qualified"
+    },
+    {
+      "offerCode": "022119ESFML01XXFIXDOMESTICO202EE",
+      "supplierVat": "07610960721",
+      "economicFingerprint": "fbf20db3e0214c1cb37f491825284f950d6530802542d1beea0e5ec6687ec7be",
+      "offerType": "fixed",
+      "expectedAnnualCost": "1071.36",
+      "expectedSales": "728.6952",
+      "observedSales": "728.70",
+      "observedAnnualCost": "1071.36",
+      "difference": "0.00",
+      "sourceEvidence": {
+        "blobKey": "scenario/2026-10/f551a6e69dbdd108583f63e8803398e3f8edbf451cf69d082f986125108bc62d.html",
+        "sha256": "f551a6e69dbdd108583f63e8803398e3f8edbf451cf69d082f986125108bc62d",
+        "kind": "official_method"
+      },
+      "status": "qualified"
+    },
+    {
+      "offerCode": "022188ESFML01XX0000OEPROCASA0726",
+      "supplierVat": "05265590652",
+      "economicFingerprint": "fc043f03ae33201b10325edf1975e5e08ed290846fed084c2b62db64b8a8b3fe",
+      "offerType": "fixed",
+      "expectedAnnualCost": "1118.55",
+      "expectedSales": "771.5952",
+      "observedSales": "771.60",
+      "observedAnnualCost": "1118.55",
+      "difference": "0.00",
+      "sourceEvidence": {
+        "blobKey": "scenario/2026-10/8c7619d80749bc0df78ceaa57c798677f2b0a07654273bbd4d983c8765ac313d.html",
+        "sha256": "8c7619d80749bc0df78ceaa57c798677f2b0a07654273bbd4d983c8765ac313d",
+        "kind": "official_method"
+      },
+      "status": "qualified"
+    },
+    {
+      "offerCode": "028628ESFML01XX00000BLOCCALUCE26",
+      "supplierVat": "10564110962",
+      "economicFingerprint": "c6b90799b521a256571500b6ffcef675ad7d67db3bc8e2b33764e970eb372f8d",
+      "offerType": "fixed",
+      "expectedAnnualCost": "954.87",
+      "expectedSales": "622.7952",
+      "observedSales": "622.80",
+      "observedAnnualCost": "954.87",
+      "difference": "0.00",
+      "sourceEvidence": {
+        "blobKey": "scenario/2026-10/36f8c9d701f0d22c8dd389c62c9656f2c9c5b39b0d165cb4ef22c47324583d54.html",
+        "sha256": "36f8c9d701f0d22c8dd389c62c9656f2c9c5b39b0d165cb4ef22c47324583d54",
+        "kind": "official_method"
+      },
+      "status": "qualified"
+    },
+    {
+      "offerCode": "034958ESFML01XXAPIULUCESICURACAS",
+      "supplierVat": "15125541001",
+      "economicFingerprint": "c5add758d36ea8469565709d4aa4ee4d884205c642d8c9a3e26caf6768b8f9bb",
+      "offerType": "fixed",
+      "expectedAnnualCost": "854.19",
+      "expectedSales": "531.2682",
+      "observedSales": "531.27",
+      "observedAnnualCost": "854.19",
+      "difference": "0.00",
+      "sourceEvidence": {
+        "blobKey": "scenario/2026-10/047a05e035600477009febccf1cb5df35379ae9a5d987bc1e83e3af520e7d939.html",
+        "sha256": "047a05e035600477009febccf1cb5df35379ae9a5d987bc1e83e3af520e7d939",
+        "kind": "official_method"
+      },
+      "status": "qualified"
+    }
+  ]
+}

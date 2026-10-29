@@ -1,0 +1,386 @@
+.main {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 45px 32px 48px;
+  color: #173e33;
+}
+.intro {
+  max-width: 760px;
+  margin-bottom: 34px;
+}
+.eyebrow {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  font-size: 10px;
+  letter-spacing: 0.15em;
+  font-weight: 650;
+}
+.eyebrow > span {
+  width: 6px;
+  height: 6px;
+  background: #56826e;
+  border-radius: 50%;
+}
+.intro h1 {
+  font-family: Georgia, serif;
+  font-weight: 400;
+  font-size: clamp(36px, 4.1vw, 52px);
+  line-height: 1.12;
+  letter-spacing: -0.045em;
+  margin: 16px 0;
+  max-width: 700px;
+}
+.intro p {
+  max-width: 640px;
+  color: #596b62;
+  font-size: 14px;
+  line-height: 1.75;
+}
+.recommendation {
+  display: grid;
+  grid-template-columns: 1.08fr 1fr;
+  border: 1px solid #d8ded4;
+  border-radius: 18px;
+  overflow: hidden;
+  background: #fffef9;
+}
+.offer {
+  padding: 30px 38px 26px;
+}
+.tag {
+  display: inline-flex;
+  gap: 7px;
+  align-items: center;
+  font-size: 11px;
+  font-weight: 600;
+  background: #eaf0de;
+  color: #365839;
+  padding: 6px 10px;
+  border-radius: 5px;
+}
+.offerTitle {
+  display: flex;
+  align-items: center;
+  gap: 13px;
+  margin: 29px 0 28px;
+}
+.symbol {
+  display: grid;
+  place-items: center;
+  width: 48px;
+  height: 48px;
+  background: #e7eddf;
+  color: #2b5b3d;
+  border-radius: 50%;
+  font:
+    italic 33px Georgia,
+    serif;
+}
+.supplier {
+  color: #4f6255;
+  font-size: 9px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+.offerTitle h2 {
+  margin: 4px 0 0;
+  font-size: 22px;
+  line-height: 1.2;
+  letter-spacing: -0.04em;
+  font-weight: 550;
+}
+.costLabel {
+  font-size: 12px;
+  color: #4f6255;
+}
+.cost {
+  font-size: 52px;
+  font-weight: 500;
+  letter-spacing: -0.055em;
+  line-height: 1.25;
+  font-variant-numeric: tabular-nums;
+}
+.cost > span {
+  font-size: 14px;
+  color: #4f6255;
+  letter-spacing: 0;
+  margin-left: 9px;
+  font-weight: 400;
+}
+.monthly {
+  font-size: 12px;
+  color: #4f6255;
+  margin: 0;
+}
+.attributes {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin: 24px 0;
+  color: #627365;
+  font-size: 11px;
+}
+.attributes > span {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+}
+.primary {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  padding: 15px 18px;
+  border-radius: 7px;
+  background: #214c3e;
+  color: #fffef6;
+  cursor: pointer;
+  font-size: 13px;
+  transition: background 0.15s;
+}
+.primary:hover {
+  background: #17392e;
+}
+.small {
+  text-align: center;
+  font-size: 10px;
+  color: #4f6255;
+  margin: 12px 0 0;
+}
+.saving {
+  background: #eaf0e2;
+  padding: 40px 38px 28px;
+  display: flex;
+  flex-direction: column;
+}
+.savingLabel {
+  font-size: 12px;
+}
+.savingNumber {
+  font-size: 68px;
+  letter-spacing: -0.065em;
+  line-height: 1.2;
+  font-weight: 450;
+  display: flex;
+  align-items: center;
+  gap: 11px;
+  margin: 10px 0 3px;
+}
+.savingNumber svg {
+  flex-shrink: 0;
+}
+.savingUnit {
+  font-size: 12px;
+  color: #627360;
+}
+.miniComparison {
+  margin-top: auto;
+  padding-top: 28px;
+}
+.miniComparison > div:not(.bar) {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  font-size: 11px;
+}
+.miniComparison strong {
+  font-weight: 550;
+}
+.bar {
+  height: 5px;
+  border-radius: 3px;
+  overflow: hidden;
+  margin: 8px 0 17px;
+}
+.bar span {
+  height: 100%;
+  display: block;
+  background: #bdcbb5;
+  border-radius: 3px;
+}
+.newBar span {
+  background: #597854;
+}
+.caveat {
+  font-size: 10px;
+  line-height: 1.6;
+  max-width: 300px;
+  margin-top: 2px;
+  color: #4f6255;
+}
+.methodLink {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 11px;
+  margin-top: 14px;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  cursor: pointer;
+  width: fit-content;
+}
+.quietTitle {
+  font:
+    32px / 1.2 Georgia,
+    serif;
+  letter-spacing: -0.025em;
+  margin: 18px 0;
+  max-width: 280px;
+}
+.missing {
+  font-size: 13px;
+  line-height: 1.8;
+  color: #60725e;
+  margin: 4px 0 24px;
+}
+.reasons {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 35px;
+  margin: 30px 0 50px;
+  padding: 0 4px;
+}
+.reasons > div {
+  position: relative;
+  padding-left: 28px;
+}
+.reasons > div > span {
+  position: absolute;
+  left: 0;
+  top: 3px;
+  font-size: 10px;
+  color: #4f6255;
+}
+.reasons h3 {
+  font-size: 12px;
+  font-weight: 550;
+  margin: 0 0 6px;
+}
+.reasons p {
+  font-size: 11px;
+  color: #4f6255;
+  line-height: 1.7;
+  max-width: 245px;
+}
+.sectionHeading {
+  display: flex;
+  justify-content: space-between;
+  gap: 18px;
+  align-items: end;
+  margin-bottom: 18px;
+}
+.sectionHeading h2 {
+  font:
+    29px / 1.2 Georgia,
+    serif;
+  letter-spacing: -0.025em;
+  margin: 8px 0 0;
+}
+.sectionHeading > button {
+  font-size: 11px;
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  cursor: pointer;
+  padding: 10px 0;
+}
+.alternative {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  gap: 18px;
+  padding: 21px 0;
+  text-align: left;
+  border-top: 1px solid #dde1d5;
+  cursor: pointer;
+}
+.alternative:hover {
+  background: #f0f1e8;
+}
+.altSymbol {
+  font:
+    italic 26px Georgia,
+    serif;
+  color: #4f6255;
+  width: 36px;
+}
+.altName {
+  flex: 1;
+}
+.altName strong,
+.altPrice strong {
+  font-size: 14px;
+  font-weight: 550;
+}
+.altName small,
+.altPrice small {
+  display: block;
+  font-size: 10px;
+  color: #4f6255;
+  margin-top: 5px;
+}
+.altPrice {
+  text-align: right;
+}
+@media (max-width: 680px) {
+  .main {
+    padding: 28px 20px 32px;
+  }
+  .intro {
+    margin-bottom: 26px;
+  }
+  .intro p {
+    font-size: 13px;
+  }
+  .recommendation {
+    grid-template-columns: 1fr;
+    border-radius: 12px;
+  }
+  .offer,
+  .saving {
+    padding: 25px 23px;
+  }
+  .offerTitle {
+    margin: 23px 0;
+  }
+  .cost {
+    font-size: 47px;
+  }
+  .savingNumber {
+    font-size: 57px;
+  }
+  .miniComparison {
+    padding-top: 25px;
+  }
+  .reasons {
+    gap: 14px;
+    margin: 27px 0 35px;
+    grid-template-columns: 1fr;
+  }
+  .reasons p {
+    max-width: none;
+  }
+  .reasons > div {
+    padding-bottom: 8px;
+  }
+  .sectionHeading {
+    align-items: start;
+    flex-direction: column;
+    gap: 4px;
+  }
+  .sectionHeading h2 {
+    font-size: 26px;
+  }
+  .alternative {
+    gap: 12px;
+  }
+  .altSymbol {
+    display: none;
+  }
+  .altName small {
+    max-width: 175px;
+    line-height: 1.5;
+  }
+}
