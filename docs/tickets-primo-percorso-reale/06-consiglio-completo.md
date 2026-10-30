@@ -22,4 +22,4 @@ Dal caricamento di una bolletta si arriva al consiglioA, al confronto con il con
 
 ## Gate di chiusura
 
-Implementazione e sei percorsi browser verificati nella preview interna protetta; #12 resta aperto finché #9 non completa la qualifica del corpus OCR reale. [Esiti del 30 ottobre](../verifica-primo-percorso-reale-2026-10-30.md).
+Implementazione e sei percorsi browser verificati nella preview interna protetta. Ricevuti e provati quattro PDF reali: i due con anno completo raggiungono il confronto, anche su telefono e con conferma da tastiera. #12 conserva la dipendenza dalla qualifica estesa di #9; non è più in attesa dell’invio delle bollette. [Misura reale e limiti](../evidenze/ocr-reale-2026-10-30/README.md). [Esiti del 30 ottobre](../verifica-primo-percorso-reale-2026-10-30.md).

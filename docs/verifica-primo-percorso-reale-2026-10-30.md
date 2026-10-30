@@ -26,7 +26,9 @@ Le anomalie IVA del simulatore restano divergenze dichiarate: Senza Pensieri S e
 
 ## Gate ancora aperto
 
-**Accuratezza OCR su bollette reali autorizzate non ancora misurata.** L'utente invierà i documenti. I PDF sintetici provano l'integrazione, non l'accuratezza: #9 e la chiusura complessiva di #12 restano aperti per questo requisito. Nessuna bolletta reale, credenziale o capability è presente nelle prove del repository.
+**Quattro bollette reali ricevute e misurate il 30 ottobre.** Le prove hanno portato a correggere date italiane, uso combinato del gas, lettura dello storico e unità dei consumi incompleti. Il prompt v4 legge correttamente tutti i 37 valori annotati e rispetta 15 assenze; due percorsi con anno completo arrivano al confronto reale. [Resoconto, limiti e costi](evidenze/ocr-reale-2026-10-30/README.md). Sono quattro PDF nativi di due venditori, tutti variabili, usati anche per correggere il prompt: nessuna qualifica generale o holdout indipendente. #9 e #12 restano aperti per la copertura estesa descritta nella proposta operativa, **non per mancato invio dei file**. Originali ed estrazioni rimangono privati.
+
+Il codice OCR aggiornato è `80223b285b20415c28ee6eb483b172cdec02a66e`, verificato nella [nuova preview protetta](https://la-mia-bolletta-f3r8w8n8k-tommasos-projects-bb9d6551.vercel.app/confronto). 157 test e CI verdi. Le quattro letture finali costano 0,076722 USD; tutta la sessione reale, incluse diagnosi e riprove, 0,27219225 USD comunicati dal Gateway.
 
 Gli [aggregati degli smoke OCR](evidenze/percorso-reale-2026-10-30/ocr-usage.json) distinguono costi comunicati dal Gateway e costo ignoto del primo tentativo fallito prima della chiamata. Due letture sintetiche riuscite hanno registrato complessivamente 0,01398375 USD e 17.197 ms di esecuzione provider; non sono metriche di un corpus reale né il costo totale dell'infrastruttura.
 

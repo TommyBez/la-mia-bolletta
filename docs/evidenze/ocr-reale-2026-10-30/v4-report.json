@@ -1,0 +1,233 @@
+{
+  "stage": "v4",
+  "model": "google/gemini-3.8-flash",
+  "promptVersion": "bill-candidates-v4",
+  "environment": "local-web-with-private-cloud-services",
+  "normalization": "Case-insensitive municipality; equivalent decimals; explicit Italian dates normalized to ISO. Original independent annotations unchanged. Null expected counts separately from readable-field accuracy.",
+  "independentRealDocuments": 4,
+  "vendors": 2,
+  "commodities": [
+    "electricity",
+    "gas"
+  ],
+  "observedFormats": [
+    "pdf_native"
+  ],
+  "observedPriceKinds": [
+    "variable"
+  ],
+  "derivedSamples": 0,
+  "runs": [
+    {
+      "id": "bill-01",
+      "commodity": "electricity",
+      "format": "pdf_native",
+      "pages": 8,
+      "counts": {
+        "correct": 7,
+        "missing": 0,
+        "wrong": 0,
+        "correctlyAbsent": 6
+      },
+      "missingFields": [],
+      "wrongFields": [],
+      "uploadToExtractionMs": 28274,
+      "providerDurationMs": 25096,
+      "costUsd": "0.019461",
+      "comparisonStatus": null
+    },
+    {
+      "id": "bill-02",
+      "commodity": "gas",
+      "format": "pdf_native",
+      "pages": 12,
+      "counts": {
+        "correct": 7,
+        "missing": 0,
+        "wrong": 0,
+        "correctlyAbsent": 3
+      },
+      "missingFields": [],
+      "wrongFields": [],
+      "uploadToExtractionMs": 26580,
+      "providerDurationMs": 23480,
+      "costUsd": "0.0184515",
+      "comparisonStatus": null
+    },
+    {
+      "id": "bill-03",
+      "commodity": "electricity",
+      "format": "pdf_native",
+      "pages": 10,
+      "counts": {
+        "correct": 13,
+        "missing": 0,
+        "wrong": 0,
+        "correctlyAbsent": 3
+      },
+      "missingFields": [],
+      "wrongFields": [],
+      "uploadToExtractionMs": 40197,
+      "providerDurationMs": 33189,
+      "costUsd": "0.018762",
+      "comparisonStatus": "ready"
+    },
+    {
+      "id": "bill-04",
+      "commodity": "gas",
+      "format": "pdf_native",
+      "pages": 10,
+      "counts": {
+        "correct": 10,
+        "missing": 0,
+        "wrong": 0,
+        "correctlyAbsent": 3
+      },
+      "missingFields": [],
+      "wrongFields": [],
+      "uploadToExtractionMs": 52050,
+      "providerDurationMs": 44445,
+      "costUsd": "0.0200475",
+      "comparisonStatus": "ready"
+    }
+  ],
+  "qualified": false,
+  "reasons": [
+    "Occorrono almeno 30 bollette reali autorizzate.",
+    "Occorrono almeno 10 casi pdf_native.",
+    "Occorrono almeno 10 casi pdf_scan.",
+    "Occorrono almeno 10 casi photo_set.",
+    "Occorrono almeno cinque venditori diversi.",
+    "Manca un documento con entrambe le forniture.",
+    "Servono contratti fissi e variabili."
+  ],
+  "cases": 4,
+  "counts": {
+    "correct": 37,
+    "missing": 0,
+    "wrong": 0,
+    "correctlyAbsent": 15
+  },
+  "fields": {
+    "municipality.name": {
+      "correct": 4,
+      "missing": 0,
+      "wrong": 0,
+      "correctlyAbsent": 0
+    },
+    "municipality.portalCode": {
+      "correct": 0,
+      "missing": 0,
+      "wrong": 0,
+      "correctlyAbsent": 4
+    },
+    "contract.priceKind": {
+      "correct": 4,
+      "missing": 0,
+      "wrong": 0,
+      "correctlyAbsent": 0
+    },
+    "contract.validUntil": {
+      "correct": 0,
+      "missing": 0,
+      "wrong": 0,
+      "correctlyAbsent": 4
+    },
+    "annualConsumption.value": {
+      "correct": 2,
+      "missing": 0,
+      "wrong": 0,
+      "correctlyAbsent": 2
+    },
+    "annualConsumption.unit": {
+      "correct": 4,
+      "missing": 0,
+      "wrong": 0,
+      "correctlyAbsent": 0
+    },
+    "electricity.powerKw": {
+      "correct": 2,
+      "missing": 0,
+      "wrong": 0,
+      "correctlyAbsent": 0
+    },
+    "electricity.resident": {
+      "correct": 2,
+      "missing": 0,
+      "wrong": 0,
+      "correctlyAbsent": 0
+    },
+    "electricity.bands.F1": {
+      "correct": 1,
+      "missing": 0,
+      "wrong": 0,
+      "correctlyAbsent": 1
+    },
+    "electricity.bands.F2": {
+      "correct": 1,
+      "missing": 0,
+      "wrong": 0,
+      "correctlyAbsent": 1
+    },
+    "electricity.bands.F3": {
+      "correct": 1,
+      "missing": 0,
+      "wrong": 0,
+      "correctlyAbsent": 1
+    },
+    "contract.index": {
+      "correct": 4,
+      "missing": 0,
+      "wrong": 0,
+      "correctlyAbsent": 0
+    },
+    "contract.spread": {
+      "correct": 2,
+      "missing": 0,
+      "wrong": 0,
+      "correctlyAbsent": 2
+    },
+    "gas.usage": {
+      "correct": 2,
+      "missing": 0,
+      "wrong": 0,
+      "correctlyAbsent": 0
+    },
+    "gas.meterClass": {
+      "correct": 2,
+      "missing": 0,
+      "wrong": 0,
+      "correctlyAbsent": 0
+    },
+    "annualConsumption.kind": {
+      "correct": 2,
+      "missing": 0,
+      "wrong": 0,
+      "correctlyAbsent": 0
+    },
+    "annualConsumption.period.from": {
+      "correct": 2,
+      "missing": 0,
+      "wrong": 0,
+      "correctlyAbsent": 0
+    },
+    "annualConsumption.period.to": {
+      "correct": 2,
+      "missing": 0,
+      "wrong": 0,
+      "correctlyAbsent": 0
+    }
+  },
+  "byFormat": {
+    "pdf_native": {
+      "correct": 37,
+      "missing": 0,
+      "wrong": 0,
+      "correctlyAbsent": 15
+    }
+  },
+  "accuracy": 1,
+  "p50Ms": 25096,
+  "p95Ms": 44445,
+  "totalReportedCostUsd": "0.076722"
+}

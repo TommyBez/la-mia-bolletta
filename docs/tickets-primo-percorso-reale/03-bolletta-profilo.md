@@ -21,4 +21,6 @@ Nessuno: può partire subito dopo approvazione della specifica e del piano.
 
 ## Verifica residua
 
-Il percorso privato con AI SDK/Gateway/OIDC è verificato nella preview con PDF sintetici. Il corpus reale autorizzato, promesso dall’utente e non ancora ricevuto, resta necessario per chiudere l’ultimo criterio. Non qualificare l’accuratezza con fixture sintetiche.
+Ricevuti e annotati quattro PDF reali autorizzati. Il prompt v4 produce 37 valori corretti su 37 leggibili annotati e 15 assenze corrette; due documenti con anno completo arrivano al confronto reale, quelli con otto mesi richiedono integrazione. Corretti date, uso combinato gas, storico e unità; verificati anche telefono e tastiera. [Resoconto con costi, metriche per campo/formato e limiti](../evidenze/ocr-reale-2026-10-30/README.md).
+
+La qualifica estesa resta aperta: quattro PDF nativi, due venditori, soli contratti variabili, nessun holdout indipendente. Il gate non è più la mancata ricezione dei documenti. Non dichiarare passata la proposta di copertura 30 casi con scansioni/foto/fisse e bolletta con entrambe le forniture.
