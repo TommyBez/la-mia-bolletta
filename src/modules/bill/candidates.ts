@@ -1,3 +1,4 @@
+import { z } from "zod";
 import type { BillExtraction } from "./extraction";
 export type DocumentFieldCandidate = {
   value: string | null;
@@ -18,8 +19,17 @@ export function candidateFromExtraction(
     const fields: Record<string, DocumentFieldCandidate> = {};
     const warnings = [...supply.warnings];
     for (const field of supply.fields) {
+      let value = field.value;
+      const isDate =
+        /annualConsumption\.period\.(from|to)$|contract\.valid(From|Until)$/.test(
+          field.path,
+        );
+      if (isDate && value !== null) {
+        const italian = /^(\d{2})\/(\d{2})\/(\d{4})$/.exec(value);
+        if (italian) value = `${italian[3]}-${italian[2]}-${italian[1]}`;
+      }
       const previous = fields[field.path];
-      if (previous && previous.value !== field.value) {
+      if (previous && previous.value !== value) {
         fields[field.path] = {
           ...previous,
           value: null,
@@ -32,15 +42,16 @@ export function candidateFromExtraction(
         continue;
       }
       const invalid =
-        field.value !== null &&
-        ((/\.value$|\.powerKw$|\.bands\.F[123]$|\.unitPrice$|\.fixedAnnualCharge$/.test(
-          field.path,
-        ) &&
-          !/^(?:0|[1-9]\d*)(?:\.\d+)?$/.test(field.value)) ||
+        value !== null &&
+        ((isDate && !z.iso.date().safeParse(value).success) ||
+          (/\.value$|\.powerKw$|\.bands\.F[123]$|\.unitPrice$|\.fixedAnnualCharge$/.test(
+            field.path,
+          ) &&
+            !/^(?:0|[1-9]\d*)(?:\.\d+)?$/.test(value)) ||
           (field.path === "electricity.resident" &&
-            !["true", "false"].includes(field.value)));
+            !["true", "false"].includes(value)));
       fields[field.path] = {
-        value: invalid ? null : field.value,
+        value: invalid ? null : value,
         originalValues: [field.value],
         state: invalid
           ? "invalid"
