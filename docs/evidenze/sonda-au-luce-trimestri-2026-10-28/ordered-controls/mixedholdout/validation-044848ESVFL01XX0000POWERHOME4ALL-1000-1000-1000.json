@@ -1,0 +1,17 @@
+{
+  "OffertaConfrontoResponse": {
+    "offerta": {
+      "codErrore": 0,
+      "codOfferta": "044848ESVFL01XX0000POWERHOME4ALL",
+      "idCategoriaOfferta": "ML",
+      "idCommodity": "E",
+      "idOfferta": 1433679,
+      "idTipoCliente": "01",
+      "idTipoOfferta": "02",
+      "idTipologiaFasciaOraria": "03",
+      "oggettoFornitura": "POWER HOME 4ALL",
+      "tuteleGraduali": false
+    },
+    "result_code": 200
+  }
+}

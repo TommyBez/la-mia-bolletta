@@ -1,0 +1,255 @@
+Browser tab: 190212182, Title: "Senza Pensieri S Domestico", URL: "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page".
+1 AXWebArea Senza Pensieri S Domestico, URL: ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page
+	2 container page_top
+		3 container wrapperHeight
+			4 container mainheader
+				5 container skip-link
+					6 link Description: Vai al contenuto della pagina, Value: ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page#main
+					7 link Description: Vai a fondo pagina, Value: ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page#footer
+				8 container
+					9 link Description: Logo Arera, Help: Link esterno al sito di Arera, Value: arera.it/
+					10 link Description: Logo Acquirente Unico, Help: Link esterno al sito di Acquirente Unico, Value: acquirenteunico.it/
+					11 link Description: Nascondi loghi , Help: Nascondi i loghi, Value: javascript:hideLoghi();
+				12 container
+					13 link Description: Logo Portale delle Offerte luce e gas, Value: ilportaleofferte.it/portaleOfferte/
+					14 heading Portale Offerte luce e gas, Value: 1
+						15 link Description: Portale Offerte luce e gas, Help: Portale delle offerte, Value: ilportaleofferte.it/portaleOfferte/it/homepage.page
+					16 container
+						17 link (collapsed) Description:           Accedi, Value: ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page#, Secondary Actions: Expand
+						18 container
+							19 checkbox (settable, integer) 0
+							20 text  Seleziona l'opzione in caso di identità Persona Giuridica
+				21 container sub_nav
+					22 heading Submenu, Value: 2
+						23 text Submenu
+					24 content list
+						25 link Description: SCOPRI , Help: Apri il menù: Scopri, Value: ilportaleofferte.it/portaleOfferte/it/scopri.page
+						26 link Description: CONFRONTA, Help: Vai alla pagina: Confronta, Value: ilportaleofferte.it/portaleOfferte/it/confronto-tariffe-prezzi-luce-gas.page
+						27 link Description: TRASPARENZA , Help: Apri il menù: Trasparenza, Value: ilportaleofferte.it/portaleOfferte/it/trasparenza.page
+						28 link Description: LE TUE OFFERTE, Help: Vai alla pagina: Le tue offerte, Value: ilportaleofferte.it/portaleOfferte/it/le-tue-forniture.page
+						29 button   , Help: Cerca, ID: btn_lens
+			30 container navbar
+				31 link Description: Chiudi, Help: Chiudi il menù, Value: ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page#chiudiMenu, ID: closeMenu
+				32 content list mainmenu
+					33 link Description: HOMEPAGE, Help: Vai alla pagina principale, Value: ilportaleofferte.it/portaleOfferte/it/homepage.page
+					34 container
+						35 text SCOPRI
+						36 content list scopri-submenu
+							37 link Description: Portale Offerte, Help: Vai alla pagina: Portale Offerte, Value: ilportaleofferte.it/portaleOfferte/it/portale_offerte.page
+							38 link Description: Mercato Libero, Help: Vai alla pagina: Mercato Libero, Value: ilportaleofferte.it/portaleOfferte/it/mercato-libero-energia-obbligatorio-gas-luce.page
+							39 link Description: Offerte PLACET, Help: Vai alla pagina: Offerte PLACET, Value: ilportaleofferte.it/portaleOfferte/it/placet-offerte-energia-gas-luce.page
+							40 link Description: Servizi di Tutela, Help: Vai alla pagina: Servizi di Tutela, Value: ilportaleofferte.it/portaleOfferte/it/servizio-maggior-tutela-gas-luce-energia.page
+							41 link Description: Cambio Venditore, Help: Vai alla pagina: Cambio Venditore, Value: ilportaleofferte.it/portaleOfferte/it/cambio-fornitore-energia-elettrica-gestore-gas-luce.page
+							42 link Description: Domande frequenti, Help: Vai alla pagina: Domande frequenti, Value: ilportaleofferte.it/portaleOfferte/it/domande_frequenti.page
+							43 link Description: Video tutorial, Help: Vai alla pagina: Video tutorial, Value: ilportaleofferte.it/portaleOfferte/it/video-tutorial.page
+					44 link Description: CONFRONTA, Help: Vai alla pagina: Confronta, Value: ilportaleofferte.it/portaleOfferte/it/confronto-tariffe-prezzi-luce-gas.page
+					45 container
+						46 text TRASPARENZA
+						47 content list trasparenza-submenu
+							48 link Description: Chi siamo, Help: Vai alla pagina: Chi siamo, Value: ilportaleofferte.it/portaleOfferte/it/sistema-informativo-integrato-chi-siamo.page
+							49 link Description: Open Data, Help: Vai alla pagina: Open Data, Value: ilportaleofferte.it/portaleOfferte/it/open-data.page
+							50 link Description: Calcolo della Spesa, Help: Vai alla pagina: Calcolo della Spesa, Value: ilportaleofferte.it/portaleOfferte/it/calcolo-bolletta-gas-luce-formula-energia-stima-consumi.page
+							51 link Description: Risultati questionario, Help: Vai alla pagina: Risultati questionario, Value: ilportaleofferte.it/portaleOfferte/it/risultati-questionario.page
+					52 link Description: LE TUE OFFERTE, Help: Vai alla pagina: Le tue offerte, Value: ilportaleofferte.it/portaleOfferte/it/le-tue-forniture.page
+			53 container main
+				54 container
+					55 link Description: HOME, Help: Vai alla pagina Homepage, Value: ilportaleofferte.it/portaleOfferte/it/homepage.page
+					56 text >  CONFRONTA
+				57 heading Dettaglio Offerta, Value: 2
+					58 text Dettaglio Offerta
+				59 button Esporta dettaglio, ID: btn_export
+				60 container
+					61 heading CARATTERISTICHE DELLA RICERCA, Value: 3
+						62 text CARATTERISTICHE DELLA RICERCA
+					63 text Commodity
+					64 text : Gas
+					65 text Data
+					66 text : 27/10/2026
+					67 text Tipo di offerta
+					68 text : Misto
+					69 text Classe contatore
+					70 text : Portata < G6
+					71 text Consumo annuo
+					72 text : 2,000 Smc
+					73 text Tipo cliente
+					74 text : Domestico
+					75 text CAP
+					76 text : Pescara
+					77 text Cliente Vulnerabile
+					78 text : No
+					79 button Torna ai risultati, ID: btn_back
+				80 container
+					81 container offerta1_venditore1
+						82 container
+							83 text Nome offerta:
+							84 link Description: Senza Pensieri S Domestico, Help: Vai al sito dell'offerta, Value: openenergia.it/cte/GAS_Senza%20Pensieri%20S%20Domestico.pdf
+						85 container
+							86 text Codice offerta: 029886GSVML01XXSENZAPENSIDOMGAS3
+						87 text OFFERTA GAS
+						88 container
+							89 text Valida dal  08/10/2026  al  31/10/2026
+						90 container
+							91 link Description: A.G. ENERGIA S.R.L., Help: Vai al sito di A.G. ENERGIA S.R.L., Value: openenergia.it/
+						92 container
+							93 text Numero telefonico:
+							94 text 0541 1780488
+						95 container
+							96 text Sito web del venditore:
+							97 link Description: http://www.openenergia.it, Help: Vai al sito di A.G. ENERGIA S.R.L., Value: openenergia.it/
+						98 container
+							99 text Durata delle condizioni economiche:
+							100 text 12 mesi
+						101 container
+							102 text Tipo cliente:
+							103 text Domestico 
+							104 text Condizioni dell’offerta:
+							105 container
+								106 text Offerta attivabile per tutte le prestazioni
+							107 text Offerta attivabile per consumi da - a:
+							108 text Sempre
+							109 text Tipo di offerta:
+							110 text Misto
+							111 text Modalità di attivazione:
+							112 container
+								113 text Offerta attivabile da qualsiasi canale
+							114 text Metodi di pagamento:
+							115 container
+								116 text Domiciliazione bancaria
+								117 text Domiciliazione postale
+								118 text PagoPa
+							119 container
+								120 text Garanzie 
+							121 container
+								122 text Condizioni contrattuali 
+					123 container
+						124 text CONDIZIONI ECONOMICHE
+					125 container
+						126 text Prezzo di vendita:
+						127 text Misto 
+					128 container
+						129 text Costo per consumi
+						130 text Indice:
+						131 text  PSV (mensile)
+						132 image chartIndice_G_105463
+					133 container
+						134 text Sconti non sempre applicabili
+						135 text 24 €/anno Club 0 Ogni Cliente ha la possibilità di risparmiare aderendo alla promozione Club Zero, ovvero presentando i suoi amici per la contrattualizzazione di nuove forniture luce e/o gas. Per ogni nuovo amico portato e che entra in fornitura, verranno riconosciuti 2 €/mese per ogni punto di fornitura attivo sia a chi porta che a chi è portato. La promozione non ha costi di attivazione, non ha scadenza ed è cumulabile fino all'azzeramento della fattura; in nessun caso il Cliente può maturare un credito nei confronti del Fornitore derivante dalla promozione Club Zero. Condizioni:
+						136 text 
+						137 text  Il Cliente ha diritto allo sconto se sono soddisfatte contemporaneamente TUTTE le seguenti condizioni: a) il segnalatore ha un contratto attivo e fatturabile alla data dell'attivazione della promozione (chi presenta è già un cliente); b) il segnalato non ha un contratto attivo e fatturabile alla data dell'attivazione della promozione (il segnalato viene portato in fornitura); c) sia segnalato che segnalatore non hanno PDP in recesso; d) tutti i PDP del cliente che riceve lo sconto hanno metodo di pagamento SDD (la promozione è riservata esclusivamente ai clienti che pagano con modalità addebito bancario); e) tutti i PDP del cliente che riceve lo sconto hanno metodo di spedizione fattura via mail (la promozione è riservata esclusivamente ai clienti che ricevono le fatture via mail); f) tutti i PDP del cliente devono risultare in regola con i pagamenti Non soggetto a IVA Sconto fisso Valido oltre 12 mesi
+					138 container
+						139 text Prodotti e servizi aggiuntivi 
+				140 container
+					141 heading DESCRIZIONE OFFERTA, Value: 3
+						142 text DESCRIZIONE OFFERTA
+					143 text Offerta a prezzo misto
+					144 container dettaglio1
+						145 heading COMPOSIZIONE DELLA SPESA ANNUA STIMATA, Value: 3
+							146 text COMPOSIZIONE DELLA SPESA ANNUA STIMATA
+						147 table
+							148 row
+								149 cell
+									150 text Vendita di gas naturale
+								151 cell
+									152 text € 1.969,59
+							153 row
+								154 cell
+									155 text Quota fissa (€/anno)
+								156 cell
+									157 text 
+							158 row
+								159 cell
+									160 text Quota energia (€/Smc)
+								161 cell
+									162 text 
+							163 row
+								164 cell
+									165 text Tariffa per l'uso della rete del gas naturale
+								166 cell
+									167 text 585,42 €
+							168 row
+								169 cell
+									170 text Quota fissa (€/anno)
+								171 cell
+									172 text 
+							173 row
+								174 cell
+									175 text Quota energia (€/Smc)
+								176 cell
+									177 text 
+							178 row
+								179 cell
+									180 text Oneri generali di sistema
+								181 cell
+									182 text 111,72 €
+							183 row
+								184 cell
+									185 text Quota fissa (€/anno)
+								186 cell
+									187 text 
+							188 row
+								189 cell
+									190 text Quota energia (€/Smc)
+								191 cell
+									192 text 
+							193 row
+								194 cell
+									195 text Spesa netto imposte stimata
+								196 cell
+									197 text 2.666,73 €
+							198 row
+								199 cell
+									200 text Imposte
+								201 cell
+									202 text 298,66 €
+							203 row
+								204 cell
+									205 text Corrispettivi unitari
+								206 cell
+									207 text 
+							208 row
+								209 cell
+									210 text IVA 5%
+								211 cell
+									212 text 0,00 €
+							213 row
+								214 cell
+									215 text IVA 10%
+								216 cell
+									217 text 542,66 €
+							218 row
+								219 cell
+									220 text IVA 22%
+								221 cell
+									222 text 0,00 €
+							223 row
+								224 cell
+									225 text Spesa annua stimata
+								226 cell
+									227 text 3.508,04 €
+							228 row
+								229 cell
+									230 text La spesa annua riportata rappresenta una stima che si basa su prezzi che nel tempo possono variare e su dati di consumo storici (in caso di autenticazione con SPID o CIE) oppure dichiarati dall’utente, o stimati sulla base delle informazioni fornite, che si possono discostare dai consumi futuri. Tutti i corrispettivi unitari pubblicati sono indicati nel loro valore unitario al netto delle imposte e al lordo delle perdite di rete.
+		231 container footer
+			232 container
+				233 link Description: Logo Portale delle Offerte luce e gas, Value: ilportaleofferte.it/portaleOfferte/
+				234 content list
+					235 link Description: Confronta le Offerte, Help: Vai alla pagina: Confronta Offerte, Value: ilportaleofferte.it/portaleOfferte/it/confronto-tariffe-prezzi-luce-gas.page
+					236 link Description: Offerte Placet, Help: Vai alla pagina: Offerte Placet, Value: ilportaleofferte.it/portaleOfferte/it/placet-offerte-energia-gas-luce.page
+				237 content list
+					238 link Description: Servizi di Tutela, Help: Vai alla pagina: Servizi di Tutela, Value: ilportaleofferte.it/portaleOfferte/it/servizio-maggior-tutela-gas-luce-energia.page
+					239 link Description: Mercato Libero, Help: Vai alla pagina: Mercato Libero, Value: ilportaleofferte.it/portaleOfferte/it/mercato-libero-energia-obbligatorio-gas-luce.page
+				240 content list
+					241 link Description: Cambio venditore, Help: Vai alla pagina: Cambio Venditore, Value: ilportaleofferte.it/portaleOfferte/it/cambio-fornitore-energia-elettrica-gestore-gas-luce.page
+					242 link Description: Contatti, Help: Vai alla pagina: Contatti, Value: ilportaleofferte.it/portaleOfferte/it/contatti.page
+				243 content list
+					244 link Description: Elenco Venditori, Help: Vai alla lista dei venditori, Value: mase.gov.it/pagina/elenco-venditori-energia-elettrica-eve
+			245 container
+				246 text Portale Offerte ingegnerizzato e realizzato da Acquirente Unico S.p.A. - Via Guidubaldo Del Monte, 45 - 00197 - Roma - P.IVA e C.F. n. 05877611003
+				247 content list
+					248 link Description: Informazioni legali, Help: Vai alla pagina: Informazioni legali, Value: ilportaleofferte.it/portaleOfferte/it/informazioni-legali.page
+					249 link Description: Contatti, Help: Vai alla pagina: Contatti, Value: ilportaleofferte.it/portaleOfferte/it/contatti.page
+					250 link Description: Privacy, Help: Vai alla pagina: Privacy, Value: ilportaleofferte.it/portaleOfferte/it/privacy.page
+					251 link Description: Credits, Help: Vai alla pagina: Credits, Value: ilportaleofferte.it/portaleOfferte/it/credits.page
+					252 link Description: Cookie policy, Help: Vai alla pagina: Cookie policy, Value: ilportaleofferte.it/portaleOfferte/it/cookie-policy.page
+
+The focused UI element is 1 AXWebArea Senza Pensieri S Domestico, URL: ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page

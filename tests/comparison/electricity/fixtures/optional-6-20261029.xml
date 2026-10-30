@@ -1,0 +1,79 @@
+<ListaOfferteMercatoLibero><offerta>
+        <IdentificativiOfferta>
+            <PIVA_UTENTE>05265590652</PIVA_UTENTE>
+            <COD_OFFERTA>022188ESFML01XX0000OEPROCASA0726</COD_OFFERTA>
+        </IdentificativiOfferta>
+        <DettaglioOfferta>
+            <TIPO_MERCATO>01</TIPO_MERCATO>
+            <OFFERTA_SINGOLA>SI</OFFERTA_SINGOLA>
+            <TIPO_CLIENTE>01</TIPO_CLIENTE>
+            <DOMESTICO_RESIDENTE>03</DOMESTICO_RESIDENTE>
+            <TIPO_OFFERTA>01</TIPO_OFFERTA>
+            <TIPOLOGIA_ATT_CONTR>99</TIPOLOGIA_ATT_CONTR>
+            <NOME_OFFERTA>Protecta Casa</NOME_OFFERTA>
+            <DESCRIZIONE>Mercato Libero – Condizioni Tecniche ed economiche riservata ai Clienti finali domestici, ad esclusione dei condomini e delle Pubbliche Amministrazioni alimenti in bassa tensione.</DESCRIZIONE>
+            <DURATA>12</DURATA>
+            <GARANZIE>NO</GARANZIE>
+            <ModalitaAttivazione>
+                <MODALITA>02</MODALITA>
+            </ModalitaAttivazione>
+            <Contatti>
+                <TELEFONO>800933336</TELEFONO>
+                <URL_SITO_VENDITORE>https://www.orakomenergia.it/</URL_SITO_VENDITORE>
+                <URL_OFFERTA>www.orakomenergia.it</URL_OFFERTA>
+            </Contatti>
+        </DettaglioOfferta>
+        <RiferimentiPrezzoEnergia>
+            <IDX_PREZZO_ENERGIA>01</IDX_PREZZO_ENERGIA>
+        </RiferimentiPrezzoEnergia>
+        <ValiditaOfferta>
+            <DATA_INIZIO>06/07/2026_23:59:00</DATA_INIZIO>
+            <DATA_FINE>10/12/2026_23:59:00</DATA_FINE>
+        </ValiditaOfferta>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>01</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>99</MODALITA_PAGAMENTO>
+            <DESCRIZIONE>SDD</DESCRIZIONE>
+        </MetodoPagamento>
+        <TipoPrezzo>
+            <TIPOLOGIA_FASCE>01</TIPOLOGIA_FASCE>
+        </TipoPrezzo>
+        <Dispacciamento>
+            <TIPO_DISPACCIAMENTO>14</TIPO_DISPACCIAMENTO>
+            <VALORE_DISP>0.000000</VALORE_DISP>
+            <NOME>Dispacciamento del. 386</NOME>
+        </Dispacciamento>
+        <ComponenteImpresa>
+            <NOME>Costi di commercializzazione</NOME>
+            <DESCRIZIONE>corrispettivi relativi ai servizi di vendita per la componente a remunerazione dei costi di commercializzazione</DESCRIZIONE>
+            <TIPOLOGIA>02</TIPOLOGIA>
+            <MACROAREA>01</MACROAREA>
+            <IntervalloPrezzi>
+                <PREZZO>216.000000</PREZZO>
+                <UNITA_MISURA>01</UNITA_MISURA>
+            </IntervalloPrezzi>
+        </ComponenteImpresa>
+        <ComponenteImpresa>
+            <NOME>Fee di Programmazione</NOME>
+            <DESCRIZIONE>Fee di Programmazione</DESCRIZIONE>
+            <TIPOLOGIA>02</TIPOLOGIA>
+            <MACROAREA>04</MACROAREA>
+            <IntervalloPrezzi>
+                <FASCIA_COMPONENTE>01</FASCIA_COMPONENTE>
+                <PREZZO>0.189000</PREZZO>
+                <UNITA_MISURA>03</UNITA_MISURA>
+            </IntervalloPrezzi>
+        </ComponenteImpresa>
+        <CondizioniContrattuali>
+            <TIPOLOGIA_CONDIZIONE>01</TIPOLOGIA_CONDIZIONE>
+            <DESCRIZIONE>Nessun costo di attivazione, nessuna cauzione</DESCRIZIONE>
+            <LIMITANTE>02</LIMITANTE>
+        </CondizioniContrattuali>
+        <CondizioniContrattuali>
+            <TIPOLOGIA_CONDIZIONE>04</TIPOLOGIA_CONDIZIONE>
+            <DESCRIZIONE>Al termine dei dodici mesi di validità, salvo che non intervenga una nuova Offerta, saranno applicate le stesse condizioni sottoscritte che si rinnovano di 12 in mesi in 12 mesi.</DESCRIZIONE>
+            <LIMITANTE>02</LIMITANTE>
+        </CondizioniContrattuali>
+    </offerta></ListaOfferteMercatoLibero>

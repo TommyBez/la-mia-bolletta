@@ -1,0 +1,37 @@
+{
+  "id": "ccr-C1E-2-001001-600",
+  "kind": "calibration",
+  "source": "official_portal",
+  "profile": "C1 E",
+  "municipality": {
+    "portalCode": "001001",
+    "name": "Agliè"
+  },
+  "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+  "volume": "600",
+  "acquisitionMonth": "2026-10",
+  "coverageStart": "2026-10-01",
+  "coverageEnd": "2027-09-30",
+  "baselineSales": "820.9006032805974",
+  "baselineUncertainty": "0.0024999999975",
+  "terms": [
+    {
+      "quarter": "2026-Q4",
+      "consumption": "261.2962122"
+    },
+    {
+      "quarter": "2027-Q1",
+      "consumption": "309.6876684"
+    },
+    {
+      "quarter": "2027-Q2",
+      "consumption": "29.0161134"
+    },
+    {
+      "quarter": "2027-Q3",
+      "consumption": "0.0000054"
+    }
+  ],
+  "equation": "observedSales = baselineSales + volume * annualCCR",
+  "predictedAt": "2026-10-29T23:03:29.717Z"
+}

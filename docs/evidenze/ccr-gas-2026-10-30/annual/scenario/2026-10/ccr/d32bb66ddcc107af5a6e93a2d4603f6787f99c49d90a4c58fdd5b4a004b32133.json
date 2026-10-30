@@ -1,0 +1,37 @@
+{
+  "id": "ccr-C1F-2-001003-600",
+  "kind": "calibration",
+  "source": "official_portal",
+  "profile": "C1 F",
+  "municipality": {
+    "portalCode": "001003",
+    "name": "Ala di Stura"
+  },
+  "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+  "volume": "600",
+  "acquisitionMonth": "2026-10",
+  "coverageStart": "2026-10-01",
+  "coverageEnd": "2027-09-30",
+  "baselineSales": "815.5081998718498",
+  "baselineUncertainty": "0.002499999995",
+  "terms": [
+    {
+      "quarter": "2026-Q4",
+      "consumption": "249.2435268"
+    },
+    {
+      "quarter": "2027-Q1",
+      "consumption": "294.4016502"
+    },
+    {
+      "quarter": "2027-Q2",
+      "consumption": "46.202289"
+    },
+    {
+      "quarter": "2027-Q3",
+      "consumption": "10.1525328"
+    }
+  ],
+  "equation": "observedSales = baselineSales + volume * annualCCR",
+  "predictedAt": "2026-10-29T23:03:46.208Z"
+}

@@ -7,19 +7,34 @@
     "build": "next build",
     "start": "next start",
     "lint": "biome check",
-    "format": "biome format --write"
+    "lint:real": "biome check app/page.tsx app/layout.tsx app/globals.css app/confronto app/api components/comparison components/profile src scripts tests next.config.ts drizzle.config.ts playwright.config.ts vitest.config.mts vercel.json biome.json package.json",
+    "format": "biome format --write",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "next typegen && tsc --noEmit",
+    "db:generate": "drizzle-kit generate",
+    "db:migrate": "tsx scripts/db/migrate.ts",
+    "test:e2e": "playwright test"
   },
   "dependencies": {
     "@base-ui/react": "^1.9.0",
+    "@modelcontextprotocol/sdk": "^1.32.2",
     "@shadcn/react": "^0.3.1",
+    "@vercel/blob": "^2.8.2",
+    "ai": "^7.0.156",
     "class-variance-authority": "^0.7.1",
     "cmdk": "^1.1.1",
     "cn": "^0.5.0",
     "date-fns": "^4.4.0",
+    "decimal.js": "^10.6.0",
+    "drizzle-orm": "^0.45.4",
     "embla-carousel-react": "^8.6.0",
+    "fast-xml-parser": "^5.11.2",
     "input-otp": "^1.5.0",
     "lucide-react": "^1.61.0",
     "next": "16.4.3",
+    "pdf-lib": "^1.17.1",
+    "pg": "^8.23.1",
     "react": "19.3.0",
     "react-day-picker": "^10.0.2",
     "react-dom": "19.3.0",
@@ -27,17 +42,25 @@
     "recharts": "3.8.0",
     "shadcn": "^4.22.1",
     "shiki": "^4.5.0",
-    "tw-animate-css": "^1.4.0"
+    "tw-animate-css": "^1.4.0",
+    "workflow": "^5.2.3",
+    "zod": "^4.6.7"
   },
   "devDependencies": {
     "@biomejs/biome": "2.4.2",
+    "@next/env": "16.4.3",
+    "@playwright/test": "^1.64.1",
     "@tailwindcss/turbopack": "^4",
     "@types/node": "^20",
+    "@types/pg": "^8.23.1",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "babel-plugin-react-compiler": "1.0.0",
+    "drizzle-kit": "^0.31.11",
     "tailwindcss": "^4",
-    "typescript": "^5"
+    "tsx": "^4.23.15",
+    "typescript": "^5",
+    "vitest": "^5.0.5"
   },
   "packageManager": "pnpm@12.10.1"
 }

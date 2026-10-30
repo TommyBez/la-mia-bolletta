@@ -1,0 +1,84 @@
+<ListaOfferteMercatoLibero><offerta>
+        <IdentificativiOfferta>
+            <PIVA_UTENTE>01262680190</PIVA_UTENTE>
+            <COD_OFFERTA>000732ESFML01XXRHED2609AXXXXXXXX</COD_OFFERTA>
+        </IdentificativiOfferta>
+        <DettaglioOfferta>
+            <TIPO_MERCATO>01</TIPO_MERCATO>
+            <OFFERTA_SINGOLA>SI</OFFERTA_SINGOLA>
+            <TIPO_CLIENTE>01</TIPO_CLIENTE>
+            <TIPO_OFFERTA>01</TIPO_OFFERTA>
+            <TIPOLOGIA_ATT_CONTR>99</TIPOLOGIA_ATT_CONTR>
+            <NOME_OFFERTA>ARMONIA LUCE 24</NOME_OFFERTA>
+            <DESCRIZIONE>Offerta monoraria con energia verde dedicata ai clienti domestici con prezzo della componente energia fisso e invariabile per 24 mesi.</DESCRIZIONE>
+            <DURATA>-1</DURATA>
+            <GARANZIE>Nessuna</GARANZIE>
+            <ModalitaAttivazione>
+                <MODALITA>03</MODALITA>
+            </ModalitaAttivazione>
+            <Contatti>
+                <TELEFONO>0373893511</TELEFONO>
+                <URL_SITO_VENDITORE>www.enercomlucegas.it</URL_SITO_VENDITORE>
+                <URL_OFFERTA>https://www.enercom.it/offer/armonia-luce/</URL_OFFERTA>
+            </Contatti>
+        </DettaglioOfferta>
+        <ValiditaOfferta>
+            <DATA_INIZIO>01/10/2026_23:59:00</DATA_INIZIO>
+            <DATA_FINE>31/10/2026_23:59:00</DATA_FINE>
+        </ValiditaOfferta>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>01</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>02</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>03</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>04</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>99</MODALITA_PAGAMENTO>
+            <DESCRIZIONE>Bonifico</DESCRIZIONE>
+        </MetodoPagamento>
+        <TipoPrezzo>
+            <TIPOLOGIA_FASCE>01</TIPOLOGIA_FASCE>
+        </TipoPrezzo>
+        <Dispacciamento>
+            <TIPO_DISPACCIAMENTO>14</TIPO_DISPACCIAMENTO>
+            <VALORE_DISP>0.000000</VALORE_DISP>
+            <NOME>Dispacciamento domestici</NOME>
+        </Dispacciamento>
+        <ComponenteImpresa>
+            <NOME>Corrispettivo annuo</NOME>
+            <DESCRIZIONE>Corrispettivo annuo</DESCRIZIONE>
+            <TIPOLOGIA>02</TIPOLOGIA>
+            <MACROAREA>01</MACROAREA>
+            <IntervalloPrezzi>
+                <PREZZO>144.000000</PREZZO>
+                <UNITA_MISURA>01</UNITA_MISURA>
+            </IntervalloPrezzi>
+        </ComponenteImpresa>
+        <ComponenteImpresa>
+            <NOME>Corrispettivo per il consumo</NOME>
+            <DESCRIZIONE>Corrispettivo per il consumo</DESCRIZIONE>
+            <TIPOLOGIA>02</TIPOLOGIA>
+            <MACROAREA>04</MACROAREA>
+            <IntervalloPrezzi>
+                <FASCIA_COMPONENTE>01</FASCIA_COMPONENTE>
+                <PREZZO>0.163000</PREZZO>
+                <UNITA_MISURA>03</UNITA_MISURA>
+            </IntervalloPrezzi>
+        </ComponenteImpresa>
+        <CondizioniContrattuali>
+            <TIPOLOGIA_CONDIZIONE>04</TIPOLOGIA_CONDIZIONE>
+            <DESCRIZIONE>Il contratto ha durata determinata di 1 anno con tacito rinnovo.</DESCRIZIONE>
+            <LIMITANTE>02</LIMITANTE>
+        </CondizioniContrattuali>
+        <CondizioniContrattuali>
+            <TIPOLOGIA_CONDIZIONE>03</TIPOLOGIA_CONDIZIONE>
+            <DESCRIZIONE>ll cliente può liberamente recedere dal contratto per cambio fornitore (vedi art. 3.3 C.G.).</DESCRIZIONE>
+            <LIMITANTE>02</LIMITANTE>
+        </CondizioniContrattuali>
+    </offerta></ListaOfferteMercatoLibero>

@@ -1,0 +1,40 @@
+{
+  "id": "ccr-C2-4-022205-2400",
+  "kind": "holdout",
+  "source": "official_portal",
+  "profile": "C2",
+  "municipality": {
+    "portalCode": "022205",
+    "name": "Trento"
+  },
+  "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+  "volume": "2400",
+  "acquisitionMonth": "2026-10",
+  "coverageStart": "2026-10-01",
+  "coverageEnd": "2027-09-30",
+  "baselineSales": "2665.7699983604104",
+  "baselineUncertainty": "0.01000000001",
+  "terms": [
+    {
+      "quarter": "2026-Q4",
+      "consumption": "692.8682136"
+    },
+    {
+      "quarter": "2027-Q1",
+      "consumption": "857.8225944"
+    },
+    {
+      "quarter": "2027-Q2",
+      "consumption": "457.4307"
+    },
+    {
+      "quarter": "2027-Q3",
+      "consumption": "391.8784944"
+    }
+  ],
+  "predictedSales": "2726.1351999855352",
+  "predictedUncertainty": "0.0298000144847999999999999999999999999999999999992",
+  "value": "0.025152167343802",
+  "uncertainty": "0.000006166672697833333333333333333333333333333333333",
+  "predictedAt": "2026-10-29T23:04:12.040Z"
+}

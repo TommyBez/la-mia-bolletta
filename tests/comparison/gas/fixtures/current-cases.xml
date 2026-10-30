@@ -1,0 +1,780 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ListaOfferteMercatoLibero xmlns:ns0="http://www.acquirenteunico.it/schemas/SII_AU/OffertaRetail/01"><ns0:offerta>
+        <ns0:IdentificativiOfferta>
+            <ns0:PIVA_UTENTE>01244170526</ns0:PIVA_UTENTE>
+            <ns0:COD_OFFERTA>001686GSFML00XXGFC1026DO00000000</ns0:COD_OFFERTA>
+        </ns0:IdentificativiOfferta>
+        <ns0:DettaglioOfferta>
+            <ns0:TIPO_MERCATO>02</ns0:TIPO_MERCATO>
+            <ns0:OFFERTA_SINGOLA>SI</ns0:OFFERTA_SINGOLA>
+            <ns0:TIPO_CLIENTE>01</ns0:TIPO_CLIENTE>
+            <ns0:TIPO_OFFERTA>01</ns0:TIPO_OFFERTA>
+            <ns0:TIPOLOGIA_ATT_CONTR>99</ns0:TIPOLOGIA_ATT_CONTR>
+            <ns0:NOME_OFFERTA>GAS FIX CASA</ns0:NOME_OFFERTA>
+            <ns0:DESCRIZIONE>Offerta Gas Naturale a prezzo fisso per usi domestici</ns0:DESCRIZIONE>
+            <ns0:DURATA>12</ns0:DURATA>
+            <ns0:GARANZIE>NO</ns0:GARANZIE>
+            <ns0:ModalitaAttivazione>
+                <ns0:MODALITA>01</ns0:MODALITA>
+            </ns0:ModalitaAttivazione>
+            <ns0:Contatti>
+                <ns0:TELEFONO>074220813</ns0:TELEFONO>
+                <ns0:URL_SITO_VENDITORE>www.piuenergia.it</ns0:URL_SITO_VENDITORE>
+                <ns0:URL_OFFERTA>https://www.piuenergia.it/attiva-ora/index.php</ns0:URL_OFFERTA>
+            </ns0:Contatti>
+        </ns0:DettaglioOfferta>
+        <ns0:RiferimentiPrezzoEnergia>
+            <ns0:IDX_PREZZO_ENERGIA>14</ns0:IDX_PREZZO_ENERGIA>
+        </ns0:RiferimentiPrezzoEnergia>
+        <ns0:ValiditaOfferta>
+            <ns0:DATA_INIZIO>14/10/2026_09:44:13</ns0:DATA_INIZIO>
+            <ns0:DATA_FINE>30/10/2026_23:59:59</ns0:DATA_FINE>
+        </ns0:ValiditaOfferta>
+        <ns0:MetodoPagamento>
+            <ns0:MODALITA_PAGAMENTO>01</ns0:MODALITA_PAGAMENTO>
+        </ns0:MetodoPagamento>
+        <ns0:ComponenteImpresa>
+            <ns0:NOME>GAS_PRZ_FISSO</ns0:NOME>
+            <ns0:DESCRIZIONE>GAS_PRZ_FISSO</ns0:DESCRIZIONE>
+            <ns0:TIPOLOGIA>01</ns0:TIPOLOGIA>
+            <ns0:MACROAREA>04</ns0:MACROAREA>
+            <ns0:IntervalloPrezzi>
+                <ns0:PREZZO>0.87</ns0:PREZZO>
+                <ns0:UNITA_MISURA>04</ns0:UNITA_MISURA>
+            </ns0:IntervalloPrezzi>
+        </ns0:ComponenteImpresa>
+        <ns0:ComponenteImpresa>
+            <ns0:NOME>Quota fissa comm.</ns0:NOME>
+            <ns0:DESCRIZIONE>Quota fissa di commercializzazione</ns0:DESCRIZIONE>
+            <ns0:TIPOLOGIA>01</ns0:TIPOLOGIA>
+            <ns0:MACROAREA>01</ns0:MACROAREA>
+            <ns0:IntervalloPrezzi>
+                <ns0:PREZZO>102</ns0:PREZZO>
+                <ns0:UNITA_MISURA>01</ns0:UNITA_MISURA>
+            </ns0:IntervalloPrezzi>
+        </ns0:ComponenteImpresa>
+        <ns0:CondizioniContrattuali>
+            <ns0:TIPOLOGIA_CONDIZIONE>03</ns0:TIPOLOGIA_CONDIZIONE>
+            <ns0:DESCRIZIONE>Il contratto è a tempo indeterminato.</ns0:DESCRIZIONE>
+            <ns0:LIMITANTE>02</ns0:LIMITANTE>
+        </ns0:CondizioniContrattuali>
+    </ns0:offerta>
+    <ns0:offerta>
+        <ns0:IdentificativiOfferta>
+            <ns0:PIVA_UTENTE>03925910618</ns0:PIVA_UTENTE>
+            <ns0:COD_OFFERTA>020237GSVML01XX0FLEXHOMEGASLIGHT</ns0:COD_OFFERTA>
+        </ns0:IdentificativiOfferta>
+        <ns0:DettaglioOfferta>
+            <ns0:TIPO_MERCATO>02</ns0:TIPO_MERCATO>
+            <ns0:OFFERTA_SINGOLA>SI</ns0:OFFERTA_SINGOLA>
+            <ns0:TIPO_CLIENTE>01</ns0:TIPO_CLIENTE>
+            <ns0:TIPO_OFFERTA>02</ns0:TIPO_OFFERTA>
+            <ns0:TIPOLOGIA_ATT_CONTR>99</ns0:TIPOLOGIA_ATT_CONTR>
+            <ns0:NOME_OFFERTA>FLEX HOME GAS LIGHT</ns0:NOME_OFFERTA>
+            <ns0:DESCRIZIONE>OFFERTA RISERVATA AI CLIENTI DOMESTICO</ns0:DESCRIZIONE>
+            <ns0:DURATA>12</ns0:DURATA>
+            <ns0:GARANZIE>NO</ns0:GARANZIE>
+            <ns0:ModalitaAttivazione>
+                <ns0:MODALITA>02</ns0:MODALITA>
+            </ns0:ModalitaAttivazione>
+            <ns0:Contatti>
+                <ns0:TELEFONO>08651956167</ns0:TELEFONO>
+                <ns0:URL_SITO_VENDITORE>https://www.2genergia.it/</ns0:URL_SITO_VENDITORE>
+                <ns0:URL_OFFERTA>https://www.2genergia.it/</ns0:URL_OFFERTA>
+            </ns0:Contatti>
+        </ns0:DettaglioOfferta>
+        <ns0:RiferimentiPrezzoEnergia>
+            <ns0:IDX_PREZZO_ENERGIA>14</ns0:IDX_PREZZO_ENERGIA>
+        </ns0:RiferimentiPrezzoEnergia>
+        <ns0:ValiditaOfferta>
+            <ns0:DATA_INIZIO>08/10/2026_00:00:00</ns0:DATA_INIZIO>
+            <ns0:DATA_FINE>31/12/2026_23:59:59</ns0:DATA_FINE>
+        </ns0:ValiditaOfferta>
+        <ns0:CaratteristicheOfferta>
+            <ns0:POTENZA_MAX>0.0</ns0:POTENZA_MAX>
+        </ns0:CaratteristicheOfferta>
+        <ns0:MetodoPagamento>
+            <ns0:MODALITA_PAGAMENTO>04</ns0:MODALITA_PAGAMENTO>
+        </ns0:MetodoPagamento>
+        <ns0:MetodoPagamento>
+            <ns0:MODALITA_PAGAMENTO>01</ns0:MODALITA_PAGAMENTO>
+        </ns0:MetodoPagamento>
+        <ns0:MetodoPagamento>
+            <ns0:MODALITA_PAGAMENTO>03</ns0:MODALITA_PAGAMENTO>
+        </ns0:MetodoPagamento>
+        <ns0:MetodoPagamento>
+            <ns0:MODALITA_PAGAMENTO>99</ns0:MODALITA_PAGAMENTO>
+            <ns0:DESCRIZIONE>BONIFICO BANCARIO</ns0:DESCRIZIONE>
+        </ns0:MetodoPagamento>
+        <ns0:ComponentiRegolate>
+            <ns0:CODICE>03</ns0:CODICE>
+            <ns0:CODICE>06</ns0:CODICE>
+            <ns0:CODICE>07</ns0:CODICE>
+            <ns0:CODICE>10</ns0:CODICE>
+        </ns0:ComponentiRegolate>
+        <ns0:ComponenteImpresa>
+            <ns0:NOME>SPREAD</ns0:NOME>
+            <ns0:DESCRIZIONE>SPREAD</ns0:DESCRIZIONE>
+            <ns0:TIPOLOGIA>01</ns0:TIPOLOGIA>
+            <ns0:MACROAREA>04</ns0:MACROAREA>
+            <ns0:IntervalloPrezzi>
+                <ns0:PREZZO>0.180000</ns0:PREZZO>
+                <ns0:UNITA_MISURA>04</ns0:UNITA_MISURA>
+            </ns0:IntervalloPrezzi>
+        </ns0:ComponenteImpresa>
+        <ns0:ComponenteImpresa>
+            <ns0:NOME>PCVEVA</ns0:NOME>
+            <ns0:DESCRIZIONE>PCVEVA</ns0:DESCRIZIONE>
+            <ns0:TIPOLOGIA>01</ns0:TIPOLOGIA>
+            <ns0:MACROAREA>01</ns0:MACROAREA>
+            <ns0:IntervalloPrezzi>
+                <ns0:PREZZO>156.000000</ns0:PREZZO>
+                <ns0:UNITA_MISURA>01</ns0:UNITA_MISURA>
+            </ns0:IntervalloPrezzi>
+        </ns0:ComponenteImpresa>
+        <ns0:CondizioniContrattuali>
+            <ns0:TIPOLOGIA_CONDIZIONE>01</ns0:TIPOLOGIA_CONDIZIONE>
+            <ns0:DESCRIZIONE>ATTIVAZIONE</ns0:DESCRIZIONE>
+            <ns0:LIMITANTE>02</ns0:LIMITANTE>
+        </ns0:CondizioniContrattuali>
+        <ns0:Sconto>
+            <ns0:NOME>Sconto Bolletta Online</ns0:NOME>
+            <ns0:DESCRIZIONE>Sconto di 0,50 € fattura solo invio bolletta digitale tramite mail</ns0:DESCRIZIONE>
+            <ns0:VALIDITA>01</ns0:VALIDITA>
+            <ns0:IVA_SCONTO>01</ns0:IVA_SCONTO>
+            <ns0:Condizione>
+                <ns0:CONDIZIONE_APPLICAZIONE>01</ns0:CONDIZIONE_APPLICAZIONE>
+            </ns0:Condizione>
+            <ns0:PrezziSconto>
+                <ns0:TIPOLOGIA>01</ns0:TIPOLOGIA>
+                <ns0:UNITA_MISURA>01</ns0:UNITA_MISURA>
+                <ns0:PREZZO>6.000000</ns0:PREZZO>
+            </ns0:PrezziSconto>
+        </ns0:Sconto>
+    </ns0:offerta>
+    <ns0:offerta>
+        <ns0:IdentificativiOfferta>
+            <ns0:PIVA_UTENTE>04465100404</ns0:PIVA_UTENTE>
+            <ns0:COD_OFFERTA>029886GSVML01XXSENZAPENSIDOMGAS3</ns0:COD_OFFERTA>
+        </ns0:IdentificativiOfferta>
+        <ns0:DettaglioOfferta>
+            <ns0:TIPO_MERCATO>02</ns0:TIPO_MERCATO>
+            <ns0:OFFERTA_SINGOLA>SI</ns0:OFFERTA_SINGOLA>
+            <ns0:TIPO_CLIENTE>01</ns0:TIPO_CLIENTE>
+            <ns0:TIPO_OFFERTA>04</ns0:TIPO_OFFERTA>
+            <ns0:TIPOLOGIA_ATT_CONTR>99</ns0:TIPOLOGIA_ATT_CONTR>
+            <ns0:NOME_OFFERTA>Senza Pensieri S Domestico</ns0:NOME_OFFERTA>
+            <ns0:DESCRIZIONE>Offerta a prezzo misto</ns0:DESCRIZIONE>
+            <ns0:DURATA>12</ns0:DURATA>
+            <ns0:GARANZIE>NO</ns0:GARANZIE>
+            <ns0:ModalitaAttivazione>
+                <ns0:MODALITA>02</ns0:MODALITA>
+            </ns0:ModalitaAttivazione>
+            <ns0:Contatti>
+                <ns0:TELEFONO>0541 1780488</ns0:TELEFONO>
+                <ns0:URL_SITO_VENDITORE>www.openenergia.it</ns0:URL_SITO_VENDITORE>
+                <ns0:URL_OFFERTA>https://openenergia.it/cte/GAS_Senza%20Pensieri%20S%20Domestico.pdf</ns0:URL_OFFERTA>
+            </ns0:Contatti>
+        </ns0:DettaglioOfferta>
+        <ns0:RiferimentiPrezzoEnergia>
+            <ns0:IDX_PREZZO_ENERGIA>14</ns0:IDX_PREZZO_ENERGIA>
+        </ns0:RiferimentiPrezzoEnergia>
+        <ns0:ValiditaOfferta>
+            <ns0:DATA_INIZIO>08/10/2026_00:00:00</ns0:DATA_INIZIO>
+            <ns0:DATA_FINE>31/10/2026_23:59:59</ns0:DATA_FINE>
+        </ns0:ValiditaOfferta>
+        <ns0:MetodoPagamento>
+            <ns0:MODALITA_PAGAMENTO>01</ns0:MODALITA_PAGAMENTO>
+        </ns0:MetodoPagamento>
+        <ns0:MetodoPagamento>
+            <ns0:MODALITA_PAGAMENTO>02</ns0:MODALITA_PAGAMENTO>
+        </ns0:MetodoPagamento>
+        <ns0:MetodoPagamento>
+            <ns0:MODALITA_PAGAMENTO>99</ns0:MODALITA_PAGAMENTO>
+            <ns0:DESCRIZIONE>PagoPa</ns0:DESCRIZIONE>
+        </ns0:MetodoPagamento>
+        <ns0:ComponenteImpresa>
+            <ns0:NOME>Spread Gas</ns0:NOME>
+            <ns0:DESCRIZIONE>Spread Gas</ns0:DESCRIZIONE>
+            <ns0:TIPOLOGIA>01</ns0:TIPOLOGIA>
+            <ns0:MACROAREA>04</ns0:MACROAREA>
+            <ns0:IntervalloPrezzi>
+                <ns0:PREZZO>0.08</ns0:PREZZO>
+                <ns0:UNITA_MISURA>04</ns0:UNITA_MISURA>
+                <ns0:TIPO_PREZZO>02</ns0:TIPO_PREZZO>
+            </ns0:IntervalloPrezzi>
+            <ns0:IntervalloPrezzi>
+                <ns0:PREZZO>0.08</ns0:PREZZO>
+                <ns0:UNITA_MISURA>04</ns0:UNITA_MISURA>
+                <ns0:TIPO_PREZZO>01</ns0:TIPO_PREZZO>
+            </ns0:IntervalloPrezzi>
+        </ns0:ComponenteImpresa>
+        <ns0:ComponenteImpresa>
+            <ns0:NOME>Quota Servizi Fissa (QSF)</ns0:NOME>
+            <ns0:DESCRIZIONE>Quota Servizi Fissa (QSF)</ns0:DESCRIZIONE>
+            <ns0:TIPOLOGIA>01</ns0:TIPOLOGIA>
+            <ns0:MACROAREA>01</ns0:MACROAREA>
+            <ns0:IntervalloPrezzi>
+                <ns0:PREZZO>144</ns0:PREZZO>
+                <ns0:UNITA_MISURA>01</ns0:UNITA_MISURA>
+            </ns0:IntervalloPrezzi>
+        </ns0:ComponenteImpresa>
+        <ns0:CondizioniContrattuali>
+            <ns0:TIPOLOGIA_CONDIZIONE>01</ns0:TIPOLOGIA_CONDIZIONE>
+            <ns0:DESCRIZIONE>La fornitura è in ogni caso condizionata all’esito positivo della verifica sull’assenza di precedenti morosità nei confronti del Fornitore e all’esito positivo delle valutazioni sull’affidabilità creditizia del Cliente (credit check). L’attività di credit check verrà effettuata, ad esempio, per riscontrare la presenza: di protesti, pregiudizievoli, anche attraverso banche dati dei punti di prelievo, morosità relative a diversi contratti intestati allo stesso Cliente, stipulati anche con terzi. In caso di esito negativo, il Fornitore ne darà comunicazione al Cliente, altrimenti le condizioni sospensive di cui sopra si intenderanno verificate positivamente. Il Fornitore svolgerà le attività di credit check entro 60 giorni dalla data di conclusione del contratto</ns0:DESCRIZIONE>
+            <ns0:LIMITANTE>01</ns0:LIMITANTE>
+        </ns0:CondizioniContrattuali>
+        <ns0:Sconto>
+            <ns0:NOME>Club 0</ns0:NOME>
+            <ns0:DESCRIZIONE>Ogni Cliente ha la possibilità di risparmiare aderendo alla promozione Club Zero, ovvero presentando i suoi amici per la contrattualizzazione di nuove forniture luce e/o gas. Per ogni nuovo amico portato e che entra in fornitura, verranno riconosciuti 2 €/mese per ogni punto di fornitura attivo sia a chi porta che a chi è portato. La promozione non ha costi di attivazione, non ha scadenza ed è cumulabile fino all'azzeramento della fattura; in nessun caso il Cliente può maturare un credito nei confronti del Fornitore derivante dalla promozione Club Zero.</ns0:DESCRIZIONE>
+            <ns0:VALIDITA>03</ns0:VALIDITA>
+            <ns0:IVA_SCONTO>02</ns0:IVA_SCONTO>
+            <ns0:Condizione>
+                <ns0:CONDIZIONE_APPLICAZIONE>99</ns0:CONDIZIONE_APPLICAZIONE>
+                <ns0:DESCRIZIONE_CONDIZIONE>Il Cliente ha diritto allo sconto se sono soddisfatte contemporaneamente TUTTE le seguenti condizioni: a) il segnalatore ha un contratto attivo e fatturabile alla data dell'attivazione della promozione (chi presenta è già un cliente); b) il segnalato non ha un contratto attivo e fatturabile alla data dell'attivazione della promozione (il segnalato viene portato in fornitura); c) sia segnalato che segnalatore non hanno PDP in recesso; d) tutti i PDP del cliente che riceve lo sconto hanno metodo di pagamento SDD (la promozione è riservata esclusivamente ai clienti che pagano con modalità addebito bancario); e) tutti i PDP del cliente che riceve lo sconto hanno metodo di spedizione fattura via mail (la promozione è riservata esclusivamente ai clienti che ricevono le fatture via mail); f) tutti i PDP del cliente devono risultare in regola con i pagamenti</ns0:DESCRIZIONE_CONDIZIONE>
+            </ns0:Condizione>
+            <ns0:PrezziSconto>
+                <ns0:TIPOLOGIA>01</ns0:TIPOLOGIA>
+                <ns0:UNITA_MISURA>01</ns0:UNITA_MISURA>
+                <ns0:PREZZO>24</ns0:PREZZO>
+            </ns0:PrezziSconto>
+        </ns0:Sconto>
+        <ns0:ProdottiServiziAggiuntivi>
+            <ns0:NOME>Prodotti e Servizi Aggiuntivi</ns0:NOME>
+            <ns0:DETTAGLIO>In caso di sottoscrizione dell'opzione Premium, il cliente avrà la possibilità di variare il prezzo del listino, facendone esplicita richiesta al proprio consulente, fino ad un massimo di una volta ogni trimestre. Il cliente potrà scegliere di variare il prezzo del listino scegliendo tra quelli in vigore al momento della richiesta. L' opzione è attivabile direttamente sul modulo di adesione e ha un costo di 5 €/mese/pdp tutto incluso.</ns0:DETTAGLIO>
+            <ns0:MACROAREA>99</ns0:MACROAREA>
+            <ns0:DETTAGLI_MACROAREA>Prodotti e Servizi Vari</ns0:DETTAGLI_MACROAREA>
+        </ns0:ProdottiServiziAggiuntivi>
+    </ns0:offerta>
+    <ns0:offerta>
+        <ns0:IdentificativiOfferta>
+            <ns0:PIVA_UTENTE>02727450120</ns0:PIVA_UTENTE>
+            <ns0:COD_OFFERTA>000446GSVML61XXXXGMMIADINPSVGDAG</ns0:COD_OFFERTA>
+        </ns0:IdentificativiOfferta>
+        <ns0:DettaglioOfferta>
+            <ns0:TIPO_MERCATO>02</ns0:TIPO_MERCATO>
+            <ns0:OFFERTA_SINGOLA>SI</ns0:OFFERTA_SINGOLA>
+            <ns0:TIPO_CLIENTE>01</ns0:TIPO_CLIENTE>
+            <ns0:TIPO_OFFERTA>02</ns0:TIPO_OFFERTA>
+            <ns0:TIPOLOGIA_ATT_CONTR>01</ns0:TIPOLOGIA_ATT_CONTR>
+            <ns0:TIPOLOGIA_ATT_CONTR>02</ns0:TIPOLOGIA_ATT_CONTR>
+            <ns0:TIPOLOGIA_ATT_CONTR>03</ns0:TIPOLOGIA_ATT_CONTR>
+            <ns0:TIPOLOGIA_ATT_CONTR>04</ns0:TIPOLOGIA_ATT_CONTR>
+            <ns0:NOME_OFFERTA>miaDinamica Eco Sconto</ns0:NOME_OFFERTA>
+            <ns0:DESCRIZIONE>Offerta Prezzo variabile gas. Il prezzo applicato ai consumi di materia prima è aggiornato mensilmente sulla base dell'indice PSV come deliberato dal Regolatore. E' prevista l'applicazione di un incentivo per l'utilizzo di energia green: verrà applicato uno sconto sulla materia prima pari a 0,01 €/Smc solo per chi attiva domiciliazione bancaria e bolletta online.</ns0:DESCRIZIONE>
+            <ns0:DURATA>24</ns0:DURATA>
+            <ns0:GARANZIE>In assenza di domiciliazione bancaria dei pagamenti è previsto l’addebito del deposito cauzionale nella prima bolletta. Il deposito cauzionale viene calcolato nei limiti definiti dall’Autorità nel TIMG – Testo Integrato Morosità Gas Del. ARG/gas 229/01 dell’ARERA e s.m.i..</ns0:GARANZIE>
+            <ns0:ModalitaAttivazione>
+                <ns0:MODALITA>01</ns0:MODALITA>
+                <ns0:MODALITA>03</ns0:MODALITA>
+                <ns0:MODALITA>04</ns0:MODALITA>
+                <ns0:MODALITA>05</ns0:MODALITA>
+            </ns0:ModalitaAttivazione>
+            <ns0:Contatti>
+                <ns0:TELEFONO>800003858</ns0:TELEFONO>
+                <ns0:URL_SITO_VENDITORE>https://agespenergia.it</ns0:URL_SITO_VENDITORE>
+                <ns0:URL_OFFERTA>https://agespenergia.it/offerte-agesp-energia-portale-offerte</ns0:URL_OFFERTA>
+            </ns0:Contatti>
+        </ns0:DettaglioOfferta>
+        <ns0:RiferimentiPrezzoEnergia>
+            <ns0:IDX_PREZZO_ENERGIA>14</ns0:IDX_PREZZO_ENERGIA>
+        </ns0:RiferimentiPrezzoEnergia>
+        <ns0:ValiditaOfferta>
+            <ns0:DATA_INIZIO>15/10/2026_00:00:00</ns0:DATA_INIZIO>
+            <ns0:DATA_FINE>10/11/2026_23:59:59</ns0:DATA_FINE>
+        </ns0:ValiditaOfferta>
+        <ns0:MetodoPagamento>
+            <ns0:MODALITA_PAGAMENTO>01</ns0:MODALITA_PAGAMENTO>
+        </ns0:MetodoPagamento>
+        <ns0:MetodoPagamento>
+            <ns0:MODALITA_PAGAMENTO>02</ns0:MODALITA_PAGAMENTO>
+        </ns0:MetodoPagamento>
+        <ns0:MetodoPagamento>
+            <ns0:MODALITA_PAGAMENTO>04</ns0:MODALITA_PAGAMENTO>
+        </ns0:MetodoPagamento>
+        <ns0:MetodoPagamento>
+            <ns0:MODALITA_PAGAMENTO>99</ns0:MODALITA_PAGAMENTO>
+            <ns0:DESCRIZIONE>Bonifico bancario</ns0:DESCRIZIONE>
+        </ns0:MetodoPagamento>
+        <ns0:ComponenteImpresa>
+            <ns0:NOME>Quota Fissa 100</ns0:NOME>
+            <ns0:DESCRIZIONE>Quota Fissa 100</ns0:DESCRIZIONE>
+            <ns0:TIPOLOGIA>01</ns0:TIPOLOGIA>
+            <ns0:MACROAREA>01</ns0:MACROAREA>
+            <ns0:IntervalloPrezzi>
+                <ns0:PREZZO>100.000000</ns0:PREZZO>
+                <ns0:UNITA_MISURA>01</ns0:UNITA_MISURA>
+            </ns0:IntervalloPrezzi>
+        </ns0:ComponenteImpresa>
+        <ns0:ComponenteImpresa>
+            <ns0:NOME>Spread</ns0:NOME>
+            <ns0:DESCRIZIONE>Spread</ns0:DESCRIZIONE>
+            <ns0:TIPOLOGIA>01</ns0:TIPOLOGIA>
+            <ns0:MACROAREA>04</ns0:MACROAREA>
+            <ns0:IntervalloPrezzi>
+                <ns0:PREZZO>0.130000</ns0:PREZZO>
+                <ns0:UNITA_MISURA>04</ns0:UNITA_MISURA>
+            </ns0:IntervalloPrezzi>
+        </ns0:ComponenteImpresa>
+        <ns0:CondizioniContrattuali>
+            <ns0:TIPOLOGIA_CONDIZIONE>01</ns0:TIPOLOGIA_CONDIZIONE>
+            <ns0:DESCRIZIONE>Attivazione obbligatoria bolletta online e domiciliazione bancaria.</ns0:DESCRIZIONE>
+            <ns0:LIMITANTE>02</ns0:LIMITANTE>
+        </ns0:CondizioniContrattuali>
+        <ns0:ZoneOfferta>
+            <ns0:COMUNE>098061</ns0:COMUNE>
+            <ns0:COMUNE>098031</ns0:COMUNE>
+            <ns0:COMUNE>015041</ns0:COMUNE>
+            <ns0:COMUNE>015099</ns0:COMUNE>
+            <ns0:COMUNE>015116</ns0:COMUNE>
+            <ns0:COMUNE>015118</ns0:COMUNE>
+            <ns0:COMUNE>015131</ns0:COMUNE>
+            <ns0:COMUNE>015168</ns0:COMUNE>
+            <ns0:COMUNE>015181</ns0:COMUNE>
+            <ns0:COMUNE>015183</ns0:COMUNE>
+            <ns0:COMUNE>015192</ns0:COMUNE>
+            <ns0:COMUNE>015194</ns0:COMUNE>
+            <ns0:COMUNE>015201</ns0:COMUNE>
+            <ns0:COMUNE>015206</ns0:COMUNE>
+            <ns0:COMUNE>015220</ns0:COMUNE>
+            <ns0:COMUNE>015249</ns0:COMUNE>
+            <ns0:COMUNE>012012</ns0:COMUNE>
+            <ns0:COMUNE>012025</ns0:COMUNE>
+            <ns0:COMUNE>012026</ns0:COMUNE>
+            <ns0:COMUNE>012029</ns0:COMUNE>
+            <ns0:COMUNE>012032</ns0:COMUNE>
+            <ns0:COMUNE>012039</ns0:COMUNE>
+            <ns0:COMUNE>012040</ns0:COMUNE>
+            <ns0:COMUNE>012042</ns0:COMUNE>
+            <ns0:COMUNE>012046</ns0:COMUNE>
+            <ns0:COMUNE>012067</ns0:COMUNE>
+            <ns0:COMUNE>012068</ns0:COMUNE>
+            <ns0:COMUNE>012070</ns0:COMUNE>
+            <ns0:COMUNE>012075</ns0:COMUNE>
+            <ns0:COMUNE>012079</ns0:COMUNE>
+            <ns0:COMUNE>012080</ns0:COMUNE>
+            <ns0:COMUNE>012084</ns0:COMUNE>
+            <ns0:COMUNE>012085</ns0:COMUNE>
+            <ns0:COMUNE>012090</ns0:COMUNE>
+            <ns0:COMUNE>012098</ns0:COMUNE>
+            <ns0:COMUNE>012108</ns0:COMUNE>
+            <ns0:COMUNE>012118</ns0:COMUNE>
+            <ns0:COMUNE>012119</ns0:COMUNE>
+            <ns0:COMUNE>012120</ns0:COMUNE>
+            <ns0:COMUNE>012121</ns0:COMUNE>
+            <ns0:COMUNE>012122</ns0:COMUNE>
+            <ns0:COMUNE>012123</ns0:COMUNE>
+            <ns0:COMUNE>012127</ns0:COMUNE>
+            <ns0:COMUNE>012130</ns0:COMUNE>
+            <ns0:COMUNE>012133</ns0:COMUNE>
+            <ns0:COMUNE>012136</ns0:COMUNE>
+            <ns0:COMUNE>013159</ns0:COMUNE>
+            <ns0:COMUNE>013227</ns0:COMUNE>
+            <ns0:COMUNE>034027</ns0:COMUNE>
+            <ns0:COMUNE>012005</ns0:COMUNE>
+            <ns0:COMUNE>015062</ns0:COMUNE>
+            <ns0:COMUNE>018137</ns0:COMUNE>
+            <ns0:COMUNE>003154</ns0:COMUNE>
+            <ns0:COMUNE>015248</ns0:COMUNE>
+        </ns0:ZoneOfferta>
+        <ns0:Sconto>
+            <ns0:NOME>Incentivo energia Green Gas</ns0:NOME>
+            <ns0:DESCRIZIONE>Sconto sulla materia prima Gas pari a 0,01 €/Smc</ns0:DESCRIZIONE>
+            <ns0:VALIDITA>02</ns0:VALIDITA>
+            <ns0:IVA_SCONTO>01</ns0:IVA_SCONTO>
+            <ns0:Condizione>
+                <ns0:CONDIZIONE_APPLICAZIONE>00</ns0:CONDIZIONE_APPLICAZIONE>
+            </ns0:Condizione>
+            <ns0:PrezziSconto>
+                <ns0:TIPOLOGIA>03</ns0:TIPOLOGIA>
+                <ns0:UNITA_MISURA>04</ns0:UNITA_MISURA>
+                <ns0:PREZZO>0.010000</ns0:PREZZO>
+            </ns0:PrezziSconto>
+        </ns0:Sconto>
+    </ns0:offerta>
+    <ns0:offerta>
+        <ns0:IdentificativiOfferta>
+            <ns0:PIVA_UTENTE>05941460965</ns0:PIVA_UTENTE>
+            <ns0:COD_OFFERTA>000971GSVML01XXPROD1300109202600</ns0:COD_OFFERTA>
+        </ns0:IdentificativiOfferta>
+        <ns0:DettaglioOfferta>
+            <ns0:TIPO_MERCATO>02</ns0:TIPO_MERCATO>
+            <ns0:OFFERTA_SINGOLA>SI</ns0:OFFERTA_SINGOLA>
+            <ns0:TIPO_CLIENTE>01</ns0:TIPO_CLIENTE>
+            <ns0:DOMESTICO_RESIDENTE>03</ns0:DOMESTICO_RESIDENTE>
+            <ns0:TIPO_OFFERTA>02</ns0:TIPO_OFFERTA>
+            <ns0:TIPOLOGIA_ATT_CONTR>99</ns0:TIPOLOGIA_ATT_CONTR>
+            <ns0:NOME_OFFERTA>ZERO FLEX GAS</ns0:NOME_OFFERTA>
+            <ns0:DESCRIZIONE>OFFERTA RISERVATA A CLIENTI DOMESTICI</ns0:DESCRIZIONE>
+            <ns0:DURATA>-1</ns0:DURATA>
+            <ns0:GARANZIE>Nessuna cauzione richiesta.</ns0:GARANZIE>
+            <ns0:ModalitaAttivazione>
+                <ns0:MODALITA>02</ns0:MODALITA>
+            </ns0:ModalitaAttivazione>
+            <ns0:Contatti>
+                <ns0:TELEFONO>029500161</ns0:TELEFONO>
+                <ns0:URL_SITO_VENDITORE>www.cogeserenergia.it</ns0:URL_SITO_VENDITORE>
+                <ns0:URL_OFFERTA>https://www.cogeserenergia.it/it/offerte-gas-casa</ns0:URL_OFFERTA>
+            </ns0:Contatti>
+        </ns0:DettaglioOfferta>
+        <ns0:RiferimentiPrezzoEnergia>
+            <ns0:IDX_PREZZO_ENERGIA>14</ns0:IDX_PREZZO_ENERGIA>
+        </ns0:RiferimentiPrezzoEnergia>
+        <ns0:ValiditaOfferta>
+            <ns0:DATA_INIZIO>07/09/2026_23:59:00</ns0:DATA_INIZIO>
+            <ns0:DATA_FINE>31/12/2026_23:59:00</ns0:DATA_FINE>
+        </ns0:ValiditaOfferta>
+        <ns0:MetodoPagamento>
+            <ns0:MODALITA_PAGAMENTO>01</ns0:MODALITA_PAGAMENTO>
+        </ns0:MetodoPagamento>
+        <ns0:MetodoPagamento>
+            <ns0:MODALITA_PAGAMENTO>04</ns0:MODALITA_PAGAMENTO>
+        </ns0:MetodoPagamento>
+        <ns0:ComponenteImpresa>
+            <ns0:NOME>Contributo di Commercializzazione ZERO FLEX Gas</ns0:NOME>
+            <ns0:DESCRIZIONE>Componente fissa del primo anno di fornitura suddivisa in rate mensili del valore di 14,50 € (iva esclusa).</ns0:DESCRIZIONE>
+            <ns0:TIPOLOGIA>02</ns0:TIPOLOGIA>
+            <ns0:MACROAREA>01</ns0:MACROAREA>
+            <ns0:IntervalloPrezzi>
+                <ns0:PREZZO>174</ns0:PREZZO>
+                <ns0:UNITA_MISURA>01</ns0:UNITA_MISURA>
+            </ns0:IntervalloPrezzi>
+        </ns0:ComponenteImpresa>
+        <ns0:ComponenteImpresa>
+            <ns0:NOME>Spread ZERO FLEX Gas</ns0:NOME>
+            <ns0:DESCRIZIONE>L’offerta NON prevede l’applicazione di alcuno uno SPREAD  ad ogni metro cubo standard di gas prelevato dal Cliente.</ns0:DESCRIZIONE>
+            <ns0:TIPOLOGIA>02</ns0:TIPOLOGIA>
+            <ns0:MACROAREA>04</ns0:MACROAREA>
+            <ns0:IntervalloPrezzi>
+                <ns0:PREZZO>0</ns0:PREZZO>
+                <ns0:UNITA_MISURA>04</ns0:UNITA_MISURA>
+            </ns0:IntervalloPrezzi>
+        </ns0:ComponenteImpresa>
+        <ns0:CondizioniContrattuali>
+            <ns0:TIPOLOGIA_CONDIZIONE>01</ns0:TIPOLOGIA_CONDIZIONE>
+            <ns0:DESCRIZIONE>Le presenti condizioni tecnico – economiche (CTE) disciplinano, unitamente alle “Condizioni Generali di Fornitura” relative alla fornitura di gas naturale, alla “Proposta di Contratto” sottoscritta dal Cliente e agli allegati in essa richiamati le condizioni di fornitura presso il punto di prelievo. Esse sono riservate alle utenze di tipo Domestico che abbiano deciso di acquistare gas naturale alle condizioni proposte da Cogeser Energia S.r.l.. Le CTE integrano le Condizioni Generali di Fornitura, e in caso di contrasto, prevalgono su queste ultime.</ns0:DESCRIZIONE>
+            <ns0:LIMITANTE>02</ns0:LIMITANTE>
+        </ns0:CondizioniContrattuali>
+        <ns0:CondizioniContrattuali>
+            <ns0:TIPOLOGIA_CONDIZIONE>03</ns0:TIPOLOGIA_CONDIZIONE>
+            <ns0:DESCRIZIONE>Per cessare la fornitura occorre firmare la disdetta, indicando in particolare: codice cliente e indirizzo della fornitura; nuovo indirizzo e numero telefonico; coordinate bancarie per eventuale rimborso. Il cliente sara' successivamente chiamato per fissare un appuntamento. Il contatore sara' piombato o rimosso. La disdetta puo' essere effettuata via email a clienti@cogeser.it o in alternativa direttamente presso i Cogeser Point negli orari di apertura al pubblico. La cessazione fornitura puo' essere richiesta anche da un delegato dell’intestatario, munito di delega scritta e di copia di un documento d’identita' del delegante. Per passare ad altro operatore, mantenendo attivo il contatore, non serve comunicazione.</ns0:DESCRIZIONE>
+            <ns0:LIMITANTE>02</ns0:LIMITANTE>
+        </ns0:CondizioniContrattuali>
+        <ns0:ZoneOfferta>
+            <ns0:REGIONE>13</ns0:REGIONE>
+            <ns0:REGIONE>17</ns0:REGIONE>
+            <ns0:REGIONE>18</ns0:REGIONE>
+            <ns0:REGIONE>15</ns0:REGIONE>
+            <ns0:REGIONE>08</ns0:REGIONE>
+            <ns0:REGIONE>12</ns0:REGIONE>
+            <ns0:REGIONE>07</ns0:REGIONE>
+            <ns0:REGIONE>03</ns0:REGIONE>
+            <ns0:REGIONE>11</ns0:REGIONE>
+            <ns0:REGIONE>14</ns0:REGIONE>
+            <ns0:REGIONE>01</ns0:REGIONE>
+            <ns0:REGIONE>16</ns0:REGIONE>
+            <ns0:REGIONE>09</ns0:REGIONE>
+            <ns0:REGIONE>10</ns0:REGIONE>
+            <ns0:REGIONE>05</ns0:REGIONE>
+        </ns0:ZoneOfferta>
+    </ns0:offerta>
+    <ns0:offerta>
+        <ns0:IdentificativiOfferta>
+            <ns0:PIVA_UTENTE>02064090026</ns0:PIVA_UTENTE>
+            <ns0:COD_OFFERTA>000567GSFML14XX0000AGDOSCG261115</ns0:COD_OFFERTA>
+        </ns0:IdentificativiOfferta>
+        <ns0:DettaglioOfferta>
+            <ns0:TIPO_MERCATO>02</ns0:TIPO_MERCATO>
+            <ns0:OFFERTA_SINGOLA>SI</ns0:OFFERTA_SINGOLA>
+            <ns0:TIPO_CLIENTE>01</ns0:TIPO_CLIENTE>
+            <ns0:TIPO_OFFERTA>01</ns0:TIPO_OFFERTA>
+            <ns0:TIPOLOGIA_ATT_CONTR>01</ns0:TIPOLOGIA_ATT_CONTR>
+            <ns0:NOME_OFFERTA>ATENA SECONDA CASA GAS</ns0:NOME_OFFERTA>
+            <ns0:DESCRIZIONE>Offerta attivabile tramite specifici partner/agenti</ns0:DESCRIZIONE>
+            <ns0:DURATA>27</ns0:DURATA>
+            <ns0:GARANZIE>NO</ns0:GARANZIE>
+            <ns0:ModalitaAttivazione>
+                <ns0:MODALITA>03</ns0:MODALITA>
+            </ns0:ModalitaAttivazione>
+            <ns0:Contatti>
+                <ns0:TELEFONO>800112077</ns0:TELEFONO>
+                <ns0:URL_SITO_VENDITORE>www.atenalucegas.it</ns0:URL_SITO_VENDITORE>
+                <ns0:URL_OFFERTA>https://www.atenalucegas.it/casa/altre-offerte</ns0:URL_OFFERTA>
+            </ns0:Contatti>
+        </ns0:DettaglioOfferta>
+        <ns0:ValiditaOfferta>
+            <ns0:DATA_INIZIO>28/10/2026_00:00:00</ns0:DATA_INIZIO>
+            <ns0:DATA_FINE>15/11/2026_23:59:59</ns0:DATA_FINE>
+        </ns0:ValiditaOfferta>
+        <ns0:MetodoPagamento>
+            <ns0:MODALITA_PAGAMENTO>01</ns0:MODALITA_PAGAMENTO>
+        </ns0:MetodoPagamento>
+        <ns0:MetodoPagamento>
+            <ns0:MODALITA_PAGAMENTO>02</ns0:MODALITA_PAGAMENTO>
+        </ns0:MetodoPagamento>
+        <ns0:MetodoPagamento>
+            <ns0:MODALITA_PAGAMENTO>99</ns0:MODALITA_PAGAMENTO>
+            <ns0:DESCRIZIONE>PagoPA,App,Ufficio postal</ns0:DESCRIZIONE>
+        </ns0:MetodoPagamento>
+        <ns0:ComponenteImpresa>
+            <ns0:NOME>Prezzo</ns0:NOME>
+            <ns0:DESCRIZIONE>Prezzo</ns0:DESCRIZIONE>
+            <ns0:TIPOLOGIA>01</ns0:TIPOLOGIA>
+            <ns0:MACROAREA>04</ns0:MACROAREA>
+            <ns0:IntervalloPrezzi>
+                <ns0:PREZZO>0.780000</ns0:PREZZO>
+                <ns0:UNITA_MISURA>04</ns0:UNITA_MISURA>
+            </ns0:IntervalloPrezzi>
+        </ns0:ComponenteImpresa>
+        <ns0:ComponenteImpresa>
+            <ns0:NOME>Quota fissa</ns0:NOME>
+            <ns0:DESCRIZIONE>Importo, definito in bolletta “Componente COM.G Fissa”, fissato in € 96 per PDR/anno</ns0:DESCRIZIONE>
+            <ns0:TIPOLOGIA>01</ns0:TIPOLOGIA>
+            <ns0:MACROAREA>01</ns0:MACROAREA>
+            <ns0:IntervalloPrezzi>
+                <ns0:PREZZO>96.000000</ns0:PREZZO>
+                <ns0:UNITA_MISURA>01</ns0:UNITA_MISURA>
+            </ns0:IntervalloPrezzi>
+        </ns0:ComponenteImpresa>
+        <ns0:CondizioniContrattuali>
+            <ns0:TIPOLOGIA_CONDIZIONE>01</ns0:TIPOLOGIA_CONDIZIONE>
+            <ns0:DESCRIZIONE>In caso di Switch-in (cambio fornitore) la fornitura verrà attivata entro 3 mesi dalla conclusione del contratto. Per  altre richieste di fornitura (ad esempio subentro, voltura, attivazione) le tempistiche di  conclusione del Contratto sono indicate all'art. 2 delle Condizioni Generali di Fornitura. Eventuali corrispettivi previsti dal Fornitore per l’attivazione del Contratto sono dettagliati all’art. 20 delle Condizioni Generali di Fornitura e nelle Condizioni Economiche; in ogni caso, sono fatti salvi i tempi richiesti per le attività del Distributore e la fatturazione di eventuali oneri previsti dal Distributore stesso.</ns0:DESCRIZIONE>
+            <ns0:LIMITANTE>02</ns0:LIMITANTE>
+        </ns0:CondizioniContrattuali>
+        <ns0:Sconto>
+            <ns0:NOME>Sconto 40% sui primi 240 Smc/a</ns0:NOME>
+            <ns0:DESCRIZIONE>Aderendo all'offerta [NOME], il cliente riceverà uno sconto del 40% sul prezzo della materia prima gas, applicato fino ad una soglia di 20 smc di consumo mensile.</ns0:DESCRIZIONE>
+            <ns0:VALIDITA>02</ns0:VALIDITA>
+            <ns0:IVA_SCONTO>01</ns0:IVA_SCONTO>
+            <ns0:Condizione>
+                <ns0:CONDIZIONE_APPLICAZIONE>00</ns0:CONDIZIONE_APPLICAZIONE>
+            </ns0:Condizione>
+            <ns0:PrezziSconto>
+                <ns0:TIPOLOGIA>03</ns0:TIPOLOGIA>
+                <ns0:VALIDO_DA>0</ns0:VALIDO_DA>
+                <ns0:VALIDO_FINO>240</ns0:VALIDO_FINO>
+                <ns0:UNITA_MISURA>04</ns0:UNITA_MISURA>
+                <ns0:PREZZO>0.312000</ns0:PREZZO>
+            </ns0:PrezziSconto>
+        </ns0:Sconto>
+    </ns0:offerta>
+    <ns0:offerta>
+        <ns0:IdentificativiOfferta>
+            <ns0:PIVA_UTENTE>07610960721</ns0:PIVA_UTENTE>
+            <ns0:COD_OFFERTA>022119GSFML01XXPFIXGASVDOM088RID</ns0:COD_OFFERTA>
+        </ns0:IdentificativiOfferta>
+        <ns0:DettaglioOfferta>
+            <ns0:TIPO_MERCATO>02</ns0:TIPO_MERCATO>
+            <ns0:OFFERTA_SINGOLA>SI</ns0:OFFERTA_SINGOLA>
+            <ns0:TIPO_CLIENTE>01</ns0:TIPO_CLIENTE>
+            <ns0:TIPO_OFFERTA>01</ns0:TIPO_OFFERTA>
+            <ns0:TIPOLOGIA_ATT_CONTR>99</ns0:TIPOLOGIA_ATT_CONTR>
+            <ns0:NOME_OFFERTA>PFIXGASVDOM088RID</ns0:NOME_OFFERTA>
+            <ns0:DESCRIZIONE>Offerta Fissa Gas Domestico 24 mesi RID</ns0:DESCRIZIONE>
+            <ns0:DURATA>-1</ns0:DURATA>
+            <ns0:GARANZIE>NO</ns0:GARANZIE>
+            <ns0:ModalitaAttivazione>
+                <ns0:MODALITA>02</ns0:MODALITA>
+            </ns0:ModalitaAttivazione>
+            <ns0:Contatti>
+                <ns0:TELEFONO>800145516</ns0:TELEFONO>
+                <ns0:URL_SITO_VENDITORE>www.camergasepower.com</ns0:URL_SITO_VENDITORE>
+                <ns0:URL_OFFERTA>https://www.camergasepower.com/</ns0:URL_OFFERTA>
+            </ns0:Contatti>
+        </ns0:DettaglioOfferta>
+        <ns0:ValiditaOfferta>
+            <ns0:DATA_INIZIO>28/10/2026_23:59:00</ns0:DATA_INIZIO>
+            <ns0:DATA_FINE>30/11/2026_23:59:00</ns0:DATA_FINE>
+        </ns0:ValiditaOfferta>
+        <ns0:MetodoPagamento>
+            <ns0:MODALITA_PAGAMENTO>01</ns0:MODALITA_PAGAMENTO>
+        </ns0:MetodoPagamento>
+        <ns0:MetodoPagamento>
+            <ns0:MODALITA_PAGAMENTO>02</ns0:MODALITA_PAGAMENTO>
+        </ns0:MetodoPagamento>
+        <ns0:MetodoPagamento>
+            <ns0:MODALITA_PAGAMENTO>03</ns0:MODALITA_PAGAMENTO>
+        </ns0:MetodoPagamento>
+        <ns0:MetodoPagamento>
+            <ns0:MODALITA_PAGAMENTO>99</ns0:MODALITA_PAGAMENTO>
+            <ns0:DESCRIZIONE>AMERICAN EXPRESS</ns0:DESCRIZIONE>
+        </ns0:MetodoPagamento>
+        <ns0:ComponenteImpresa>
+            <ns0:NOME>Oneri fissi di commercializzazione</ns0:NOME>
+            <ns0:DESCRIZIONE>Oneri fissi di commercializzazione</ns0:DESCRIZIONE>
+            <ns0:TIPOLOGIA>02</ns0:TIPOLOGIA>
+            <ns0:MACROAREA>01</ns0:MACROAREA>
+            <ns0:IntervalloPrezzi>
+                <ns0:PREZZO>138.000000</ns0:PREZZO>
+                <ns0:UNITA_MISURA>01</ns0:UNITA_MISURA>
+            </ns0:IntervalloPrezzi>
+        </ns0:ComponenteImpresa>
+        <ns0:ComponenteImpresa>
+            <ns0:NOME>Oneri variabili di commercializzazione</ns0:NOME>
+            <ns0:DESCRIZIONE>Oneri variabili di commercializzazione</ns0:DESCRIZIONE>
+            <ns0:TIPOLOGIA>02</ns0:TIPOLOGIA>
+            <ns0:MACROAREA>04</ns0:MACROAREA>
+            <ns0:IntervalloPrezzi>
+                <ns0:PREZZO>0.025000</ns0:PREZZO>
+                <ns0:UNITA_MISURA>04</ns0:UNITA_MISURA>
+            </ns0:IntervalloPrezzi>
+        </ns0:ComponenteImpresa>
+        <ns0:CondizioniContrattuali>
+            <ns0:TIPOLOGIA_CONDIZIONE>04</ns0:TIPOLOGIA_CONDIZIONE>
+            <ns0:DESCRIZIONE>Rinnovo Automatico a PSV</ns0:DESCRIZIONE>
+            <ns0:LIMITANTE>02</ns0:LIMITANTE>
+        </ns0:CondizioniContrattuali>
+    </ns0:offerta>
+    <ns0:offerta xmlns:ns0="http://www.acquirenteunico.it/schemas/SII_AU/OffertaRetail/01">
+        <ns0:IdentificativiOfferta>
+            <ns0:PIVA_UTENTE>09985750968</ns0:PIVA_UTENTE>
+            <ns0:COD_OFFERTA>026846GSFML46XX297FIXWEBLEGGOL24</ns0:COD_OFFERTA>
+        </ns0:IdentificativiOfferta>
+        <ns0:DettaglioOfferta>
+            <ns0:TIPO_MERCATO>02</ns0:TIPO_MERCATO>
+            <ns0:OFFERTA_SINGOLA>SI</ns0:OFFERTA_SINGOLA>
+            <ns0:TIPO_CLIENTE>01</ns0:TIPO_CLIENTE>
+            <ns0:TIPO_OFFERTA>01</ns0:TIPO_OFFERTA>
+            <ns0:TIPOLOGIA_ATT_CONTR>01</ns0:TIPOLOGIA_ATT_CONTR>
+            <ns0:TIPOLOGIA_ATT_CONTR>04</ns0:TIPOLOGIA_ATT_CONTR>
+            <ns0:NOME_OFFERTA>FixWeb LEGGERA GAS 24 Online</ns0:NOME_OFFERTA>
+            <ns0:DESCRIZIONE>FixWeb LEGGERA GAS 24 Online</ns0:DESCRIZIONE>
+            <ns0:DURATA>-1</ns0:DURATA>
+            <ns0:GARANZIE>Nessuna</ns0:GARANZIE>
+            <ns0:ModalitaAttivazione>
+                <ns0:MODALITA>01</ns0:MODALITA>
+            </ns0:ModalitaAttivazione>
+            <ns0:Contatti>
+                <ns0:TELEFONO>800910456</ns0:TELEFONO>
+                <ns0:URL_SITO_VENDITORE>https://it.met.com/</ns0:URL_SITO_VENDITORE>
+                <ns0:URL_OFFERTA>https://risparmia.met.com/fixweb-leggera-gas</ns0:URL_OFFERTA>
+            </ns0:Contatti>
+        </ns0:DettaglioOfferta>
+        <ns0:ValiditaOfferta>
+            <ns0:DATA_INIZIO>07/10/2026_00:00:00</ns0:DATA_INIZIO>
+            <ns0:DATA_FINE>31/03/2027_23:59:59</ns0:DATA_FINE>
+        </ns0:ValiditaOfferta>
+        <ns0:MetodoPagamento>
+            <ns0:MODALITA_PAGAMENTO>01</ns0:MODALITA_PAGAMENTO>
+        </ns0:MetodoPagamento>
+        <ns0:MetodoPagamento>
+            <ns0:MODALITA_PAGAMENTO>99</ns0:MODALITA_PAGAMENTO>
+            <ns0:DESCRIZIONE>Bonifico, Mooney, PayPal</ns0:DESCRIZIONE>
+        </ns0:MetodoPagamento>
+        <ns0:ComponentiRegolate />
+        <ns0:ComponenteImpresa>
+            <ns0:NOME>Totale corrispettivi fissi del venditore</ns0:NOME>
+            <ns0:DESCRIZIONE>Totale corrispettivi fissi del venditore</ns0:DESCRIZIONE>
+            <ns0:TIPOLOGIA>01</ns0:TIPOLOGIA>
+            <ns0:MACROAREA>01</ns0:MACROAREA>
+            <ns0:IntervalloPrezzi>
+                <ns0:PREZZO>132.0</ns0:PREZZO>
+                <ns0:UNITA_MISURA>01</ns0:UNITA_MISURA>
+            </ns0:IntervalloPrezzi>
+        </ns0:ComponenteImpresa>
+        <ns0:ComponenteImpresa>
+            <ns0:NOME>Totale corrispettivi a consumo del venditore</ns0:NOME>
+            <ns0:DESCRIZIONE>Totale corrispettivi a consumo del venditore</ns0:DESCRIZIONE>
+            <ns0:TIPOLOGIA>01</ns0:TIPOLOGIA>
+            <ns0:MACROAREA>04</ns0:MACROAREA>
+            <ns0:IntervalloPrezzi>
+                <ns0:FASCIA_COMPONENTE>01</ns0:FASCIA_COMPONENTE>
+                <ns0:PREZZO>0.469</ns0:PREZZO>
+                <ns0:UNITA_MISURA>04</ns0:UNITA_MISURA>
+            </ns0:IntervalloPrezzi>
+        </ns0:ComponenteImpresa>
+        <ns0:CondizioniContrattuali>
+            <ns0:TIPOLOGIA_CONDIZIONE>01</ns0:TIPOLOGIA_CONDIZIONE>
+            <ns0:DESCRIZIONE>Attivazione del servizio</ns0:DESCRIZIONE>
+            <ns0:LIMITANTE>02</ns0:LIMITANTE>
+        </ns0:CondizioniContrattuali>
+        <ns0:Sconto>
+            <ns0:NOME>Sconto 24 mesi</ns0:NOME>
+            <ns0:DESCRIZIONE>Sconto 24 mesi</ns0:DESCRIZIONE>
+            <ns0:VALIDITA>02</ns0:VALIDITA>
+            <ns0:IVA_SCONTO>01</ns0:IVA_SCONTO>
+            <ns0:Condizione>
+                <ns0:CONDIZIONE_APPLICAZIONE>00</ns0:CONDIZIONE_APPLICAZIONE>
+            </ns0:Condizione>
+            <ns0:PrezziSconto>
+                <ns0:TIPOLOGIA>01</ns0:TIPOLOGIA>
+                <ns0:UNITA_MISURA>01</ns0:UNITA_MISURA>
+                <ns0:PREZZO>22.000000</ns0:PREZZO>
+            </ns0:PrezziSconto>
+        </ns0:Sconto>
+    </ns0:offerta>
+    <ns0:offerta xmlns:ns0="http://www.acquirenteunico.it/schemas/SII_AU/OffertaRetail/01">
+        <ns0:IdentificativiOfferta>
+            <ns0:PIVA_UTENTE>02064090026</ns0:PIVA_UTENTE>
+            <ns0:COD_OFFERTA>000567GSFML07XX00AGDOPRIMT261115</ns0:COD_OFFERTA>
+        </ns0:IdentificativiOfferta>
+        <ns0:DettaglioOfferta>
+            <ns0:TIPO_MERCATO>02</ns0:TIPO_MERCATO>
+            <ns0:OFFERTA_SINGOLA>SI</ns0:OFFERTA_SINGOLA>
+            <ns0:TIPO_CLIENTE>01</ns0:TIPO_CLIENTE>
+            <ns0:TIPO_OFFERTA>01</ns0:TIPO_OFFERTA>
+            <ns0:TIPOLOGIA_ATT_CONTR>01</ns0:TIPOLOGIA_ATT_CONTR>
+            <ns0:NOME_OFFERTA>ATENA PRIMA SCELTA GAS TOP</ns0:NOME_OFFERTA>
+            <ns0:DESCRIZIONE>Offerta attivabile tramite specifici partner/agenti</ns0:DESCRIZIONE>
+            <ns0:DURATA>12</ns0:DURATA>
+            <ns0:GARANZIE>La presente offerta richiede l’obbligatorietà del pagamento tramite domiciliazione bancaria e l’adesione al servizio Bolletta Web. Atena Trading provvederà ad inviare una e-mail all’indirizzo di posta elettronica indicato ogni qualvolta verrà emessa una fattura a carico del Cliente. Le fatture potranno essere visualizzate e stampate tramite l’applicativo IrenYou.</ns0:GARANZIE>
+            <ns0:ModalitaAttivazione>
+                <ns0:MODALITA>01</ns0:MODALITA>
+            </ns0:ModalitaAttivazione>
+            <ns0:Contatti>
+                <ns0:TELEFONO>800112077</ns0:TELEFONO>
+                <ns0:URL_SITO_VENDITORE>www.atenalucegas.it</ns0:URL_SITO_VENDITORE>
+                <ns0:URL_OFFERTA>https://www.atenalucegas.it/casa/altre-offerte</ns0:URL_OFFERTA>
+            </ns0:Contatti>
+        </ns0:DettaglioOfferta>
+        <ns0:ValiditaOfferta>
+            <ns0:DATA_INIZIO>28/10/2026_00:00:00</ns0:DATA_INIZIO>
+            <ns0:DATA_FINE>15/11/2026_23:59:59</ns0:DATA_FINE>
+        </ns0:ValiditaOfferta>
+        <ns0:MetodoPagamento>
+            <ns0:MODALITA_PAGAMENTO>01</ns0:MODALITA_PAGAMENTO>
+        </ns0:MetodoPagamento>
+        <ns0:MetodoPagamento>
+            <ns0:MODALITA_PAGAMENTO>02</ns0:MODALITA_PAGAMENTO>
+        </ns0:MetodoPagamento>
+        <ns0:ComponenteImpresa>
+            <ns0:NOME>Prezzo</ns0:NOME>
+            <ns0:DESCRIZIONE>Prezzo</ns0:DESCRIZIONE>
+            <ns0:TIPOLOGIA>01</ns0:TIPOLOGIA>
+            <ns0:MACROAREA>04</ns0:MACROAREA>
+            <ns0:IntervalloPrezzi>
+                <ns0:PREZZO>0.590000</ns0:PREZZO>
+                <ns0:UNITA_MISURA>04</ns0:UNITA_MISURA>
+            </ns0:IntervalloPrezzi>
+        </ns0:ComponenteImpresa>
+        <ns0:ComponenteImpresa>
+            <ns0:NOME>Quota fissa</ns0:NOME>
+            <ns0:DESCRIZIONE>Importo, definito in bolletta “Componente COM.G Fissa”, fissato in € 150 per PDR/anno</ns0:DESCRIZIONE>
+            <ns0:TIPOLOGIA>01</ns0:TIPOLOGIA>
+            <ns0:MACROAREA>01</ns0:MACROAREA>
+            <ns0:IntervalloPrezzi>
+                <ns0:PREZZO>150.000000</ns0:PREZZO>
+                <ns0:UNITA_MISURA>01</ns0:UNITA_MISURA>
+            </ns0:IntervalloPrezzi>
+        </ns0:ComponenteImpresa>
+        <ns0:CondizioniContrattuali>
+            <ns0:TIPOLOGIA_CONDIZIONE>01</ns0:TIPOLOGIA_CONDIZIONE>
+            <ns0:DESCRIZIONE>In caso di Switch-in (cambio fornitore) la fornitura verrà attivata entro 3 mesi dalla conclusione del contratto. Per  altre richieste di fornitura (ad esempio subentro, voltura, attivazione) le tempistiche di  conclusione del Contratto sono indicate all'art. 2 delle Condizioni Generali di Fornitura. Eventuali corrispettivi previsti dal Fornitore per l’attivazione del Contratto sono dettagliati all’art. 20 delle Condizioni Generali di Fornitura e nelle Condizioni Economiche; in ogni caso, sono fatti salvi i tempi richiesti per le attività del Distributore e la fatturazione di eventuali oneri previsti dal Distributore stesso.</ns0:DESCRIZIONE>
+            <ns0:LIMITANTE>02</ns0:LIMITANTE>
+        </ns0:CondizioniContrattuali>
+        <ns0:Sconto>
+            <ns0:NOME>Bonus mensile 6 € per 12 mesi</ns0:NOME>
+            <ns0:DESCRIZIONE>Aderendo alla presente offerta, il Cliente riceverà in bolletta un Bonus mensile di 6 € per 12 mesi. Nel caso in cui il Cliente esercitasse il diritto di recesso per cambio fornitore nel corso dei 12 mesi di attivazione dell’offerta, Atena Trading erogherà i bonus maturati fino alla data di efficacia del recesso secondo quanto stabilito dalle Condizioni Generali di Fornitura; analogamente negli altri casi di cessazione, Atena Trading erogherà i bonus maturati fino alla data di validità del contratto.</ns0:DESCRIZIONE>
+            <ns0:VALIDITA>01</ns0:VALIDITA>
+            <ns0:IVA_SCONTO>01</ns0:IVA_SCONTO>
+            <ns0:Condizione>
+                <ns0:CONDIZIONE_APPLICAZIONE>00</ns0:CONDIZIONE_APPLICAZIONE>
+            </ns0:Condizione>
+            <ns0:PrezziSconto>
+                <ns0:TIPOLOGIA>01</ns0:TIPOLOGIA>
+                <ns0:UNITA_MISURA>01</ns0:UNITA_MISURA>
+                <ns0:PREZZO>72.000000</ns0:PREZZO>
+            </ns0:PrezziSconto>
+        </ns0:Sconto>
+    </ns0:offerta>
+    </ListaOfferteMercatoLibero>

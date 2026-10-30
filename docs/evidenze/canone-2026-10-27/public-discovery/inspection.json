@@ -1,0 +1,1712 @@
+{
+  "date": "2026-10-27",
+  "method": "Saved public official HTML and observed first-party JS only. No supplier links followed; no endpoints guessed.",
+  "pages": {
+    "E": {
+      "source": {
+        "path": "/tmp/lmb-canoni-current-E.html",
+        "url": "https://www.ilportaleofferte.it/portaleOfferte/it/offerte-non-confrontabili.page?commodityType=ELETTRICO",
+        "bytes": 2898641,
+        "sha256": "7a99b2247870d7216c888e6f40aa130259ac2520ad493b026a6427cc3f435366"
+      },
+      "modal_count": 1058,
+      "all_modal_tag_counts": {
+        "div": 6427,
+        "button": 2116,
+        "h3": 1058,
+        "p": 1237,
+        "b": 79,
+        "i": 12
+      },
+      "forms": [
+        {
+          "attributes": {
+            "id": "search_form_mobile",
+            "action": "/portaleOfferte/it/cerca-nel-sito.page",
+            "method": "get"
+          },
+          "fields": [
+            {
+              "id": "text_search_mb",
+              "name": "search",
+              "type": "text"
+            },
+            {
+              "id": "btn_search_mb",
+              "type": "submit",
+              "value": " "
+            }
+          ]
+        },
+        {
+          "attributes": {
+            "class": "spid_btn_form",
+            "name": "spid_idp_access",
+            "action": "#",
+            "method": "post"
+          },
+          "fields": [
+            {
+              "name": "purpose",
+              "type": "checkbox"
+            }
+          ]
+        },
+        {
+          "attributes": {
+            "action": "/portaleOfferte/it/cerca-nel-sito.page",
+            "method": "get"
+          },
+          "fields": [
+            {
+              "id": "text_search",
+              "name": "search",
+              "type": "text"
+            },
+            {
+              "id": "btn_search",
+              "type": "submit",
+              "value": " "
+            },
+            {
+              "id": "btn_lens",
+              "type": "button",
+              "value": " "
+            }
+          ]
+        },
+        {
+          "attributes": {
+            "id": "raffinaRicercaNotSII",
+            "class": "formRaffina",
+            "method": "post",
+            "action": "/portaleOfferte/it/offerte-non-confrontabili.page"
+          },
+          "fields": [
+            {
+              "id": "commodityType",
+              "name": "commodityType"
+            },
+            {
+              "id": "nomeOfferta",
+              "name": "nomeOfferta",
+              "type": "text",
+              "value": ""
+            },
+            {
+              "id": "presenzaSconti",
+              "name": "presenzaSconti",
+              "type": "checkbox",
+              "value": "true"
+            },
+            {
+              "id": "presenzaServizi",
+              "name": "presenzaServizi",
+              "type": "checkbox",
+              "value": "true"
+            },
+            {
+              "id": "listaVenditori"
+            },
+            {
+              "id": "venditori_hidded",
+              "name": "venditori",
+              "type": "hidden"
+            },
+            {
+              "id": "orderHidden",
+              "name": "order",
+              "type": "hidden"
+            },
+            {
+              "id": "orderByHidden",
+              "name": "orderBy",
+              "type": "hidden"
+            },
+            {
+              "id": "commodityTypeHidden",
+              "name": "commodityType",
+              "type": "hidden",
+              "value": "energiaElettrica"
+            },
+            {
+              "id": "advancedFilter",
+              "name": "advancedFilterNoSII",
+              "type": "hidden",
+              "value": "true"
+            },
+            {
+              "name": "confronta",
+              "type": "button",
+              "value": "Cerca"
+            }
+          ]
+        }
+      ],
+      "scripts": [
+        "/portaleOfferte/resources/static/js/jquery-3.5.0.min.js",
+        "/portaleOfferte/resources/static/js/jquery-ui.min.js",
+        "/portaleOfferte/resources/static/js/jquery-dateformat.min.js",
+        "/portaleOfferte/resources/static/js/bootstrap.js",
+        "/portaleOfferte/resources/static/js/bootstrap-toggle.min.js",
+        "/portaleOfferte/resources/static/js/mainCommon.js",
+        "/portaleOfferte/resources/static/js/bootstrap-datetimepicker.js",
+        "/portaleOfferte/resources/static/js/gestisciHeader.js",
+        "/portaleOfferte/resources/static/js/moment.js",
+        "/portaleOfferte/resources/static/js/chart.js",
+        "/portaleOfferte/resources/static/js/customerSatisfaction.js",
+        "/portaleOfferte/resources/static/js/spid-sp-access-button.min.js",
+        "/portaleOfferte/resources/static/js/forniture.js?rdm=2023",
+        "https://cdnjs.cloudflare.com/ajax/libs/jspdf/0.9.0rc1/jspdf.min.js",
+        "/portaleOfferte/resources/static/js/geoService.js?",
+        "/portaleOfferte/resources/static/js/confrontaOfferte.js?",
+        "/portaleOfferte/resources/static/js/loadingoverlay.min.js",
+        "/portaleOfferte/resources/static/js/jquery.scrollLock.js",
+        "/portaleOfferte/resources/static/js/bootstrap-multiselect.js",
+        "/portaleOfferte/resources/static/js/filtriAvanzati.js?",
+        "/portaleOfferte/resources/static/js/jPushMenu.js"
+      ],
+      "inline_script_count": 9,
+      "selected_modals": [
+        {
+          "id": "modal-14144",
+          "name": "CASA MIA NO STRESS_2500",
+          "same_modal_text_as_previous_acquisition": true,
+          "text_sha256": "66360991d1cfed0a146b24bafed8ad221a52d84d524b17c1afa20588da5bc204",
+          "tags": {
+            "div": 7,
+            "button": 2,
+            "h3": 1,
+            "p": 3,
+            "b": 1
+          },
+          "all_attributes": [
+            {
+              "tag": "div",
+              "attrs": {
+                "id": "modal-14144",
+                "class": "modal fade",
+                "role": "dialog"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-dialog"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-content"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-header"
+              }
+            },
+            {
+              "tag": "button",
+              "attrs": {
+                "type": "button",
+                "class": "close",
+                "data-dismiss": "modal"
+              }
+            },
+            {
+              "tag": "h3",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-body modal-mt-text"
+              }
+            },
+            {
+              "tag": "p",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "condizioni-generali",
+                "style": "float: none;"
+              }
+            },
+            {
+              "tag": "p",
+              "attrs": {
+                "class": "macroarea"
+              }
+            },
+            {
+              "tag": "b",
+              "attrs": {}
+            },
+            {
+              "tag": "p",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-footer"
+              }
+            },
+            {
+              "tag": "button",
+              "attrs": {
+                "type": "button",
+                "class": "btn btn-default",
+                "data-dismiss": "modal"
+              }
+            }
+          ]
+        },
+        {
+          "id": "modal-14146",
+          "name": "Fastweb Luce Flat Light",
+          "same_modal_text_as_previous_acquisition": true,
+          "text_sha256": "f751f39821facfb5f86fa24f758191454915d84abc6596333d16fb439dc19f93",
+          "tags": {
+            "div": 7,
+            "button": 2,
+            "h3": 1,
+            "p": 3,
+            "b": 1
+          },
+          "all_attributes": [
+            {
+              "tag": "div",
+              "attrs": {
+                "id": "modal-14146",
+                "class": "modal fade",
+                "role": "dialog"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-dialog"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-content"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-header"
+              }
+            },
+            {
+              "tag": "button",
+              "attrs": {
+                "type": "button",
+                "class": "close",
+                "data-dismiss": "modal"
+              }
+            },
+            {
+              "tag": "h3",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-body modal-mt-text"
+              }
+            },
+            {
+              "tag": "p",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "condizioni-generali",
+                "style": "float: none;"
+              }
+            },
+            {
+              "tag": "p",
+              "attrs": {
+                "class": "macroarea"
+              }
+            },
+            {
+              "tag": "b",
+              "attrs": {}
+            },
+            {
+              "tag": "p",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-footer"
+              }
+            },
+            {
+              "tag": "button",
+              "attrs": {
+                "type": "button",
+                "class": "btn btn-default",
+                "data-dismiss": "modal"
+              }
+            }
+          ]
+        },
+        {
+          "id": "modal-14148",
+          "name": "Fastweb Luce Flat Pro",
+          "same_modal_text_as_previous_acquisition": true,
+          "text_sha256": "0966ae241935e1946909c598daecc55441262998eeafb76accea549e6709299b",
+          "tags": {
+            "div": 7,
+            "button": 2,
+            "h3": 1,
+            "p": 3,
+            "b": 1
+          },
+          "all_attributes": [
+            {
+              "tag": "div",
+              "attrs": {
+                "id": "modal-14148",
+                "class": "modal fade",
+                "role": "dialog"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-dialog"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-content"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-header"
+              }
+            },
+            {
+              "tag": "button",
+              "attrs": {
+                "type": "button",
+                "class": "close",
+                "data-dismiss": "modal"
+              }
+            },
+            {
+              "tag": "h3",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-body modal-mt-text"
+              }
+            },
+            {
+              "tag": "p",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "condizioni-generali",
+                "style": "float: none;"
+              }
+            },
+            {
+              "tag": "p",
+              "attrs": {
+                "class": "macroarea"
+              }
+            },
+            {
+              "tag": "b",
+              "attrs": {}
+            },
+            {
+              "tag": "p",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-footer"
+              }
+            },
+            {
+              "tag": "button",
+              "attrs": {
+                "type": "button",
+                "class": "btn btn-default",
+                "data-dismiss": "modal"
+              }
+            }
+          ]
+        },
+        {
+          "id": "modal-14143",
+          "name": "CASA MIA NO STRESS_1500",
+          "same_modal_text_as_previous_acquisition": true,
+          "text_sha256": "c5009059bbf054a60df1b1492a15b4dbe78d89c216c678332798f52e6fb612b4",
+          "tags": {
+            "div": 7,
+            "button": 2,
+            "h3": 1,
+            "p": 3,
+            "b": 1
+          },
+          "all_attributes": [
+            {
+              "tag": "div",
+              "attrs": {
+                "id": "modal-14143",
+                "class": "modal fade",
+                "role": "dialog"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-dialog"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-content"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-header"
+              }
+            },
+            {
+              "tag": "button",
+              "attrs": {
+                "type": "button",
+                "class": "close",
+                "data-dismiss": "modal"
+              }
+            },
+            {
+              "tag": "h3",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-body modal-mt-text"
+              }
+            },
+            {
+              "tag": "p",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "condizioni-generali",
+                "style": "float: none;"
+              }
+            },
+            {
+              "tag": "p",
+              "attrs": {
+                "class": "macroarea"
+              }
+            },
+            {
+              "tag": "b",
+              "attrs": {}
+            },
+            {
+              "tag": "p",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-footer"
+              }
+            },
+            {
+              "tag": "button",
+              "attrs": {
+                "type": "button",
+                "class": "btn btn-default",
+                "data-dismiss": "modal"
+              }
+            }
+          ]
+        },
+        {
+          "id": "modal-14156",
+          "name": "Fastweb Luce Flat Partner Light",
+          "same_modal_text_as_previous_acquisition": true,
+          "text_sha256": "bfddfac5da4beff065d4399a4f7162579017ac82e57880f31c10702d03f66fc9",
+          "tags": {
+            "div": 6,
+            "button": 2,
+            "h3": 1,
+            "p": 1
+          },
+          "all_attributes": [
+            {
+              "tag": "div",
+              "attrs": {
+                "id": "modal-14156",
+                "class": "modal fade",
+                "role": "dialog"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-dialog"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-content"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-header"
+              }
+            },
+            {
+              "tag": "button",
+              "attrs": {
+                "type": "button",
+                "class": "close",
+                "data-dismiss": "modal"
+              }
+            },
+            {
+              "tag": "h3",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-body modal-mt-text"
+              }
+            },
+            {
+              "tag": "p",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-footer"
+              }
+            },
+            {
+              "tag": "button",
+              "attrs": {
+                "type": "button",
+                "class": "btn btn-default",
+                "data-dismiss": "modal"
+              }
+            }
+          ]
+        },
+        {
+          "id": "modal-14154",
+          "name": "Fastweb Luce Flat Ultra",
+          "same_modal_text_as_previous_acquisition": true,
+          "text_sha256": "4030b633d1899f255c702206eebdaa4185105a49f8956fcc0919e7a2cc5bc7ff",
+          "tags": {
+            "div": 7,
+            "button": 2,
+            "h3": 1,
+            "p": 3,
+            "b": 1
+          },
+          "all_attributes": [
+            {
+              "tag": "div",
+              "attrs": {
+                "id": "modal-14154",
+                "class": "modal fade",
+                "role": "dialog"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-dialog"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-content"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-header"
+              }
+            },
+            {
+              "tag": "button",
+              "attrs": {
+                "type": "button",
+                "class": "close",
+                "data-dismiss": "modal"
+              }
+            },
+            {
+              "tag": "h3",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-body modal-mt-text"
+              }
+            },
+            {
+              "tag": "p",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "condizioni-generali",
+                "style": "float: none;"
+              }
+            },
+            {
+              "tag": "p",
+              "attrs": {
+                "class": "macroarea"
+              }
+            },
+            {
+              "tag": "b",
+              "attrs": {}
+            },
+            {
+              "tag": "p",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-footer"
+              }
+            },
+            {
+              "tag": "button",
+              "attrs": {
+                "type": "button",
+                "class": "btn btn-default",
+                "data-dismiss": "modal"
+              }
+            }
+          ]
+        },
+        {
+          "id": "modal-14147",
+          "name": "Fastweb Luce Flat Start",
+          "same_modal_text_as_previous_acquisition": true,
+          "text_sha256": "6e59a117d02d630cecfdb72b7c8af4e5d11dac3e114e76de0f7415d87588fc7f",
+          "tags": {
+            "div": 7,
+            "button": 2,
+            "h3": 1,
+            "p": 3,
+            "b": 1
+          },
+          "all_attributes": [
+            {
+              "tag": "div",
+              "attrs": {
+                "id": "modal-14147",
+                "class": "modal fade",
+                "role": "dialog"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-dialog"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-content"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-header"
+              }
+            },
+            {
+              "tag": "button",
+              "attrs": {
+                "type": "button",
+                "class": "close",
+                "data-dismiss": "modal"
+              }
+            },
+            {
+              "tag": "h3",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-body modal-mt-text"
+              }
+            },
+            {
+              "tag": "p",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "condizioni-generali",
+                "style": "float: none;"
+              }
+            },
+            {
+              "tag": "p",
+              "attrs": {
+                "class": "macroarea"
+              }
+            },
+            {
+              "tag": "b",
+              "attrs": {}
+            },
+            {
+              "tag": "p",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-footer"
+              }
+            },
+            {
+              "tag": "button",
+              "attrs": {
+                "type": "button",
+                "class": "btn btn-default",
+                "data-dismiss": "modal"
+              }
+            }
+          ]
+        },
+        {
+          "id": "modal-14142",
+          "name": "CASA MIA NO STRESS_800",
+          "same_modal_text_as_previous_acquisition": true,
+          "text_sha256": "a7f8feec9d8fccf0bada7a82e6435eadd1c95170ced31c8c55f8ad1045bdee15",
+          "tags": {
+            "div": 7,
+            "button": 2,
+            "h3": 1,
+            "p": 3,
+            "b": 1
+          },
+          "all_attributes": [
+            {
+              "tag": "div",
+              "attrs": {
+                "id": "modal-14142",
+                "class": "modal fade",
+                "role": "dialog"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-dialog"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-content"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-header"
+              }
+            },
+            {
+              "tag": "button",
+              "attrs": {
+                "type": "button",
+                "class": "close",
+                "data-dismiss": "modal"
+              }
+            },
+            {
+              "tag": "h3",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-body modal-mt-text"
+              }
+            },
+            {
+              "tag": "p",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "condizioni-generali",
+                "style": "float: none;"
+              }
+            },
+            {
+              "tag": "p",
+              "attrs": {
+                "class": "macroarea"
+              }
+            },
+            {
+              "tag": "b",
+              "attrs": {}
+            },
+            {
+              "tag": "p",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-footer"
+              }
+            },
+            {
+              "tag": "button",
+              "attrs": {
+                "type": "button",
+                "class": "btn btn-default",
+                "data-dismiss": "modal"
+              }
+            }
+          ]
+        }
+      ],
+      "structured_json_scripts": 0,
+      "price_profile_named_fields": []
+    },
+    "G": {
+      "source": {
+        "path": "/tmp/lmb-canoni-current-G.html",
+        "url": "https://www.ilportaleofferte.it/portaleOfferte/it/offerte-non-confrontabili.page?commodityType=GAS",
+        "bytes": 854744,
+        "sha256": "597feb385bd65c19b3934f8fb3ea7e2173d8b75991a8c15ba2a18223749a4243"
+      },
+      "modal_count": 249,
+      "all_modal_tag_counts": {
+        "div": 1621,
+        "button": 498,
+        "h3": 249,
+        "p": 505,
+        "b": 127
+      },
+      "forms": [
+        {
+          "attributes": {
+            "id": "search_form_mobile",
+            "action": "/portaleOfferte/it/cerca-nel-sito.page",
+            "method": "get"
+          },
+          "fields": [
+            {
+              "id": "text_search_mb",
+              "name": "search",
+              "type": "text"
+            },
+            {
+              "id": "btn_search_mb",
+              "type": "submit",
+              "value": " "
+            }
+          ]
+        },
+        {
+          "attributes": {
+            "class": "spid_btn_form",
+            "name": "spid_idp_access",
+            "action": "#",
+            "method": "post"
+          },
+          "fields": [
+            {
+              "name": "purpose",
+              "type": "checkbox"
+            }
+          ]
+        },
+        {
+          "attributes": {
+            "action": "/portaleOfferte/it/cerca-nel-sito.page",
+            "method": "get"
+          },
+          "fields": [
+            {
+              "id": "text_search",
+              "name": "search",
+              "type": "text"
+            },
+            {
+              "id": "btn_search",
+              "type": "submit",
+              "value": " "
+            },
+            {
+              "id": "btn_lens",
+              "type": "button",
+              "value": " "
+            }
+          ]
+        },
+        {
+          "attributes": {
+            "id": "raffinaRicercaNotSII",
+            "class": "formRaffina",
+            "method": "post",
+            "action": "/portaleOfferte/it/offerte-non-confrontabili.page"
+          },
+          "fields": [
+            {
+              "id": "commodityType",
+              "name": "commodityType"
+            },
+            {
+              "id": "nomeOfferta",
+              "name": "nomeOfferta",
+              "type": "text",
+              "value": ""
+            },
+            {
+              "id": "presenzaSconti",
+              "name": "presenzaSconti",
+              "type": "checkbox",
+              "value": "true"
+            },
+            {
+              "id": "presenzaServizi",
+              "name": "presenzaServizi",
+              "type": "checkbox",
+              "value": "true"
+            },
+            {
+              "id": "listaVenditori"
+            },
+            {
+              "id": "venditori_hidded",
+              "name": "venditori",
+              "type": "hidden"
+            },
+            {
+              "id": "orderHidden",
+              "name": "order",
+              "type": "hidden"
+            },
+            {
+              "id": "orderByHidden",
+              "name": "orderBy",
+              "type": "hidden"
+            },
+            {
+              "id": "commodityTypeHidden",
+              "name": "commodityType",
+              "type": "hidden",
+              "value": "energiaElettrica"
+            },
+            {
+              "id": "advancedFilter",
+              "name": "advancedFilterNoSII",
+              "type": "hidden",
+              "value": "true"
+            },
+            {
+              "name": "confronta",
+              "type": "button",
+              "value": "Cerca"
+            }
+          ]
+        }
+      ],
+      "scripts": [
+        "/portaleOfferte/resources/static/js/jquery-3.5.0.min.js",
+        "/portaleOfferte/resources/static/js/jquery-ui.min.js",
+        "/portaleOfferte/resources/static/js/jquery-dateformat.min.js",
+        "/portaleOfferte/resources/static/js/bootstrap.js",
+        "/portaleOfferte/resources/static/js/bootstrap-toggle.min.js",
+        "/portaleOfferte/resources/static/js/mainCommon.js",
+        "/portaleOfferte/resources/static/js/bootstrap-datetimepicker.js",
+        "/portaleOfferte/resources/static/js/gestisciHeader.js",
+        "/portaleOfferte/resources/static/js/moment.js",
+        "/portaleOfferte/resources/static/js/chart.js",
+        "/portaleOfferte/resources/static/js/customerSatisfaction.js",
+        "/portaleOfferte/resources/static/js/spid-sp-access-button.min.js",
+        "/portaleOfferte/resources/static/js/forniture.js?rdm=2023",
+        "https://cdnjs.cloudflare.com/ajax/libs/jspdf/0.9.0rc1/jspdf.min.js",
+        "/portaleOfferte/resources/static/js/geoService.js?",
+        "/portaleOfferte/resources/static/js/confrontaOfferte.js?",
+        "/portaleOfferte/resources/static/js/loadingoverlay.min.js",
+        "/portaleOfferte/resources/static/js/jquery.scrollLock.js",
+        "/portaleOfferte/resources/static/js/bootstrap-multiselect.js",
+        "/portaleOfferte/resources/static/js/filtriAvanzati.js?",
+        "/portaleOfferte/resources/static/js/jPushMenu.js"
+      ],
+      "inline_script_count": 9,
+      "selected_modals": [
+        {
+          "id": "modal-14159",
+          "name": "Fastweb Gas Flat Ultra",
+          "same_modal_text_as_previous_acquisition": true,
+          "text_sha256": "437f5ff7dd2b9292b53ac372e5c7dd4651fbb0c862dfe457d66dcb14c57cd2b9",
+          "tags": {
+            "div": 7,
+            "button": 2,
+            "h3": 1,
+            "p": 3,
+            "b": 1
+          },
+          "all_attributes": [
+            {
+              "tag": "div",
+              "attrs": {
+                "id": "modal-14159",
+                "class": "modal fade",
+                "role": "dialog"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-dialog"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-content"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-header"
+              }
+            },
+            {
+              "tag": "button",
+              "attrs": {
+                "type": "button",
+                "class": "close",
+                "data-dismiss": "modal"
+              }
+            },
+            {
+              "tag": "h3",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-body modal-mt-text"
+              }
+            },
+            {
+              "tag": "p",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "condizioni-generali",
+                "style": "float: none;"
+              }
+            },
+            {
+              "tag": "p",
+              "attrs": {
+                "class": "macroarea"
+              }
+            },
+            {
+              "tag": "b",
+              "attrs": {}
+            },
+            {
+              "tag": "p",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-footer"
+              }
+            },
+            {
+              "tag": "button",
+              "attrs": {
+                "type": "button",
+                "class": "btn btn-default",
+                "data-dismiss": "modal"
+              }
+            }
+          ]
+        },
+        {
+          "id": "modal-14158",
+          "name": "Fastweb Gas Flat Maxi",
+          "same_modal_text_as_previous_acquisition": true,
+          "text_sha256": "39e13b7f371fd1c98eb2d07a82f2432b9c8eac052301fa6621d5e8e88117f8de",
+          "tags": {
+            "div": 7,
+            "button": 2,
+            "h3": 1,
+            "p": 3,
+            "b": 1
+          },
+          "all_attributes": [
+            {
+              "tag": "div",
+              "attrs": {
+                "id": "modal-14158",
+                "class": "modal fade",
+                "role": "dialog"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-dialog"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-content"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-header"
+              }
+            },
+            {
+              "tag": "button",
+              "attrs": {
+                "type": "button",
+                "class": "close",
+                "data-dismiss": "modal"
+              }
+            },
+            {
+              "tag": "h3",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-body modal-mt-text"
+              }
+            },
+            {
+              "tag": "p",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "condizioni-generali",
+                "style": "float: none;"
+              }
+            },
+            {
+              "tag": "p",
+              "attrs": {
+                "class": "macroarea"
+              }
+            },
+            {
+              "tag": "b",
+              "attrs": {}
+            },
+            {
+              "tag": "p",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-footer"
+              }
+            },
+            {
+              "tag": "button",
+              "attrs": {
+                "type": "button",
+                "class": "btn btn-default",
+                "data-dismiss": "modal"
+              }
+            }
+          ]
+        },
+        {
+          "id": "modal-14157",
+          "name": "Fastweb Gas Flat Pro",
+          "same_modal_text_as_previous_acquisition": true,
+          "text_sha256": "a51da39a404bc768f321f4c8fd4fde496aac88d6acb965c43e1d3143fa58e810",
+          "tags": {
+            "div": 7,
+            "button": 2,
+            "h3": 1,
+            "p": 3,
+            "b": 1
+          },
+          "all_attributes": [
+            {
+              "tag": "div",
+              "attrs": {
+                "id": "modal-14157",
+                "class": "modal fade",
+                "role": "dialog"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-dialog"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-content"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-header"
+              }
+            },
+            {
+              "tag": "button",
+              "attrs": {
+                "type": "button",
+                "class": "close",
+                "data-dismiss": "modal"
+              }
+            },
+            {
+              "tag": "h3",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-body modal-mt-text"
+              }
+            },
+            {
+              "tag": "p",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "condizioni-generali",
+                "style": "float: none;"
+              }
+            },
+            {
+              "tag": "p",
+              "attrs": {
+                "class": "macroarea"
+              }
+            },
+            {
+              "tag": "b",
+              "attrs": {}
+            },
+            {
+              "tag": "p",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-footer"
+              }
+            },
+            {
+              "tag": "button",
+              "attrs": {
+                "type": "button",
+                "class": "btn btn-default",
+                "data-dismiss": "modal"
+              }
+            }
+          ]
+        },
+        {
+          "id": "modal-14155",
+          "name": "Fastweb Gas Flat Light",
+          "same_modal_text_as_previous_acquisition": true,
+          "text_sha256": "d438f490f3002d651f103f6cb777c6064d970b913ecee2b586824a2aa50635cf",
+          "tags": {
+            "div": 7,
+            "button": 2,
+            "h3": 1,
+            "p": 3,
+            "b": 1
+          },
+          "all_attributes": [
+            {
+              "tag": "div",
+              "attrs": {
+                "id": "modal-14155",
+                "class": "modal fade",
+                "role": "dialog"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-dialog"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-content"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-header"
+              }
+            },
+            {
+              "tag": "button",
+              "attrs": {
+                "type": "button",
+                "class": "close",
+                "data-dismiss": "modal"
+              }
+            },
+            {
+              "tag": "h3",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-body modal-mt-text"
+              }
+            },
+            {
+              "tag": "p",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "condizioni-generali",
+                "style": "float: none;"
+              }
+            },
+            {
+              "tag": "p",
+              "attrs": {
+                "class": "macroarea"
+              }
+            },
+            {
+              "tag": "b",
+              "attrs": {}
+            },
+            {
+              "tag": "p",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-footer"
+              }
+            },
+            {
+              "tag": "button",
+              "attrs": {
+                "type": "button",
+                "class": "btn btn-default",
+                "data-dismiss": "modal"
+              }
+            }
+          ]
+        },
+        {
+          "id": "modal-14151",
+          "name": "Fastweb Gas Flat Start",
+          "same_modal_text_as_previous_acquisition": true,
+          "text_sha256": "0feeca084b132a0fdd984301f6504eafcc066765744a4604d2a853d8fd746892",
+          "tags": {
+            "div": 7,
+            "button": 2,
+            "h3": 1,
+            "p": 3,
+            "b": 1
+          },
+          "all_attributes": [
+            {
+              "tag": "div",
+              "attrs": {
+                "id": "modal-14151",
+                "class": "modal fade",
+                "role": "dialog"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-dialog"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-content"
+              }
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-header"
+              }
+            },
+            {
+              "tag": "button",
+              "attrs": {
+                "type": "button",
+                "class": "close",
+                "data-dismiss": "modal"
+              }
+            },
+            {
+              "tag": "h3",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-body modal-mt-text"
+              }
+            },
+            {
+              "tag": "p",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "condizioni-generali",
+                "style": "float: none;"
+              }
+            },
+            {
+              "tag": "p",
+              "attrs": {
+                "class": "macroarea"
+              }
+            },
+            {
+              "tag": "b",
+              "attrs": {}
+            },
+            {
+              "tag": "p",
+              "attrs": {}
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "modal-footer"
+              }
+            },
+            {
+              "tag": "button",
+              "attrs": {
+                "type": "button",
+                "class": "btn btn-default",
+                "data-dismiss": "modal"
+              }
+            }
+          ]
+        }
+      ],
+      "structured_json_scripts": 0,
+      "price_profile_named_fields": []
+    }
+  },
+  "scripts": {
+    "filtriAvanzati": {
+      "source": {
+        "path": "/tmp/lmb-canoni-filtriAvanzati.js",
+        "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/static/js/filtriAvanzati.js",
+        "bytes": 13334,
+        "sha256": "ead600a1f3d0a99767e9ee8406a581063dcb402bff385fb936e6e95f1b60115b"
+      },
+      "observed_service_lines": [
+        {
+          "line": 143,
+          "text": "url: url+\"/api/rs/it/portal/geoService.json?cap-comune=\"+cap,"
+        }
+      ],
+      "non_sii_function_lines": [
+        {
+          "line": 408,
+          "text": "function ricercaAvanzataNotSII(){"
+        },
+        {
+          "line": 412,
+          "text": "$('#raffinaRicercaNotSII').submit();"
+        },
+        {
+          "line": 414,
+          "text": "function selectSortingNoSII(elem){"
+        },
+        {
+          "line": 423,
+          "text": "function submitOrderingNotSII(order, orderBy, elem) {"
+        },
+        {
+          "line": 428,
+          "text": "ricercaAvanzataNotSII();"
+        }
+      ]
+    },
+    "confrontaOfferte": {
+      "source": {
+        "path": "/tmp/lmb-canoni-confrontaOfferte.js",
+        "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/static/js/confrontaOfferte.js",
+        "bytes": 34282,
+        "sha256": "82c127ed1caf3001b3968ca32428b2f5a5fbf0931c0879626ca70f0a998c9de1"
+      },
+      "observed_service_lines": [
+        {
+          "line": 253,
+          "text": "url: url+\"/api/rs/it/portal/geoService.json?cap-comune=\"+cap,"
+        },
+        {
+          "line": 687,
+          "text": "url: context+\"/api/rs/it/\"+method_misure+\".json?code=\"+fornitura_selezionata_obj[0].codice_pod_pdr"
+        },
+        {
+          "line": 908,
+          "text": "url: url+\"/api/rs/it/portal/offertaConfrontoService.json\","
+        }
+      ],
+      "non_sii_function_lines": []
+    },
+    "mainCommon": {
+      "source": {
+        "path": "/tmp/lmb-canoni-mainCommon.js",
+        "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/static/js/mainCommon.js",
+        "bytes": 10642,
+        "sha256": "bc5155e81dc8888a71509476dbad908b8aab388640a2f510c1ab221b79c8d808"
+      },
+      "observed_service_lines": [
+        {
+          "line": 64,
+          "text": "url: url+\"/api/rs/it/portal/questionarioService.json\","
+        },
+        {
+          "line": 144,
+          "text": "url: url+\"/api/rs/it/portal/venditoriService.json\","
+        },
+        {
+          "line": 185,
+          "text": "url: url+\"/api/rs/it/portal/geoService.json\","
+        }
+      ],
+      "non_sii_function_lines": []
+    }
+  },
+  "open_data": {
+    "source": {
+      "path": "/tmp/lmb-canoni-open-data.html",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/it/open-data.page",
+      "bytes": 46042,
+      "sha256": "8462053a948153bf5090ff19904c324e5840bea83eb548c47f55150015912c1a"
+    },
+    "download_links": [
+      "https://www.ilportaleofferte.it/portaleOfferte/resources/cms/documents/0c916785cbc1c33483b3dee7fc53c7a5.csv",
+      "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerte/2026_10/PO_Offerte_E_PLACET_20261027.csv",
+      "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametri/2026_10/PO_Parametri_E_20261027.csv",
+      "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerte/2026_10/PO_Offerte_G_PLACET_20261027.csv",
+      "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametri/2026_10/PO_Parametri_G_20261027.csv",
+      "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_10/PO_Offerte_E_MLIBERO_20261027.xml",
+      "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametriML/2026_10/PO_Parametri_Mercato_Libero_E_20261027.csv",
+      "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_10/PO_Offerte_G_MLIBERO_20261027.xml",
+      "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametriML/2026_10/PO_Parametri_Mercato_Libero_G_20261027.csv",
+      "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_10/PO_Offerte_D_MLIBERO_20261027.xml"
+    ]
+  },
+  "site_search": {
+    "source": {
+      "path": "/tmp/lmb-canoni-site-search.html",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/it/cerca-nel-sito.page?search=Fastweb%20Luce%20Flat%20Light",
+      "bytes": 34124,
+      "sha256": "91da545ee864778b58ee9b3a85b7648b520d0ed3eab4f6c2a7429103bf4799b9"
+    },
+    "query": "Fastweb Luce Flat Light",
+    "observed_message": "Nessun risultato trovato",
+    "caveat": "The CMS search is not proven to index all catalog offers. This negative result is not proof of global absence."
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "publication_index": "https://gme.mercatoelettrico.org/it-it/Home/Pubblicazioni/PrezzoMedioFasce",
+  "index_2025": "https://gme.mercatoelettrico.org/it-it/Home/Pubblicazioni/PrezzoMedioFasce/moduleId/4845/controller/StatRapportiME/action/Index?val=Settimanale&anno=2025&mese=1",
+  "available_pdf_links": [
+    "https://gme.mercatoelettrico.org/Portals/0/Documents/it-IT/20260204PrezzomedioperfasceGennaio2026.pdf",
+    "https://gme.mercatoelettrico.org/Portals/0/Documents/it-IT/20260302PrezzomedioperfasceFebbraio2026.pdf",
+    "https://gme.mercatoelettrico.org/Portals/0/Documents/it-IT/20260401PrezzomedioperfasceMarzo2026.pdf",
+    "https://gme.mercatoelettrico.org/Portals/0/Documents/it-IT/20260504PrezzomedioperfasceAprile2026.pdf",
+    "https://gme.mercatoelettrico.org/Portals/0/Documents/it-IT/20260601PrezzomedioperfasceMaggio2026.pdf",
+    "https://gme.mercatoelettrico.org/Portals/0/Documents/it-IT/20260703PrezzomedioperfasceGiugno2026.pdf",
+    "https://gme.mercatoelettrico.org/Portals/0/Documents/it-IT/20260803PrezzomedioperfasceLuglio2026.pdf",
+    "https://gme.mercatoelettrico.org/Portals/0/Documents/it-IT/20260902PrezzomedioperfasceAgosto2026.pdf",
+    "https://gme.mercatoelettrico.org/Portals/0/Documents/it-IT/20260930PrezzomedioperfasceSettembre2026.pdf",
+    "https://gme.mercatoelettrico.org/Portals/0/Documents/it-IT/20250203PrezzomedioperfasceGennaio2025.pdf",
+    "https://gme.mercatoelettrico.org/Portals/0/Documents/it-IT/20250303PrezzomedioperfasceFebbraio2025.pdf",
+    "https://gme.mercatoelettrico.org/Portals/0/Documents/it-IT/20250403PrezzomedioperfasceMarzo2025.pdf",
+    "https://gme.mercatoelettrico.org/Portals/0/Documents/it-IT/20250502PrezzomedioperfasceAprile2025.pdf",
+    "https://gme.mercatoelettrico.org/Portals/0/Documents/it-IT/20250603PrezzomedioperfasceMaggio2025.pdf",
+    "https://gme.mercatoelettrico.org/Portals/0/Documents/it-IT/20250702PrezzomedioperfasceGiugno2025.pdf",
+    "https://gme.mercatoelettrico.org/Portals/0/Documents/it-IT/20250804PrezzomedioperfasceLuglio2025.pdf",
+    "https://gme.mercatoelettrico.org/Portals/0/Documents/it-IT/20250903PrezzomedioperfasceAgosto2025.pdf",
+    "https://gme.mercatoelettrico.org/Portals/0/Documents/it-IT/20251003PrezzomedioperfasceSettembre2025.pdf",
+    "https://gme.mercatoelettrico.org/Portals/0/Documents/it-IT/20251103PrezzomedioperfasceOttobre2025.pdf",
+    "https://gme.mercatoelettrico.org/Portals/0/Documents/it-IT/20251203PrezzomedioperfasceNovembre2025.pdf",
+    "https://gme.mercatoelettrico.org/Portals/0/Documents/it-IT/20260105PrezzomedioperfasceDicembre2025.pdf"
+  ],
+  "verified_samples": [
+    {
+      "month": "2025-11",
+      "hours": {
+        "F1": 220,
+        "F2": 164,
+        "F3": 336
+      },
+      "prices_eur_mwh": {
+        "F1": "129.59",
+        "F2": "124.02",
+        "F3": "105.51"
+      },
+      "file": "/tmp/lmb-gme-fasce-202511.pdf",
+      "url": "https://gme.mercatoelettrico.org/Portals/0/Documents/it-IT/20251203PrezzomedioperfasceNovembre2025.pdf",
+      "sha256": "6f29c654a4da8ca84a5783ac31b45ddefad11e0382db02a05a649b402381bd8a"
+    },
+    {
+      "month": "2025-12",
+      "hours": {
+        "F1": 220,
+        "F2": 164,
+        "F3": 360
+      },
+      "prices_eur_mwh": {
+        "F1": "130.09",
+        "F2": "119.98",
+        "F3": "104.52"
+      },
+      "file": "/tmp/lmb-gme-fasce-202512.pdf",
+      "url": "https://gme.mercatoelettrico.org/Portals/0/Documents/it-IT/20260105PrezzomedioperfasceDicembre2025.pdf",
+      "sha256": "78e6ebf867a5551a4f6f1209326853e5d5ec1fcc5a81099f5f83480d3bf4264a"
+    },
+    {
+      "month": "2026-09",
+      "hours": {
+        "F1": 242,
+        "F2": 174,
+        "F3": 304
+      },
+      "prices_eur_mwh": {
+        "F1": "206.35",
+        "F2": "227.58",
+        "F3": "197.02"
+      },
+      "file": "/tmp/lmb-gme-fasce-202609.pdf",
+      "url": "https://gme.mercatoelettrico.org/Portals/0/Documents/it-IT/20260930PrezzomedioperfasceSettembre2026.pdf",
+      "sha256": "2fef2a779d171d252b8eade6aaee2b7bc93c03be9738101e60911ec06cdaecb9"
+    }
+  ],
+  "proposed_example_not_approved": {
+    "future_month": "2026-11",
+    "base_eur_mwh": "219.44",
+    "historical_month": "2025-11",
+    "future_band_hours": [
+      231,
+      169,
+      320
+    ],
+    "historical_price_normalizer_future_hours": "117.580375",
+    "derived_F1_F2_F3_eur_mwh": [
+      "241.8535372080587427961511434",
+      "231.4582582339952564362887939",
+      "196.9130851981038502386133740"
+    ],
+    "weighted_mean": "219.4400000000000000000000"
+  }
+}

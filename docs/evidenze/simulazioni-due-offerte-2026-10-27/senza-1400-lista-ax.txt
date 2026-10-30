@@ -1,0 +1,1430 @@
+Browser tab: 190212182, Title: "Lista Offerte | Portale Offerte", URL: "https://www.ilportaleofferte.it/portaleOfferte/it/confronta_offerte.page".
+1 AXWebArea Lista Offerte | Portale Offerte, URL: ilportaleofferte.it/portaleOfferte/it/confronta_o…
+	2 container wrapperHeight
+		3 container mainheader
+			4 container skip-link
+				5 link Description: Vai al contenuto della pagina, Value: ilportaleofferte.it/portaleOfferte/it/confronta_o…
+				6 link Description: Vai a fondo pagina, Value: ilportaleofferte.it/portaleOfferte/it/confronta_o…
+			7 container
+				8 link Description: Logo Arera, Help: Link esterno al sito di Arera, Value: arera.it/
+				9 link Description: Logo Acquirente Unico, Help: Link esterno al sito di Acquirente Unico, Value: acquirenteunico.it/
+				10 link Description: Nascondi loghi , Help: Nascondi i loghi, Value: javascript:hideLoghi();
+			11 container
+				12 link Description: Logo Portale delle Offerte luce e gas, Value: ilportaleofferte.it/portaleOfferte/
+				13 heading Portale Offerte luce e gas, Value: 1
+					14 link Description: Portale Offerte luce e gas, Help: Portale delle offerte, Value: ilportaleofferte.it/portaleOfferte/it/homepage.pa…
+				15 container
+					16 link (collapsed) Description:           Accedi, Value: ilportaleofferte.it/portaleOfferte/it/confronta_o…, Secondary Actions: Expand
+					17 container
+						18 checkbox (settable, integer) 0
+						19 text  Seleziona l'opzione in caso di identità Persona Giuridica
+			20 container sub_nav
+				21 heading Submenu, Value: 2
+					22 text Submenu
+				23 content list
+					24 link Description: SCOPRI , Help: Apri il menù: Scopri, Value: ilportaleofferte.it/portaleOfferte/it/scopri.page
+					25 link Description: CONFRONTA, Help: Vai alla pagina: Confronta, Value: ilportaleofferte.it/portaleOfferte/it/confronto-t…
+					26 link Description: TRASPARENZA , Help: Apri il menù: Trasparenza, Value: ilportaleofferte.it/portaleOfferte/it/trasparenza…
+					27 link Description: LE TUE OFFERTE, Help: Vai alla pagina: Le tue offerte, Value: ilportaleofferte.it/portaleOfferte/it/le-tue-forn…
+					28 button   , Help: Cerca, ID: btn_lens
+		29 container navbar
+			30 link Description: Chiudi, Help: Chiudi il menù, Value: ilportaleofferte.it/portaleOfferte/it/confronta_o…, ID: closeMenu
+			31 content list mainmenu
+				32 link Description: HOMEPAGE, Help: Vai alla pagina principale, Value: ilportaleofferte.it/portaleOfferte/it/homepage.pa…
+				33 container
+					34 text SCOPRI
+					35 content list scopri-submenu
+						36 link Description: Portale Offerte, Help: Vai alla pagina: Portale Offerte, Value: ilportaleofferte.it/portaleOfferte/it/portale_off…
+						37 link Description: Mercato Libero, Help: Vai alla pagina: Mercato Libero, Value: ilportaleofferte.it/portaleOfferte/it/mercato-lib…
+						38 link Description: Offerte PLACET, Help: Vai alla pagina: Offerte PLACET, Value: ilportaleofferte.it/portaleOfferte/it/placet-offe…
+						39 link Description: Servizi di Tutela, Help: Vai alla pagina: Servizi di Tutela, Value: ilportaleofferte.it/portaleOfferte/it/servizio-ma…
+						40 link Description: Cambio Venditore, Help: Vai alla pagina: Cambio Venditore, Value: ilportaleofferte.it/portaleOfferte/it/cambio-forn…
+						41 link Description: Domande frequenti, Help: Vai alla pagina: Domande frequenti, Value: ilportaleofferte.it/portaleOfferte/it/domande_fre…
+						42 link Description: Video tutorial, Help: Vai alla pagina: Video tutorial, Value: ilportaleofferte.it/portaleOfferte/it/video-tutor…
+				43 link Description: CONFRONTA, Help: Vai alla pagina: Confronta, Value: ilportaleofferte.it/portaleOfferte/it/confronto-t…
+				44 container
+					45 text TRASPARENZA
+					46 content list trasparenza-submenu
+						47 link Description: Chi siamo, Help: Vai alla pagina: Chi siamo, Value: ilportaleofferte.it/portaleOfferte/it/sistema-inf…
+						48 link Description: Open Data, Help: Vai alla pagina: Open Data, Value: ilportaleofferte.it/portaleOfferte/it/open-data.p…
+						49 link Description: Calcolo della Spesa, Help: Vai alla pagina: Calcolo della Spesa, Value: ilportaleofferte.it/portaleOfferte/it/calcolo-bol…
+						50 link Description: Risultati questionario, Help: Vai alla pagina: Risultati questionario, Value: ilportaleofferte.it/portaleOfferte/it/risultati-q…
+				51 link Description: LE TUE OFFERTE, Help: Vai alla pagina: Le tue offerte, Value: ilportaleofferte.it/portaleOfferte/it/le-tue-forn…
+		52 container main
+			53 container
+				54 link Description: HOME, Help: Vai alla pagina Homepage, Value: ilportaleofferte.it/portaleOfferte/it/homepage.pa…
+				55 text >  CONFRONTA
+			56 heading Confronta le offerte, Value: 2
+				57 text Confronta le offerte
+			58 content list step
+				59 text 1
+				60 link Description: Tipo di offerta, Value: ilportaleofferte.it/portaleOfferte/it/confronta_o…
+				61 text 2
+				62 link Description: Caratteristiche dell'offerta, Value: ilportaleofferte.it/portaleOfferte/it/confronta_o…
+				63 text 3
+				64 link Description: Elenco delle offerte, Value: ilportaleofferte.it/portaleOfferte/it/risultato.h…
+			65 container raffinaRicercaGas
+				66 container
+					67 text MODIFICA LA RICERCA
+					68 link (collapsed) Description: + Apri i filtri di ricerca, Help: Espandi, Value: javascript:void(0);, ID: tariffaExpander, Secondary Actions: Expand
+				69 container
+					70 heading ULTERIORI FILTRI, Value: 3
+						71 text ULTERIORI FILTRI
+					72 container filtriAvanzati
+						73 container venditori
+							74 text Venditori
+							75 list Venditori, ID: listaVenditori
+								76 Esercente i servizi di tutela
+								77 +energia spa
+								78 100ENERGIA SRL
+								79 2G energia srl
+								80 4G Energia srl
+								81 5 G SRL
+								82 8Energy Srl
+								83 A.F. ENERGIA SRL
+								84 A.G. ENERGIA S.R.L.
+								85 A2A ENERGIA SPA
+								86 Abaco Energia S.r.l.
+								87 ABY POWER SRL
+								88 Acea Energia Spa
+								89 ACIENERGIA S.R.L.
+								90 AECLANUM ENERGIA S.R.L.
+								91 AGES TRADE SPA
+								92 AGF ENERGY S.P.A.
+								93 AGN ENERGIA S.P.A.
+								94 AGROENERGIA S.R.L.
+								95 ALFANO ENERGIA S.P.A.
+								96 ALLEANZA LUCE&GAS S.p.A. - in breve ALG S.p.A.
+								97 Alperia BWC Energy Srl
+								98 Alperia FELIX Energy Srl
+								99 ALPERIA SMART SERVICES SRL
+								100 ALPHASTAR
+								101 ANTENORE ENERGIA SRL
+								102 ARCADIA ITALIA S.R.L.
+								103 ARGOS S.R.L. – Socio Unico
+								104 ARIA ENERGIA SRL
+								105 Asec Trade Srl
+								106 Asm Energia S.p.A.
+								107 ASM Vendita e Servizi srl
+								108 ASPM ENERGIA S.R.L.
+								109 ASSET SOLARE SRL
+								110 ASTEA ENERGIA SPA
+								111 ASTI ENERGY S.R.L.
+								112 ATENA TRADING SRL
+								113 ATERNO GAS & POWER S.R.L.
+								114 ATS Power srl
+								115 ATTIVA PIU' S.R.L.
+								116 AUDAX ENERGÍA
+								117 AUGUSTA RATIO S.P.A..
+								118 AUSONIA ENERGIA SRL
+								119 Axpo Italia S.p.A.
+								120 Azienda Energia e Gas Società Cooperativa
+								121 BARI ENERGIA SRL
+								122 BARTON ENERGY S.p.A.
+								123 BASENGAS VENDITA S.R.L.
+								124 BASILICATA ENERGIA SRL
+								125 Be One Spa
+								126 BEYFIN ENERGY S.R.L.
+								127 BLU GAS METANO
+								128 BLUE LUCE E GAS SRL
+								129 Broni Stradella Gas e Luce S.r.l.
+								130 ButanGas SpA
+								131 CAMER GAS & POWER SRL
+								132 CAMPIDONICO ENERGY S.R.L.
+								133 Cava Energia S.r.l.
+								134 Central Energy S.r.l.
+								135 CENTRO VENETO ENERGIE S.R.L.
+								136 CH4 S.R.L. A SOCIO UNICO
+								137 Cogeme Energia Srl
+								138 COGESER ENERGIA S.R.L.
+								139 COIMEPA SERVIZI S.R.L.
+								140 Compagnia Energetica Italiana S.p.A.
+								141 CONFINDUSTRIA ENERGIA ADRIATICA SOC. CONS. A R.L.
+								142 Convenergy Srl
+								143 Convergenze S.p.a.
+								144 COSTRUZIONI ENERGIA S.r.l.
+								145 Crai Energy S.r.l.
+								146 DADA ENERGY SRL
+								147 Deloa Energy
+								148 DELTA ENERGY SRL
+								149 DOLOMITI ENERGIA MERCATO SPA
+								150 DOMINO ENERGIA S.R.L.
+								151 DUFERCO ENERGIA SPA
+								152 E'-DIENERGIA SRL
+								153 E.ON Energia S.p.A.
+								154 E3 ENERGY POWER & GAS S.R.L.
+								155 EASY LUCE & GAS SRL
+								156 Eco Trade s.r.l.
+								157 ECOENERGIA S.R.L.
+								158 Ecogreen S.r.l.
+								159 ECOM S.P.A.
+								160 Edison Energia S.p.A.
+								161 EGOENERGIA SRL
+								162 Egogreen Srl
+								163 ègreen Srl
+								164 Eko 360 srl
+								165 ELETTRAGAS SRL
+								166 ELIT Energia S.r.l.
+								167 ELO Energy S.r.l.
+								168 EMME2SERVIZI S.R.L.
+								169 Enegan S.P.A.
+								170 Eneide Luce e Gas
+								171 Enel Energia S.p.A.
+								172 ENERBI SRL
+								173 ENERCOM
+								174 ENERFLUX S.R.L.
+								175 ENERG.IT SPA
+								176 ENERGENTIUM SOCIETA` BENEFIT S.R.L. A SOCIO UNICO
+								177 Energetic Gas & Power S.r.l.
+								178 ENERGETICA SRL
+								179 ENERGIA AZZURRA SRL
+								180 Energia Capitale ESCo Srl
+								181 Energia corrente Srl
+								182 Energia Nazionale S.r.l.
+								183 ENERGIA PIU S.R.L.
+								184 ENERGIA POPOLARE
+								185 ENERGIA PULITA S.R.L.
+								186 Energia Sensibile Srl
+								187 ENERGIA SOCIALE S.p.A.
+								188 ENERGIA SOSTENIBILE SRL
+								189 ENERGIA VERDE ITALIA S.P.A.
+								190 ENERGIA.0 SRL
+								191 ENERGICA S.r.l.
+								192 ENERGIE ECOLOGICHE SRL
+								193 ENERGIE PUGLIA SRL
+								194 ENERGIECHIARE S.R.L.
+								195 ENERGIENOVE società cooperativa
+								196 Energy Life Srl
+								197 ENERGY POWER SOCIETA' A RESPONSABILITA' LIMITATA
+								198 ENERGY PROGRESS S.P.A.
+								199 ENERGY TECNO SPA
+								200 ENERGY WAVE S.P.A.
+								201 ENERGY4U SRL
+								202 ENERGYE S.R.L.
+								203 Energygas Italia S.r.L.
+								204 Enertoscana Srl
+								205 ENERVIVA S.R.L.
+								206 ENGIE ITALIA S.p.A.
+								207 Eni Plenitude S.p.A. Società Benefit
+								208 ENJOY ENERGY SRL
+								209 Enna Next Italia s.r.l.
+								210 ENTRACO S.R.L.
+								211 EPLUS
+								212 ERMES GAS & POWER SRL
+								213 ERRECI SRL
+								214 Esa S.p.A. Società Benefit
+								215 ESTIA ENERGIE SRL
+								216 Estra Energie
+								217 Etrurialucegas S.p.A.
+								218 EUREKA GAS&POWER SRL
+								219 EVISO S.P.A.
+								220 EVO GAS & POWER S.R.L.
+								221 Exergia S.p.A.
+								222 Fastweb S.p.A.
+								223 FENIX SRL
+								224 FIORESE BERNARDINO
+								225 FONTE ENERGIA S.R.L.
+								226 FONTEL S.P.A
+								227 FORINI S.P.A.
+								228 FOURWINDS ENERGY S.R.L.
+								229 FREE LUCE& GAS S.P.A.
+								230 Futura Power Srl
+								231 FUTURA TRADE SRL
+								232 GALA S.P.A.
+								233 GAN ENERGIA SRL
+								234 GAS ENERGIA AMBIENTE SPA
+								235 GAS Più' ENERGIE S.r.l.
+								236 GAZEL SRL
+								237 GEKO S.p.A.
+								238 GELSIA SRL
+								239 GEOPLIN ITALIA
+								240 GESENU ENERGIA S.R.L.
+								241 GEST.I.M. GESTIONE IDRICA E METANO SRL
+								242 GIGA ENERGIA SRL
+								243 Global Power Plus S.r.l.
+								244 GOLDENERGY S.P.A.
+								245 Gorla Energia Srl
+								246 GREEN ENERGY SAVING COMPANY SRL
+								247 Green Gas S.r.l.
+								248 GREEN TELECOMUNICAZIONI SPA
+								249 GREENIUS SRL
+								250 GRUPPO DISTRIBUZIONE ENERGIA SRL
+								251 GRUPPO NORD PETROLI S.R.L.
+								252 Hera Comm S.p.a.
+								253 HYPER ENERGY SRL
+								254 Idea s.r.l.
+								255 ILLUMIA SpA
+								256 INCARICA ENERGIA Srl
+								257 indi globex srl
+								258 InEnergy Gas&Power srl
+								259 INGI SRL
+								260 INNOVA POWER SOCIETA' A RESPONSABILITA' LIMITATA
+								261 INVOLTA SRL
+								262 Iren Mercato SpA
+								263 Issima Srl
+								264 Italia Gas e Luce S.R.L.
+								265 Italia Power S.p.A.
+								266 ITALIAN GAS SRL
+								267 ITALPOWER ENERGIA S.R.L.
+								268 ITALY GREEN POWER S.P.A.
+								269 Kienergia s.r.l.
+								270 Lene Srl
+								271 LENERGIA S.P.A.
+								272 Lenergy Power s.r.l.
+								273 Libarna Gas e Luce Spa
+								274 LIFEGATE Energy Srl – Società Benefit
+								275 LIO ENERGY SRL
+								276 Lion Green S.P.A
+								277 LORO F.lli SPA
+								278 Luce e Gas Italia S.p.A.
+								279 Lumen srl
+								280 LW ENERGY SRL
+								281 Magis Energia S.p.a.
+								282 MARIGLIANO ENERGIA SRL
+								283 MARTELIUS SRL
+								284 MASSIMA ENERGIA S.P.A.
+								285 MAZZOLA & BIGNARDI COMMERCIALE S.P.A.
+								286 MEGAWATT LUCE & GAS S.R.L.
+								287 MET Energia Italia S.p.A.
+								288 metamer srl
+								289 METANO NORD S.P.A.
+								290 METANOSUD ENERGIA S.P.A.
+								291 Mineral Barium Italia Gas e Luce Srl
+								292 MINERVA ENERGIA S.R.L.
+								293 MIWA ENERGIA S.P.A.
+								294 mla systems srl
+								295 MONACO ENERGIA SRL
+								296 MOOREN S.R.L.
+								297 MUST ENERGIA SRL
+								298 NEG S.p.A.
+								299 NEOGAS S.R.L.
+								300 New Energy Srl
+								301 NEXICOM SPA
+								302 NEXTA ENERGIA S.R.L.
+								303 Noi Energetic S.r.l.
+								304 NoiEnergia srl
+								305 NOVA AEG S.P.A.
+								306 NOVA S.R.L.
+								307 NRG COMPANY S.R.L.
+								308 Nuovenergie Spa
+								309 OCTOPUS ENERGY ITALIA SRL
+								310 Oenergy S.p.A.
+								311 OK ENERGIA SRL
+								312 Old New Energy srl
+								313 Olimpia S.r.l.
+								314 Omnia Energia SpA
+								315 ONDA PIU' S.R.L.
+								316 One Power Company Srl
+								317 OPEN GAS S.R.L.
+								318 Optima Italia Spa
+								319 Orakom Energia Srl
+								320 Orangy Srl
+								321 Orbyta Energy Srl
+								322 OV ENERGY S.P.A.
+								323 PANGEA ENERGY S.R.L.
+								324 PEF POWER SPA
+								325 PENTACOM SRL
+								326 PIEMONTE ENERGY S.P.A.
+								327 PLATINUM ENERGY S.P.A.
+								328 PolisEnergia S.r.l.
+								329 POSTEPAY
+								330 Power.it Srl
+								331 POWERGAS S.R.L.
+								332 PRIME ENERGY SRL
+								333 PROENERGY SPA
+								334 Prometeo S.p.A.
+								335 PULSEE S.R.L.
+								336 PURA ENERGIA srl
+								337 QUANTUM ENERGY S.R.L.
+								338 RE CHARGE S.R.L.
+								339 Reale Energia Srl
+								340 Reset S.r.l.
+								341 RESILIA ENERGIA SRL
+								342 REVOLUCE SRL
+								343 RIENERGIA SRL
+								344 RIVERENERGIA S.R.L.
+								345 Rocket Sharing Company S.p.a.
+								346 Romeo Energy S.r.l.
+								347 Rs gas&power srl
+								348 RUBINO PETROLI SRL
+								349 SEGNOVERDE S.P.A.
+								350 SEI Energia S.r.l.
+								351 SELLING COMPANY
+								352 Semplice Gas & Luce S.p.A.
+								353 SENTRA ENERGIA S.P.A.
+								354 SEREN SRL
+								355 SEV S.P.A.
+								356 Sfera Energia SRL
+								357 SG Energia S.p.A. a Socio Unico
+								358 SIENERGY SRL
+								359 SIMA ENERGIA SPA
+								360 SIMECOM S.R.L.
+								361 SINERGAS S.P.A.
+								362 Sirio s.r.l.
+								363 SKY ENERGY SRL
+								364 SMG S.r.l.
+								365 SOCIETA' ELETTRICA SRL
+								366 Società Energy Management S.r.l.
+								367 Socoplus Srl
+								368 SOLEA LUCE & GAS SRL
+								369 SOLGAS S.P.A.
+								370 SOMET ENERGIA SRL
+								371 Sorgenia S.p.A.
+								372 Sorgente Gas e Power S.r.l.
+								373 Sprint Energy Srl
+								374 START SRL - SB
+								375 Sunrise Energia
+								376 SVE VENDITA ENERGIE SRL
+								377 Switch luce & Gas S.r.l.
+								378 Tea Energia s.r.l.
+								379 TEKNOENERGY SRL
+								380 Thema Energia S.r.l.
+								381 TIP POWER&GAS SRL
+								382 TIRRENIA ENERGIA S.R.L.
+								383 Top Energy srl
+								384 TOUCH SOCIETA' A RESPONSABILITA' LIMITATA
+								385 Tres Energia S.p.A.
+								386 Tua Energia S.r.l.
+								387 Tua Srl
+								388 uBroker S.p.A.
+								389 Umbria Energy Spa
+								390 Uni.Co.G.E. S.r.l.
+								391 Union Gas Metano S.p.A.
+								392 UNION SRL
+								393 UNIPOWER S.R.L.
+								394 UNOENERGY SPA
+								395 UTILITA' SPA
+								396 VALCHIAVENNA ENERGIE SRL
+								397 Veneto Energia S.r.l.
+								398 VENETO GAS&POWER SRL
+								399 VERONA SERVICE S.R.L.
+								400 VESTINA GAS & LUCE S.P.A.
+								401 VISIOLI S.P.A.
+								402 Vivigas S.p.A.
+								403 Volta Srl
+								404 Volty S.r.l.
+								405 VUS COM SRL
+								406 WEEDOO S.P.A.
+								407 WIND TRE LUCE E GAS SRL
+								408 WOW ENERGIA S.R.L.
+								409 X ENERGY SRL
+								410 XL ENERGIA E GAS SRL
+								411 YADA ENERGIA S.R.L
+								412 YEE S.r.l.
+								413 Yes Energy Srl
+								414 You and Me srl
+						415 container tariffa
+							416 text Nome offerta
+							417 text field (settable) Nome offerta, ID: offertaName
+							418 text Codice offerta
+							419 text field (settable) Codice offerta, ID: codiceOfferta
+							420 text Categoria offerta
+							421 pop up button (collapsed, settable) Categoria offerta, Value: Tutte, ID: categoriaOfferta, Secondary Actions: Expand
+								422 menu
+									423 (selected) Tutte
+									424 PLACET
+									425 Mercato Libero
+									426 Servizi di tutela
+							427 checkbox (settable, integer) Description: Solo miste, Value: 0, ID: miste
+							428 text Sconti sempre applicabili
+							429 pop up button (collapsed, settable) ID: scontiCondizionati, Secondary Actions: Expand
+								430 menu
+									431 (selected)
+									432 Si
+									433 No
+							434 text Sconti
+							435 pop up button (collapsed, settable) Sconti sempre applicabili Sconti Garanzie, ID: sconti, Secondary Actions: Expand
+								436 menu
+									437 (selected)
+									438 Sul prezzo di Tutela
+									439 Una tantum
+									440 Qualsiasi
+							441 text Prodotti e servizi aggiuntivi
+							442 list Prodotti e servizi aggiuntivi, ID: prodServAggiuntivi
+								443 Caldaia
+								444 Mobility
+								445 Solare termico
+								446 Fotovoltaico
+								447 Climatizzazione
+								448 Polizza assicurativa
+								449 Altro
+							450 text Modalità attivazione
+							451 pop up button (collapsed, settable) Modalità attivazione, ID: idAttivazioneOfferta, Secondary Actions: Expand
+								452 menu
+									453 (selected)
+									454 Qualsiasi canale
+									455 Web
+									456 Punto vendita
+									457 Teleselling
+							458 text Garanzie
+							459 pop up button (collapsed, settable) ID: garanziePresenti, Secondary Actions: Expand
+								460 menu
+									461 (selected)
+									462 Si
+									463 No
+							464 text Modalità di pagamento
+							465 list Modalità di pagamento, ID: modalitaPagamento
+								466 Domiciliazione bancaria
+								467 Domiciliazione postale
+								468 Domiciliazione su carta di credito
+								469 Bollettino precompilato
+								470 Altro
+							471 checkbox (settable, integer) Description: Nuovo contratto, Value: 0, ID: idAttivazioneContratto
+						472 button Confronta
+			473 container resultContainer (showing 0-500 of 4309 items)
+				474 container Risultati della ricerca
+					475 text Risultati della ricerca
+					476 container
+						477 text SONO STATE TROVATE   1417  OFFERTE
+					478 content list
+						479 link (collapsed) Description: Ordina per...   , Value: ilportaleofferte.it/portaleOfferte/it/confronta_o…, Secondary Actions: Expand
+				480 text La spesa annua riportata rappresenta una stima e si basa su dati di consumo dichiarati dall’utente, o stimati, che si possono discostare dai consumi futuri e su prezzi che nel tempo possono variare. I prezzi della materia prima per il calcolo della spesa fanno riferimento alle previsioni di prezzo disponibili alla data di consultazione del Portale Offerte.
+				481 heading Elenco offerte da confrontare, Value: 3
+					482 text Elenco offerte da confrontare
+				483 text LA TUA OFFERTA
+				484 container
+					485 link Description: A.G. ENERGIA S.R.L., Help: Vai al sito di A.G. ENERGIA S.R.L., Value: openenergia.it/
+					486 text Senza Pensieri S Domestico
+					487 text cod. 
+					488 text 029886GSVML01XXSENZAPENSIDOMGAS3 Valida dal 08/10/2026 al 31/10/2026
+					489 image Presenza di servizi aggiuntivi
+					490 image Sconti non sempre applicabili
+					491 image Offerta mista
+				492 text 2.655,99 € annui
+				493 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					494 text VAI AL DETTAGLIO   
+				495 container
+					496 text +333,04 €
+					497 text rispetto a Tutela della Vulnerabilità
+				498 container
+					499 text TUTTI GLI OPERATORI Tutela della Vulnerabilità
+				500 text 2.322,95 € annui
+				501 container Val al dettaglio della Maggior Tutela
+					502 text VAI AL DETTAGLIO   
+				503 image Description: Logo ERRECI SRL, Help: ERRECI SRL
+				504 container
+					505 link Description: ERRECI SRL, Help: Vai al sito di ERRECI SRL, Value: erreci.info/
+					506 text DECA
+					507 text cod. 
+					508 text 007970GSVML01XX00000000GASDECAV2 Valida dal 19/09/2026 al 31/10/2026
+				509 text 2.273,61 € annui
+				510 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					511 text VAI AL DETTAGLIO   
+				512 container
+					513 text -382,38 €
+					514 text rispetto alla tua Offerta
+				515 container
+					516 text -49,34 €
+					517 text rispetto a Tutela della Vulnerabilità
+				518 image Description: Logo Crai Energy S.r.l., Help: Crai Energy S.r.l.
+				519 container
+					520 link Description: Crai Energy S.r.l., Help: Vai al sito di Crai Energy S.r.l., Value: craienergy.it/
+					521 text INSIEME GAS SPECIAL
+					522 text cod. 
+					523 text 044142GSVML01XXINSIEMEGASSPECIAL Valida dal 16/10/2026 al 30/11/2026
+					524 image Sconti una-tantum
+					525 image Sconti sempre applicabili
+				526 text 2.280,93 € annui
+				527 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					528 text VAI AL DETTAGLIO   
+				529 container
+					530 text -375,06 €
+					531 text rispetto alla tua Offerta
+				532 container
+					533 text -42,02 €
+					534 text rispetto a Tutela della Vulnerabilità
+				535 image Description: Logo Compagnia Energetica Italiana S.p.A., Help: Compagnia Energetica Italiana S.p.A.
+				536 container
+					537 link Description: Compagnia Energetica Italiana S.p.A., Help: Vai al sito di Compagnia Energetica Italiana S.p.A., Value: compagnia-energetica.it/
+					538 text CASA WEB GAS VARIABILE PO
+					539 text cod. 
+					540 text 014850GSVML01XX000CECREGA2610DGV Valida dal 09/10/2026 al 31/10/2026
+					541 image Sconti una-tantum
+					542 image Sconti sempre applicabili
+				543 text 2.282,11 € annui
+				544 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					545 text VAI AL DETTAGLIO   
+				546 container
+					547 text -373,88 €
+					548 text rispetto alla tua Offerta
+				549 container
+					550 text -40,84 €
+					551 text rispetto a Tutela della Vulnerabilità
+				552 image Description: Logo ENJOY ENERGY SRL, Help: ENJOY ENERGY SRL
+				553 container
+					554 link Description: ENJOY ENERGY SRL, Help: Vai al sito di ENJOY ENERGY SRL, Value: enjoyenergy.it/
+					555 text SuperPromoWeb Halloween 2026
+					556 text cod. 
+					557 text 034939GSVML01XXDWSUPERWGW1026W1X Valida dal 23/10/2026 al 10/11/2026
+					558 image Sconti una-tantum
+					559 image Sconti sempre applicabili
+				560 text 2.282,93 € annui
+				561 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					562 text VAI AL DETTAGLIO   
+				563 container
+					564 text -373,06 €
+					565 text rispetto alla tua Offerta
+				566 container
+					567 text -40,02 €
+					568 text rispetto a Tutela della Vulnerabilità
+				569 image Description: Logo MET Energia Italia S.p.A., Help: MET Energia Italia S.p.A.
+				570 container
+					571 link Description: MET Energia Italia S.p.A., Help: Vai al sito di MET Energia Italia S.p.A., Value: it.met.com/
+					572 text FlexiWeb ZERO GAS Online
+					573 text cod. 
+					574 text 026846GSVML46XX317FLEXIWEBGASXOL Valida dal 27/10/2026 al 20/04/2027
+				575 text 2.288,25 € annui
+				576 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					577 text VAI AL DETTAGLIO   
+				578 container
+					579 text -367,74 €
+					580 text rispetto alla tua Offerta
+				581 container
+					582 text -34,70 €
+					583 text rispetto a Tutela della Vulnerabilità
+				584 image Description: Logo Etrurialucegas S.p.A., Help: Etrurialucegas S.p.A.
+				585 container
+					586 link Description: Etrurialucegas S.p.A., Help: Vai al sito di Etrurialucegas S.p.A., Value: etrurialucegas.it/
+					587 text GAS SCELTA SICURA CASA PIU'
+					588 text cod. 
+					589 text 020151GSVML24XX0GXDOMXPSVXPOXWEB Valida dal 11/09/2026 al 31/12/2026
+				590 text 2.302,89 € annui
+				591 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					592 text VAI AL DETTAGLIO   
+				593 container
+					594 text -353,10 €
+					595 text rispetto alla tua Offerta
+				596 container
+					597 text -20,06 €
+					598 text rispetto a Tutela della Vulnerabilità
+				599 image Description: Logo Energia corrente Srl, Help: Energia corrente Srl
+				600 container
+					601 link Description: Energia corrente Srl, Help: Vai al sito di Energia corrente Srl, Value: energiacorrente.it/
+					602 text Per Te Gas
+					603 text cod. 
+					604 text 000742GSVML01XXECOXTE20261231D01 Valida dal 01/10/2026 al 31/12/2026
+				605 text 2.302,89 € annui
+				606 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					607 text VAI AL DETTAGLIO   
+				608 container
+					609 text -353,10 €
+					610 text rispetto alla tua Offerta
+				611 container
+					612 text -20,06 €
+					613 text rispetto a Tutela della Vulnerabilità
+				614 image Description: Logo GALA S.P.A., Help: GALA S.P.A.
+				615 container
+					616 link Description: GALA S.P.A., Help: Vai al sito di GALA S.P.A., Value: gala.it/
+					617 text GALA GasPremia 50
+					618 text cod. 
+					619 text 000803GSVML01XX00000000000101364 Valida dal 13/11/2025 al 31/12/2026
+					620 image Sconti una-tantum
+					621 image Sconti sempre applicabili
+				622 text 2.304,18 € annui
+				623 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					624 text VAI AL DETTAGLIO   
+				625 container
+					626 text -351,81 €
+					627 text rispetto alla tua Offerta
+				628 container
+					629 text -18,77 €
+					630 text rispetto a Tutela della Vulnerabilità
+				631 image Description: Logo ENGIE ITALIA S.p.A., Help: ENGIE ITALIA S.p.A.
+				632 container
+					633 link Description: ENGIE ITALIA S.p.A., Help: Vai al sito di ENGIE ITALIA S.p.A., Value: engie.it/casa/
+					634 text Energia VedoChiaro
+					635 text cod. 
+					636 text 001714GSVML14XXVECH0001400000000 Valida dal 22/10/2026 al 28/10/2026
+				637 text 2.316,74 € annui
+				638 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					639 text VAI AL DETTAGLIO   
+				640 container
+					641 text -339,25 €
+					642 text rispetto alla tua Offerta
+				643 container
+					644 text -6,21 €
+					645 text rispetto a Tutela della Vulnerabilità
+				646 image Description: Logo ESTIA ENERGIE SRL, Help: ESTIA ENERGIE SRL
+				647 container
+					648 link Description: ESTIA ENERGIE SRL, Help: Vai al sito di ESTIA ENERGIE SRL, Value: estiaenergie.it/
+					649 text OVER 75 GAS CASA
+					650 text cod. 
+					651 text 037000GSVML01XXESTIGASCASAOVER75 Valida dal 06/06/2026 al 31/12/2099
+				652 text 2.317,53 € annui
+				653 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					654 text VAI AL DETTAGLIO   
+				655 container
+					656 text -338,46 €
+					657 text rispetto alla tua Offerta
+				658 container
+					659 text -5,42 €
+					660 text rispetto a Tutela della Vulnerabilità
+				661 container
+					662 link Description: DOMINO ENERGIA S.R.L., Help: Vai al sito di DOMINO ENERGIA S.R.L., Value: dominoenergia.it/
+					663 text GAS NUCLEO - ZERO
+					664 text cod. 
+					665 text 039612GSFML03XXDOMINOBARTDOM0005 Valida dal 12/06/2026 al 30/04/2027
+				666 text 2.317,53 € annui
+				667 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					668 text VAI AL DETTAGLIO   
+				669 container
+					670 text -338,46 €
+					671 text rispetto alla tua Offerta
+				672 container
+					673 text -5,42 €
+					674 text rispetto a Tutela della Vulnerabilità
+				675 container
+					676 link Description: DOMINO ENERGIA S.R.L., Help: Vai al sito di DOMINO ENERGIA S.R.L., Value: dominoenergia.it/
+					677 text GAS CASA ZERO 8
+					678 text cod. 
+					679 text 039612GSFML05XXLUMDOM00000000007 Valida dal 12/06/2026 al 01/06/2027
+				680 text 2.317,53 € annui
+				681 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					682 text VAI AL DETTAGLIO   
+				683 container
+					684 text -338,46 €
+					685 text rispetto alla tua Offerta
+				686 container
+					687 text -5,42 €
+					688 text rispetto a Tutela della Vulnerabilità
+				689 container
+					690 link Description: DOMINO ENERGIA S.R.L., Help: Vai al sito di DOMINO ENERGIA S.R.L., Value: dominoenergia.it/
+					691 text GAS CASA ZERO 8
+					692 text cod. 
+					693 text 039612GSFML05XXB3NDOM00000000007 Valida dal 12/06/2026 al 30/06/2027
+				694 text 2.317,53 € annui
+				695 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					696 text VAI AL DETTAGLIO   
+				697 container
+					698 text -338,46 €
+					699 text rispetto alla tua Offerta
+				700 container
+					701 text -5,42 €
+					702 text rispetto a Tutela della Vulnerabilità
+				703 container
+					704 link Description: DOMINO ENERGIA S.R.L., Help: Vai al sito di DOMINO ENERGIA S.R.L., Value: dominoenergia.it/
+					705 text GAS CASA ZERO 8
+					706 text cod. 
+					707 text 039612GSFML05XXUNIKADOM000000007 Valida dal 12/06/2026 al 30/06/2027
+				708 text 2.317,53 € annui
+				709 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					710 text VAI AL DETTAGLIO   
+				711 container
+					712 text -338,46 €
+					713 text rispetto alla tua Offerta
+				714 container
+					715 text -5,42 €
+					716 text rispetto a Tutela della Vulnerabilità
+				717 container
+					718 link Description: Sunrise Energia, Help: Vai al sito di Sunrise Energia, Value: sunriseenergia.com/
+					719 text GASCasa2FixCap2512
+					720 text cod. 
+					721 text 039679GSFML00XXGASCasa2FixCap251 Valida dal 25/07/2026 al 31/12/2026
+				722 text 2.317,53 € annui
+				723 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					724 text VAI AL DETTAGLIO   
+				725 container
+					726 text -338,46 €
+					727 text rispetto alla tua Offerta
+				728 container
+					729 text -5,42 €
+					730 text rispetto a Tutela della Vulnerabilità
+				731 image Description: Logo Energia corrente Srl, Help: Energia corrente Srl
+				732 container
+					733 link Description: Energia corrente Srl, Help: Vai al sito di Energia corrente Srl, Value: energiacorrente.it/
+					734 text Per Te LINK Gas
+					735 text cod. 
+					736 text 000742GSVML01XXREFXTE20261231D01 Valida dal 01/10/2026 al 31/12/2026
+				737 text 2.317,53 € annui
+				738 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					739 text VAI AL DETTAGLIO   
+				740 container
+					741 text -338,46 €
+					742 text rispetto alla tua Offerta
+				743 container
+					744 text -5,42 €
+					745 text rispetto a Tutela della Vulnerabilità
+				746 container
+					747 link Description: DOMINO ENERGIA S.R.L., Help: Vai al sito di DOMINO ENERGIA S.R.L., Value: dominoenergia.it/
+					748 text GAS CASA AMICI PRIME
+					749 text cod. 
+					750 text 039612GSVML01XX00000000DOMINO011 Valida dal 12/06/2026 al 20/01/2027
+				751 text 2.317,55 € annui
+				752 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					753 text VAI AL DETTAGLIO   
+				754 container
+					755 text -338,44 €
+					756 text rispetto alla tua Offerta
+				757 container
+					758 text -5,40 €
+					759 text rispetto a Tutela della Vulnerabilità
+				760 image Description: Logo UNION SRL, Help: UNION SRL
+				761 container
+					762 link Description: UNION SRL, Help: Vai al sito di UNION SRL, Value: unionenergia.it/
+					763 text UW1GCPWXNMTAA
+					764 text cod. 
+					765 text 027208GSVML01XX00000000000033846 Valida dal 13/10/2026 al 07/12/2026
+					766 image Sconti una-tantum
+					767 image Sconti sempre applicabili
+				768 text 2.324,19 € annui
+				769 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					770 text VAI AL DETTAGLIO   
+				771 container
+					772 text -331,80 €
+					773 text rispetto alla tua Offerta
+				774 container
+					775 text +1,24 €
+					776 text rispetto a Tutela della Vulnerabilità
+				777 image Description: Logo SEGNOVERDE S.P.A., Help: SEGNOVERDE S.P.A.
+				778 container
+					779 link Description: SEGNOVERDE S.P.A., Help: Vai al sito di SEGNOVERDE S.P.A., Value: segnoverde.it/
+					780 text Segno-V-Gas CipCip
+					781 text cod. 
+					782 text 000453GSVML01XX50113SegnoXVXGSEV Valida dal 08/10/2026 al 16/11/2026
+					783 image Sconti una-tantum
+					784 image Sconti sempre applicabili
+				785 text 2.326,85 € annui
+				786 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					787 text VAI AL DETTAGLIO   
+				788 container
+					789 text -329,14 €
+					790 text rispetto alla tua Offerta
+				791 container
+					792 text +3,90 €
+					793 text rispetto a Tutela della Vulnerabilità
+				794 image Description: Logo ENTRACO S.R.L., Help: ENTRACO S.R.L.
+				795 container
+					796 link Description: ENTRACO S.R.L., Help: Vai al sito di ENTRACO S.R.L., Value: entraco.it/
+					797 text GAS BNI
+					798 text cod. 
+					799 text 003855GSVML01XX000000ENCPSVA0699 Valida dal 17/05/2026 al 31/12/2027
+					800 image Sconti sempre applicabili
+				801 text 2.330,10 € annui
+				802 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					803 text VAI AL DETTAGLIO   
+				804 container
+					805 text -325,89 €
+					806 text rispetto alla tua Offerta
+				807 container
+					808 text +7,15 €
+					809 text rispetto a Tutela della Vulnerabilità
+				810 image Description: Logo ENTRACO S.R.L., Help: ENTRACO S.R.L.
+				811 container
+					812 link Description: ENTRACO S.R.L., Help: Vai al sito di ENTRACO S.R.L., Value: entraco.it/
+					813 text CONSUMER SYMPLE
+					814 text cod. 
+					815 text 003855GSVML01XX000000ENCPSVA6050 Valida dal 17/05/2026 al 31/12/2027
+					816 image Sconti sempre applicabili
+				817 text 2.330,10 € annui
+				818 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					819 text VAI AL DETTAGLIO   
+				820 container
+					821 text -325,89 €
+					822 text rispetto alla tua Offerta
+				823 container
+					824 text +7,15 €
+					825 text rispetto a Tutela della Vulnerabilità
+				826 image Description: Logo Prometeo S.p.A., Help: Prometeo S.p.A.
+				827 container
+					828 link Description: Prometeo S.p.A., Help: Vai al sito di Prometeo S.p.A., Value: estraprometeo.it/
+					829 text ESTRA PROMETEO FACILE GAS
+					830 text cod. 
+					831 text 000529GSVML01XXF47XX15102606GNFG Valida dal 15/10/2026 al 30/11/2026
+				832 text 2.334,17 € annui
+				833 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					834 text VAI AL DETTAGLIO   
+				835 container
+					836 text -321,82 €
+					837 text rispetto alla tua Offerta
+				838 container
+					839 text +11,22 €
+					840 text rispetto a Tutela della Vulnerabilità
+				841 image Description: Logo Estra Energie, Help: Estra Energie
+				842 container
+					843 link Description: Estra Energie, Help: Vai al sito di Estra Energie, Value: estra.it/
+					844 text ESTRA FACILE GAS
+					845 text cod. 
+					846 text 001231GSVML01XXF47XX15102606GNFG Valida dal 15/10/2026 al 11/11/2026
+				847 text 2.334,17 € annui
+				848 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					849 text VAI AL DETTAGLIO   
+				850 container
+					851 text -321,82 €
+					852 text rispetto alla tua Offerta
+				853 container
+					854 text +11,22 €
+					855 text rispetto a Tutela della Vulnerabilità
+				856 container
+					857 link Description: Sunrise Energia, Help: Vai al sito di Sunrise Energia, Value: sunriseenergia.com/
+					858 text GASAmici0405
+					859 text cod. 
+					860 text 039679GSVML00XXGasAmici040524000 Valida dal 25/07/2026 al 31/12/2099
+				861 text 2.339,63 € annui
+				862 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					863 text VAI AL DETTAGLIO   
+				864 container
+					865 text -316,36 €
+					866 text rispetto alla tua Offerta
+				867 container
+					868 text +16,68 €
+					869 text rispetto a Tutela della Vulnerabilità
+				870 image Description: Logo EPLUS, Help: EPLUS
+				871 container
+					872 link Description: EPLUS, Help: Vai al sito di EPLUS, Value: e-plusenergia.it/
+					873 text GASXPLUS
+					874 text cod. 
+					875 text 028330GSVML01XXDOPSV26091A010500 Valida dal 01/09/2026 al 31/10/2026
+					876 image Sconti una-tantum
+					877 image Sconti sempre applicabili
+				878 text 2.339,99 € annui
+				879 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					880 text VAI AL DETTAGLIO   
+				881 container
+					882 text -316,00 €
+					883 text rispetto alla tua Offerta
+				884 container
+					885 text +17,04 €
+					886 text rispetto a Tutela della Vulnerabilità
+				887 container
+					888 link Description: DOMINO ENERGIA S.R.L., Help: Vai al sito di DOMINO ENERGIA S.R.L., Value: dominoenergia.it/
+					889 text GAS CASA ZERO - CER
+					890 text cod. 
+					891 text 039612GSFML03XXDOMINOBARTDOM0009 Valida dal 12/06/2026 al 30/04/2027
+				892 text 2.344,32 € annui
+				893 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					894 text VAI AL DETTAGLIO   
+				895 container
+					896 text -311,67 €
+					897 text rispetto alla tua Offerta
+				898 container
+					899 text +21,37 €
+					900 text rispetto a Tutela della Vulnerabilità
+				901 image Description: Logo ATS Power srl, Help: ATS Power srl
+				902 container
+					903 link Description: ATS Power srl, Help: Vai al sito di ATS Power srl, Value: atspower.it/
+					904 text WEB ATS FLEX CASA GAS
+					905 text cod. 
+					906 text 021729GSVML01XXWEBATSFLEXDOMGAS1 Valida dal 01/09/2026 al 10/11/2026
+				907 text 2.344,75 € annui
+				908 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					909 text VAI AL DETTAGLIO   
+				910 container
+					911 text -311,24 €
+					912 text rispetto alla tua Offerta
+				913 container
+					914 text +21,80 €
+					915 text rispetto a Tutela della Vulnerabilità
+				916 image Description: Logo ATS Power srl, Help: ATS Power srl
+				917 container
+					918 link Description: ATS Power srl, Help: Vai al sito di ATS Power srl, Value: atspower.it/
+					919 text GUEST STAR FLEX GAS CASA
+					920 text cod. 
+					921 text 021729GSVML01XXGUESTFLEXGASDOM01 Valida dal 01/09/2026 al 10/11/2026
+				922 text 2.344,75 € annui
+				923 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					924 text VAI AL DETTAGLIO   
+				925 container
+					926 text -311,24 €
+					927 text rispetto alla tua Offerta
+				928 container
+					929 text +21,80 €
+					930 text rispetto a Tutela della Vulnerabilità
+				931 image Description: Logo Edison Energia S.p.A., Help: Edison Energia S.p.A.
+				932 container
+					933 link Description: Edison Energia S.p.A., Help: Vai al sito di Edison Energia S.p.A., Value: edisonenergia.it/
+					934 text Edison World Gas Plus
+					935 text cod. 
+					936 text 000190GSVML23XXLGWD2X001X23XXXX5 Valida dal 17/03/2026 al 28/10/2026
+					937 image Presenza di servizi aggiuntivi
+				938 text 2.346,81 € annui
+				939 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					940 text VAI AL DETTAGLIO   
+				941 container
+					942 text -309,18 €
+					943 text rispetto alla tua Offerta
+				944 container
+					945 text +23,86 €
+					946 text rispetto a Tutela della Vulnerabilità
+				947 image Description: Logo ESTIA ENERGIE SRL, Help: ESTIA ENERGIE SRL
+				948 container
+					949 link Description: ESTIA ENERGIE SRL, Help: Vai al sito di ESTIA ENERGIE SRL, Value: estiaenergie.it/
+					950 text SPECIALE GAS CASA
+					951 text cod. 
+					952 text 037000GSVML01XXESGASCASASPECIALE Valida dal 06/06/2026 al 31/12/2099
+				953 text 2.346,81 € annui
+				954 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					955 text VAI AL DETTAGLIO   
+				956 container
+					957 text -309,18 €
+					958 text rispetto alla tua Offerta
+				959 container
+					960 text +23,86 €
+					961 text rispetto a Tutela della Vulnerabilità
+				962 container
+					963 link Description: DOMINO ENERGIA S.R.L., Help: Vai al sito di DOMINO ENERGIA S.R.L., Value: dominoenergia.it/
+					964 text GAS CASA MIA - ZERO
+					965 text cod. 
+					966 text 039612GSFML03XXDOMBLBROKDOME0006 Valida dal 12/06/2026 al 30/04/2027
+				967 text 2.346,81 € annui
+				968 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					969 text VAI AL DETTAGLIO   
+				970 container
+					971 text -309,18 €
+					972 text rispetto alla tua Offerta
+				973 container
+					974 text +23,86 €
+					975 text rispetto a Tutela della Vulnerabilità
+				976 container
+					977 link Description: DOMINO ENERGIA S.R.L., Help: Vai al sito di DOMINO ENERGIA S.R.L., Value: dominoenergia.it/
+					978 text GAS CASA MIA - ZERO
+					979 text cod. 
+					980 text 039612GSFML05XXFGMANAGEMENTDOM06 Valida dal 12/06/2026 al 31/05/2027
+				981 text 2.346,81 € annui
+				982 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					983 text VAI AL DETTAGLIO   
+				984 container
+					985 text -309,18 €
+					986 text rispetto alla tua Offerta
+				987 container
+					988 text +23,86 €
+					989 text rispetto a Tutela della Vulnerabilità
+				990 container
+					991 link Description: DOMINO ENERGIA S.R.L., Help: Vai al sito di DOMINO ENERGIA S.R.L., Value: dominoenergia.it/
+					992 text GAS CASA - ZERO
+					993 text cod. 
+					994 text 039612GSFML03XXDOMINOBARTDOM0006 Valida dal 12/06/2026 al 30/04/2027
+				995 text 2.346,81 € annui
+				996 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					997 text VAI AL DETTAGLIO   
+				998 container
+					999 text -309,18 €
+					1000 text rispetto alla tua Offerta
+				1001 container
+					1002 text +23,86 €
+					1003 text rispetto a Tutela della Vulnerabilità
+				1004 container
+					1005 link Description: DOMINO ENERGIA S.R.L., Help: Vai al sito di DOMINO ENERGIA S.R.L., Value: dominoenergia.it/
+					1006 text GAS CASA ZERO 10
+					1007 text cod. 
+					1008 text 039612GSFML05XXLUMDOM00000000008 Valida dal 12/06/2026 al 01/06/2027
+				1009 text 2.346,81 € annui
+				1010 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					1011 text VAI AL DETTAGLIO   
+				1012 container
+					1013 text -309,18 €
+					1014 text rispetto alla tua Offerta
+				1015 container
+					1016 text +23,86 €
+					1017 text rispetto a Tutela della Vulnerabilità
+				1018 container
+					1019 link Description: DOMINO ENERGIA S.R.L., Help: Vai al sito di DOMINO ENERGIA S.R.L., Value: dominoenergia.it/
+					1020 text GAS CASA ZERO 10
+					1021 text cod. 
+					1022 text 039612GSFML05XXB3NDOM00000000008 Valida dal 12/06/2026 al 30/06/2027
+				1023 text 2.346,81 € annui
+				1024 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					1025 text VAI AL DETTAGLIO   
+				1026 container
+					1027 text -309,18 €
+					1028 text rispetto alla tua Offerta
+				1029 container
+					1030 text +23,86 €
+					1031 text rispetto a Tutela della Vulnerabilità
+				1032 container
+					1033 link Description: DOMINO ENERGIA S.R.L., Help: Vai al sito di DOMINO ENERGIA S.R.L., Value: dominoenergia.it/
+					1034 text GAS CASA ZERO 10
+					1035 text cod. 
+					1036 text 039612GSFML05XXUNIKADOM000000008 Valida dal 12/06/2026 al 30/06/2027
+				1037 text 2.346,81 € annui
+				1038 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					1039 text VAI AL DETTAGLIO   
+				1040 container
+					1041 text -309,18 €
+					1042 text rispetto alla tua Offerta
+				1043 container
+					1044 text +23,86 €
+					1045 text rispetto a Tutela della Vulnerabilità
+				1046 container
+					1047 link Description: DOMINO ENERGIA S.R.L., Help: Vai al sito di DOMINO ENERGIA S.R.L., Value: dominoenergia.it/
+					1048 text GAS CASA MIA - ZERO
+					1049 text cod. 
+					1050 text 039612GSFML05XXDOMGIULDOMINO0006 Valida dal 17/07/2026 al 31/05/2027
+				1051 text 2.346,81 € annui
+				1052 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					1053 text VAI AL DETTAGLIO   
+				1054 container
+					1055 text -309,18 €
+					1056 text rispetto alla tua Offerta
+				1057 container
+					1058 text +23,86 €
+					1059 text rispetto a Tutela della Vulnerabilità
+				1060 container
+					1061 link Description: DOMINO ENERGIA S.R.L., Help: Vai al sito di DOMINO ENERGIA S.R.L., Value: dominoenergia.it/
+					1062 text GAS CASA ZERO PRIME
+					1063 text cod. 
+					1064 text 039612GSVML01XX00000000DOMINO016 Valida dal 12/06/2026 al 20/01/2027
+				1065 text 2.346,83 € annui
+				1066 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					1067 text VAI AL DETTAGLIO   
+				1068 container
+					1069 text -309,16 €
+					1070 text rispetto alla tua Offerta
+				1071 container
+					1072 text +23,88 €
+					1073 text rispetto a Tutela della Vulnerabilità
+				1074 image Description: Logo Yes Energy Srl, Help: Yes Energy Srl
+				1075 container
+					1076 link Description: Yes Energy Srl, Help: Vai al sito di Yes Energy Srl, Value: yes-energy.it/
+					1077 text YES ZERO GAS
+					1078 text cod. 
+					1079 text 024296GSVML01XX00202604YESZEROGG Valida dal 20/04/2026 al 31/12/2026
+				1080 text 2.347,56 € annui
+				1081 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					1082 text VAI AL DETTAGLIO   
+				1083 container
+					1084 text -308,43 €
+					1085 text rispetto alla tua Offerta
+				1086 container
+					1087 text +24,61 €
+					1088 text rispetto a Tutela della Vulnerabilità
+				1089 image Description: Logo PolisEnergia S.r.l., Help: PolisEnergia S.r.l.
+				1090 container
+					1091 link Description: PolisEnergia S.r.l., Help: Vai al sito di PolisEnergia S.r.l., Value: polisenergia.it/
+					1092 text KINETICA GAS
+					1093 text cod. 
+					1094 text 017247GSVML10XX00000KINETICA2026 Valida dal 01/07/2026 al 31/12/2026
+					1095 image Sconti una-tantum
+					1096 image Sconti sempre applicabili
+				1097 text 2.351,78 € annui
+				1098 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					1099 text VAI AL DETTAGLIO   
+				1100 container
+					1101 text -304,21 €
+					1102 text rispetto alla tua Offerta
+				1103 container
+					1104 text +28,83 €
+					1105 text rispetto a Tutela della Vulnerabilità
+				1106 image Description: Logo SIMECOM S.R.L., Help: SIMECOM S.R.L.
+				1107 container
+					1108 link Description: SIMECOM S.R.L., Help: Vai al sito di SIMECOM S.R.L., Value: simecom.it/
+					1109 text Simecom EASY CLICK Gas Casa
+					1110 text cod. 
+					1111 text 000224GSVML01XXNV2603GDWPSVA0000 Valida dal 01/04/2026 al 06/01/2027
+					1112 image Sconti una-tantum
+					1113 image Presenza di servizi aggiuntivi
+					1114 image Sconti sempre applicabili
+				1115 text 2.352,19 € annui
+				1116 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					1117 text VAI AL DETTAGLIO   
+				1118 container
+					1119 text -303,80 €
+					1120 text rispetto alla tua Offerta
+				1121 container
+					1122 text +29,24 €
+					1123 text rispetto a Tutela della Vulnerabilità
+				1124 image Description: Logo LW ENERGY SRL, Help: LW ENERGY SRL
+				1125 container
+					1126 link Description: LW ENERGY SRL, Help: Vai al sito di LW ENERGY SRL, Value: lwgaseluce.it/
+					1127 text LWGASLOWPRICEDOME
+					1128 text cod. 
+					1129 text 001010GSVML01XXLWGASLOWPRICEDOME Valida dal 23/04/2026 al 31/12/2027
+				1130 text 2.354,27 € annui
+				1131 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					1132 text VAI AL DETTAGLIO   
+				1133 container
+					1134 text -301,72 €
+					1135 text rispetto alla tua Offerta
+				1136 container
+					1137 text +31,32 €
+					1138 text rispetto a Tutela della Vulnerabilità
+				1139 container
+					1140 link Description: Sunrise Energia, Help: Vai al sito di Sunrise Energia, Value: sunriseenergia.com/
+					1141 text GASCollaboratori2505
+					1142 text cod. 
+					1143 text 039679GSVML00XXGasCollaborat2505 Valida dal 25/07/2026 al 31/12/2099
+				1144 text 2.356,13 € annui
+				1145 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					1146 text VAI AL DETTAGLIO   
+				1147 container
+					1148 text -299,86 €
+					1149 text rispetto alla tua Offerta
+				1150 container
+					1151 text +33,18 €
+					1152 text rispetto a Tutela della Vulnerabilità
+				1153 container
+					1154 link Description: You and Me srl, Help: Vai al sito di You and Me srl, Value: youandme.srl/
+					1155 text You and me Zero Gas
+					1156 text cod. 
+					1157 text 029827GSVML01XXGYMZEROGAS0000001 Valida dal 10/10/2026 al 31/12/2027
+				1158 text 2.356,13 € annui
+				1159 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					1160 text VAI AL DETTAGLIO   
+				1161 container
+					1162 text -299,86 €
+					1163 text rispetto alla tua Offerta
+				1164 container
+					1165 text +33,18 €
+					1166 text rispetto a Tutela della Vulnerabilità
+				1167 image Description: Logo METANO NORD S.P.A., Help: METANO NORD S.P.A.
+				1168 container
+					1169 link Description: METANO NORD S.P.A., Help: Vai al sito di METANO NORD S.P.A., Value: metanonord.it/
+					1170 text GAS - BENVENUTO IN NEGOZIO
+					1171 text cod. 
+					1172 text 000394GSVML01XX0000000CDNN2BNM26 Valida dal 01/10/2026 al 30/11/2026
+					1173 image Sconti una-tantum
+					1174 image Sconti non sempre applicabili
+					1175 image Sconti sempre applicabili
+				1176 text 2.356,13 € annui
+				1177 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					1178 text VAI AL DETTAGLIO   
+				1179 container
+					1180 text -299,86 €
+					1181 text rispetto alla tua Offerta
+				1182 container
+					1183 text +33,18 €
+					1184 text rispetto a Tutela della Vulnerabilità
+				1185 image Description: Logo ENTRACO S.R.L., Help: ENTRACO S.R.L.
+				1186 container
+					1187 link Description: ENTRACO S.R.L., Help: Vai al sito di ENTRACO S.R.L., Value: entraco.it/
+					1188 text STAR MINUS
+					1189 text cod. 
+					1190 text 003855GSVML01XX000000ENCPSVA0813 Valida dal 17/05/2026 al 31/12/2027
+					1191 image Sconti sempre applicabili
+				1192 text 2.359,38 € annui
+				1193 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					1194 text VAI AL DETTAGLIO   
+				1195 container
+					1196 text -296,61 €
+					1197 text rispetto alla tua Offerta
+				1198 container
+					1199 text +36,43 €
+					1200 text rispetto a Tutela della Vulnerabilità
+				1201 image Description: Logo ENTRACO S.R.L., Help: ENTRACO S.R.L.
+				1202 container
+					1203 link Description: ENTRACO S.R.L., Help: Vai al sito di ENTRACO S.R.L., Value: entraco.it/
+					1204 text GAS EXCLUSIVE
+					1205 text cod. 
+					1206 text 003855GSVML01XX000000ENCPSVA0811 Valida dal 17/05/2026 al 31/12/2027
+					1207 image Sconti sempre applicabili
+				1208 text 2.359,38 € annui
+				1209 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					1210 text VAI AL DETTAGLIO   
+				1211 container
+					1212 text -296,61 €
+					1213 text rispetto alla tua Offerta
+				1214 container
+					1215 text +36,43 €
+					1216 text rispetto a Tutela della Vulnerabilità
+				1217 image Description: Logo ENTRACO S.R.L., Help: ENTRACO S.R.L.
+				1218 container
+					1219 link Description: ENTRACO S.R.L., Help: Vai al sito di ENTRACO S.R.L., Value: entraco.it/
+					1220 text STAR MINUS
+					1221 text cod. 
+					1222 text 003855GSVML01XX000000ENCPSVA0899 Valida dal 17/05/2026 al 31/12/2027
+					1223 image Sconti sempre applicabili
+				1224 text 2.359,38 € annui
+				1225 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					1226 text VAI AL DETTAGLIO   
+				1227 container
+					1228 text -296,61 €
+					1229 text rispetto alla tua Offerta
+				1230 container
+					1231 text +36,43 €
+					1232 text rispetto a Tutela della Vulnerabilità
+				1233 image Description: Logo ATS Power srl, Help: ATS Power srl
+				1234 container
+					1235 link Description: ATS Power srl, Help: Vai al sito di ATS Power srl, Value: atspower.it/
+					1236 text GUEST TRADITIONAL FLEX GAS CASA
+					1237 text cod. 
+					1238 text 021729GSVML01XXTRADITIONALGASDO1 Valida dal 03/09/2026 al 10/11/2026
+				1239 text 2.359,39 € annui
+				1240 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					1241 text VAI AL DETTAGLIO   
+				1242 container
+					1243 text -296,60 €
+					1244 text rispetto alla tua Offerta
+				1245 container
+					1246 text +36,44 €
+					1247 text rispetto a Tutela della Vulnerabilità
+				1248 container
+					1249 link Description: Esa S.p.A. Società Benefit, Help: Vai al sito di Esa S.p.A. Società Benefit, Value: esaenergia.it/
+					1250 text VARIABILE ZERO CASA GAS
+					1251 text cod. 
+					1252 text 001785GSVML01XXEPDIRZERODOMG1126 Valida dal 27/10/2026 al 25/11/2026
+				1253 text 2.361,45 € annui
+				1254 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					1255 text VAI AL DETTAGLIO   
+				1256 container
+					1257 text -294,54 €
+					1258 text rispetto alla tua Offerta
+				1259 container
+					1260 text +38,50 €
+					1261 text rispetto a Tutela della Vulnerabilità
+				1262 image Description: Logo Hera Comm S.p.a., Help: Hera Comm S.p.a.
+				1263 container
+					1264 link Description: Hera Comm S.p.a., Help: Vai al sito di Hera Comm S.p.a., Value: heracomm.gruppohera.it/
+					1265 text Prezzo Netto Relax Casa Gas
+					1266 text cod. 
+					1267 text 000415GSVML01XX000PNRLXXGCANXV21 Valida dal 17/09/2026 al 04/11/2026
+					1268 image Sconti una-tantum
+					1269 image Presenza di servizi aggiuntivi
+					1270 image Sconti sempre applicabili
+				1271 text 2.364,48 € annui
+				1272 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					1273 text VAI AL DETTAGLIO   
+				1274 container
+					1275 text -291,51 €
+					1276 text rispetto alla tua Offerta
+				1277 container
+					1278 text +41,53 €
+					1279 text rispetto a Tutela della Vulnerabilità
+				1280 image Description: Logo Lene Srl, Help: Lene Srl
+				1281 container
+					1282 link Description: Lene Srl, Help: Vai al sito di Lene Srl, Value: lene.it/
+					1283 text Lene Flex Gas 24
+					1284 text cod. 
+					1285 text 043981GSVML03XX0029030000003926A Valida dal 23/09/2026 al 19/11/2026
+				1286 text 2.367,26 € annui
+				1287 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					1288 text VAI AL DETTAGLIO   
+				1289 container
+					1290 text -288,73 €
+					1291 text rispetto alla tua Offerta
+				1292 container
+					1293 text +44,31 €
+					1294 text rispetto a Tutela della Vulnerabilità
+				1295 image Description: Logo ENERGIA SOCIALE S.p.A., Help: ENERGIA SOCIALE S.p.A.
+				1296 container
+					1297 link Description: ENERGIA SOCIALE S.p.A., Help: Vai al sito di ENERGIA SOCIALE S.p.A., Value: energiasociale.it/
+					1298 text FLEXY SOCIAL GAS
+					1299 text cod. 
+					1300 text 026700GSVML01XXPSV05D00072CASAXX Valida dal 16/05/2026 al 31/12/2099
+				1301 text 2.370,77 € annui
+				1302 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					1303 text VAI AL DETTAGLIO   
+				1304 container
+					1305 text -285,22 €
+					1306 text rispetto alla tua Offerta
+				1307 container
+					1308 text +47,82 €
+					1309 text rispetto a Tutela della Vulnerabilità
+				1310 image Description: Logo ègreen Srl, Help: ègreen Srl
+				1311 container
+					1312 link Description: ègreen Srl, Help: Vai al sito di ègreen Srl, Value: egreenitalia.it/
+					1313 text GV05.00_06.0_000050
+					1314 text cod. 
+					1315 text 026691GSVML02XXGREX05Q06C00XPRIV Valida dal 10/09/2026 al 31/12/2026
+				1316 text 2.370,77 € annui
+				1317 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					1318 text VAI AL DETTAGLIO   
+				1319 container
+					1320 text -285,22 €
+					1321 text rispetto alla tua Offerta
+				1322 container
+					1323 text +47,82 €
+					1324 text rispetto a Tutela della Vulnerabilità
+				1325 image Description: Logo Nuovenergie Spa, Help: Nuovenergie Spa
+				1326 container
+					1327 link Description: Nuovenergie Spa, Help: Vai al sito di Nuovenergie Spa, Value: nuovenergiespa.it/
+					1328 text WEB PLUS GAS
+					1329 text cod. 
+					1330 text 000535GSVML06XXWEBDOMGA202604010 Valida dal 07/10/2026 al 06/11/2026
+					1331 image Sconti non sempre applicabili
+				1332 text 2.370,77 € annui
+				1333 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					1334 text VAI AL DETTAGLIO   
+				1335 container
+					1336 text -285,22 €
+					1337 text rispetto alla tua Offerta
+				1338 container
+					1339 text +47,82 €
+					1340 text rispetto a Tutela della Vulnerabilità
+				1341 image Description: Logo SEGNOVERDE S.P.A., Help: SEGNOVERDE S.P.A.
+				1342 container
+					1343 link Description: SEGNOVERDE S.P.A., Help: Vai al sito di SEGNOVERDE S.P.A., Value: segnoverde.it/
+					1344 text Segno-V-Gas
+					1345 text cod. 
+					1346 text 000453GSVML01XX50116SegnoXVXGSEV Valida dal 08/10/2026 al 16/11/2026
+					1347 image Sconti una-tantum
+					1348 image Sconti sempre applicabili
+				1349 text 2.370,77 € annui
+				1350 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					1351 text VAI AL DETTAGLIO   
+				1352 container
+					1353 text -285,22 €
+					1354 text rispetto alla tua Offerta
+				1355 container
+					1356 text +47,82 €
+					1357 text rispetto a Tutela della Vulnerabilità
+				1358 image Description: Logo CAMER GAS & POWER SRL, Help: CAMER GAS & POWER SRL
+				1359 container
+					1360 link Description: CAMER GAS & POWER SRL, Help: Vai al sito di CAMER GAS & POWER SRL, Value: camergasepower.com/
+					1361 text PSV008GASNEW26DOM
+					1362 text cod. 
+					1363 text 022119GSVML01XXPSV008GASNEW26DOM Valida dal 22/04/2026 al 31/12/2028
+				1364 text 2.373,43 € annui
+				1365 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					1366 text VAI AL DETTAGLIO   
+				1367 container
+					1368 text -282,56 €
+					1369 text rispetto alla tua Offerta
+				1370 container
+					1371 text +50,48 €
+					1372 text rispetto a Tutela della Vulnerabilità
+				1373 container
+					1374 link Description: GESENU ENERGIA S.R.L., Help: Vai al sito di GESENU ENERGIA S.R.L., Value: gesenuenergia.it/
+					1375 text INVERNO SICURO DUAL GAS
+					1376 text cod. 
+					1377 text 004364GSVML01XX00000000000000148 Valida dal 16/10/2026 al 10/11/2026
+					1378 image Sconti una-tantum
+					1379 image Sconti non sempre applicabili
+					1380 image Sconti sempre applicabili
+				1381 text 2.373,50 € annui
+				1382 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					1383 text VAI AL DETTAGLIO   
+				1384 container
+					1385 text -282,49 €
+					1386 text rispetto alla tua Offerta
+				1387 container
+					1388 text +50,55 €
+					1389 text rispetto a Tutela della Vulnerabilità
+				1390 container
+					1391 link Description: GESENU ENERGIA S.R.L., Help: Vai al sito di GESENU ENERGIA S.R.L., Value: gesenuenergia.it/
+					1392 text INVERNO SICURO DUAL GAS RINNOVI
+					1393 text cod. 
+					1394 text 004364GSVML01XX00000000000000150 Valida dal 16/10/2026 al 10/11/2026
+					1395 image Sconti una-tantum
+					1396 image Sconti sempre applicabili
+				1397 text 2.373,50 € annui
+				1398 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					1399 text VAI AL DETTAGLIO   
+				1400 container
+					1401 text -282,49 €
+					1402 text rispetto alla tua Offerta
+				1403 container
+					1404 text +50,55 €
+					1405 text rispetto a Tutela della Vulnerabilità
+				1406 image Description: Logo WIND TRE LUCE E GAS SRL, Help: WIND TRE LUCE E GAS SRL
+				1407 container
+					1408 link Description: WIND TRE LUCE E GAS SRL, Help: Vai al sito di WIND TRE LUCE E GAS SRL, Value: windtrelucegas.it/
+					1409 text 50 SPECIAL
+					1410 text cod. 
+					1411 text 042411GSVML01XX00000000000000167 Valida dal 08/10/2026 al 15/11/2026
+					1412 image Sconti una-tantum
+					1413 image Sconti sempre applicabili
+				1414 text 2.375,21 € annui
+				1415 link Description: VAI AL DETTAGLIO   , Help: Val al dettaglio dell'offerta ML
+					1416 text VAI AL DETTAGLIO   
+				1417 container
+					1418 text -280,78 €
+					1419 text rispetto alla tua Offerta
+				1420 container
+					1421 text +52,26 €
+					1422 text rispetto a Tutela della Vulnerabilità
+				1423 container
+					1424 link Description: DOMINO ENERGIA S.R.L., Help: Vai al sito di DOMINO ENERGIA S.R.L., Value: dominoenergia.it/
+					1425 text GAS CASA MIA - ZERO
+					1426 text cod. 
+					1427 text 039612GSFML03XXDOMINOBARTDOM0007 Valida dal 12/06/2026 al 30/04/2027
+
+The focused UI element is 1 AXWebArea Lista Offerte | Portale Offerte, URL: ilportaleofferte.it/portaleOfferte/it/confronta_o…

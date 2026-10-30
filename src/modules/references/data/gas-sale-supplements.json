@@ -1,0 +1,739 @@
+[
+  {
+    "method": "official-detail-unit-sales-v1",
+    "evidence": [
+      {
+        "kind": "calibration",
+        "usage": "heating",
+        "sha256": "d8aa6ddf32690fa3e59f701b8dbd4dad38955609ff8a6959c5c13057bade7882",
+        "volume": "600",
+        "unitRate": "0.7",
+        "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+        "observedAt": "2026-10-29T22:53:06.105Z",
+        "fixedAnnual": "96",
+        "municipality": {
+          "name": "Pescara",
+          "portalCode": "068028"
+        },
+        "originalPath": "gas-sales/05e85f213aceaa5e57a3080adce86ce958551a9cbad94674b705c5ff3f6245a9/d8aa6ddf32690fa3e59f701b8dbd4dad38955609ff8a6959c5c13057bade7882.html.txt",
+        "observedSales": "516"
+      },
+      {
+        "kind": "calibration",
+        "usage": "heating",
+        "sha256": "c8c1f3a6db973e7071239b7753499514cd4d724be58b8c9a7fa2d83536d35ac3",
+        "volume": "1200",
+        "unitRate": "0.7",
+        "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+        "observedAt": "2026-10-29T22:53:08.257Z",
+        "fixedAnnual": "96",
+        "municipality": {
+          "name": "Pescara",
+          "portalCode": "068028"
+        },
+        "originalPath": "gas-sales/05e85f213aceaa5e57a3080adce86ce958551a9cbad94674b705c5ff3f6245a9/c8c1f3a6db973e7071239b7753499514cd4d724be58b8c9a7fa2d83536d35ac3.html.txt",
+        "observedSales": "936"
+      },
+      {
+        "kind": "holdout",
+        "usage": "cooking_hot_water",
+        "sha256": "63cd42ce69437bb921a725fed96c1bfe06480736a55dde614b3c295d448c7a9e",
+        "volume": "2400",
+        "unitRate": "0.7",
+        "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+        "observedAt": "2026-10-29T22:53:10.267Z",
+        "fixedAnnual": "96",
+        "municipality": {
+          "name": "Pescara",
+          "portalCode": "068028"
+        },
+        "originalPath": "gas-sales/05e85f213aceaa5e57a3080adce86ce958551a9cbad94674b705c5ff3f6245a9/63cd42ce69437bb921a725fed96c1bfe06480736a55dde614b3c295d448c7a9e.html.txt",
+        "observedSales": "1776"
+      }
+    ],
+    "unitRate": "0.7",
+    "commodity": "gas",
+    "offerCode": "000753GSFML10XXG0078PB3758261008",
+    "observedAt": "2026-10-29T22:53:10.267Z",
+    "sourceDate": "2026-10-29",
+    "fixedAnnual": "96",
+    "supplierVat": "01877220366",
+    "xmlUnitRate": "0.7",
+    "schemaVersion": 1,
+    "xmlFixedAnnual": "96",
+    "additionalUnitRate": "0",
+    "catalogSourceSha256": "8b0e2b742b6795324ef2a14e79b1c7cfccab9aa5e62735e1972bb0bb32d09bac",
+    "economicFingerprint": "05e85f213aceaa5e57a3080adce86ce958551a9cbad94674b705c5ff3f6245a9",
+    "additionalFixedAnnual": "0"
+  },
+  {
+    "method": "official-detail-unit-sales-v1",
+    "evidence": [
+      {
+        "kind": "calibration",
+        "usage": "heating",
+        "sha256": "1f097f848a645ec4022d06fa2edfce0fd9b6991576f2af33e324dfd902963ca2",
+        "volume": "600",
+        "unitRate": "1.05",
+        "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+        "observedAt": "2026-10-29T22:52:47.909Z",
+        "fixedAnnual": "170",
+        "municipality": {
+          "name": "Pescara",
+          "portalCode": "068028"
+        },
+        "originalPath": "gas-sales/104fa00f810627b433fc124bc212fe9dbb3e11fd7a9f24bbf3cecf853c490dd1/1f097f848a645ec4022d06fa2edfce0fd9b6991576f2af33e324dfd902963ca2.html.txt",
+        "observedSales": "800"
+      },
+      {
+        "kind": "calibration",
+        "usage": "heating",
+        "sha256": "3be6bdabf6e63287a4131d48ec90ce578966a25afbb006c4ed2eed089ebd4296",
+        "volume": "1200",
+        "unitRate": "1.05",
+        "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+        "observedAt": "2026-10-29T22:52:50.758Z",
+        "fixedAnnual": "170",
+        "municipality": {
+          "name": "Pescara",
+          "portalCode": "068028"
+        },
+        "originalPath": "gas-sales/104fa00f810627b433fc124bc212fe9dbb3e11fd7a9f24bbf3cecf853c490dd1/3be6bdabf6e63287a4131d48ec90ce578966a25afbb006c4ed2eed089ebd4296.html.txt",
+        "observedSales": "1430"
+      },
+      {
+        "kind": "holdout",
+        "usage": "cooking_hot_water",
+        "sha256": "c04aff648d9ae21027f209efc283759caecd61925db5f3875f7cc648cbfde5e1",
+        "volume": "2400",
+        "unitRate": "1.05",
+        "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+        "observedAt": "2026-10-29T22:52:52.872Z",
+        "fixedAnnual": "170",
+        "municipality": {
+          "name": "Pescara",
+          "portalCode": "068028"
+        },
+        "originalPath": "gas-sales/104fa00f810627b433fc124bc212fe9dbb3e11fd7a9f24bbf3cecf853c490dd1/c04aff648d9ae21027f209efc283759caecd61925db5f3875f7cc648cbfde5e1.html.txt",
+        "observedSales": "2690"
+      }
+    ],
+    "unitRate": "1.05",
+    "commodity": "gas",
+    "offerCode": "003558GSFML05XXDOMFIXOFFWEBX2627",
+    "observedAt": "2026-10-29T22:52:52.872Z",
+    "sourceDate": "2026-10-29",
+    "fixedAnnual": "170",
+    "supplierVat": "03118270135",
+    "xmlUnitRate": "1.05",
+    "schemaVersion": 1,
+    "xmlFixedAnnual": "170",
+    "additionalUnitRate": "0",
+    "catalogSourceSha256": "8b0e2b742b6795324ef2a14e79b1c7cfccab9aa5e62735e1972bb0bb32d09bac",
+    "economicFingerprint": "104fa00f810627b433fc124bc212fe9dbb3e11fd7a9f24bbf3cecf853c490dd1",
+    "additionalFixedAnnual": "0"
+  },
+  {
+    "method": "official-detail-unit-sales-v1",
+    "evidence": [
+      {
+        "kind": "calibration",
+        "usage": "heating",
+        "sha256": "4c6b9ea4b1f057b28208daf6373d27bfd2700d6e13c0c80415bd716eb634851f",
+        "volume": "600",
+        "unitRate": "0.98",
+        "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+        "observedAt": "2026-10-29T22:52:55.990Z",
+        "fixedAnnual": "144",
+        "municipality": {
+          "name": "Pescara",
+          "portalCode": "068028"
+        },
+        "originalPath": "gas-sales/4ee5f5f6a2858002feca52efac5378189034198cd1a32d6f0442b8c001b791fc/4c6b9ea4b1f057b28208daf6373d27bfd2700d6e13c0c80415bd716eb634851f.html.txt",
+        "observedSales": "732"
+      },
+      {
+        "kind": "calibration",
+        "usage": "heating",
+        "sha256": "d3fb96eb1e9c658148f0704d4e42a0ec14d6e9e349ebe0256b8c4fa59bafeb3c",
+        "volume": "1200",
+        "unitRate": "0.98",
+        "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+        "observedAt": "2026-10-29T22:52:58.968Z",
+        "fixedAnnual": "144",
+        "municipality": {
+          "name": "Pescara",
+          "portalCode": "068028"
+        },
+        "originalPath": "gas-sales/4ee5f5f6a2858002feca52efac5378189034198cd1a32d6f0442b8c001b791fc/d3fb96eb1e9c658148f0704d4e42a0ec14d6e9e349ebe0256b8c4fa59bafeb3c.html.txt",
+        "observedSales": "1320"
+      },
+      {
+        "kind": "holdout",
+        "usage": "cooking_hot_water",
+        "sha256": "0caaf33bd70d78987af197ea160d410a023d1c7685cd59323e54d174c6b0c4f6",
+        "volume": "2400",
+        "unitRate": "0.98",
+        "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+        "observedAt": "2026-10-29T22:53:02.483Z",
+        "fixedAnnual": "144",
+        "municipality": {
+          "name": "Pescara",
+          "portalCode": "068028"
+        },
+        "originalPath": "gas-sales/4ee5f5f6a2858002feca52efac5378189034198cd1a32d6f0442b8c001b791fc/0caaf33bd70d78987af197ea160d410a023d1c7685cd59323e54d174c6b0c4f6.html.txt",
+        "observedSales": "2496"
+      }
+    ],
+    "unitRate": "0.98",
+    "commodity": "gas",
+    "offerCode": "000753GSFML10XXG0105PB3749261005",
+    "observedAt": "2026-10-29T22:53:02.483Z",
+    "sourceDate": "2026-10-29",
+    "fixedAnnual": "144",
+    "supplierVat": "01877220366",
+    "xmlUnitRate": "0.98",
+    "schemaVersion": 1,
+    "xmlFixedAnnual": "144",
+    "additionalUnitRate": "0",
+    "catalogSourceSha256": "8b0e2b742b6795324ef2a14e79b1c7cfccab9aa5e62735e1972bb0bb32d09bac",
+    "economicFingerprint": "4ee5f5f6a2858002feca52efac5378189034198cd1a32d6f0442b8c001b791fc",
+    "additionalFixedAnnual": "0"
+  },
+  {
+    "method": "official-detail-unit-sales-v1",
+    "evidence": [
+      {
+        "kind": "calibration",
+        "usage": "heating",
+        "sha256": "2c1dca107aa8c26820666975eaa02b9e728e20cf6c2e628080ce96b0c69c9344",
+        "volume": "600",
+        "unitRate": "0.689",
+        "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+        "observedAt": "2026-10-29T22:52:39.257Z",
+        "fixedAnnual": "144",
+        "municipality": {
+          "name": "Pescara",
+          "portalCode": "068028"
+        },
+        "originalPath": "gas-sales/617b0e9c4553e89a126126e3137a89cd6889648915cc2351790fb5f02ead4916/2c1dca107aa8c26820666975eaa02b9e728e20cf6c2e628080ce96b0c69c9344.html.txt",
+        "observedSales": "557.4"
+      },
+      {
+        "kind": "calibration",
+        "usage": "heating",
+        "sha256": "1f257c7656a218efc482d7c43f87f86d197b84d8efe745f900124042e2dde5b0",
+        "volume": "1200",
+        "unitRate": "0.689",
+        "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+        "observedAt": "2026-10-29T22:52:41.507Z",
+        "fixedAnnual": "144",
+        "municipality": {
+          "name": "Pescara",
+          "portalCode": "068028"
+        },
+        "originalPath": "gas-sales/617b0e9c4553e89a126126e3137a89cd6889648915cc2351790fb5f02ead4916/1f257c7656a218efc482d7c43f87f86d197b84d8efe745f900124042e2dde5b0.html.txt",
+        "observedSales": "970.8"
+      },
+      {
+        "kind": "holdout",
+        "usage": "cooking_hot_water",
+        "sha256": "36f684e339606a8ce5d44f085c0f30c9c1d8def6554d43071f9459d38a1b2edc",
+        "volume": "2400",
+        "unitRate": "0.689",
+        "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+        "observedAt": "2026-10-29T22:52:44.050Z",
+        "fixedAnnual": "144",
+        "municipality": {
+          "name": "Pescara",
+          "portalCode": "068028"
+        },
+        "originalPath": "gas-sales/617b0e9c4553e89a126126e3137a89cd6889648915cc2351790fb5f02ead4916/36f684e339606a8ce5d44f085c0f30c9c1d8def6554d43071f9459d38a1b2edc.html.txt",
+        "observedSales": "1797.6"
+      }
+    ],
+    "unitRate": "0.689",
+    "commodity": "gas",
+    "offerCode": "000732GSFML01XXRHGD2609AXXXXXXXX",
+    "observedAt": "2026-10-29T22:52:44.050Z",
+    "sourceDate": "2026-10-29",
+    "fixedAnnual": "144",
+    "supplierVat": "01262680190",
+    "xmlUnitRate": "0.689",
+    "schemaVersion": 1,
+    "xmlFixedAnnual": "144",
+    "additionalUnitRate": "0",
+    "catalogSourceSha256": "8b0e2b742b6795324ef2a14e79b1c7cfccab9aa5e62735e1972bb0bb32d09bac",
+    "economicFingerprint": "617b0e9c4553e89a126126e3137a89cd6889648915cc2351790fb5f02ead4916",
+    "additionalFixedAnnual": "0"
+  },
+  {
+    "method": "official-detail-unit-sales-v1",
+    "evidence": [
+      {
+        "kind": "calibration",
+        "usage": "heating",
+        "sha256": "242808ab101a2d59d84b9650f0a76e526e772555c59a080c11d5ed33eec00914",
+        "volume": "600",
+        "unitRate": "0.749",
+        "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+        "observedAt": "2026-10-29T22:52:56.128Z",
+        "fixedAnnual": "144",
+        "municipality": {
+          "name": "Pescara",
+          "portalCode": "068028"
+        },
+        "originalPath": "gas-sales/786d3d1ef3653af7fc892f79afb217c73031e256464d26cf8155db5d93a3cfc5/242808ab101a2d59d84b9650f0a76e526e772555c59a080c11d5ed33eec00914.html.txt",
+        "observedSales": "593.4"
+      },
+      {
+        "kind": "calibration",
+        "usage": "heating",
+        "sha256": "d82671b900fa3ec9802ce405368e57b2deb2f5dba76510a57b545a6777e065fa",
+        "volume": "1200",
+        "unitRate": "0.749",
+        "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+        "observedAt": "2026-10-29T22:52:58.861Z",
+        "fixedAnnual": "144",
+        "municipality": {
+          "name": "Pescara",
+          "portalCode": "068028"
+        },
+        "originalPath": "gas-sales/786d3d1ef3653af7fc892f79afb217c73031e256464d26cf8155db5d93a3cfc5/d82671b900fa3ec9802ce405368e57b2deb2f5dba76510a57b545a6777e065fa.html.txt",
+        "observedSales": "1042.8"
+      },
+      {
+        "kind": "holdout",
+        "usage": "cooking_hot_water",
+        "sha256": "6bd50de540bb680f9a16ff1f04dd5c287f94b9e9b1a742dbbcd265eeb8c390f6",
+        "volume": "2400",
+        "unitRate": "0.749",
+        "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+        "observedAt": "2026-10-29T22:53:02.300Z",
+        "fixedAnnual": "144",
+        "municipality": {
+          "name": "Pescara",
+          "portalCode": "068028"
+        },
+        "originalPath": "gas-sales/786d3d1ef3653af7fc892f79afb217c73031e256464d26cf8155db5d93a3cfc5/6bd50de540bb680f9a16ff1f04dd5c287f94b9e9b1a742dbbcd265eeb8c390f6.html.txt",
+        "observedSales": "1941.6"
+      }
+    ],
+    "unitRate": "0.749",
+    "commodity": "gas",
+    "offerCode": "000753GSFML10XXG0217PB3746261005",
+    "observedAt": "2026-10-29T22:53:02.300Z",
+    "sourceDate": "2026-10-29",
+    "fixedAnnual": "144",
+    "supplierVat": "01877220366",
+    "xmlUnitRate": "0.749",
+    "schemaVersion": 1,
+    "xmlFixedAnnual": "144",
+    "additionalUnitRate": "0",
+    "catalogSourceSha256": "8b0e2b742b6795324ef2a14e79b1c7cfccab9aa5e62735e1972bb0bb32d09bac",
+    "economicFingerprint": "786d3d1ef3653af7fc892f79afb217c73031e256464d26cf8155db5d93a3cfc5",
+    "additionalFixedAnnual": "0"
+  },
+  {
+    "method": "official-detail-unit-sales-v1",
+    "evidence": [
+      {
+        "kind": "calibration",
+        "usage": "heating",
+        "sha256": "076fdf10352df61752de5f4e438416474aadfada39549fff29855fe8d154cdb6",
+        "volume": "600",
+        "unitRate": "0.65",
+        "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+        "observedAt": "2026-10-29T22:52:47.703Z",
+        "fixedAnnual": "99",
+        "municipality": {
+          "name": "Terrazzo",
+          "portalCode": "023085"
+        },
+        "originalPath": "gas-sales/8e11afd5f38981d6cd436fa0942165519abb38de385a8696b8712ac9f8236fb9/076fdf10352df61752de5f4e438416474aadfada39549fff29855fe8d154cdb6.html.txt",
+        "observedSales": "489"
+      },
+      {
+        "kind": "calibration",
+        "usage": "heating",
+        "sha256": "48051d15565c1136bbe394e006d99879331d66fabfd8b9bc89ce8c24a12ad3fc",
+        "volume": "1200",
+        "unitRate": "0.65",
+        "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+        "observedAt": "2026-10-29T22:52:50.368Z",
+        "fixedAnnual": "99",
+        "municipality": {
+          "name": "Terrazzo",
+          "portalCode": "023085"
+        },
+        "originalPath": "gas-sales/8e11afd5f38981d6cd436fa0942165519abb38de385a8696b8712ac9f8236fb9/48051d15565c1136bbe394e006d99879331d66fabfd8b9bc89ce8c24a12ad3fc.html.txt",
+        "observedSales": "879"
+      },
+      {
+        "kind": "holdout",
+        "usage": "cooking_hot_water",
+        "sha256": "325096b0d5c7b9a5ecaedcef6c7b736b2cf6ed8f602d6117ff35bd93b32d8453",
+        "volume": "2400",
+        "unitRate": "0.65",
+        "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+        "observedAt": "2026-10-29T22:52:52.658Z",
+        "fixedAnnual": "99",
+        "municipality": {
+          "name": "Terrazzo",
+          "portalCode": "023085"
+        },
+        "originalPath": "gas-sales/8e11afd5f38981d6cd436fa0942165519abb38de385a8696b8712ac9f8236fb9/325096b0d5c7b9a5ecaedcef6c7b736b2cf6ed8f602d6117ff35bd93b32d8453.html.txt",
+        "observedSales": "1659"
+      }
+    ],
+    "unitRate": "0.65",
+    "commodity": "gas",
+    "offerCode": "001715GSFML01XXOFFERTAGASFIXDOM3",
+    "observedAt": "2026-10-29T22:52:52.658Z",
+    "sourceDate": "2026-10-29",
+    "fixedAnnual": "99",
+    "supplierVat": "03272140231",
+    "xmlUnitRate": "0.65",
+    "schemaVersion": 1,
+    "xmlFixedAnnual": "99",
+    "additionalUnitRate": "0",
+    "catalogSourceSha256": "8b0e2b742b6795324ef2a14e79b1c7cfccab9aa5e62735e1972bb0bb32d09bac",
+    "economicFingerprint": "8e11afd5f38981d6cd436fa0942165519abb38de385a8696b8712ac9f8236fb9",
+    "additionalFixedAnnual": "0"
+  },
+  {
+    "method": "official-detail-unit-sales-v1",
+    "evidence": [
+      {
+        "kind": "calibration",
+        "usage": "heating",
+        "sha256": "69283f4a0811ff3d2d06e330bb1880b33756e2dc645559072680901079ed722d",
+        "volume": "600",
+        "unitRate": "0.849",
+        "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+        "observedAt": "2026-10-29T22:52:39.449Z",
+        "fixedAnnual": "126",
+        "municipality": {
+          "name": "Pescara",
+          "portalCode": "068028"
+        },
+        "originalPath": "gas-sales/9ed4afc0402bcbfea5a1ff71e3e9d14f485340199967f62464f3396b17e46bb6/69283f4a0811ff3d2d06e330bb1880b33756e2dc645559072680901079ed722d.html.txt",
+        "observedSales": "635.4"
+      },
+      {
+        "kind": "calibration",
+        "usage": "heating",
+        "sha256": "e9d6ce735493047cad867ad1c8699252f3ef84ac9fd3abdade6723341d92fefe",
+        "volume": "1200",
+        "unitRate": "0.849",
+        "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+        "observedAt": "2026-10-29T22:52:41.971Z",
+        "fixedAnnual": "126",
+        "municipality": {
+          "name": "Pescara",
+          "portalCode": "068028"
+        },
+        "originalPath": "gas-sales/9ed4afc0402bcbfea5a1ff71e3e9d14f485340199967f62464f3396b17e46bb6/e9d6ce735493047cad867ad1c8699252f3ef84ac9fd3abdade6723341d92fefe.html.txt",
+        "observedSales": "1144.8"
+      },
+      {
+        "kind": "holdout",
+        "usage": "cooking_hot_water",
+        "sha256": "d02cfa8d5a38b50d7863299e8ef81cab1ca330c8251744fe5094e0a25c09ff7b",
+        "volume": "2400",
+        "unitRate": "0.849",
+        "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+        "observedAt": "2026-10-29T22:52:44.746Z",
+        "fixedAnnual": "126",
+        "municipality": {
+          "name": "Pescara",
+          "portalCode": "068028"
+        },
+        "originalPath": "gas-sales/9ed4afc0402bcbfea5a1ff71e3e9d14f485340199967f62464f3396b17e46bb6/d02cfa8d5a38b50d7863299e8ef81cab1ca330c8251744fe5094e0a25c09ff7b.html.txt",
+        "observedSales": "2163.6"
+      }
+    ],
+    "unitRate": "0.849",
+    "commodity": "gas",
+    "offerCode": "000732GSFML01XXRFGD2609AXXXXXXXX",
+    "observedAt": "2026-10-29T22:52:44.746Z",
+    "sourceDate": "2026-10-29",
+    "fixedAnnual": "126",
+    "supplierVat": "01262680190",
+    "xmlUnitRate": "0.849",
+    "schemaVersion": 1,
+    "xmlFixedAnnual": "126",
+    "additionalUnitRate": "0",
+    "catalogSourceSha256": "8b0e2b742b6795324ef2a14e79b1c7cfccab9aa5e62735e1972bb0bb32d09bac",
+    "economicFingerprint": "9ed4afc0402bcbfea5a1ff71e3e9d14f485340199967f62464f3396b17e46bb6",
+    "additionalFixedAnnual": "0"
+  },
+  {
+    "method": "official-detail-unit-sales-v1",
+    "evidence": [
+      {
+        "kind": "calibration",
+        "usage": "heating",
+        "sha256": "bf3c785cb0269a2f7cd0428ad5cdcfab1214307ae55cc41df4bbaabda392dd61",
+        "volume": "600",
+        "unitRate": "0.7999",
+        "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+        "observedAt": "2026-10-29T22:52:21.069Z",
+        "fixedAnnual": "0",
+        "municipality": {
+          "name": "Pescara",
+          "portalCode": "068028"
+        },
+        "originalPath": "gas-sales/aaff94c8f706ef806b68f94fa5f26030cee92c3ec83150a4b7055e8f04bb6459/bf3c785cb0269a2f7cd0428ad5cdcfab1214307ae55cc41df4bbaabda392dd61.html.txt",
+        "observedSales": "479.94"
+      },
+      {
+        "kind": "calibration",
+        "usage": "heating",
+        "sha256": "ba58e8ce842bbfb00f145f472a2b6819de5561089bdf5a4eed25f4aa146df692",
+        "volume": "1200",
+        "unitRate": "0.7999",
+        "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+        "observedAt": "2026-10-29T22:52:23.238Z",
+        "fixedAnnual": "0",
+        "municipality": {
+          "name": "Pescara",
+          "portalCode": "068028"
+        },
+        "originalPath": "gas-sales/aaff94c8f706ef806b68f94fa5f26030cee92c3ec83150a4b7055e8f04bb6459/ba58e8ce842bbfb00f145f472a2b6819de5561089bdf5a4eed25f4aa146df692.html.txt",
+        "observedSales": "959.88"
+      },
+      {
+        "kind": "holdout",
+        "usage": "cooking_hot_water",
+        "sha256": "c1c242ff1e3ce7ce7feb8d19b145484d15278b646c700ecb9516b9fbc8a8c220",
+        "volume": "2400",
+        "unitRate": "0.7999",
+        "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+        "observedAt": "2026-10-29T22:52:25.832Z",
+        "fixedAnnual": "0",
+        "municipality": {
+          "name": "Pescara",
+          "portalCode": "068028"
+        },
+        "originalPath": "gas-sales/aaff94c8f706ef806b68f94fa5f26030cee92c3ec83150a4b7055e8f04bb6459/c1c242ff1e3ce7ce7feb8d19b145484d15278b646c700ecb9516b9fbc8a8c220.html.txt",
+        "observedSales": "1919.76"
+      }
+    ],
+    "unitRate": "0.7999",
+    "commodity": "gas",
+    "offerCode": "034958GSFML01XXAPIUGASICURO24CAS",
+    "observedAt": "2026-10-29T22:52:25.832Z",
+    "sourceDate": "2026-10-29",
+    "fixedAnnual": "0",
+    "supplierVat": "15125541001",
+    "xmlUnitRate": "0.7999",
+    "schemaVersion": 1,
+    "xmlFixedAnnual": "0",
+    "additionalUnitRate": "0",
+    "catalogSourceSha256": "8b0e2b742b6795324ef2a14e79b1c7cfccab9aa5e62735e1972bb0bb32d09bac",
+    "economicFingerprint": "aaff94c8f706ef806b68f94fa5f26030cee92c3ec83150a4b7055e8f04bb6459",
+    "additionalFixedAnnual": "0"
+  },
+  {
+    "method": "official-detail-unit-sales-v1",
+    "evidence": [
+      {
+        "kind": "calibration",
+        "usage": "heating",
+        "sha256": "64a6c0607be3781f95d46e72af90c7b5349b1dc6a4b234085d943fed8040dea7",
+        "volume": "600",
+        "unitRate": "0.82",
+        "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+        "observedAt": "2026-10-29T22:52:29.952Z",
+        "fixedAnnual": "120",
+        "municipality": {
+          "name": "Taceno",
+          "portalCode": "097079"
+        },
+        "originalPath": "gas-sales/aedca4791f4d95b41241807d1ced0ca7e5f11f709dae7642dee55ebadef44cf2/64a6c0607be3781f95d46e72af90c7b5349b1dc6a4b234085d943fed8040dea7.html.txt",
+        "observedSales": "612"
+      },
+      {
+        "kind": "calibration",
+        "usage": "heating",
+        "sha256": "d819e075a56bde813c8f93893b0588bfa211162755335b0554b452df00d4c5dc",
+        "volume": "1200",
+        "unitRate": "0.82",
+        "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+        "observedAt": "2026-10-29T22:52:32.601Z",
+        "fixedAnnual": "120",
+        "municipality": {
+          "name": "Taceno",
+          "portalCode": "097079"
+        },
+        "originalPath": "gas-sales/aedca4791f4d95b41241807d1ced0ca7e5f11f709dae7642dee55ebadef44cf2/d819e075a56bde813c8f93893b0588bfa211162755335b0554b452df00d4c5dc.html.txt",
+        "observedSales": "1104"
+      },
+      {
+        "kind": "holdout",
+        "usage": "cooking_hot_water",
+        "sha256": "60e3684f4063f48f21b16ca2ff6b88331df710b8d6a01d6f76a880dc3b9e7119",
+        "volume": "2400",
+        "unitRate": "0.82",
+        "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+        "observedAt": "2026-10-29T22:52:35.541Z",
+        "fixedAnnual": "120",
+        "municipality": {
+          "name": "Taceno",
+          "portalCode": "097079"
+        },
+        "originalPath": "gas-sales/aedca4791f4d95b41241807d1ced0ca7e5f11f709dae7642dee55ebadef44cf2/60e3684f4063f48f21b16ca2ff6b88331df710b8d6a01d6f76a880dc3b9e7119.html.txt",
+        "observedSales": "2088"
+      }
+    ],
+    "unitRate": "0.82",
+    "commodity": "gas",
+    "offerCode": "000971GSFML01XXPROD1210110202600",
+    "observedAt": "2026-10-29T22:52:35.541Z",
+    "sourceDate": "2026-10-29",
+    "fixedAnnual": "120",
+    "supplierVat": "05941460965",
+    "xmlUnitRate": "0.82",
+    "schemaVersion": 1,
+    "xmlFixedAnnual": "120",
+    "additionalUnitRate": "0",
+    "catalogSourceSha256": "8b0e2b742b6795324ef2a14e79b1c7cfccab9aa5e62735e1972bb0bb32d09bac",
+    "economicFingerprint": "aedca4791f4d95b41241807d1ced0ca7e5f11f709dae7642dee55ebadef44cf2",
+    "additionalFixedAnnual": "0"
+  },
+  {
+    "method": "official-detail-unit-sales-v1",
+    "evidence": [
+      {
+        "kind": "calibration",
+        "usage": "heating",
+        "sha256": "ea42888daa2dd5ac4290c4c6fb6d866872bc62fa437f16ad2c2f82e6a9572744",
+        "volume": "600",
+        "unitRate": "0.905",
+        "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+        "observedAt": "2026-10-29T22:52:21.387Z",
+        "fixedAnnual": "138",
+        "municipality": {
+          "name": "Pescara",
+          "portalCode": "068028"
+        },
+        "originalPath": "gas-sales/bdf18a5e1174f04a9287011ccf0931e0c4d1f1e47b1c7a16f4a8e100b6c98da4/ea42888daa2dd5ac4290c4c6fb6d866872bc62fa437f16ad2c2f82e6a9572744.html.txt",
+        "observedSales": "681"
+      },
+      {
+        "kind": "calibration",
+        "usage": "heating",
+        "sha256": "9e6a615826d29289686e0790d071fe932f537b2b6e7a5e23c0d47845f579c9a7",
+        "volume": "1200",
+        "unitRate": "0.905",
+        "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+        "observedAt": "2026-10-29T22:52:23.700Z",
+        "fixedAnnual": "138",
+        "municipality": {
+          "name": "Pescara",
+          "portalCode": "068028"
+        },
+        "originalPath": "gas-sales/bdf18a5e1174f04a9287011ccf0931e0c4d1f1e47b1c7a16f4a8e100b6c98da4/9e6a615826d29289686e0790d071fe932f537b2b6e7a5e23c0d47845f579c9a7.html.txt",
+        "observedSales": "1224"
+      },
+      {
+        "kind": "holdout",
+        "usage": "cooking_hot_water",
+        "sha256": "84122879583fc69c54b57b5ba1fd816c667702d9748582af9f9c6c0757f77988",
+        "volume": "2400",
+        "unitRate": "0.905",
+        "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+        "observedAt": "2026-10-29T22:52:26.237Z",
+        "fixedAnnual": "138",
+        "municipality": {
+          "name": "Pescara",
+          "portalCode": "068028"
+        },
+        "originalPath": "gas-sales/bdf18a5e1174f04a9287011ccf0931e0c4d1f1e47b1c7a16f4a8e100b6c98da4/84122879583fc69c54b57b5ba1fd816c667702d9748582af9f9c6c0757f77988.html.txt",
+        "observedSales": "2310"
+      }
+    ],
+    "unitRate": "0.905",
+    "commodity": "gas",
+    "offerCode": "022119GSFML01XXPFIXGASVDOM088RID",
+    "observedAt": "2026-10-29T22:52:26.237Z",
+    "sourceDate": "2026-10-29",
+    "fixedAnnual": "138",
+    "supplierVat": "07610960721",
+    "xmlUnitRate": "0.025",
+    "schemaVersion": 1,
+    "xmlFixedAnnual": "138",
+    "additionalUnitRate": "0.88",
+    "catalogSourceSha256": "8b0e2b742b6795324ef2a14e79b1c7cfccab9aa5e62735e1972bb0bb32d09bac",
+    "economicFingerprint": "bdf18a5e1174f04a9287011ccf0931e0c4d1f1e47b1c7a16f4a8e100b6c98da4",
+    "additionalFixedAnnual": "0"
+  },
+  {
+    "method": "official-detail-unit-sales-v1",
+    "evidence": [
+      {
+        "kind": "calibration",
+        "usage": "heating",
+        "sha256": "5133819d33c0e82e3047a79745f7751b2a1ed4edb5710ae5a3179a5e3ebd2cd8",
+        "volume": "600",
+        "unitRate": "0.689",
+        "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+        "observedAt": "2026-10-29T22:52:30.043Z",
+        "fixedAnnual": "110",
+        "municipality": {
+          "name": "Pescara",
+          "portalCode": "068028"
+        },
+        "originalPath": "gas-sales/bfdabdea27ebb7bca7f5a1c1166f5a3bff08fd1680ddb03867382c8704d86bdd/5133819d33c0e82e3047a79745f7751b2a1ed4edb5710ae5a3179a5e3ebd2cd8.html.txt",
+        "observedSales": "523.4"
+      },
+      {
+        "kind": "calibration",
+        "usage": "heating",
+        "sha256": "8526341b1dafff86e2bfd7a2b70cf4ae14f8c4368abde636abd795d5ed7a1ae9",
+        "volume": "1200",
+        "unitRate": "0.689",
+        "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+        "observedAt": "2026-10-29T22:52:32.535Z",
+        "fixedAnnual": "110",
+        "municipality": {
+          "name": "Pescara",
+          "portalCode": "068028"
+        },
+        "originalPath": "gas-sales/bfdabdea27ebb7bca7f5a1c1166f5a3bff08fd1680ddb03867382c8704d86bdd/8526341b1dafff86e2bfd7a2b70cf4ae14f8c4368abde636abd795d5ed7a1ae9.html.txt",
+        "observedSales": "936.8"
+      },
+      {
+        "kind": "holdout",
+        "usage": "cooking_hot_water",
+        "sha256": "31fe5f3e5bac39ca1755e1b8c8a645bd83cbdd6afbd1a6d76dbfb8eb486b0385",
+        "volume": "2400",
+        "unitRate": "0.689",
+        "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+        "observedAt": "2026-10-29T22:52:35.379Z",
+        "fixedAnnual": "110",
+        "municipality": {
+          "name": "Pescara",
+          "portalCode": "068028"
+        },
+        "originalPath": "gas-sales/bfdabdea27ebb7bca7f5a1c1166f5a3bff08fd1680ddb03867382c8704d86bdd/31fe5f3e5bac39ca1755e1b8c8a645bd83cbdd6afbd1a6d76dbfb8eb486b0385.html.txt",
+        "observedSales": "1763.6"
+      }
+    ],
+    "unitRate": "0.689",
+    "commodity": "gas",
+    "offerCode": "000732GSFML01XXEQGD2610XXXXXXXXX",
+    "observedAt": "2026-10-29T22:52:35.379Z",
+    "sourceDate": "2026-10-29",
+    "fixedAnnual": "110",
+    "supplierVat": "01262680190",
+    "xmlUnitRate": "0.689",
+    "schemaVersion": 1,
+    "xmlFixedAnnual": "110",
+    "additionalUnitRate": "0",
+    "catalogSourceSha256": "8b0e2b742b6795324ef2a14e79b1c7cfccab9aa5e62735e1972bb0bb32d09bac",
+    "economicFingerprint": "bfdabdea27ebb7bca7f5a1c1166f5a3bff08fd1680ddb03867382c8704d86bdd",
+    "additionalFixedAnnual": "0"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "profile": "C1 E",
+  "municipality": {
+    "portalCode": "001001",
+    "name": "Agliè"
+  },
+  "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+  "volume": "120",
+  "predictedSales": "292.02",
+  "predictedVat": "63.84",
+  "predictedTotal": "444.27",
+  "totalBound": "0.0115372008811328",
+  "vatBound": "0.0152772001588928",
+  "predictedAt": "2026-10-29T23:08:49.208Z"
+}

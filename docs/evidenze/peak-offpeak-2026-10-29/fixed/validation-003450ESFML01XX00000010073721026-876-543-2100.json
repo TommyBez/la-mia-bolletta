@@ -1,0 +1,17 @@
+{
+  "OffertaConfrontoResponse": {
+    "offerta": {
+      "codErrore": 0,
+      "codOfferta": "003450ESFML01XX00000010073721026",
+      "idCategoriaOfferta": "ML",
+      "idCommodity": "E",
+      "idOfferta": 1455882,
+      "idTipoCliente": "01",
+      "idTipoOfferta": "01",
+      "idTipologiaFasciaOraria": "07",
+      "oggettoFornitura": "FIX FAMILY CUN 4 24 MESI",
+      "tuteleGraduali": false
+    },
+    "result_code": 200
+  }
+}

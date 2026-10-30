@@ -1,0 +1,1596 @@
+{
+  "observed_on": "2026-10-29",
+  "scope": "domestic4000Smc/year RISC; unit rates from official Portal detail, not supplier pages",
+  "complete_municipal_mapping": false,
+  "regions_represented": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19"
+  ],
+  "rows": [
+    {
+      "region_code": "01",
+      "region": "Piemonte",
+      "town": "Torino",
+      "istat": "001272",
+      "excise_group_observed": "ordinary",
+      "rates": {
+        "excise": [
+          {
+            "label": "Accisa - da 0 a 120 Smc",
+            "eur_smc": "0.044000"
+          },
+          {
+            "label": "Accisa - da 121 a 480 Smc",
+            "eur_smc": "0.175000"
+          },
+          {
+            "label": "Accisa - da 481 a 1.560 Smc",
+            "eur_smc": "0.170000"
+          },
+          {
+            "label": "Accisa - oltre 1.560 Smc",
+            "eur_smc": "0.186000"
+          }
+        ],
+        "regional": [
+          {
+            "label": "Add. reg. fino a 120 Smc",
+            "eur_smc": "0.022000"
+          },
+          {
+            "label": "Add. reg. da 121 a 480 Smc",
+            "eur_smc": "0.025800"
+          },
+          {
+            "label": "Add. reg. da 481 a 1.560 Smc",
+            "eur_smc": "0.025800"
+          },
+          {
+            "label": "Add. reg. - oltre 1.560 Smc",
+            "eur_smc": "0.025800"
+          }
+        ]
+      },
+      "tax4000_predicted_unrounded_eur": "808.464000",
+      "tax4000_observed_eur": "808.46",
+      "rounding_compatible": true,
+      "source": "001272-cost.html"
+    },
+    {
+      "region_code": "02",
+      "region": "Valle d Aosta",
+      "town": "Aosta",
+      "istat": "007003",
+      "excise_group_observed": "ordinary",
+      "rates": {
+        "excise": [
+          {
+            "label": "Accisa - da 0 a 120 Smc",
+            "eur_smc": "0.044000"
+          },
+          {
+            "label": "Accisa - da 121 a 480 Smc",
+            "eur_smc": "0.175000"
+          },
+          {
+            "label": "Accisa - da 481 a 1.560 Smc",
+            "eur_smc": "0.170000"
+          },
+          {
+            "label": "Accisa - oltre 1.560 Smc",
+            "eur_smc": "0.186000"
+          }
+        ],
+        "regional": [
+          {
+            "label": "Add. reg. fino a 120 Smc",
+            "eur_smc": "0.000000"
+          },
+          {
+            "label": "Add. reg. da 121 a 480 Smc",
+            "eur_smc": "0.000000"
+          },
+          {
+            "label": "Add. reg. da 481 a 1.560 Smc",
+            "eur_smc": "0.000000"
+          },
+          {
+            "label": "Add. reg. - oltre 1.560 Smc",
+            "eur_smc": "0.000000"
+          }
+        ]
+      },
+      "tax4000_predicted_unrounded_eur": "705.720000",
+      "tax4000_observed_eur": "705.72",
+      "rounding_compatible": true,
+      "source": "007003-cost.html"
+    },
+    {
+      "region_code": "03",
+      "region": "Lombardia",
+      "town": "Milano",
+      "istat": "015146",
+      "excise_group_observed": "ordinary",
+      "rates": {
+        "excise": [
+          {
+            "label": "Accisa - da 0 a 120 Smc",
+            "eur_smc": "0.044000"
+          },
+          {
+            "label": "Accisa - da 121 a 480 Smc",
+            "eur_smc": "0.175000"
+          },
+          {
+            "label": "Accisa - da 481 a 1.560 Smc",
+            "eur_smc": "0.170000"
+          },
+          {
+            "label": "Accisa - oltre 1.560 Smc",
+            "eur_smc": "0.186000"
+          }
+        ],
+        "regional": [
+          {
+            "label": "Add. reg. fino a 120 Smc",
+            "eur_smc": "0.000000"
+          },
+          {
+            "label": "Add. reg. da 121 a 480 Smc",
+            "eur_smc": "0.000000"
+          },
+          {
+            "label": "Add. reg. da 481 a 1.560 Smc",
+            "eur_smc": "0.000000"
+          },
+          {
+            "label": "Add. reg. - oltre 1.560 Smc",
+            "eur_smc": "0.000000"
+          }
+        ]
+      },
+      "tax4000_predicted_unrounded_eur": "705.720000",
+      "tax4000_observed_eur": "705.72",
+      "rounding_compatible": true,
+      "source": "015146-cost.html"
+    },
+    {
+      "region_code": "04",
+      "region": "Trentino Alto Adige",
+      "town": "Trento",
+      "istat": "022205",
+      "excise_group_observed": "ordinary",
+      "rates": {
+        "excise": [
+          {
+            "label": "Accisa - da 0 a 120 Smc",
+            "eur_smc": "0.044000"
+          },
+          {
+            "label": "Accisa - da 121 a 480 Smc",
+            "eur_smc": "0.175000"
+          },
+          {
+            "label": "Accisa - da 481 a 1.560 Smc",
+            "eur_smc": "0.170000"
+          },
+          {
+            "label": "Accisa - oltre 1.560 Smc",
+            "eur_smc": "0.186000"
+          }
+        ],
+        "regional": [
+          {
+            "label": "Add. reg. fino a 120 Smc",
+            "eur_smc": "0.000000"
+          },
+          {
+            "label": "Add. reg. da 121 a 480 Smc",
+            "eur_smc": "0.000000"
+          },
+          {
+            "label": "Add. reg. da 481 a 1.560 Smc",
+            "eur_smc": "0.000000"
+          },
+          {
+            "label": "Add. reg. - oltre 1.560 Smc",
+            "eur_smc": "0.000000"
+          }
+        ]
+      },
+      "tax4000_predicted_unrounded_eur": "705.720000",
+      "tax4000_observed_eur": "705.72",
+      "rounding_compatible": true,
+      "source": "022205-cost.html"
+    },
+    {
+      "region_code": "04",
+      "region": "Trentino Alto Adige",
+      "town": "Bolzano",
+      "istat": "021008",
+      "excise_group_observed": "ordinary",
+      "rates": {
+        "excise": [
+          {
+            "label": "Accisa - da 0 a 120 Smc",
+            "eur_smc": "0.044000"
+          },
+          {
+            "label": "Accisa - da 121 a 480 Smc",
+            "eur_smc": "0.175000"
+          },
+          {
+            "label": "Accisa - da 481 a 1.560 Smc",
+            "eur_smc": "0.170000"
+          },
+          {
+            "label": "Accisa - oltre 1.560 Smc",
+            "eur_smc": "0.186000"
+          }
+        ],
+        "regional": [
+          {
+            "label": "Add. reg. fino a 120 Smc",
+            "eur_smc": "0.000000"
+          },
+          {
+            "label": "Add. reg. da 121 a 480 Smc",
+            "eur_smc": "0.000000"
+          },
+          {
+            "label": "Add. reg. da 481 a 1.560 Smc",
+            "eur_smc": "0.000000"
+          },
+          {
+            "label": "Add. reg. - oltre 1.560 Smc",
+            "eur_smc": "0.000000"
+          }
+        ]
+      },
+      "tax4000_predicted_unrounded_eur": "705.720000",
+      "tax4000_observed_eur": "705.72",
+      "rounding_compatible": true,
+      "source": "021008-cost.html"
+    },
+    {
+      "region_code": "05",
+      "region": "Veneto",
+      "town": "Venezia",
+      "istat": "027042",
+      "excise_group_observed": "ordinary",
+      "rates": {
+        "excise": [
+          {
+            "label": "Accisa - da 0 a 120 Smc",
+            "eur_smc": "0.044000"
+          },
+          {
+            "label": "Accisa - da 121 a 480 Smc",
+            "eur_smc": "0.175000"
+          },
+          {
+            "label": "Accisa - da 481 a 1.560 Smc",
+            "eur_smc": "0.170000"
+          },
+          {
+            "label": "Accisa - oltre 1.560 Smc",
+            "eur_smc": "0.186000"
+          }
+        ],
+        "regional": [
+          {
+            "label": "Add. reg. fino a 120 Smc",
+            "eur_smc": "0.007747"
+          },
+          {
+            "label": "Add. reg. da 121 a 480 Smc",
+            "eur_smc": "0.023241"
+          },
+          {
+            "label": "Add. reg. da 481 a 1.560 Smc",
+            "eur_smc": "0.025823"
+          },
+          {
+            "label": "Add. reg. - oltre 1.560 Smc",
+            "eur_smc": "0.030987"
+          }
+        ]
+      },
+      "tax4000_predicted_unrounded_eur": "818.513520",
+      "tax4000_observed_eur": "818.51",
+      "rounding_compatible": true,
+      "source": "027042-cost.html"
+    },
+    {
+      "region_code": "06",
+      "region": "Friuli Venezia Giulia",
+      "town": "Trieste",
+      "istat": "032006",
+      "excise_group_observed": "ordinary",
+      "rates": {
+        "excise": [
+          {
+            "label": "Accisa - da 0 a 120 Smc",
+            "eur_smc": "0.044000"
+          },
+          {
+            "label": "Accisa - da 121 a 480 Smc",
+            "eur_smc": "0.175000"
+          },
+          {
+            "label": "Accisa - da 481 a 1.560 Smc",
+            "eur_smc": "0.170000"
+          },
+          {
+            "label": "Accisa - oltre 1.560 Smc",
+            "eur_smc": "0.186000"
+          }
+        ],
+        "regional": [
+          {
+            "label": "Add. reg. fino a 120 Smc",
+            "eur_smc": "0.000000"
+          },
+          {
+            "label": "Add. reg. da 121 a 480 Smc",
+            "eur_smc": "0.000000"
+          },
+          {
+            "label": "Add. reg. da 481 a 1.560 Smc",
+            "eur_smc": "0.000000"
+          },
+          {
+            "label": "Add. reg. - oltre 1.560 Smc",
+            "eur_smc": "0.000000"
+          }
+        ]
+      },
+      "tax4000_predicted_unrounded_eur": "705.720000",
+      "tax4000_observed_eur": "705.72",
+      "rounding_compatible": true,
+      "source": "032006-cost.html"
+    },
+    {
+      "region_code": "07",
+      "region": "Liguria",
+      "town": "Genova",
+      "istat": "010025",
+      "excise_group_observed": "ordinary",
+      "rates": {
+        "excise": [
+          {
+            "label": "Accisa - da 0 a 120 Smc",
+            "eur_smc": "0.044000"
+          },
+          {
+            "label": "Accisa - da 121 a 480 Smc",
+            "eur_smc": "0.175000"
+          },
+          {
+            "label": "Accisa - da 481 a 1.560 Smc",
+            "eur_smc": "0.170000"
+          },
+          {
+            "label": "Accisa - oltre 1.560 Smc",
+            "eur_smc": "0.186000"
+          }
+        ],
+        "regional": [
+          {
+            "label": "Add. reg. fino a 120 Smc",
+            "eur_smc": "0.022000"
+          },
+          {
+            "label": "Add. reg. da 121 a 480 Smc",
+            "eur_smc": "0.025800"
+          },
+          {
+            "label": "Add. reg. da 481 a 1.560 Smc",
+            "eur_smc": "0.025800"
+          },
+          {
+            "label": "Add. reg. - oltre 1.560 Smc",
+            "eur_smc": "0.025800"
+          }
+        ]
+      },
+      "tax4000_predicted_unrounded_eur": "808.464000",
+      "tax4000_observed_eur": "808.46",
+      "rounding_compatible": true,
+      "source": "010025-cost.html"
+    },
+    {
+      "region_code": "08",
+      "region": "Emilia Romagna",
+      "town": "Bologna",
+      "istat": "037006",
+      "excise_group_observed": "ordinary",
+      "rates": {
+        "excise": [
+          {
+            "label": "Accisa - da 0 a 120 Smc",
+            "eur_smc": "0.044000"
+          },
+          {
+            "label": "Accisa - da 121 a 480 Smc",
+            "eur_smc": "0.175000"
+          },
+          {
+            "label": "Accisa - da 481 a 1.560 Smc",
+            "eur_smc": "0.170000"
+          },
+          {
+            "label": "Accisa - oltre 1.560 Smc",
+            "eur_smc": "0.186000"
+          }
+        ],
+        "regional": [
+          {
+            "label": "Add. reg. fino a 120 Smc",
+            "eur_smc": "0.022000"
+          },
+          {
+            "label": "Add. reg. da 121 a 480 Smc",
+            "eur_smc": "0.030987"
+          },
+          {
+            "label": "Add. reg. da 481 a 1.560 Smc",
+            "eur_smc": "0.030987"
+          },
+          {
+            "label": "Add. reg. - oltre 1.560 Smc",
+            "eur_smc": "0.030987"
+          }
+        ]
+      },
+      "tax4000_predicted_unrounded_eur": "828.589560",
+      "tax4000_observed_eur": "828.59",
+      "rounding_compatible": true,
+      "source": "037006-cost.html"
+    },
+    {
+      "region_code": "09",
+      "region": "Toscana",
+      "town": "Firenze",
+      "istat": "048017",
+      "excise_group_observed": "ordinary",
+      "rates": {
+        "excise": [
+          {
+            "label": "Accisa - da 0 a 120 Smc",
+            "eur_smc": "0.044000"
+          },
+          {
+            "label": "Accisa - da 121 a 480 Smc",
+            "eur_smc": "0.175000"
+          },
+          {
+            "label": "Accisa - da 481 a 1.560 Smc",
+            "eur_smc": "0.170000"
+          },
+          {
+            "label": "Accisa - oltre 1.560 Smc",
+            "eur_smc": "0.186000"
+          }
+        ],
+        "regional": [
+          {
+            "label": "Add. reg. fino a 120 Smc",
+            "eur_smc": "0.022000"
+          },
+          {
+            "label": "Add. reg. da 121 a 480 Smc",
+            "eur_smc": "0.030987"
+          },
+          {
+            "label": "Add. reg. da 481 a 1.560 Smc",
+            "eur_smc": "0.030987"
+          },
+          {
+            "label": "Add. reg. - oltre 1.560 Smc",
+            "eur_smc": "0.030987"
+          }
+        ]
+      },
+      "tax4000_predicted_unrounded_eur": "828.589560",
+      "tax4000_observed_eur": "828.59",
+      "rounding_compatible": true,
+      "source": "048017-cost.html"
+    },
+    {
+      "region_code": "10",
+      "region": "Umbria",
+      "town": "Perugia",
+      "istat": "054039",
+      "excise_group_observed": "ordinary",
+      "rates": {
+        "excise": [
+          {
+            "label": "Accisa - da 0 a 120 Smc",
+            "eur_smc": "0.044000"
+          },
+          {
+            "label": "Accisa - da 121 a 480 Smc",
+            "eur_smc": "0.175000"
+          },
+          {
+            "label": "Accisa - da 481 a 1.560 Smc",
+            "eur_smc": "0.170000"
+          },
+          {
+            "label": "Accisa - oltre 1.560 Smc",
+            "eur_smc": "0.186000"
+          }
+        ],
+        "regional": [
+          {
+            "label": "Add. reg. fino a 120 Smc",
+            "eur_smc": "0.005165"
+          },
+          {
+            "label": "Add. reg. da 121 a 480 Smc",
+            "eur_smc": "0.005165"
+          },
+          {
+            "label": "Add. reg. da 481 a 1.560 Smc",
+            "eur_smc": "0.005165"
+          },
+          {
+            "label": "Add. reg. - oltre 1.560 Smc",
+            "eur_smc": "0.005165"
+          }
+        ]
+      },
+      "tax4000_predicted_unrounded_eur": "726.380000",
+      "tax4000_observed_eur": "726.38",
+      "rounding_compatible": true,
+      "source": "054039-cost.html"
+    },
+    {
+      "region_code": "11",
+      "region": "Marche",
+      "town": "Ancona",
+      "istat": "042002",
+      "excise_group_observed": "ordinary",
+      "rates": {
+        "excise": [
+          {
+            "label": "Accisa - da 0 a 120 Smc",
+            "eur_smc": "0.044000"
+          },
+          {
+            "label": "Accisa - da 121 a 480 Smc",
+            "eur_smc": "0.175000"
+          },
+          {
+            "label": "Accisa - da 481 a 1.560 Smc",
+            "eur_smc": "0.170000"
+          },
+          {
+            "label": "Accisa - oltre 1.560 Smc",
+            "eur_smc": "0.186000"
+          }
+        ],
+        "regional": [
+          {
+            "label": "Add. reg. fino a 120 Smc",
+            "eur_smc": "0.015500"
+          },
+          {
+            "label": "Add. reg. da 121 a 480 Smc",
+            "eur_smc": "0.018100"
+          },
+          {
+            "label": "Add. reg. da 481 a 1.560 Smc",
+            "eur_smc": "0.020700"
+          },
+          {
+            "label": "Add. reg. - oltre 1.560 Smc",
+            "eur_smc": "0.025800"
+          }
+        ]
+      },
+      "tax4000_predicted_unrounded_eur": "799.404000",
+      "tax4000_observed_eur": "799.40",
+      "rounding_compatible": true,
+      "source": "042002-cost.html"
+    },
+    {
+      "region_code": "12",
+      "region": "Lazio",
+      "town": "Roma",
+      "istat": "058091",
+      "excise_group_observed": "ordinary",
+      "rates": {
+        "excise": [
+          {
+            "label": "Accisa - da 0 a 120 Smc",
+            "eur_smc": "0.044000"
+          },
+          {
+            "label": "Accisa - da 121 a 480 Smc",
+            "eur_smc": "0.175000"
+          },
+          {
+            "label": "Accisa - da 481 a 1.560 Smc",
+            "eur_smc": "0.170000"
+          },
+          {
+            "label": "Accisa - oltre 1.560 Smc",
+            "eur_smc": "0.186000"
+          }
+        ],
+        "regional": [
+          {
+            "label": "Add. reg. fino a 120 Smc",
+            "eur_smc": "0.022000"
+          },
+          {
+            "label": "Add. reg. da 121 a 480 Smc",
+            "eur_smc": "0.030990"
+          },
+          {
+            "label": "Add. reg. da 481 a 1.560 Smc",
+            "eur_smc": "0.030990"
+          },
+          {
+            "label": "Add. reg. - oltre 1.560 Smc",
+            "eur_smc": "0.030990"
+          }
+        ]
+      },
+      "tax4000_predicted_unrounded_eur": "828.601200",
+      "tax4000_observed_eur": "828.60",
+      "rounding_compatible": true,
+      "source": "058091-cost.html"
+    },
+    {
+      "region_code": "13",
+      "region": "Abruzzo",
+      "town": "Pescara",
+      "istat": "068028",
+      "excise_group_observed": "ex_cassa_mezzogiorno",
+      "rates": {
+        "excise": [
+          {
+            "label": "Accisa - da 0 a 120 Smc",
+            "eur_smc": "0.038000"
+          },
+          {
+            "label": "Accisa - da 121 a 480 Smc",
+            "eur_smc": "0.135000"
+          },
+          {
+            "label": "Accisa - da 481 a 1.560 Smc",
+            "eur_smc": "0.120000"
+          },
+          {
+            "label": "Accisa - oltre 1.560 Smc",
+            "eur_smc": "0.150000"
+          }
+        ],
+        "regional": [
+          {
+            "label": "Add. reg. fino a 120 Smc",
+            "eur_smc": "0.019000"
+          },
+          {
+            "label": "Add. reg. da 121 a 480 Smc",
+            "eur_smc": "0.023241"
+          },
+          {
+            "label": "Add. reg. da 481 a 1.560 Smc",
+            "eur_smc": "0.025823"
+          },
+          {
+            "label": "Add. reg. - oltre 1.560 Smc",
+            "eur_smc": "0.025823"
+          }
+        ]
+      },
+      "tax4000_predicted_unrounded_eur": "650.303720",
+      "tax4000_observed_eur": "650.30",
+      "rounding_compatible": true,
+      "source": "068028-cost.html"
+    },
+    {
+      "region_code": "14",
+      "region": "Molise",
+      "town": "Campobasso",
+      "istat": "070006",
+      "excise_group_observed": "ex_cassa_mezzogiorno",
+      "rates": {
+        "excise": [
+          {
+            "label": "Accisa - da 0 a 120 Smc",
+            "eur_smc": "0.038000"
+          },
+          {
+            "label": "Accisa - da 121 a 480 Smc",
+            "eur_smc": "0.135000"
+          },
+          {
+            "label": "Accisa - da 481 a 1.560 Smc",
+            "eur_smc": "0.120000"
+          },
+          {
+            "label": "Accisa - oltre 1.560 Smc",
+            "eur_smc": "0.150000"
+          }
+        ],
+        "regional": [
+          {
+            "label": "Add. reg. fino a 120 Smc",
+            "eur_smc": "0.019000"
+          },
+          {
+            "label": "Add. reg. da 121 a 480 Smc",
+            "eur_smc": "0.030987"
+          },
+          {
+            "label": "Add. reg. da 481 a 1.560 Smc",
+            "eur_smc": "0.030987"
+          },
+          {
+            "label": "Add. reg. - oltre 1.560 Smc",
+            "eur_smc": "0.030987"
+          }
+        ]
+      },
+      "tax4000_predicted_unrounded_eur": "671.269560",
+      "tax4000_observed_eur": "671.27",
+      "rounding_compatible": true,
+      "source": "070006-cost.html"
+    },
+    {
+      "region_code": "15",
+      "region": "Campania",
+      "town": "Napoli",
+      "istat": "063049",
+      "excise_group_observed": "ex_cassa_mezzogiorno",
+      "rates": {
+        "excise": [
+          {
+            "label": "Accisa - da 0 a 120 Smc",
+            "eur_smc": "0.038000"
+          },
+          {
+            "label": "Accisa - da 121 a 480 Smc",
+            "eur_smc": "0.135000"
+          },
+          {
+            "label": "Accisa - da 481 a 1.560 Smc",
+            "eur_smc": "0.120000"
+          },
+          {
+            "label": "Accisa - oltre 1.560 Smc",
+            "eur_smc": "0.150000"
+          }
+        ],
+        "regional": [
+          {
+            "label": "Add. reg. fino a 120 Smc",
+            "eur_smc": "0.019000"
+          },
+          {
+            "label": "Add. reg. da 121 a 480 Smc",
+            "eur_smc": "0.031000"
+          },
+          {
+            "label": "Add. reg. da 481 a 1.560 Smc",
+            "eur_smc": "0.031000"
+          },
+          {
+            "label": "Add. reg. - oltre 1.560 Smc",
+            "eur_smc": "0.031000"
+          }
+        ]
+      },
+      "tax4000_predicted_unrounded_eur": "671.320000",
+      "tax4000_observed_eur": "671.32",
+      "rounding_compatible": true,
+      "source": "063049-cost.html"
+    },
+    {
+      "region_code": "16",
+      "region": "Puglia",
+      "town": "Bari",
+      "istat": "072006",
+      "excise_group_observed": "ex_cassa_mezzogiorno",
+      "rates": {
+        "excise": [
+          {
+            "label": "Accisa - da 0 a 120 Smc",
+            "eur_smc": "0.038000"
+          },
+          {
+            "label": "Accisa - da 121 a 480 Smc",
+            "eur_smc": "0.135000"
+          },
+          {
+            "label": "Accisa - da 481 a 1.560 Smc",
+            "eur_smc": "0.120000"
+          },
+          {
+            "label": "Accisa - oltre 1.560 Smc",
+            "eur_smc": "0.150000"
+          }
+        ],
+        "regional": [
+          {
+            "label": "Add. reg. fino a 120 Smc",
+            "eur_smc": "0.019000"
+          },
+          {
+            "label": "Add. reg. da 121 a 480 Smc",
+            "eur_smc": "0.030980"
+          },
+          {
+            "label": "Add. reg. da 481 a 1.560 Smc",
+            "eur_smc": "0.030980"
+          },
+          {
+            "label": "Add. reg. - oltre 1.560 Smc",
+            "eur_smc": "0.030980"
+          }
+        ]
+      },
+      "tax4000_predicted_unrounded_eur": "671.242400",
+      "tax4000_observed_eur": "671.24",
+      "rounding_compatible": true,
+      "source": "072006-cost.html"
+    },
+    {
+      "region_code": "17",
+      "region": "Basilicata",
+      "town": "Potenza",
+      "istat": "076063",
+      "excise_group_observed": "ex_cassa_mezzogiorno",
+      "rates": {
+        "excise": [
+          {
+            "label": "Accisa - da 0 a 120 Smc",
+            "eur_smc": "0.038000"
+          },
+          {
+            "label": "Accisa - da 121 a 480 Smc",
+            "eur_smc": "0.135000"
+          },
+          {
+            "label": "Accisa - da 481 a 1.560 Smc",
+            "eur_smc": "0.120000"
+          },
+          {
+            "label": "Accisa - oltre 1.560 Smc",
+            "eur_smc": "0.150000"
+          }
+        ],
+        "regional": [
+          {
+            "label": "Add. reg. fino a 120 Smc",
+            "eur_smc": "0.019000"
+          },
+          {
+            "label": "Add. reg. da 121 a 480 Smc",
+            "eur_smc": "0.025823"
+          },
+          {
+            "label": "Add. reg. da 481 a 1.560 Smc",
+            "eur_smc": "0.025823"
+          },
+          {
+            "label": "Add. reg. - oltre 1.560 Smc",
+            "eur_smc": "0.025823"
+          }
+        ]
+      },
+      "tax4000_predicted_unrounded_eur": "651.233240",
+      "tax4000_observed_eur": "651.23",
+      "rounding_compatible": true,
+      "source": "076063-cost.html"
+    },
+    {
+      "region_code": "18",
+      "region": "Calabria",
+      "town": "Catanzaro",
+      "istat": "079023",
+      "excise_group_observed": "ex_cassa_mezzogiorno",
+      "rates": {
+        "excise": [
+          {
+            "label": "Accisa - da 0 a 120 Smc",
+            "eur_smc": "0.038000"
+          },
+          {
+            "label": "Accisa - da 121 a 480 Smc",
+            "eur_smc": "0.135000"
+          },
+          {
+            "label": "Accisa - da 481 a 1.560 Smc",
+            "eur_smc": "0.120000"
+          },
+          {
+            "label": "Accisa - oltre 1.560 Smc",
+            "eur_smc": "0.150000"
+          }
+        ],
+        "regional": [
+          {
+            "label": "Add. reg. fino a 120 Smc",
+            "eur_smc": "0.005165"
+          },
+          {
+            "label": "Add. reg. da 121 a 480 Smc",
+            "eur_smc": "0.005165"
+          },
+          {
+            "label": "Add. reg. da 481 a 1.560 Smc",
+            "eur_smc": "0.005165"
+          },
+          {
+            "label": "Add. reg. - oltre 1.560 Smc",
+            "eur_smc": "0.005165"
+          }
+        ]
+      },
+      "tax4000_predicted_unrounded_eur": "569.420000",
+      "tax4000_observed_eur": "569.42",
+      "rounding_compatible": true,
+      "source": "079023-cost.html"
+    },
+    {
+      "region_code": "19",
+      "region": "Sicilia",
+      "town": "Palermo",
+      "istat": "082053",
+      "excise_group_observed": "ex_cassa_mezzogiorno",
+      "rates": {
+        "excise": [
+          {
+            "label": "Accisa - da 0 a 120 Smc",
+            "eur_smc": "0.038000"
+          },
+          {
+            "label": "Accisa - da 121 a 480 Smc",
+            "eur_smc": "0.135000"
+          },
+          {
+            "label": "Accisa - da 481 a 1.560 Smc",
+            "eur_smc": "0.120000"
+          },
+          {
+            "label": "Accisa - oltre 1.560 Smc",
+            "eur_smc": "0.150000"
+          }
+        ],
+        "regional": [
+          {
+            "label": "Add. reg. fino a 120 Smc",
+            "eur_smc": "0.000000"
+          },
+          {
+            "label": "Add. reg. da 121 a 480 Smc",
+            "eur_smc": "0.000000"
+          },
+          {
+            "label": "Add. reg. da 481 a 1.560 Smc",
+            "eur_smc": "0.000000"
+          },
+          {
+            "label": "Add. reg. - oltre 1.560 Smc",
+            "eur_smc": "0.000000"
+          }
+        ]
+      },
+      "tax4000_predicted_unrounded_eur": "548.760000",
+      "tax4000_observed_eur": "548.76",
+      "rounding_compatible": true,
+      "source": "082053-cost.html"
+    },
+    {
+      "region_code": "12",
+      "region": "Lazio",
+      "town": "Latina",
+      "istat": "059011",
+      "excise_group_observed": "ex_cassa_mezzogiorno",
+      "rates": {
+        "excise": [
+          {
+            "label": "Accisa - da 0 a 120 Smc",
+            "eur_smc": "0.038000"
+          },
+          {
+            "label": "Accisa - da 121 a 480 Smc",
+            "eur_smc": "0.135000"
+          },
+          {
+            "label": "Accisa - da 481 a 1.560 Smc",
+            "eur_smc": "0.120000"
+          },
+          {
+            "label": "Accisa - oltre 1.560 Smc",
+            "eur_smc": "0.150000"
+          }
+        ],
+        "regional": [
+          {
+            "label": "Add. reg. fino a 120 Smc",
+            "eur_smc": "0.019000"
+          },
+          {
+            "label": "Add. reg. da 121 a 480 Smc",
+            "eur_smc": "0.030990"
+          },
+          {
+            "label": "Add. reg. da 481 a 1.560 Smc",
+            "eur_smc": "0.030990"
+          },
+          {
+            "label": "Add. reg. - oltre 1.560 Smc",
+            "eur_smc": "0.030990"
+          }
+        ]
+      },
+      "tax4000_predicted_unrounded_eur": "671.281200",
+      "tax4000_observed_eur": "671.28",
+      "rounding_compatible": true,
+      "source": "059011-cost.html"
+    },
+    {
+      "region_code": "12",
+      "region": "Lazio",
+      "town": "Frosinone",
+      "istat": "060038",
+      "excise_group_observed": "ex_cassa_mezzogiorno",
+      "rates": {
+        "excise": [
+          {
+            "label": "Accisa - da 0 a 120 Smc",
+            "eur_smc": "0.038000"
+          },
+          {
+            "label": "Accisa - da 121 a 480 Smc",
+            "eur_smc": "0.135000"
+          },
+          {
+            "label": "Accisa - da 481 a 1.560 Smc",
+            "eur_smc": "0.120000"
+          },
+          {
+            "label": "Accisa - oltre 1.560 Smc",
+            "eur_smc": "0.150000"
+          }
+        ],
+        "regional": [
+          {
+            "label": "Add. reg. fino a 120 Smc",
+            "eur_smc": "0.019000"
+          },
+          {
+            "label": "Add. reg. da 121 a 480 Smc",
+            "eur_smc": "0.030990"
+          },
+          {
+            "label": "Add. reg. da 481 a 1.560 Smc",
+            "eur_smc": "0.030990"
+          },
+          {
+            "label": "Add. reg. - oltre 1.560 Smc",
+            "eur_smc": "0.030990"
+          }
+        ]
+      },
+      "tax4000_predicted_unrounded_eur": "671.281200",
+      "tax4000_observed_eur": "671.28",
+      "rounding_compatible": true,
+      "source": "060038-cost.html"
+    },
+    {
+      "region_code": "12",
+      "region": "Lazio",
+      "town": "Rieti",
+      "istat": "057059",
+      "excise_group_observed": "ex_cassa_mezzogiorno",
+      "rates": {
+        "excise": [
+          {
+            "label": "Accisa - da 0 a 120 Smc",
+            "eur_smc": "0.038000"
+          },
+          {
+            "label": "Accisa - da 121 a 480 Smc",
+            "eur_smc": "0.135000"
+          },
+          {
+            "label": "Accisa - da 481 a 1.560 Smc",
+            "eur_smc": "0.120000"
+          },
+          {
+            "label": "Accisa - oltre 1.560 Smc",
+            "eur_smc": "0.150000"
+          }
+        ],
+        "regional": [
+          {
+            "label": "Add. reg. fino a 120 Smc",
+            "eur_smc": "0.019000"
+          },
+          {
+            "label": "Add. reg. da 121 a 480 Smc",
+            "eur_smc": "0.030990"
+          },
+          {
+            "label": "Add. reg. da 481 a 1.560 Smc",
+            "eur_smc": "0.030990"
+          },
+          {
+            "label": "Add. reg. - oltre 1.560 Smc",
+            "eur_smc": "0.030990"
+          }
+        ]
+      },
+      "tax4000_predicted_unrounded_eur": "671.281200",
+      "tax4000_observed_eur": "671.28",
+      "rounding_compatible": true,
+      "source": "057059-cost.html"
+    },
+    {
+      "region_code": "12",
+      "region": "Lazio",
+      "town": "Cittaducale",
+      "istat": "057016",
+      "excise_group_observed": "ex_cassa_mezzogiorno",
+      "rates": {
+        "excise": [
+          {
+            "label": "Accisa - da 0 a 120 Smc",
+            "eur_smc": "0.038000"
+          },
+          {
+            "label": "Accisa - da 121 a 480 Smc",
+            "eur_smc": "0.135000"
+          },
+          {
+            "label": "Accisa - da 481 a 1.560 Smc",
+            "eur_smc": "0.120000"
+          },
+          {
+            "label": "Accisa - oltre 1.560 Smc",
+            "eur_smc": "0.150000"
+          }
+        ],
+        "regional": [
+          {
+            "label": "Add. reg. fino a 120 Smc",
+            "eur_smc": "0.019000"
+          },
+          {
+            "label": "Add. reg. da 121 a 480 Smc",
+            "eur_smc": "0.030990"
+          },
+          {
+            "label": "Add. reg. da 481 a 1.560 Smc",
+            "eur_smc": "0.030990"
+          },
+          {
+            "label": "Add. reg. - oltre 1.560 Smc",
+            "eur_smc": "0.030990"
+          }
+        ]
+      },
+      "tax4000_predicted_unrounded_eur": "671.281200",
+      "tax4000_observed_eur": "671.28",
+      "rounding_compatible": true,
+      "source": "057016-cost.html"
+    },
+    {
+      "region_code": "13",
+      "region": "Abruzzo",
+      "town": "L'Aquila",
+      "istat": "066049",
+      "excise_group_observed": "ex_cassa_mezzogiorno",
+      "rates": {
+        "excise": [
+          {
+            "label": "Accisa - da 0 a 120 Smc",
+            "eur_smc": "0.038000"
+          },
+          {
+            "label": "Accisa - da 121 a 480 Smc",
+            "eur_smc": "0.135000"
+          },
+          {
+            "label": "Accisa - da 481 a 1.560 Smc",
+            "eur_smc": "0.120000"
+          },
+          {
+            "label": "Accisa - oltre 1.560 Smc",
+            "eur_smc": "0.150000"
+          }
+        ],
+        "regional": [
+          {
+            "label": "Add. reg. fino a 120 Smc",
+            "eur_smc": "0.010330"
+          },
+          {
+            "label": "Add. reg. da 121 a 480 Smc",
+            "eur_smc": "0.010330"
+          },
+          {
+            "label": "Add. reg. da 481 a 1.560 Smc",
+            "eur_smc": "0.010330"
+          },
+          {
+            "label": "Add. reg. - oltre 1.560 Smc",
+            "eur_smc": "0.010330"
+          }
+        ]
+      },
+      "tax4000_predicted_unrounded_eur": "590.080000",
+      "tax4000_observed_eur": "590.08",
+      "rounding_compatible": true,
+      "source": "066049-cost.html"
+    },
+    {
+      "region_code": "07",
+      "region": "Liguria",
+      "town": "Sassello",
+      "istat": "009055",
+      "excise_group_observed": "ordinary",
+      "rates": {
+        "excise": [
+          {
+            "label": "Accisa - da 0 a 120 Smc",
+            "eur_smc": "0.044000"
+          },
+          {
+            "label": "Accisa - da 121 a 480 Smc",
+            "eur_smc": "0.175000"
+          },
+          {
+            "label": "Accisa - da 481 a 1.560 Smc",
+            "eur_smc": "0.170000"
+          },
+          {
+            "label": "Accisa - oltre 1.560 Smc",
+            "eur_smc": "0.186000"
+          }
+        ],
+        "regional": [
+          {
+            "label": "Add. reg. fino a 120 Smc",
+            "eur_smc": "0.015500"
+          },
+          {
+            "label": "Add. reg. da 121 a 480 Smc",
+            "eur_smc": "0.015500"
+          },
+          {
+            "label": "Add. reg. da 481 a 1.560 Smc",
+            "eur_smc": "0.015500"
+          },
+          {
+            "label": "Add. reg. - oltre 1.560 Smc",
+            "eur_smc": "0.015500"
+          }
+        ]
+      },
+      "tax4000_predicted_unrounded_eur": "767.720000",
+      "tax4000_observed_eur": "767.72",
+      "rounding_compatible": true,
+      "source": "009055-cost.html"
+    },
+    {
+      "region_code": "11",
+      "region": "Marche",
+      "town": "Ascoli Piceno",
+      "istat": "044007",
+      "excise_group_observed": "ordinary",
+      "rates": {
+        "excise": [
+          {
+            "label": "Accisa - da 0 a 120 Smc",
+            "eur_smc": "0.044000"
+          },
+          {
+            "label": "Accisa - da 121 a 480 Smc",
+            "eur_smc": "0.175000"
+          },
+          {
+            "label": "Accisa - da 481 a 1.560 Smc",
+            "eur_smc": "0.170000"
+          },
+          {
+            "label": "Accisa - oltre 1.560 Smc",
+            "eur_smc": "0.186000"
+          }
+        ],
+        "regional": [
+          {
+            "label": "Add. reg. fino a 120 Smc",
+            "eur_smc": "0.015500"
+          },
+          {
+            "label": "Add. reg. da 121 a 480 Smc",
+            "eur_smc": "0.018100"
+          },
+          {
+            "label": "Add. reg. da 481 a 1.560 Smc",
+            "eur_smc": "0.020700"
+          },
+          {
+            "label": "Add. reg. - oltre 1.560 Smc",
+            "eur_smc": "0.025800"
+          }
+        ]
+      },
+      "tax4000_predicted_unrounded_eur": "799.404000",
+      "tax4000_observed_eur": "799.40",
+      "rounding_compatible": true,
+      "source": "044007-cost.html"
+    },
+    {
+      "region_code": "07",
+      "region": "Liguria",
+      "town": "Santo Stefano d'Aveto",
+      "istat": "010056",
+      "excise_group_observed": "ordinary",
+      "rates": {
+        "excise": [
+          {
+            "label": "Accisa - da 0 a 120 Smc",
+            "eur_smc": "0.044000"
+          },
+          {
+            "label": "Accisa - da 121 a 480 Smc",
+            "eur_smc": "0.175000"
+          },
+          {
+            "label": "Accisa - da 481 a 1.560 Smc",
+            "eur_smc": "0.170000"
+          },
+          {
+            "label": "Accisa - oltre 1.560 Smc",
+            "eur_smc": "0.186000"
+          }
+        ],
+        "regional": [
+          {
+            "label": "Add. reg. fino a 120 Smc",
+            "eur_smc": "0.010300"
+          },
+          {
+            "label": "Add. reg. da 121 a 480 Smc",
+            "eur_smc": "0.010300"
+          },
+          {
+            "label": "Add. reg. da 481 a 1.560 Smc",
+            "eur_smc": "0.010300"
+          },
+          {
+            "label": "Add. reg. - oltre 1.560 Smc",
+            "eur_smc": "0.010300"
+          }
+        ]
+      },
+      "tax4000_predicted_unrounded_eur": "746.920000",
+      "tax4000_observed_eur": "746.92",
+      "rounding_compatible": true,
+      "source": "010056-cost.html"
+    },
+    {
+      "region_code": "12",
+      "region": "Lazio",
+      "town": "Anzio",
+      "istat": "058007",
+      "excise_group_observed": "ordinary",
+      "rates": {
+        "excise": [
+          {
+            "label": "Accisa - da 0 a 120 Smc",
+            "eur_smc": "0.044000"
+          },
+          {
+            "label": "Accisa - da 121 a 480 Smc",
+            "eur_smc": "0.175000"
+          },
+          {
+            "label": "Accisa - da 481 a 1.560 Smc",
+            "eur_smc": "0.170000"
+          },
+          {
+            "label": "Accisa - oltre 1.560 Smc",
+            "eur_smc": "0.186000"
+          }
+        ],
+        "regional": [
+          {
+            "label": "Add. reg. fino a 120 Smc",
+            "eur_smc": "0.022000"
+          },
+          {
+            "label": "Add. reg. da 121 a 480 Smc",
+            "eur_smc": "0.030990"
+          },
+          {
+            "label": "Add. reg. da 481 a 1.560 Smc",
+            "eur_smc": "0.030990"
+          },
+          {
+            "label": "Add. reg. - oltre 1.560 Smc",
+            "eur_smc": "0.030990"
+          }
+        ]
+      },
+      "tax4000_predicted_unrounded_eur": "828.601200",
+      "tax4000_observed_eur": "828.60",
+      "rounding_compatible": true,
+      "source": "058007-cost.html"
+    },
+    {
+      "region_code": "12",
+      "region": "Lazio",
+      "town": "Nettuno",
+      "istat": "058072",
+      "excise_group_observed": "ordinary",
+      "rates": {
+        "excise": [
+          {
+            "label": "Accisa - da 0 a 120 Smc",
+            "eur_smc": "0.044000"
+          },
+          {
+            "label": "Accisa - da 121 a 480 Smc",
+            "eur_smc": "0.175000"
+          },
+          {
+            "label": "Accisa - da 481 a 1.560 Smc",
+            "eur_smc": "0.170000"
+          },
+          {
+            "label": "Accisa - oltre 1.560 Smc",
+            "eur_smc": "0.186000"
+          }
+        ],
+        "regional": [
+          {
+            "label": "Add. reg. fino a 120 Smc",
+            "eur_smc": "0.022000"
+          },
+          {
+            "label": "Add. reg. da 121 a 480 Smc",
+            "eur_smc": "0.030990"
+          },
+          {
+            "label": "Add. reg. da 481 a 1.560 Smc",
+            "eur_smc": "0.030990"
+          },
+          {
+            "label": "Add. reg. - oltre 1.560 Smc",
+            "eur_smc": "0.030990"
+          }
+        ]
+      },
+      "tax4000_predicted_unrounded_eur": "828.601200",
+      "tax4000_observed_eur": "828.60",
+      "rounding_compatible": true,
+      "source": "058072-cost.html"
+    },
+    {
+      "region_code": "12",
+      "region": "Lazio",
+      "town": "Viterbo",
+      "istat": "056059",
+      "excise_group_observed": "ordinary",
+      "rates": {
+        "excise": [
+          {
+            "label": "Accisa - da 0 a 120 Smc",
+            "eur_smc": "0.044000"
+          },
+          {
+            "label": "Accisa - da 121 a 480 Smc",
+            "eur_smc": "0.175000"
+          },
+          {
+            "label": "Accisa - da 481 a 1.560 Smc",
+            "eur_smc": "0.170000"
+          },
+          {
+            "label": "Accisa - oltre 1.560 Smc",
+            "eur_smc": "0.186000"
+          }
+        ],
+        "regional": [
+          {
+            "label": "Add. reg. fino a 120 Smc",
+            "eur_smc": "0.022000"
+          },
+          {
+            "label": "Add. reg. da 121 a 480 Smc",
+            "eur_smc": "0.030990"
+          },
+          {
+            "label": "Add. reg. da 481 a 1.560 Smc",
+            "eur_smc": "0.030990"
+          },
+          {
+            "label": "Add. reg. - oltre 1.560 Smc",
+            "eur_smc": "0.030990"
+          }
+        ]
+      },
+      "tax4000_predicted_unrounded_eur": "828.601200",
+      "tax4000_observed_eur": "828.60",
+      "rounding_compatible": true,
+      "source": "056059-cost.html"
+    },
+    {
+      "region_code": "09",
+      "region": "Toscana",
+      "town": "Portoferraio",
+      "istat": "049014",
+      "excise_group_observed": "ordinary",
+      "rates": {
+        "excise": [
+          {
+            "label": "Accisa - da 0 a 120 Smc",
+            "eur_smc": "0.044000"
+          },
+          {
+            "label": "Accisa - da 121 a 480 Smc",
+            "eur_smc": "0.175000"
+          },
+          {
+            "label": "Accisa - da 481 a 1.560 Smc",
+            "eur_smc": "0.170000"
+          },
+          {
+            "label": "Accisa - oltre 1.560 Smc",
+            "eur_smc": "0.186000"
+          }
+        ],
+        "regional": [
+          {
+            "label": "Add. reg. fino a 120 Smc",
+            "eur_smc": "0.022000"
+          },
+          {
+            "label": "Add. reg. da 121 a 480 Smc",
+            "eur_smc": "0.030987"
+          },
+          {
+            "label": "Add. reg. da 481 a 1.560 Smc",
+            "eur_smc": "0.030987"
+          },
+          {
+            "label": "Add. reg. - oltre 1.560 Smc",
+            "eur_smc": "0.030987"
+          }
+        ]
+      },
+      "tax4000_predicted_unrounded_eur": "828.589560",
+      "tax4000_observed_eur": "828.59",
+      "rounding_compatible": true,
+      "source": "049014-cost.html"
+    }
+  ]
+}

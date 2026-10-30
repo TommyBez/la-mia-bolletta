@@ -1,0 +1,69 @@
+<ListaOfferteMercatoLibero><offerta>
+        <IdentificativiOfferta>
+            <PIVA_UTENTE>01262680190</PIVA_UTENTE>
+            <COD_OFFERTA>000732ESFML01XXEQED2610XXXXXXXXX</COD_OFFERTA>
+        </IdentificativiOfferta>
+        <DettaglioOfferta>
+            <TIPO_MERCATO>01</TIPO_MERCATO>
+            <OFFERTA_SINGOLA>SI</OFFERTA_SINGOLA>
+            <TIPO_CLIENTE>01</TIPO_CLIENTE>
+            <TIPO_OFFERTA>01</TIPO_OFFERTA>
+            <TIPOLOGIA_ATT_CONTR>01</TIPOLOGIA_ATT_CONTR>
+            <NOME_OFFERTA>EQUA LUCE</NOME_OFFERTA>
+            <DESCRIZIONE>Con Equa Luce, l’offerta che ti da l’equilibrio di una rata costante, hai una soluzione chiara e stabile per la tua fornitura. Dedicata ai clienti domestici con consumo annuo non superiore a 5.200 kWh prevede una rata mensile costante per tutto il periodo di validità dell’offerta che viene definita sulla base dei tuoi consumi storici, cosi' sai sempre quanto paghi ogni mese. La componente materia prima gas ha un prezzo fisso e invariabile per 24 mesi, e l’offerta include l'energia verde al 100%, per una scelta piu' consapevole e responsabile.</DESCRIZIONE>
+            <DURATA>-1</DURATA>
+            <GARANZIE>Nessuna</GARANZIE>
+            <ModalitaAttivazione>
+                <MODALITA>03</MODALITA>
+            </ModalitaAttivazione>
+            <Contatti>
+                <TELEFONO>0373893511</TELEFONO>
+                <URL_SITO_VENDITORE>www.enercomlucegas.it</URL_SITO_VENDITORE>
+                <URL_OFFERTA>http://www.enercom.it/offer/equa-luce/</URL_OFFERTA>
+            </Contatti>
+        </DettaglioOfferta>
+        <ValiditaOfferta>
+            <DATA_INIZIO>01/10/2026_23:59:00</DATA_INIZIO>
+            <DATA_FINE>31/10/2026_23:59:00</DATA_FINE>
+        </ValiditaOfferta>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>01</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>02</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <TipoPrezzo>
+            <TIPOLOGIA_FASCE>01</TIPOLOGIA_FASCE>
+        </TipoPrezzo>
+        <Dispacciamento>
+            <TIPO_DISPACCIAMENTO>14</TIPO_DISPACCIAMENTO>
+            <VALORE_DISP>0.000000</VALORE_DISP>
+            <NOME>Dispacciamento domestici</NOME>
+        </Dispacciamento>
+        <ComponenteImpresa>
+            <NOME>Corrispettivo annuo</NOME>
+            <DESCRIZIONE>Corrispettivo annuo</DESCRIZIONE>
+            <TIPOLOGIA>02</TIPOLOGIA>
+            <MACROAREA>01</MACROAREA>
+            <IntervalloPrezzi>
+                <PREZZO>110.000000</PREZZO>
+                <UNITA_MISURA>01</UNITA_MISURA>
+            </IntervalloPrezzi>
+        </ComponenteImpresa>
+        <ComponenteImpresa>
+            <NOME>Corrispettivo per il consumo</NOME>
+            <DESCRIZIONE>Corrispettivo per il consumo</DESCRIZIONE>
+            <TIPOLOGIA>02</TIPOLOGIA>
+            <MACROAREA>04</MACROAREA>
+            <IntervalloPrezzi>
+                <FASCIA_COMPONENTE>01</FASCIA_COMPONENTE>
+                <PREZZO>0.163000</PREZZO>
+                <UNITA_MISURA>03</UNITA_MISURA>
+            </IntervalloPrezzi>
+        </ComponenteImpresa>
+        <CondizioniContrattuali>
+            <TIPOLOGIA_CONDIZIONE>04</TIPOLOGIA_CONDIZIONE>
+            <DESCRIZIONE>Il contratto ha durata determinata di 1 anno con tacito rinnovo.</DESCRIZIONE>
+            <LIMITANTE>02</LIMITANTE>
+        </CondizioniContrattuali>
+    </offerta></ListaOfferteMercatoLibero>

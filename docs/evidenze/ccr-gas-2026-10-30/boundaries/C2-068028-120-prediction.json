@@ -1,0 +1,15 @@
+{
+  "profile": "C2",
+  "municipality": {
+    "portalCode": "068028",
+    "name": "Pescara"
+  },
+  "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+  "volume": "120",
+  "predictedSales": "284.51",
+  "predictedVat": "60.16",
+  "predictedTotal": "419.18",
+  "totalBound": "0.0115128008835728",
+  "vatBound": "0.0152728001593328",
+  "predictedAt": "2026-10-29T23:09:17.754Z"
+}

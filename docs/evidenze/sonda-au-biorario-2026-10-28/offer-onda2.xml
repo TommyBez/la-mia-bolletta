@@ -1,0 +1,90 @@
+<ns0:offerta xmlns:ns0="http://www.acquirenteunico.it/schemas/SII_AU/OffertaRetail/01">
+        <ns0:IdentificativiOfferta>
+            <ns0:PIVA_UTENTE>04476680162</ns0:PIVA_UTENTE>
+            <ns0:COD_OFFERTA>036329ESVFL01XXONDABLUE0EE202620</ns0:COD_OFFERTA>
+        </ns0:IdentificativiOfferta>
+        <ns0:DettaglioOfferta>
+            <ns0:TIPO_MERCATO>01</ns0:TIPO_MERCATO>
+            <ns0:OFFERTA_SINGOLA>SI</ns0:OFFERTA_SINGOLA>
+            <ns0:TIPO_CLIENTE>01</ns0:TIPO_CLIENTE>
+            <ns0:DOMESTICO_RESIDENTE>03</ns0:DOMESTICO_RESIDENTE>
+            <ns0:TIPO_OFFERTA>02</ns0:TIPO_OFFERTA>
+            <ns0:TIPOLOGIA_ATT_CONTR>01</ns0:TIPOLOGIA_ATT_CONTR>
+            <ns0:TIPOLOGIA_ATT_CONTR>02</ns0:TIPOLOGIA_ATT_CONTR>
+            <ns0:TIPOLOGIA_ATT_CONTR>03</ns0:TIPOLOGIA_ATT_CONTR>
+            <ns0:NOME_OFFERTA>ONDA BLUE LUCE 2.0</ns0:NOME_OFFERTA>
+            <ns0:DESCRIZIONE>Le presenti CTE disciplinano, unitamente alle “Condizioni Generali di Fornitura”, alla “Proposta di Contratto” sottoscritta dal Cliente e agli allegati in essa richiamati le condizioni di fornitura presso il punto. Esse sono riservate alle utenze di tipo Domestico che abbiano deciso di acquistare energia elettrica alle condizioni proposte da BLUE LUCE e GAS S.R.L.. Le CTE integrano le Condizioni Generali di Fornitura, e in caso di contrasto, prevalgono su queste ultime.</ns0:DESCRIZIONE>
+            <ns0:DURATA>-1</ns0:DURATA>
+            <ns0:GARANZIE>NO</ns0:GARANZIE>
+            <ns0:ModalitaAttivazione>
+                <ns0:MODALITA>02</ns0:MODALITA>
+            </ns0:ModalitaAttivazione>
+            <ns0:Contatti>
+                <ns0:TELEFONO>0350390109</ns0:TELEFONO>
+                <ns0:URL_SITO_VENDITORE>www.blueluceegas.it</ns0:URL_SITO_VENDITORE>
+                <ns0:URL_OFFERTA>https://blueluceegas.it/tipologia_offerta/privati/</ns0:URL_OFFERTA>
+            </ns0:Contatti>
+        </ns0:DettaglioOfferta>
+        <ns0:RiferimentiPrezzoEnergia>
+            <ns0:IDX_PREZZO_ENERGIA>12</ns0:IDX_PREZZO_ENERGIA>
+        </ns0:RiferimentiPrezzoEnergia>
+        <ns0:ValiditaOfferta>
+            <ns0:DATA_INIZIO>14/05/2026_23:59:00</ns0:DATA_INIZIO>
+            <ns0:DATA_FINE>31/12/2035_23:59:00</ns0:DATA_FINE>
+        </ns0:ValiditaOfferta>
+        <ns0:MetodoPagamento>
+            <ns0:MODALITA_PAGAMENTO>01</ns0:MODALITA_PAGAMENTO>
+        </ns0:MetodoPagamento>
+        <ns0:MetodoPagamento>
+            <ns0:MODALITA_PAGAMENTO>04</ns0:MODALITA_PAGAMENTO>
+        </ns0:MetodoPagamento>
+        <ns0:MetodoPagamento>
+            <ns0:MODALITA_PAGAMENTO>99</ns0:MODALITA_PAGAMENTO>
+            <ns0:DESCRIZIONE>BONIFICO BANCARIO</ns0:DESCRIZIONE>
+        </ns0:MetodoPagamento>
+        <ns0:TipoPrezzo>
+            <ns0:TIPOLOGIA_FASCE>91</ns0:TIPOLOGIA_FASCE>
+        </ns0:TipoPrezzo>
+        <ns0:Dispacciamento>
+            <ns0:TIPO_DISPACCIAMENTO>14</ns0:TIPO_DISPACCIAMENTO>
+            <ns0:VALORE_DISP>0.000000</ns0:VALORE_DISP>
+            <ns0:NOME>CDISPD</ns0:NOME>
+        </ns0:Dispacciamento>
+        <ns0:ComponenteImpresa>
+            <ns0:NOME>CVS</ns0:NOME>
+            <ns0:DESCRIZIONE>CORRISPETTIVO QUOTA FISSA ANNUA</ns0:DESCRIZIONE>
+            <ns0:TIPOLOGIA>02</ns0:TIPOLOGIA>
+            <ns0:MACROAREA>01</ns0:MACROAREA>
+            <ns0:IntervalloPrezzi>
+                <ns0:PREZZO>120.000000</ns0:PREZZO>
+                <ns0:UNITA_MISURA>01</ns0:UNITA_MISURA>
+            </ns0:IntervalloPrezzi>
+        </ns0:ComponenteImpresa>
+        <ns0:ComponenteImpresa>
+            <ns0:NOME>SPREAD</ns0:NOME>
+            <ns0:DESCRIZIONE>CORRISPETTIVO DI INTERMEDIAZIONE</ns0:DESCRIZIONE>
+            <ns0:TIPOLOGIA>02</ns0:TIPOLOGIA>
+            <ns0:MACROAREA>04</ns0:MACROAREA>
+            <ns0:IntervalloPrezzi>
+                <ns0:FASCIA_COMPONENTE>01</ns0:FASCIA_COMPONENTE>
+                <ns0:PREZZO>0.014215</ns0:PREZZO>
+                <ns0:UNITA_MISURA>03</ns0:UNITA_MISURA>
+            </ns0:IntervalloPrezzi>
+            <ns0:IntervalloPrezzi>
+                <ns0:FASCIA_COMPONENTE>91</ns0:FASCIA_COMPONENTE>
+                <ns0:PREZZO>0.014215</ns0:PREZZO>
+                <ns0:UNITA_MISURA>03</ns0:UNITA_MISURA>
+            </ns0:IntervalloPrezzi>
+        </ns0:ComponenteImpresa>
+        <ns0:CondizioniContrattuali>
+            <ns0:TIPOLOGIA_CONDIZIONE>01</ns0:TIPOLOGIA_CONDIZIONE>
+            <ns0:DESCRIZIONE>Offerta riservata a clienti con contatore atto a rilevare i consumi per fasce orarie</ns0:DESCRIZIONE>
+            <ns0:LIMITANTE>01</ns0:LIMITANTE>
+        </ns0:CondizioniContrattuali>
+        <ns0:CondizioniContrattuali>
+            <ns0:TIPOLOGIA_CONDIZIONE>04</ns0:TIPOLOGIA_CONDIZIONE>
+            <ns0:DESCRIZIONE>Offerta soggetta a tacito rinnovo, fatto salvo il diritto di recesso di cui all'art. 18.1 delle Condizioni Generali di Contratto</ns0:DESCRIZIONE>
+            <ns0:LIMITANTE>02</ns0:LIMITANTE>
+        </ns0:CondizioniContrattuali>
+    </ns0:offerta>
+    

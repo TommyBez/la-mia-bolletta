@@ -1,0 +1,84 @@
+<ns0:offerta xmlns:ns0="http://www.acquirenteunico.it/schemas/SII_AU/OffertaRetail/01">
+        <ns0:IdentificativiOfferta>
+            <ns0:PIVA_UTENTE>01016870329</ns0:PIVA_UTENTE>
+            <ns0:COD_OFFERTA>003450ESFML01XX00000010073721026</ns0:COD_OFFERTA>
+        </ns0:IdentificativiOfferta>
+        <ns0:DettaglioOfferta>
+            <ns0:TIPO_MERCATO>01</ns0:TIPO_MERCATO>
+            <ns0:OFFERTA_SINGOLA>SI</ns0:OFFERTA_SINGOLA>
+            <ns0:TIPO_CLIENTE>01</ns0:TIPO_CLIENTE>
+            <ns0:TIPO_OFFERTA>01</ns0:TIPO_OFFERTA>
+            <ns0:TIPOLOGIA_ATT_CONTR>99</ns0:TIPOLOGIA_ATT_CONTR>
+            <ns0:NOME_OFFERTA>FIX FAMILY CUN 4 24 MESI</ns0:NOME_OFFERTA>
+            <ns0:DESCRIZIONE>Offerte Fix Family: Prezzo energia bloccato per 24 mesi a seconda della tipologia di offerta</ns0:DESCRIZIONE>
+            <ns0:DURATA>24</ns0:DURATA>
+            <ns0:GARANZIE>Il Cliente, qualora il Fornitore lo richieda, dovrà versare una garanzia bancaria irrevocabile a prima richiesta o deposito cauzionale, di importo massimo pari a cinque volte i consumi mensili più elevati (rilevati nei 12 mesi precedenti anche da altro fornitore), moltiplicato per i prezzi forward dell’indice al momento della richiesta, maggiorato della somma delle altre voci indicate nelle fatture di riferimento. L’importo sarà comunicato al Cliente prima dell’avvio della fornitura o, qualora la richiesta fosse fatta in corso di fornitura,  con un anticipo di 15 giorni tramite posta elettronica certificata (PEC) o raccomandata. Nel caso in cui il pagamento scelto dal Cliente dovesse essere diverso dall’addebito diretto su conto corrente, potrà essere richiesto un deposito cauzionale, che verrà addebitato nella prima fattura utile successiva all’attivazione della fornitura, per un ammontare pari a: 25,00 €/POD</ns0:GARANZIE>
+            <ns0:ModalitaAttivazione>
+                <ns0:MODALITA>02</ns0:MODALITA>
+            </ns0:ModalitaAttivazione>
+            <ns0:Contatti>
+                <ns0:TELEFONO>800939300</ns0:TELEFONO>
+                <ns0:URL_SITO_VENDITORE>https://www.dufercoenergia.com</ns0:URL_SITO_VENDITORE>
+                <ns0:URL_OFFERTA>https://dufercoenergia.com/prodotti-portale-arera/</ns0:URL_OFFERTA>
+            </ns0:Contatti>
+        </ns0:DettaglioOfferta>
+        <ns0:ValiditaOfferta>
+            <ns0:DATA_INIZIO>27/10/2026_13:00:00</ns0:DATA_INIZIO>
+            <ns0:DATA_FINE>31/10/2026_23:59:59</ns0:DATA_FINE>
+        </ns0:ValiditaOfferta>
+        <ns0:CaratteristicheOfferta>
+            <ns0:CONSUMO_MIN>0</ns0:CONSUMO_MIN>
+            <ns0:CONSUMO_MAX>5000</ns0:CONSUMO_MAX>
+        </ns0:CaratteristicheOfferta>
+        <ns0:MetodoPagamento>
+            <ns0:MODALITA_PAGAMENTO>01</ns0:MODALITA_PAGAMENTO>
+        </ns0:MetodoPagamento>
+        <ns0:MetodoPagamento>
+            <ns0:MODALITA_PAGAMENTO>99</ns0:MODALITA_PAGAMENTO>
+            <ns0:DESCRIZIONE>Bonifico, PagoPA</ns0:DESCRIZIONE>
+        </ns0:MetodoPagamento>
+        <ns0:TipoPrezzo>
+            <ns0:TIPOLOGIA_FASCE>07</ns0:TIPOLOGIA_FASCE>
+        </ns0:TipoPrezzo>
+        <ns0:Dispacciamento>
+            <ns0:TIPO_DISPACCIAMENTO>14</ns0:TIPO_DISPACCIAMENTO>
+            <ns0:NOME>CdispD</ns0:NOME>
+        </ns0:Dispacciamento>
+        <ns0:ComponenteImpresa>
+            <ns0:NOME>Prezzo</ns0:NOME>
+            <ns0:DESCRIZIONE>Prezzo</ns0:DESCRIZIONE>
+            <ns0:TIPOLOGIA>01</ns0:TIPOLOGIA>
+            <ns0:MACROAREA>04</ns0:MACROAREA>
+            <ns0:IntervalloPrezzi>
+                <ns0:FASCIA_COMPONENTE>07</ns0:FASCIA_COMPONENTE>
+                <ns0:PREZZO>0.171083</ns0:PREZZO>
+                <ns0:UNITA_MISURA>03</ns0:UNITA_MISURA>
+            </ns0:IntervalloPrezzi>
+            <ns0:IntervalloPrezzi>
+                <ns0:FASCIA_COMPONENTE>08</ns0:FASCIA_COMPONENTE>
+                <ns0:PREZZO>0.162393</ns0:PREZZO>
+                <ns0:UNITA_MISURA>03</ns0:UNITA_MISURA>
+            </ns0:IntervalloPrezzi>
+        </ns0:ComponenteImpresa>
+        <ns0:ComponenteImpresa>
+            <ns0:NOME>Quota Commercializzazione Vendita</ns0:NOME>
+            <ns0:DESCRIZIONE>Quota Commercializzazione Vendita</ns0:DESCRIZIONE>
+            <ns0:TIPOLOGIA>02</ns0:TIPOLOGIA>
+            <ns0:MACROAREA>01</ns0:MACROAREA>
+            <ns0:IntervalloPrezzi>
+                <ns0:PREZZO>133.2311</ns0:PREZZO>
+                <ns0:UNITA_MISURA>01</ns0:UNITA_MISURA>
+            </ns0:IntervalloPrezzi>
+        </ns0:ComponenteImpresa>
+        <ns0:CondizioniContrattuali>
+            <ns0:TIPOLOGIA_CONDIZIONE>01</ns0:TIPOLOGIA_CONDIZIONE>
+            <ns0:DESCRIZIONE>L’attivazione della fornitura avverrà alla data di disponibilità all’attivazione, ovvero alla data indicata dal Cliente in caso di recesso per cambio del fornitore, salvo eventi non dipendenti dalla volontà del Fornitore. La fornitura di energia elettrica è in ogni caso condizionata all’attivazione da parte dei soggetti competenti per il trasporto ed il dispacciamento. Qualora per cause non imputabili al Fornitore, la data di attivazione della fornitura non sia compatibile con la data di attivazione dei servizi di dispacciamento e di trasporto di energia elettrica e gas naturale, la stessa si intende differita alla prima data utile successiva. In tale caso al Fornitore non potranno essere attribuite responsabilità per eventuali danni subiti dal Cliente derivanti dal rinvio dell’attivazione della fornitura. 6.3 In caso di fornitura multisito, il Fornitore si riserva la facoltà di procedere all’attivazione della fornitura dei punti in modo differito. In tal caso, l’efficacia del Contratto decorrerà dall’attivazione della fornitura per il primo di essi.</ns0:DESCRIZIONE>
+            <ns0:LIMITANTE>01</ns0:LIMITANTE>
+        </ns0:CondizioniContrattuali>
+        <ns0:CondizioniContrattuali>
+            <ns0:TIPOLOGIA_CONDIZIONE>03</ns0:TIPOLOGIA_CONDIZIONE>
+            <ns0:DESCRIZIONE>Ai sensi della Delibera 783/1907/R/com e s.m.i. il Cliente titolare di un sito in bassa tensione o con un consumo complessivo annuo inferiore a 200.000 smc può esercitare diritto di recedere dal contratto entro e non oltre il giorno 10 del mese precedente la data di cambio Fornitore.</ns0:DESCRIZIONE>
+            <ns0:LIMITANTE>01</ns0:LIMITANTE>
+        </ns0:CondizioniContrattuali>
+    </ns0:offerta>
+    

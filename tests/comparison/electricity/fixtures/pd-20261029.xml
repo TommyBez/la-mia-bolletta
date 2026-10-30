@@ -1,0 +1,97 @@
+<ListaOfferteMercatoLibero><offerta>
+        <IdentificativiOfferta>
+            <PIVA_UTENTE>02534760786</PIVA_UTENTE>
+            <COD_OFFERTA>000184ESVFL11XXGPINDEX02LUCEXPUN</COD_OFFERTA>
+        </IdentificativiOfferta>
+        <DettaglioOfferta>
+            <TIPO_MERCATO>01</TIPO_MERCATO>
+            <OFFERTA_SINGOLA>SI</OFFERTA_SINGOLA>
+            <TIPO_CLIENTE>01</TIPO_CLIENTE>
+            <DOMESTICO_RESIDENTE>03</DOMESTICO_RESIDENTE>
+            <TIPO_OFFERTA>02</TIPO_OFFERTA>
+            <TIPOLOGIA_ATT_CONTR>99</TIPOLOGIA_ATT_CONTR>
+            <NOME_OFFERTA>DOMESTICI EE </NOME_OFFERTA>
+            <DESCRIZIONE>L’Offerta prevede l’applicazione per ogni kWh prelevato dal Cliente, per ogni fascia oraria, di un prezzo della materia prima energia indicizzato mensilmente al PUN (Prezzo Unico Nazionale). Il prezzo come sopra descritto andrà applicato ad ogni kwh prelevato dal Cliente e alle perdite di rete per ciascuna fascia oraria. </DESCRIZIONE>
+            <DURATA>24</DURATA>
+            <GARANZIE>NO</GARANZIE>
+            <ModalitaAttivazione>
+                <MODALITA>02</MODALITA>
+            </ModalitaAttivazione>
+            <Contatti>
+                <TELEFONO>098122630</TELEFONO>
+                <URL_SITO_VENDITORE>https://www.gaspollino.it</URL_SITO_VENDITORE>
+            </Contatti>
+        </DettaglioOfferta>
+        <RiferimentiPrezzoEnergia>
+            <IDX_PREZZO_ENERGIA>12</IDX_PREZZO_ENERGIA>
+        </RiferimentiPrezzoEnergia>
+        <ValiditaOfferta>
+            <DATA_INIZIO>23/12/2025_15:30:00</DATA_INIZIO>
+            <DATA_FINE>31/12/2027_23:59:59</DATA_FINE>
+        </ValiditaOfferta>
+        <CaratteristicheOfferta>
+            <CONSUMO_MIN>0</CONSUMO_MIN>
+            <CONSUMO_MAX>0</CONSUMO_MAX>
+        </CaratteristicheOfferta>
+        <OffertaDual />
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>01</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>02</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>04</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <ComponentiRegolate />
+        <TipoPrezzo>
+            <TIPOLOGIA_FASCE>03</TIPOLOGIA_FASCE>
+        </TipoPrezzo>
+        <Dispacciamento>
+            <TIPO_DISPACCIAMENTO>02</TIPO_DISPACCIAMENTO>
+            <NOME>DISPACCIAMENTO</NOME>
+            <DESCRIZIONE>QUOTA DISPACCIAMENTO</DESCRIZIONE>
+        </Dispacciamento>
+        <ComponenteImpresa>
+            <NOME>SPREAD</NOME>
+            <DESCRIZIONE>SPREAD</DESCRIZIONE>
+            <TIPOLOGIA>01</TIPOLOGIA>
+            <MACROAREA>02</MACROAREA>
+            <IntervalloPrezzi>
+                <FASCIA_COMPONENTE>01</FASCIA_COMPONENTE>
+                <PREZZO>0.02</PREZZO>
+                <UNITA_MISURA>03</UNITA_MISURA>
+            </IntervalloPrezzi>
+            <IntervalloPrezzi>
+                <FASCIA_COMPONENTE>02</FASCIA_COMPONENTE>
+                <PREZZO>0.02</PREZZO>
+                <UNITA_MISURA>03</UNITA_MISURA>
+            </IntervalloPrezzi>
+            <IntervalloPrezzi>
+                <FASCIA_COMPONENTE>03</FASCIA_COMPONENTE>
+                <PREZZO>0.02</PREZZO>
+                <UNITA_MISURA>03</UNITA_MISURA>
+            </IntervalloPrezzi>
+        </ComponenteImpresa>
+        <ComponenteImpresa>
+            <NOME>QUOTA COMMERCIALE</NOME>
+            <DESCRIZIONE>QUOTA COMMERCIALE</DESCRIZIONE>
+            <TIPOLOGIA>01</TIPOLOGIA>
+            <MACROAREA>01</MACROAREA>
+            <IntervalloPrezzi>
+                <PREZZO>108</PREZZO>
+                <UNITA_MISURA>01</UNITA_MISURA>
+            </IntervalloPrezzi>
+        </ComponenteImpresa>
+        <CondizioniContrattuali>
+            <TIPOLOGIA_CONDIZIONE>01</TIPOLOGIA_CONDIZIONE>
+            <DESCRIZIONE>ATTIVAZIONE FORNITURA</DESCRIZIONE>
+            <LIMITANTE>02</LIMITANTE>
+        </CondizioniContrattuali>
+        <CondizioniContrattuali>
+            <TIPOLOGIA_CONDIZIONE>02</TIPOLOGIA_CONDIZIONE>
+            <DESCRIZIONE>DISATTIVAZIONE FORNITURA</DESCRIZIONE>
+            <LIMITANTE>02</LIMITANTE>
+        </CondizioniContrattuali>
+    </offerta>
+    </ListaOfferteMercatoLibero>

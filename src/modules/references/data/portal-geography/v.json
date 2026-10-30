@@ -1,0 +1,3452 @@
+{
+  "prefix": "v",
+  "source": "https://www.ilportaleofferte.it/portaleOfferte/api/rs/it/portal/geoService.json?cap-comune=v",
+  "observedAt": "2026-10-29T22:27:34Z",
+  "sha256": "646be090d001c710269cf56693984ac27360313feb7375ac0352fcb835ec43fb",
+  "items": [
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078152",
+      "denominazione": "Vaccarizzo Albanese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "057072",
+      "denominazione": "Vacone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "069098",
+      "denominazione": "Vacri",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021105",
+      "denominazione": "Vadena",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "009064",
+      "denominazione": "Vado Ligure",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "046031",
+      "denominazione": "Vagli Sotto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "048046",
+      "denominazione": "Vaglia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "076094",
+      "denominazione": "Vaglio Basilicata",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005111",
+      "denominazione": "Vaglio Serra",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 100006,
+      "denominazione": "Vaiano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "019111",
+      "denominazione": "Vaiano Cremasco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001283",
+      "denominazione": "Vaie",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "019112",
+      "denominazione": "Vailate",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "061095",
+      "denominazione": "Vairano Patenora",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "093052",
+      "denominazione": "Vajont",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016253",
+      "denominazione": "Val Brembilla",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024123",
+      "denominazione": "Val Liona",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "014074",
+      "denominazione": "Val Masino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "013233",
+      "denominazione": "Val Rezzo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001284",
+      "denominazione": "Val della Torre",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001317",
+      "denominazione": "Val di Chy",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018166",
+      "denominazione": "Val di Nizza",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021107",
+      "denominazione": "Val di Vizze",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "025073",
+      "denominazione": "Val di Zoldo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016223",
+      "denominazione": "Valbondione",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016224",
+      "denominazione": "Valbrembo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024125",
+      "denominazione": "Valbrenta",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "010065",
+      "denominazione": "Valbrevenna",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "013229",
+      "denominazione": "Valbrona",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001318",
+      "denominazione": "Valchiusa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024111",
+      "denominazione": "Valdagno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022232",
+      "denominazione": "Valdaone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021106",
+      "denominazione": "Valdaora",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024112",
+      "denominazione": "Valdastico",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "096071",
+      "denominazione": "Valdengo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "081022",
+      "denominazione": "Valderice",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "014071",
+      "denominazione": "Valdidentro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004233",
+      "denominazione": "Valdieri",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "096088",
+      "denominazione": "Valdilana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083103",
+      "denominazione": "Valdina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "014072",
+      "denominazione": "Valdisotto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "026087",
+      "denominazione": "Valdobbiadene",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "002152",
+      "denominazione": "Valduggia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018167",
+      "denominazione": "Valeggio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "023089",
+      "denominazione": "Valeggio sul Mincio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "056053",
+      "denominazione": "Valentano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006177",
+      "denominazione": "Valenza",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "072048",
+      "denominazione": "Valenzano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "098059",
+      "denominazione": "Valera Fratta",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "054057",
+      "denominazione": "Valfabbrica",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005112",
+      "denominazione": "Valfenera",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022209",
+      "denominazione": "Valfloriana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "043058",
+      "denominazione": "Valfornace",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "014073",
+      "denominazione": "Valfurva",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "012131",
+      "denominazione": "Valganna",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001285",
+      "denominazione": "Valgioie",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016225",
+      "denominazione": "Valgoglio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004234",
+      "denominazione": "Valgrana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "097082",
+      "denominazione": "Valgreghentino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "007068",
+      "denominazione": "Valgrisenche",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "086019",
+      "denominazione": "Valguarnera Caropepe",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "025062",
+      "denominazione": "Vallada Agordina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "096072",
+      "denominazione": "Vallanzengo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022210",
+      "denominazione": "Vallarsa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064114",
+      "denominazione": "Vallata",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "061096",
+      "denominazione": "Valle Agricola",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021108",
+      "denominazione": "Valle Aurina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 103079,
+      "denominazione": "Valle Cannobina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "067046",
+      "denominazione": "Valle Castellana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018168",
+      "denominazione": "Valle Lomellina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "096073",
+      "denominazione": "Valle Mosso",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018169",
+      "denominazione": "Valle Salimbene",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "096074",
+      "denominazione": "Valle San Nicolao",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065153",
+      "denominazione": "Valle dell'Angelo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "025063",
+      "denominazione": "Valle di Cadore",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021109",
+      "denominazione": "Valle di Casies",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "061097",
+      "denominazione": "Valle di Maddaloni",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "008062",
+      "denominazione": "Vallebona",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "060082",
+      "denominazione": "Vallecorsa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "008063",
+      "denominazione": "Vallecrosia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "082076",
+      "denominazione": "Valledolmo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "090079",
+      "denominazione": "Valledoria",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "079151",
+      "denominazione": "Vallefiorita",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "041068",
+      "denominazione": "Vallefoglia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022248",
+      "denominazione": "Vallelaghi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 102045,
+      "denominazione": "Vallelonga",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "085021",
+      "denominazione": "Vallelunga Pratameno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "060083",
+      "denominazione": "Vallemaio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "058108",
+      "denominazione": "Vallepietra",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "056054",
+      "denominazione": "Vallerano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111095,
+      "denominazione": "Vallermosa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "060084",
+      "denominazione": "Vallerotonda",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064115",
+      "denominazione": "Vallesaccarda",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016226",
+      "denominazione": "Valleve",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024113",
+      "denominazione": "Valli del Pasubio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "058109",
+      "denominazione": "Vallinfreda",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017193",
+      "denominazione": "Vallio Terme",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001286",
+      "denominazione": "Vallo Torinese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065154",
+      "denominazione": "Vallo della Lucania",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "054058",
+      "denominazione": "Vallo di Nera",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004235",
+      "denominazione": "Valloriate",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006178",
+      "denominazione": "Valmacca",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "097083",
+      "denominazione": "Valmadrera",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004236",
+      "denominazione": "Valmala",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "058110",
+      "denominazione": "Valmontone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "013232",
+      "denominazione": "Valmorea",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "034044",
+      "denominazione": "Valmozzola",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016227",
+      "denominazione": "Valnegra",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "007069",
+      "denominazione": "Valpelline",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001287",
+      "denominazione": "Valperga",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001288",
+      "denominazione": "Valprato Soana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "037061",
+      "denominazione": "Valsamoggia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "007070",
+      "denominazione": "Valsavarenche",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "077030",
+      "denominazione": "Valsinni",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "013234",
+      "denominazione": "Valsolda",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024114",
+      "denominazione": "Valstagna",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 103069,
+      "denominazione": "Valstrona",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "054059",
+      "denominazione": "Valtopina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016229",
+      "denominazione": "Valtorta",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "007071",
+      "denominazione": "Valtournenche",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065155",
+      "denominazione": "Valva",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "097093",
+      "denominazione": "Valvarrone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "093053",
+      "denominazione": "Valvasone Arzene",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "087052",
+      "denominazione": "Valverde",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018170",
+      "denominazione": "Valverde",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017194",
+      "denominazione": "Valvestino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021110",
+      "denominazione": "Vandoies",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015249",
+      "denominazione": "Vanzaghello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015229",
+      "denominazione": "Vanzago",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 103070,
+      "denominazione": "Vanzone con San Carlo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015230",
+      "denominazione": "Vaprio d'Adda",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "003153",
+      "denominazione": "Vaprio d'Agogna",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "002156",
+      "denominazione": "Varallo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "003154",
+      "denominazione": "Varallo Pombia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "012132",
+      "denominazione": "Varano Borghi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "034045",
+      "denominazione": "Varano de' Melegari",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080095",
+      "denominazione": "Varapodio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "009065",
+      "denominazione": "Varazze",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "057073",
+      "denominazione": "Varco Sabino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 108045,
+      "denominazione": "Varedo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "097084",
+      "denominazione": "Varenna",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "012133",
+      "denominazione": "Varese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "011029",
+      "denominazione": "Varese Ligure",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001289",
+      "denominazione": "Varisella",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "030130",
+      "denominazione": "Varmo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021111",
+      "denominazione": "Varna",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "034046",
+      "denominazione": "Varsi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018171",
+      "denominazione": "Varzi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 103071,
+      "denominazione": "Varzo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "056055",
+      "denominazione": "Vasanello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "008064",
+      "denominazione": "Vasia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "069099",
+      "denominazione": "Vasto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "094051",
+      "denominazione": "Vastogirardi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001290",
+      "denominazione": "Vauda Canavese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 102046,
+      "denominazione": "Vazzano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "026088",
+      "denominazione": "Vazzola",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "050037",
+      "denominazione": "Vecchiano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "012134",
+      "denominazione": "Vedano Olona",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 108046,
+      "denominazione": "Vedano al Lambro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "026089",
+      "denominazione": "Vedelago",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016230",
+      "denominazione": "Vedeseta",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 108047,
+      "denominazione": "Veduggio con Colzano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "028096",
+      "denominazione": "Veggiano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075092",
+      "denominazione": "Veglie",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "096075",
+      "denominazione": "Veglio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "056056",
+      "denominazione": "Vejano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "013236",
+      "denominazione": "Veleso",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018172",
+      "denominazione": "Velezzo Lomellina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "058111",
+      "denominazione": "Velletri",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018173",
+      "denominazione": "Vellezzo Bellini",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "023090",
+      "denominazione": "Velo Veronese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024115",
+      "denominazione": "Velo d'Astico",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021116",
+      "denominazione": "Velturno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "094052",
+      "denominazione": "Venafro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001292",
+      "denominazione": "Venaria Reale",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "044073",
+      "denominazione": "Venarotta",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004237",
+      "denominazione": "Venasca",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001291",
+      "denominazione": "Venaus",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "009066",
+      "denominazione": "Vendone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "097085",
+      "denominazione": "Vendrogno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "012136",
+      "denominazione": "Venegono Inferiore",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "012137",
+      "denominazione": "Venegono Superiore",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083104",
+      "denominazione": "Venetico",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "027042",
+      "denominazione": "Venezia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "013238",
+      "denominazione": "Veniano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "076095",
+      "denominazione": "Venosa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "035046",
+      "denominazione": "Ventasso",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064116",
+      "denominazione": "Venticano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "008065",
+      "denominazione": "Ventimiglia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "082077",
+      "denominazione": "Ventimiglia di Sicilia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "059033",
+      "denominazione": "Ventotene",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "030131",
+      "denominazione": "Venzone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021112",
+      "denominazione": "Verano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 108048,
+      "denominazione": "Verano Brianza",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 103072,
+      "denominazione": "Verbania",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078153",
+      "denominazione": "Verbicaro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "013239",
+      "denominazione": "Vercana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "014075",
+      "denominazione": "Verceia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "002158",
+      "denominazione": "Vercelli",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "097086",
+      "denominazione": "Vercurago",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016232",
+      "denominazione": "Verdellino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016233",
+      "denominazione": "Verdello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "097091",
+      "denominazione": "Verderio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004238",
+      "denominazione": "Verduno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "037059",
+      "denominazione": "Vergato",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "040050",
+      "denominazione": "Verghereto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "012138",
+      "denominazione": "Vergiate",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015235",
+      "denominazione": "Vermezzo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015251",
+      "denominazione": "Vermezzo con Zelo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022213",
+      "denominazione": "Vermiglio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004239",
+      "denominazione": "Vernante",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "033044",
+      "denominazione": "Vernasca",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015236",
+      "denominazione": "Vernate",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "011030",
+      "denominazione": "Vernazza",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 100007,
+      "denominazione": "Vernio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075093",
+      "denominazione": "Vernole",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017195",
+      "denominazione": "Verolanuova",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017196",
+      "denominazione": "Verolavecchia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001293",
+      "denominazione": "Verolengo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "060085",
+      "denominazione": "Veroli",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "023091",
+      "denominazione": "Verona",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "023092",
+      "denominazione": "Veronella",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "007072",
+      "denominazione": "Verrayes",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018174",
+      "denominazione": "Verretto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "096076",
+      "denominazione": "Verrone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018175",
+      "denominazione": "Verrua Po",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001294",
+      "denominazione": "Verrua Savoia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "007073",
+      "denominazione": "Verrès",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "013242",
+      "denominazione": "Vertemate con Minoprio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016234",
+      "denominazione": "Vertova",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "099020",
+      "denominazione": "Verucchio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "003157",
+      "denominazione": "Veruno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "014076",
+      "denominazione": "Vervio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "030132",
+      "denominazione": "Verzegnis",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 101027,
+      "denominazione": "Verzino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004240",
+      "denominazione": "Verzuolo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "028097",
+      "denominazione": "Vescovana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "019113",
+      "denominazione": "Vescovato",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005113",
+      "denominazione": "Vesime",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "003158",
+      "denominazione": "Vespolate",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "008066",
+      "denominazione": "Vessalico",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "023093",
+      "denominazione": "Vestenanova",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001295",
+      "denominazione": "Vestignè",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017197",
+      "denominazione": "Vestone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "056057",
+      "denominazione": "Vetralla",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "035042",
+      "denominazione": "Vetto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004241",
+      "denominazione": "Vezza d'Alba",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017198",
+      "denominazione": "Vezza d'Oglio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "011031",
+      "denominazione": "Vezzano Ligure",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "035043",
+      "denominazione": "Vezzano sul Crostolo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "009067",
+      "denominazione": "Vezzi Portio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "020066",
+      "denominazione": "Viadana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016235",
+      "denominazione": "Viadanica",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "087053",
+      "denominazione": "Viagrande",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005114",
+      "denominazione": "Viale",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001296",
+      "denominazione": "Vialfrè",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "035044",
+      "denominazione": "Viano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "046033",
+      "denominazione": "Viareggio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005115",
+      "denominazione": "Viarigi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 102047,
+      "denominazione": "Vibo Valentia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065156",
+      "denominazione": "Vibonati",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "060086",
+      "denominazione": "Vicalvi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "082078",
+      "denominazione": "Vicari",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "048049",
+      "denominazione": "Vicchio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024116",
+      "denominazione": "Vicenza",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001297",
+      "denominazione": "Vico Canavese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "063086",
+      "denominazione": "Vico Equense",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "071059",
+      "denominazione": "Vico del Gargano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "060087",
+      "denominazione": "Vico nel Lazio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004242",
+      "denominazione": "Vicoforte",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "068045",
+      "denominazione": "Vicoli",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "003159",
+      "denominazione": "Vicolungo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "050038",
+      "denominazione": "Vicopisano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "058112",
+      "denominazione": "Vicovaro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "090082",
+      "denominazione": "Viddalba",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018176",
+      "denominazione": "Vidigulfo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "026090",
+      "denominazione": "Vidor",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001298",
+      "denominazione": "Vidracco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "071060",
+      "denominazione": "Vieste",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "076096",
+      "denominazione": "Vietri di Potenza",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065157",
+      "denominazione": "Vietri sul Mare",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016236",
+      "denominazione": "Vigano San Martino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "097090",
+      "denominazione": "Viganò",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "038022",
+      "denominazione": "Vigarano Mainarda",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "023094",
+      "denominazione": "Vigasio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018177",
+      "denominazione": "Vigevano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "076097",
+      "denominazione": "Viggianello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "076098",
+      "denominazione": "Viggiano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "012139",
+      "denominazione": "Viggiù",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "028098",
+      "denominazione": "Vighizzolo d'Este",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "096077",
+      "denominazione": "Vigliano Biellese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005116",
+      "denominazione": "Vigliano d'Asti",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006179",
+      "denominazione": "Vignale Monferrato",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "056058",
+      "denominazione": "Vignanello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015237",
+      "denominazione": "Vignate",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "036046",
+      "denominazione": "Vignola",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022216",
+      "denominazione": "Vignola-Falesina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006180",
+      "denominazione": "Vignole Borbera",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004243",
+      "denominazione": "Vignolo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 103074,
+      "denominazione": "Vignone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "025065",
+      "denominazione": "Vigo di Cadore",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "028099",
+      "denominazione": "Vigodarzere",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016237",
+      "denominazione": "Vigolo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "033045",
+      "denominazione": "Vigolzone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001299",
+      "denominazione": "Vigone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "027043",
+      "denominazione": "Vigonovo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "028100",
+      "denominazione": "Vigonza",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006181",
+      "denominazione": "Viguzzolo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "023095",
+      "denominazione": "Villa Bartolomea",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "046034",
+      "denominazione": "Villa Basilica",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018178",
+      "denominazione": "Villa Biscossi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017199",
+      "denominazione": "Villa Carcina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "074020",
+      "denominazione": "Villa Castelli",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "068046",
+      "denominazione": "Villa Celiera",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "046035",
+      "denominazione": "Villa Collemandina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015248",
+      "denominazione": "Villa Cortese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "028102",
+      "denominazione": "Villa Estense",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "008067",
+      "denominazione": "Villa Faraldi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "013245",
+      "denominazione": "Villa Guardia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022222",
+      "denominazione": "Villa Lagarina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "060088",
+      "denominazione": "Villa Latina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "061099",
+      "denominazione": "Villa Literno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "035045",
+      "denominazione": "Villa Minozzo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080096",
+      "denominazione": "Villa San Giovanni",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "056046",
+      "denominazione": "Villa San Giovanni in Tuscia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "092099",
+      "denominazione": "Villa San Pietro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005119",
+      "denominazione": "Villa San Secondo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "066105",
+      "denominazione": "Villa Sant'Angelo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095048",
+      "denominazione": "Villa Sant'Antonio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "060089",
+      "denominazione": "Villa Santa Lucia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "066104",
+      "denominazione": "Villa Santa Lucia degli Abruzzi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "069102",
+      "denominazione": "Villa Santa Maria",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "030133",
+      "denominazione": "Villa Santina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "060090",
+      "denominazione": "Villa Santo Stefano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095073",
+      "denominazione": "Villa Verde",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016238",
+      "denominazione": "Villa d'Adda",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016239",
+      "denominazione": "Villa d'Almè",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016241",
+      "denominazione": "Villa d'Ogna",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "096078",
+      "denominazione": "Villa del Bosco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "028101",
+      "denominazione": "Villa del Conte",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "061098",
+      "denominazione": "Villa di Briano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "014077",
+      "denominazione": "Villa di Chiavenna",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016240",
+      "denominazione": "Villa di Serio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "014078",
+      "denominazione": "Villa di Tirano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021113",
+      "denominazione": "Villabassa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "082079",
+      "denominazione": "Villabate",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017200",
+      "denominazione": "Villachiara",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111096,
+      "denominazione": "Villacidro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006182",
+      "denominazione": "Villadeati",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "029048",
+      "denominazione": "Villadose",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 103075,
+      "denominazione": "Villadossola",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004244",
+      "denominazione": "Villafalletto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "028103",
+      "denominazione": "Villafranca Padovana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001300",
+      "denominazione": "Villafranca Piemonte",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "084043",
+      "denominazione": "Villafranca Sicula",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083105",
+      "denominazione": "Villafranca Tirrena",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005117",
+      "denominazione": "Villafranca d'Asti",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "023096",
+      "denominazione": "Villafranca di Verona",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "045016",
+      "denominazione": "Villafranca in Lunigiana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "082080",
+      "denominazione": "Villafrati",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024117",
+      "denominazione": "Villaga",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "091101",
+      "denominazione": "Villagrande Strisaili",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "066103",
+      "denominazione": "Villalago",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "085022",
+      "denominazione": "Villalba",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "069100",
+      "denominazione": "Villalfonsina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006183",
+      "denominazione": "Villalvernia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "069101",
+      "denominazione": "Villamagna",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064117",
+      "denominazione": "Villamaina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111097,
+      "denominazione": "Villamar",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "029049",
+      "denominazione": "Villamarzana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111098,
+      "denominazione": "Villamassargia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006184",
+      "denominazione": "Villamiroglio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021114",
+      "denominazione": "Villandro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "096079",
+      "denominazione": "Villanova Biellese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001301",
+      "denominazione": "Villanova Canavese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "029051",
+      "denominazione": "Villanova Marchesana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004245",
+      "denominazione": "Villanova Mondovì",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006185",
+      "denominazione": "Villanova Monferrato",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "090078",
+      "denominazione": "Villanova Monteleone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004246",
+      "denominazione": "Villanova Solaro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095071",
+      "denominazione": "Villanova Truschedu",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111099,
+      "denominazione": "Villanova Tulo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "009068",
+      "denominazione": "Villanova d'Albenga",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018179",
+      "denominazione": "Villanova d'Ardenghi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005118",
+      "denominazione": "Villanova d'Asti",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064118",
+      "denominazione": "Villanova del Battista",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "029050",
+      "denominazione": "Villanova del Ghebbo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "098060",
+      "denominazione": "Villanova del Sillaro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "028104",
+      "denominazione": "Villanova di Camposampiero",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "033046",
+      "denominazione": "Villanova sull'Arda",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111100,
+      "denominazione": "Villanovaforru",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111101,
+      "denominazione": "Villanovafranca",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018180",
+      "denominazione": "Villanterio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017201",
+      "denominazione": "Villanuova sul Clisi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111102,
+      "denominazione": "Villaperuccio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078154",
+      "denominazione": "Villapiana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111103,
+      "denominazione": "Villaputzu",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001303",
+      "denominazione": "Villar Dora",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001305",
+      "denominazione": "Villar Focchiardo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001306",
+      "denominazione": "Villar Pellice",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001307",
+      "denominazione": "Villar Perosa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004247",
+      "denominazione": "Villar San Costanzo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001302",
+      "denominazione": "Villarbasse",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "002163",
+      "denominazione": "Villarboit",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001304",
+      "denominazione": "Villareggia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "063087",
+      "denominazione": "Villaricca",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006186",
+      "denominazione": "Villaromagnano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "086020",
+      "denominazione": "Villarosa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111104,
+      "denominazione": "Villasalto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 108049,
+      "denominazione": "Villasanta",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111105,
+      "denominazione": "Villasimius",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111106,
+      "denominazione": "Villasor",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111107,
+      "denominazione": "Villaspeciosa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001308",
+      "denominazione": "Villastellone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "002164",
+      "denominazione": "Villata",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095072",
+      "denominazione": "Villaurbana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "066106",
+      "denominazione": "Villavallelonga",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024118",
+      "denominazione": "Villaverla",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022249",
+      "denominazione": "Ville d'Anaunia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022254",
+      "denominazione": "Ville di Fiemme",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "007074",
+      "denominazione": "Villeneuve",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "031025",
+      "denominazione": "Villesse",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "066107",
+      "denominazione": "Villetta Barrea",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 103076,
+      "denominazione": "Villette",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "020068",
+      "denominazione": "Villimpenta",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016242",
+      "denominazione": "Villongo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "026091",
+      "denominazione": "Villorba",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016243",
+      "denominazione": "Vilminore di Scalve",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 108050,
+      "denominazione": "Vimercate",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015242",
+      "denominazione": "Vimodrone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004248",
+      "denominazione": "Vinadio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "070084",
+      "denominazione": "Vinchiaturo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005120",
+      "denominazione": "Vinchio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "048050",
+      "denominazione": "Vinci",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001309",
+      "denominazione": "Vinovo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "003164",
+      "denominazione": "Vinzaglio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004249",
+      "denominazione": "Viola",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017202",
+      "denominazione": "Vione",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021115",
+      "denominazione": "Vipiteno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001310",
+      "denominazione": "Virle Piemonte",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017203",
+      "denominazione": "Visano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001311",
+      "denominazione": "Vische",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "063088",
+      "denominazione": "Visciano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "030135",
+      "denominazione": "Visco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006187",
+      "denominazione": "Visone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "043057",
+      "denominazione": "Visso",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018181",
+      "denominazione": "Vistarino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001312",
+      "denominazione": "Vistrorio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "081023",
+      "denominazione": "Vita",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "056059",
+      "denominazione": "Viterbo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "060091",
+      "denominazione": "Viticuso",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "093049",
+      "denominazione": "Vito d'Asio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "056060",
+      "denominazione": "Vitorchiano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "088012",
+      "denominazione": "Vittoria",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "026092",
+      "denominazione": "Vittorio Veneto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "066108",
+      "denominazione": "Vittorito",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015243",
+      "denominazione": "Vittuone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "062077",
+      "denominazione": "Vitulano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "061100",
+      "denominazione": "Vitulazio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "093050",
+      "denominazione": "Vivaro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "058113",
+      "denominazione": "Vivaro Romano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "096080",
+      "denominazione": "Viverone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "087054",
+      "denominazione": "Vizzini",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "012140",
+      "denominazione": "Vizzola Ticino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015244",
+      "denominazione": "Vizzolo Predabissi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001313",
+      "denominazione": "Viù",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "028105",
+      "denominazione": "Vo'",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017204",
+      "denominazione": "Vobarno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "010066",
+      "denominazione": "Vobbia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "002166",
+      "denominazione": "Vocca",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "025066",
+      "denominazione": "Vodo Cadore",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018182",
+      "denominazione": "Voghera",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "038023",
+      "denominazione": "Voghiera",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 103077,
+      "denominazione": "Vogogna",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022224",
+      "denominazione": "Volano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "063089",
+      "denominazione": "Volla",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "019114",
+      "denominazione": "Volongo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "026093",
+      "denominazione": "Volpago del Montello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018183",
+      "denominazione": "Volpara",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006188",
+      "denominazione": "Volpedo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006189",
+      "denominazione": "Volpeglino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001314",
+      "denominazione": "Volpiano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "020070",
+      "denominazione": "Volta Mantovana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006190",
+      "denominazione": "Voltaggio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "025067",
+      "denominazione": "Voltago Agordino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "050039",
+      "denominazione": "Volterra",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "019115",
+      "denominazione": "Voltido",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "071061",
+      "denominazione": "Volturara Appula",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064119",
+      "denominazione": "Volturara Irpina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "071062",
+      "denominazione": "Volturino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001315",
+      "denominazione": "Volvera",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004250",
+      "denominazione": "Vottignasco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    }
+  ]
+}

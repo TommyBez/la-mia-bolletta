@@ -1,0 +1,1451 @@
+{
+  "scope": "Sibling intervals in same component, band, unit and default/specific class; overlapping consumption. Different periods require manual temporal review.",
+  "manifest": [
+    {
+      "file": "PO_Offerte_D_MLIBERO_20260101.xml",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_1/PO_Offerte_D_MLIBERO_20260101.xml",
+      "sha256": "bb1cf7d3153e11a42b93843d2014954fd521995690c3e005b2a4b6e06a41e9cf",
+      "records": 34
+    },
+    {
+      "file": "PO_Offerte_D_MLIBERO_20260401.xml",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_4/PO_Offerte_D_MLIBERO_20260401.xml",
+      "sha256": "eb8ec7bc3bb8bbd819b0aa3e3a4f30835d2a1779a8ad9155f502358756dda50b",
+      "records": 7
+    },
+    {
+      "file": "PO_Offerte_D_MLIBERO_20260701.xml",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_7/PO_Offerte_D_MLIBERO_20260701.xml",
+      "sha256": "dafc0983417bcd6735e4d23b48ee20284c7727fbb791e15097ee0a6eadc6ca2e",
+      "records": 42
+    },
+    {
+      "file": "PO_Offerte_D_MLIBERO_20261001.xml",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_10/PO_Offerte_D_MLIBERO_20261001.xml",
+      "sha256": "d028b6bce2273b70977fec995bcdf6309596b332da56124112b7e936b390e3c4",
+      "records": 35
+    },
+    {
+      "file": "PO_Offerte_E_MLIBERO_20250401.xml",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2025_4/PO_Offerte_E_MLIBERO_20250401.xml",
+      "sha256": "747a2467faf5da3a7d3d7ea4c9e53609119f67d5788fa470ba12482121b18a85",
+      "records": 2360
+    },
+    {
+      "file": "PO_Offerte_E_MLIBERO_20251001.xml",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2025_10/PO_Offerte_E_MLIBERO_20251001.xml",
+      "sha256": "4a7acefa20fa5319781b9cb9ac087a9cb88c3f550746fe8bf93568aa2aa3e883",
+      "records": 2808
+    },
+    {
+      "file": "PO_Offerte_E_MLIBERO_20260101.xml",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_1/PO_Offerte_E_MLIBERO_20260101.xml",
+      "sha256": "f22f4699bd02e682ef267162d331dbbbfa13b353e1a0cce08b54185169e2ad42",
+      "records": 2672
+    },
+    {
+      "file": "PO_Offerte_E_MLIBERO_20260401.xml",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_4/PO_Offerte_E_MLIBERO_20260401.xml",
+      "sha256": "4b93b0c03f2e7e1f82ec60e70663c18d4cf43a6484cd343e610f3cb751391f36",
+      "records": 2049
+    },
+    {
+      "file": "PO_Offerte_E_MLIBERO_20260701.xml",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_7/PO_Offerte_E_MLIBERO_20260701.xml",
+      "sha256": "12c37ac30fabd80e3f8f40785b635e794b132c49d75be71ee1d4b72d84bf64a0",
+      "records": 3099
+    },
+    {
+      "file": "PO_Offerte_E_MLIBERO_20260901.xml",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_9/PO_Offerte_E_MLIBERO_20260901.xml",
+      "sha256": "be56ba0275e5467628efbb56956bcaa55f38856e9af62cc4d9f2db66d7b1f896",
+      "records": 3538
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260701.xml",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_7/PO_Offerte_G_MLIBERO_20260701.xml",
+      "sha256": "0abb58570dac1dd9b14382ac16dbec7cf7db8befd84258e1412cd2462a8ef151",
+      "records": 2348
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260715.xml",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_7/PO_Offerte_G_MLIBERO_20260715.xml",
+      "sha256": "0be9c36bca522b86333eba1430146c4967dd484628c0021808d6551ecf66a95e",
+      "records": 2569
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260801.xml",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_8/PO_Offerte_G_MLIBERO_20260801.xml",
+      "sha256": "4716bea02dc76e5edc3626a6b0be44d22339d88b01f68771bac71c9776b5fff6",
+      "records": 2667
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260815.xml",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_8/PO_Offerte_G_MLIBERO_20260815.xml",
+      "sha256": "e1651c8b5d3f0cc7c0bfbd8720f596ea0f205aec9b0a0cfbefcbcf6836d3396d",
+      "records": 2686
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260901.xml",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_9/PO_Offerte_G_MLIBERO_20260901.xml",
+      "sha256": "cbea94e242216079fea0d5cb59d8511c9e5107d393eb9321e19ea432def25ab6",
+      "records": 2713
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260915.xml",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_9/PO_Offerte_G_MLIBERO_20260915.xml",
+      "sha256": "8b43102481898b74e7fc7f2e489630316daa6923a6d2b5774adf8319ce76220e",
+      "records": 2704
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260101.xml",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_1/PO_Offerte_G_MLIBERO_20260101.xml",
+      "sha256": "4c60ec9090e8d9d3fc9a5764c83162f4520f7e4c23b9ce9f9585c0f3e8b2b722",
+      "records": 1871
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260115.xml",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_1/PO_Offerte_G_MLIBERO_20260115.xml",
+      "sha256": "35257c8ca43cbf14e4bfc6c27b7563e2e952cbd624e5c1e84757b6b6518af140",
+      "records": 2015
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260201.xml",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_2/PO_Offerte_G_MLIBERO_20260201.xml",
+      "sha256": "535584dd9252a5c51d4a192371498a9a23eecbdaf1aee0bbf5f7568945ee613a",
+      "records": 2026
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260215.xml",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_2/PO_Offerte_G_MLIBERO_20260215.xml",
+      "sha256": "c3300310997b0ce3580e06ed41f554426ebf2c27be60c2aaf36502d7a3555a6b",
+      "records": 2163
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260301.xml",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_3/PO_Offerte_G_MLIBERO_20260301.xml",
+      "sha256": "5d2c763af1ba57c4961d117fe693281dbb2112ce5e3fbd2087729dc2bd7b5106",
+      "records": 2214
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260315.xml",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_3/PO_Offerte_G_MLIBERO_20260315.xml",
+      "sha256": "91c79db9faba1578d6bf69fbbe71dff2ddde9e2a167e4093912a7ff99ff1746f",
+      "records": 2194
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260401.xml",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_4/PO_Offerte_G_MLIBERO_20260401.xml",
+      "sha256": "ce7fb850b0e6153bfbd4bb5203eb70e376b5197b32cdd4a687724dee9160016b",
+      "records": 1431
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260415.xml",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_4/PO_Offerte_G_MLIBERO_20260415.xml",
+      "sha256": "f92c42a7431f2a72d677d65ee1abb0c4e46cbad8bd2c14eb28f603b0fe08f812",
+      "records": 2020
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260501.xml",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_5/PO_Offerte_G_MLIBERO_20260501.xml",
+      "sha256": "7564e2d112d9f64b962f57753b57ed8a44176b402b206ea0dece80f19afbbbb2",
+      "records": 2144
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260515.xml",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_5/PO_Offerte_G_MLIBERO_20260515.xml",
+      "sha256": "25f625637442dd1b229194e718da519251e360afc4df619ad1277990f76391d1",
+      "records": 2302
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260601.xml",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_6/PO_Offerte_G_MLIBERO_20260601.xml",
+      "sha256": "0c326eef9dde4087a16ff5d96287699c3e34ef97a9d648e4975b3a73fd5f3e4b",
+      "records": 2445
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260615.xml",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_6/PO_Offerte_G_MLIBERO_20260615.xml",
+      "sha256": "f913ad81c985b7e285cf4f745e7137f13d37df37b965742dabcc3f06de7da3f7",
+      "records": 2540
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20250101.xml",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2025_1/PO_Offerte_G_MLIBERO_20250101.xml",
+      "sha256": "da9178531c911988998dc94f247bff6264d54e8ab55e7ad9abe821663a2e3dcb",
+      "records": 1334
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20250201.xml",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2025_2/PO_Offerte_G_MLIBERO_20250201.xml",
+      "sha256": "a00ae304f85e2e3726bccced43801b4ff5fdae99870dfde7421184330580f950",
+      "records": 1387
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20250401.xml",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2025_4/PO_Offerte_G_MLIBERO_20250401.xml",
+      "sha256": "09a176e114bb41023a1f6bc9c5a2aa658e339199c13b2f42f8fe11632bcf1b99",
+      "records": 1613
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20250501.xml",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2025_5/PO_Offerte_G_MLIBERO_20250501.xml",
+      "sha256": "afa449db65183372041a6995821e9bd7b7cf3aae12d88025901eb6cf54d7dde1",
+      "records": 1820
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20250701.xml",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2025_7/PO_Offerte_G_MLIBERO_20250701.xml",
+      "sha256": "2722f48f2d666783cadba8f9904dda1e9385547420b249985dbbb61a69ae5482",
+      "records": 1812
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20250801.xml",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2025_8/PO_Offerte_G_MLIBERO_20250801.xml",
+      "sha256": "1284e1a0fd319740de38848aac020e9e17a72dd94322b5003c744d5bd381d0bd",
+      "records": 1939
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20251001.xml",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2025_10/PO_Offerte_G_MLIBERO_20251001.xml",
+      "sha256": "77785e31d7c74057c6a5fd5f3f46d9bb14f4d69ecf499a2570a40872f84cf7df",
+      "records": 1928
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20251101.xml",
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2025_11/PO_Offerte_G_MLIBERO_20251101.xml",
+      "sha256": "d3be61c03b449a82095442b6cb20744466235957c4369c3dbea2cc44d0a29874",
+      "records": 2124
+    }
+  ],
+  "summary": {
+    "exports": 36,
+    "records_including_repeats": 71653,
+    "distinct_offer_codes": 27128,
+    "potential_pairs": 63,
+    "higher_first_candidates": 0,
+    "components_with_any_decreasing_prices": 1246
+  },
+  "pairs": [
+    {
+      "file": "PO_Offerte_E_MLIBERO_20250401.xml",
+      "code": "019773ESVFL01XX0DO0PUN0225000165",
+      "component": "QUOTA FISSA",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "60",
+        "UNITA_MISURA": "01"
+      },
+      "second": {
+        "PREZZO": "132",
+        "UNITA_MISURA": "01"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_E_MLIBERO_20251001.xml",
+      "code": "019773ESVFL01XX0DO0PUN0225000165",
+      "component": "QUOTA FISSA",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "60",
+        "UNITA_MISURA": "01"
+      },
+      "second": {
+        "PREZZO": "132",
+        "UNITA_MISURA": "01"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_E_MLIBERO_20260101.xml",
+      "code": "019773ESVFL01XX0DO0PUN0225000165",
+      "component": "QUOTA FISSA",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "60",
+        "UNITA_MISURA": "01"
+      },
+      "second": {
+        "PREZZO": "132",
+        "UNITA_MISURA": "01"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_E_MLIBERO_20260401.xml",
+      "code": "019773ESVFL01XX0DO0PUN0225000165",
+      "component": "QUOTA FISSA",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "60",
+        "UNITA_MISURA": "01"
+      },
+      "second": {
+        "PREZZO": "132",
+        "UNITA_MISURA": "01"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260701.xml",
+      "code": "042441GSVML01XX0000WATTIAMOGAS26",
+      "component": "Spread",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.050000",
+        "UNITA_MISURA": "04"
+      },
+      "second": {
+        "PREZZO": "0.300000",
+        "UNITA_MISURA": "04"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260701.xml",
+      "code": "042441GSVML01XXDEVRAPREMIUMGAS25",
+      "component": "Spread",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.050000",
+        "UNITA_MISURA": "04"
+      },
+      "second": {
+        "PREZZO": "0.300000",
+        "UNITA_MISURA": "04"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260701.xml",
+      "code": "042441GSVML01XX00DEVRASMARTGAS26",
+      "component": "Spread",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.050000",
+        "UNITA_MISURA": "04"
+      },
+      "second": {
+        "PREZZO": "0.200000",
+        "UNITA_MISURA": "04"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260715.xml",
+      "code": "042441GSVML01XX00DEVRASMARTGAS26",
+      "component": "Spread",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.050000",
+        "UNITA_MISURA": "04"
+      },
+      "second": {
+        "PREZZO": "0.200000",
+        "UNITA_MISURA": "04"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260715.xml",
+      "code": "042441GSVML01XX0000WATTIAMOGAS26",
+      "component": "Spread",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.050000",
+        "UNITA_MISURA": "04"
+      },
+      "second": {
+        "PREZZO": "0.300000",
+        "UNITA_MISURA": "04"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260715.xml",
+      "code": "042441GSVML01XXDEVRAPREMIUMGAS25",
+      "component": "Spread",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.050000",
+        "UNITA_MISURA": "04"
+      },
+      "second": {
+        "PREZZO": "0.300000",
+        "UNITA_MISURA": "04"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260801.xml",
+      "code": "042441GSVML01XXDEVRAPREMIUMGAS25",
+      "component": "Spread",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.050000",
+        "UNITA_MISURA": "04"
+      },
+      "second": {
+        "PREZZO": "0.300000",
+        "UNITA_MISURA": "04"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260801.xml",
+      "code": "042441GSVML01XX00DEVRASMARTGAS26",
+      "component": "Spread",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.050000",
+        "UNITA_MISURA": "04"
+      },
+      "second": {
+        "PREZZO": "0.200000",
+        "UNITA_MISURA": "04"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260801.xml",
+      "code": "042441GSVML01XX0000WATTIAMOGAS26",
+      "component": "Spread",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.050000",
+        "UNITA_MISURA": "04"
+      },
+      "second": {
+        "PREZZO": "0.300000",
+        "UNITA_MISURA": "04"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260815.xml",
+      "code": "029886GSVML01XXSENZAPENSIDOMGASM",
+      "component": "Spread Gas",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.1",
+        "UNITA_MISURA": "04",
+        "TIPO_PREZZO": "02"
+      },
+      "second": {
+        "PREZZO": "0.1",
+        "UNITA_MISURA": "04",
+        "TIPO_PREZZO": "01"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260815.xml",
+      "code": "029886GSVML01XXSENZAPENSIDOMGASL",
+      "component": "Spread Gas",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.12",
+        "UNITA_MISURA": "04",
+        "TIPO_PREZZO": "02"
+      },
+      "second": {
+        "PREZZO": "0.12",
+        "UNITA_MISURA": "04",
+        "TIPO_PREZZO": "01"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260815.xml",
+      "code": "042441GSVML01XXDEVRAPREMIUMGAS25",
+      "component": "Spread",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.050000",
+        "UNITA_MISURA": "04"
+      },
+      "second": {
+        "PREZZO": "0.300000",
+        "UNITA_MISURA": "04"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260815.xml",
+      "code": "042441GSVML01XX0000WATTIAMOGAS26",
+      "component": "Spread",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.050000",
+        "UNITA_MISURA": "04"
+      },
+      "second": {
+        "PREZZO": "0.300000",
+        "UNITA_MISURA": "04"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260815.xml",
+      "code": "042441GSVML01XX00DEVRASMARTGAS26",
+      "component": "Spread",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.050000",
+        "UNITA_MISURA": "04"
+      },
+      "second": {
+        "PREZZO": "0.200000",
+        "UNITA_MISURA": "04"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260815.xml",
+      "code": "029337GSVML01XXSENZAPENSIDOMGASL",
+      "component": "Spread Gas",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.12",
+        "UNITA_MISURA": "04",
+        "TIPO_PREZZO": "02"
+      },
+      "second": {
+        "PREZZO": "0.12",
+        "UNITA_MISURA": "04",
+        "TIPO_PREZZO": "01"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260815.xml",
+      "code": "029337GSVML01XXSENZAPENSIDOMGASM",
+      "component": "Spread Gas",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.1",
+        "UNITA_MISURA": "04",
+        "TIPO_PREZZO": "02"
+      },
+      "second": {
+        "PREZZO": "0.1",
+        "UNITA_MISURA": "04",
+        "TIPO_PREZZO": "01"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260815.xml",
+      "code": "029337GSVML01XXSENZAPENSIDOMGASS",
+      "component": "Spread Gas",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.08",
+        "UNITA_MISURA": "04",
+        "TIPO_PREZZO": "02"
+      },
+      "second": {
+        "PREZZO": "0.08",
+        "UNITA_MISURA": "04",
+        "TIPO_PREZZO": "01"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260901.xml",
+      "code": "042441GSVML01XX0000WATTIAMOGAS26",
+      "component": "Spread",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.050000",
+        "UNITA_MISURA": "04"
+      },
+      "second": {
+        "PREZZO": "0.300000",
+        "UNITA_MISURA": "04"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260901.xml",
+      "code": "042441GSVML01XXDEVRAPREMIUMGAS25",
+      "component": "Spread",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.050000",
+        "UNITA_MISURA": "04"
+      },
+      "second": {
+        "PREZZO": "0.300000",
+        "UNITA_MISURA": "04"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260901.xml",
+      "code": "042441GSVML01XX00DEVRASMARTGAS26",
+      "component": "Spread",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.050000",
+        "UNITA_MISURA": "04"
+      },
+      "second": {
+        "PREZZO": "0.200000",
+        "UNITA_MISURA": "04"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260915.xml",
+      "code": "029886GSVML01XXSENZAPENSIDOMGAM2",
+      "component": "Spread Gas",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.1",
+        "UNITA_MISURA": "04",
+        "TIPO_PREZZO": "02"
+      },
+      "second": {
+        "PREZZO": "0.1",
+        "UNITA_MISURA": "04",
+        "TIPO_PREZZO": "01"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260915.xml",
+      "code": "029886GSVML01XXSENZAPENSIDOMGAL2",
+      "component": "Spread Gas",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.12",
+        "UNITA_MISURA": "04",
+        "TIPO_PREZZO": "02"
+      },
+      "second": {
+        "PREZZO": "0.12",
+        "UNITA_MISURA": "04",
+        "TIPO_PREZZO": "01"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260915.xml",
+      "code": "029886GSVML01XXSENZAPENSIDOMGAS2",
+      "component": "Spread Gas",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.08",
+        "UNITA_MISURA": "04",
+        "TIPO_PREZZO": "02"
+      },
+      "second": {
+        "PREZZO": "0.08",
+        "UNITA_MISURA": "04",
+        "TIPO_PREZZO": "01"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260915.xml",
+      "code": "042441GSVML01XX0000WATTIAMOGAS26",
+      "component": "Spread",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.050000",
+        "UNITA_MISURA": "04"
+      },
+      "second": {
+        "PREZZO": "0.300000",
+        "UNITA_MISURA": "04"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260915.xml",
+      "code": "042441GSVML01XX00DEVRASMARTGAS26",
+      "component": "Spread",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.050000",
+        "UNITA_MISURA": "04"
+      },
+      "second": {
+        "PREZZO": "0.200000",
+        "UNITA_MISURA": "04"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260915.xml",
+      "code": "042441GSVML01XXDEVRAPREMIUMGAS25",
+      "component": "Spread",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.050000",
+        "UNITA_MISURA": "04"
+      },
+      "second": {
+        "PREZZO": "0.300000",
+        "UNITA_MISURA": "04"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260915.xml",
+      "code": "029337GSVML01XXSENZAPENSIDOMGAL2",
+      "component": "Spread Gas",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.12",
+        "UNITA_MISURA": "04",
+        "TIPO_PREZZO": "02"
+      },
+      "second": {
+        "PREZZO": "0.12",
+        "UNITA_MISURA": "04",
+        "TIPO_PREZZO": "01"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260915.xml",
+      "code": "029337GSVML01XXSENZAPENSIDOMGAS2",
+      "component": "Spread Gas",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.08",
+        "UNITA_MISURA": "04",
+        "TIPO_PREZZO": "02"
+      },
+      "second": {
+        "PREZZO": "0.08",
+        "UNITA_MISURA": "04",
+        "TIPO_PREZZO": "01"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260915.xml",
+      "code": "029337GSVML01XXSENZAPENSIDOMGAM2",
+      "component": "Spread Gas",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.1",
+        "UNITA_MISURA": "04",
+        "TIPO_PREZZO": "02"
+      },
+      "second": {
+        "PREZZO": "0.1",
+        "UNITA_MISURA": "04",
+        "TIPO_PREZZO": "01"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260101.xml",
+      "code": "019773GSVML01XX0DO0PSV0225000165",
+      "component": "quota fissa di vendita",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "60",
+        "UNITA_MISURA": "01"
+      },
+      "second": {
+        "PREZZO": "132",
+        "UNITA_MISURA": "01"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260115.xml",
+      "code": "019773GSVML01XX0DO0PSV0225000165",
+      "component": "quota fissa di vendita",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "60",
+        "UNITA_MISURA": "01"
+      },
+      "second": {
+        "PREZZO": "132",
+        "UNITA_MISURA": "01"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260201.xml",
+      "code": "019773GSVML01XX0DO0PSV0225000165",
+      "component": "quota fissa di vendita",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "60",
+        "UNITA_MISURA": "01"
+      },
+      "second": {
+        "PREZZO": "132",
+        "UNITA_MISURA": "01"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260215.xml",
+      "code": "019773GSVML01XX0DO0PSV0225000165",
+      "component": "quota fissa di vendita",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "60",
+        "UNITA_MISURA": "01"
+      },
+      "second": {
+        "PREZZO": "132",
+        "UNITA_MISURA": "01"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260301.xml",
+      "code": "019773GSVML01XX0DO0PSV0225000165",
+      "component": "quota fissa di vendita",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "60",
+        "UNITA_MISURA": "01"
+      },
+      "second": {
+        "PREZZO": "132",
+        "UNITA_MISURA": "01"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260315.xml",
+      "code": "019773GSVML01XX0DO0PSV0225000165",
+      "component": "quota fissa di vendita",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "60",
+        "UNITA_MISURA": "01"
+      },
+      "second": {
+        "PREZZO": "132",
+        "UNITA_MISURA": "01"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260401.xml",
+      "code": "019773GSVML01XX0DO0PSV0225000165",
+      "component": "quota fissa di vendita",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "60",
+        "UNITA_MISURA": "01"
+      },
+      "second": {
+        "PREZZO": "132",
+        "UNITA_MISURA": "01"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260415.xml",
+      "code": "019773GSVML01XX0DO0PSV0225000165",
+      "component": "quota fissa di vendita",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "60",
+        "UNITA_MISURA": "01"
+      },
+      "second": {
+        "PREZZO": "132",
+        "UNITA_MISURA": "01"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260501.xml",
+      "code": "042441GSVML01XX000000WATTIAMOGAS",
+      "component": "Spread",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.050000",
+        "UNITA_MISURA": "04"
+      },
+      "second": {
+        "PREZZO": "0.300000",
+        "UNITA_MISURA": "04"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260501.xml",
+      "code": "042441GSVML01XXDEVRAPREMIUMGAS25",
+      "component": "Spread",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.050000",
+        "UNITA_MISURA": "04"
+      },
+      "second": {
+        "PREZZO": "0.300000",
+        "UNITA_MISURA": "04"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260501.xml",
+      "code": "042441GSVML02XX0000DEVRASMARTGAS",
+      "component": "Spread",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.050000",
+        "UNITA_MISURA": "04"
+      },
+      "second": {
+        "PREZZO": "0.200000",
+        "UNITA_MISURA": "04"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260501.xml",
+      "code": "019773GSVML01XX0DO0PSV0225000165",
+      "component": "quota fissa di vendita",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "60",
+        "UNITA_MISURA": "01"
+      },
+      "second": {
+        "PREZZO": "132",
+        "UNITA_MISURA": "01"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260515.xml",
+      "code": "042441GSVML01XX000000WATTIAMOGAS",
+      "component": "Spread",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.050000",
+        "UNITA_MISURA": "04"
+      },
+      "second": {
+        "PREZZO": "0.300000",
+        "UNITA_MISURA": "04"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260515.xml",
+      "code": "042441GSVML01XXDEVRAPREMIUMGAS25",
+      "component": "Spread",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.050000",
+        "UNITA_MISURA": "04"
+      },
+      "second": {
+        "PREZZO": "0.300000",
+        "UNITA_MISURA": "04"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260515.xml",
+      "code": "042441GSVML01XX00DEVRASMARTGAS26",
+      "component": "Spread",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.050000",
+        "UNITA_MISURA": "04"
+      },
+      "second": {
+        "PREZZO": "0.200000",
+        "UNITA_MISURA": "04"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260515.xml",
+      "code": "019773GSVML01XX0DO0PSV0225000165",
+      "component": "quota fissa di vendita",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "60",
+        "UNITA_MISURA": "01"
+      },
+      "second": {
+        "PREZZO": "132",
+        "UNITA_MISURA": "01"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260601.xml",
+      "code": "042441GSVML01XX00DEVRASMARTGAS26",
+      "component": "Spread",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.050000",
+        "UNITA_MISURA": "04"
+      },
+      "second": {
+        "PREZZO": "0.200000",
+        "UNITA_MISURA": "04"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260601.xml",
+      "code": "042441GSVML01XX0000WATTIAMOGAS26",
+      "component": "Spread",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.050000",
+        "UNITA_MISURA": "04"
+      },
+      "second": {
+        "PREZZO": "0.300000",
+        "UNITA_MISURA": "04"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260601.xml",
+      "code": "042441GSVML01XXDEVRAPREMIUMGAS25",
+      "component": "Spread",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.050000",
+        "UNITA_MISURA": "04"
+      },
+      "second": {
+        "PREZZO": "0.300000",
+        "UNITA_MISURA": "04"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260601.xml",
+      "code": "019773GSVML01XX0DO0PSV0225000165",
+      "component": "quota fissa di vendita",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "60",
+        "UNITA_MISURA": "01"
+      },
+      "second": {
+        "PREZZO": "132",
+        "UNITA_MISURA": "01"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260615.xml",
+      "code": "042441GSVML01XXDEVRAPREMIUMGAS25",
+      "component": "Spread",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.050000",
+        "UNITA_MISURA": "04"
+      },
+      "second": {
+        "PREZZO": "0.300000",
+        "UNITA_MISURA": "04"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260615.xml",
+      "code": "042441GSVML01XX0000WATTIAMOGAS26",
+      "component": "Spread",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.050000",
+        "UNITA_MISURA": "04"
+      },
+      "second": {
+        "PREZZO": "0.300000",
+        "UNITA_MISURA": "04"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260615.xml",
+      "code": "042441GSVML01XX00DEVRASMARTGAS26",
+      "component": "Spread",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "0.050000",
+        "UNITA_MISURA": "04"
+      },
+      "second": {
+        "PREZZO": "0.200000",
+        "UNITA_MISURA": "04"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20260615.xml",
+      "code": "019773GSVML01XX0DO0PSV0225000165",
+      "component": "quota fissa di vendita",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "60",
+        "UNITA_MISURA": "01"
+      },
+      "second": {
+        "PREZZO": "132",
+        "UNITA_MISURA": "01"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20250401.xml",
+      "code": "019773GSVML01XX0DO0PSV0225000165",
+      "component": "quota fissa di vendita",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "60",
+        "UNITA_MISURA": "01"
+      },
+      "second": {
+        "PREZZO": "132",
+        "UNITA_MISURA": "01"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20250501.xml",
+      "code": "019773GSVML01XX0DO0PSV0225000165",
+      "component": "quota fissa di vendita",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "60",
+        "UNITA_MISURA": "01"
+      },
+      "second": {
+        "PREZZO": "132",
+        "UNITA_MISURA": "01"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20250701.xml",
+      "code": "019773GSVML01XX0DO0PSV0225000165",
+      "component": "quota fissa di vendita",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "60",
+        "UNITA_MISURA": "01"
+      },
+      "second": {
+        "PREZZO": "132",
+        "UNITA_MISURA": "01"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20250801.xml",
+      "code": "019773GSVML01XX0DO0PSV0225000165",
+      "component": "quota fissa di vendita",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "60",
+        "UNITA_MISURA": "01"
+      },
+      "second": {
+        "PREZZO": "132",
+        "UNITA_MISURA": "01"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20251001.xml",
+      "code": "019773GSVML01XX0DO0PSV0225000165",
+      "component": "quota fissa di vendita",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "60",
+        "UNITA_MISURA": "01"
+      },
+      "second": {
+        "PREZZO": "132",
+        "UNITA_MISURA": "01"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    },
+    {
+      "file": "PO_Offerte_G_MLIBERO_20251101.xml",
+      "code": "019773GSVML01XX0DO0PSV0225000165",
+      "component": "quota fissa di vendita",
+      "positions": [
+        0,
+        1
+      ],
+      "first": {
+        "PREZZO": "60",
+        "UNITA_MISURA": "01"
+      },
+      "second": {
+        "PREZZO": "132",
+        "UNITA_MISURA": "01"
+      },
+      "same_period": true,
+      "first_price_higher": false
+    }
+  ],
+  "higher_first_candidates": []
+}

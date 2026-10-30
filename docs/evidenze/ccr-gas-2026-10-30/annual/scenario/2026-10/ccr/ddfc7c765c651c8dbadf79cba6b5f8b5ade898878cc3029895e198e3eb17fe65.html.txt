@@ -1,0 +1,1836 @@
+<h3 class="header_comp_sepsa" >Composizione della spesa annua stimata</h3>
+<table class="tableDettaglioOfferta">
+  <tr class="header">
+	<th scope="row">Vendita di gas naturale</th>
+	<td class="valore">&nbsp;</td>
+	<td class="valore"><strong>€ 830,90</strong></td>
+  </tr>
+        <tr class="row_head" >
+          <td><strong>Quota fissa (&#8364;/anno)</strong></td>
+          <td class="valore">&nbsp;</td>
+          <td class="valore"><span data-toggle="collapse" href="#map_quota_fissa_gas" class="glyphicon glyphicon-chevron-down"></span></td>
+        </tr>
+        <tr id="map_quota_fissa_gas" class="collapse" >
+        	<td colspan="3">
+           	
+									  
+										  
+			
+
+
+
+        
+<table class="param_table">
+  
+	
+  
+   
+	
+
+  	
+		
+			
+		
+		
+	
+
+  	<tr class="even">
+
+  		<td width="5%" class="valore">
+  			
+ 				  
+  			  	
+					
+										
+					
+						<img data-toggle="tooltip" data-original-title="Componente definita dal venditore" src="/portaleOfferte/resources/static/img/PO_icona_contratto.png" />						
+					
+				
+  			
+			
+  		</td>
+
+		
+			
+			
+				
+					<td width="50%" class="valore"> PCVEVA - PCVEVA</td>
+					
+				
+				  
+			  
+		
+		
+
+  		<td width="15%" class="valore">156,000000</td>
+
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+		
+			
+			
+				<td width="25%" class="valore">&nbsp;</td>
+						
+		
+		
+		
+		
+		
+	</tr>		
+ 		
+
+  
+  
+  	
+</table>	
+
+	  							  	
+	</td>
+  </tr>			          
+  <tr class="row_head">
+          <td><strong>Quota energia (&#8364;/Smc)</strong></td>
+          <td class="valore">&nbsp;</td>
+          <td class="valore"><span data-toggle="collapse" href="#map_quota_energia_gas" class="glyphicon glyphicon-chevron-down"></td>
+        </tr>
+        <tr id="map_quota_energia_gas" class="collapse" >
+        	<td colspan="3">
+           						  
+											  
+			
+
+
+
+        
+<table class="param_table">
+  
+	
+  
+   
+	
+
+  	
+		
+			
+		
+		
+	
+
+  	<tr class="odd">
+
+  		<td width="5%" class="valore">
+  			
+ 				  
+  			  	
+					
+										
+					
+						<img data-toggle="tooltip" data-original-title="Componente definita dal venditore" src="/portaleOfferte/resources/static/img/PO_icona_contratto.png" />						
+					
+				
+  			
+			
+  		</td>
+
+		
+			
+			
+				
+					<td width="50%" class="valore"> SPREAD - SPREAD</td>
+					
+				
+				  
+			  
+		
+		
+
+  		<td width="15%" class="valore">0,180000</td>
+
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+		
+			
+			
+				<td width="25%" class="valore">&nbsp;</td>
+						
+		
+		
+		
+		
+		
+	</tr>		
+ 		
+
+  
+   
+	
+
+  	
+		
+			
+		
+		
+	
+
+  	<tr class="even">
+
+  		<td width="5%" class="valore">
+  			
+			
+			
+  		</td>
+
+		
+		
+			<td width="50%" class="valore">CCR I trimestre 2027</td>
+		
+
+  		<td width="15%" class="valore">0,025212</td>
+
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+		
+			
+			
+				<td width="25%" class="valore">&nbsp;</td>
+						
+		
+		
+		
+		
+		
+	</tr>		
+ 		
+
+  
+   
+	
+
+  	
+		
+			
+		
+		
+	
+
+  	<tr class="odd">
+
+  		<td width="5%" class="valore">
+  			
+			
+			
+  		</td>
+
+		
+		
+			<td width="50%" class="valore">CCR II trimestre 2027</td>
+		
+
+  		<td width="15%" class="valore">0,027267</td>
+
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+		
+			
+			
+				<td width="25%" class="valore">&nbsp;</td>
+						
+		
+		
+		
+		
+		
+	</tr>		
+ 		
+
+  
+   
+	
+
+  	
+		
+			
+		
+		
+	
+
+  	<tr class="even">
+
+  		<td width="5%" class="valore">
+  			
+			
+			
+  		</td>
+
+		
+		
+			<td width="50%" class="valore">CCR III trimestre 2027</td>
+		
+
+  		<td width="15%" class="valore">0,027267</td>
+
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+		
+			
+			
+				<td width="25%" class="valore">&nbsp;</td>
+						
+		
+		
+		
+		
+		
+	</tr>		
+ 		
+
+  
+   
+	
+
+  	
+		
+			
+		
+		
+	
+
+  	<tr class="odd">
+
+  		<td width="5%" class="valore">
+  			
+			
+			
+  		</td>
+
+		
+		
+			<td width="50%" class="valore">CCR IV trimestre 2026</td>
+		
+
+  		<td width="15%" class="valore">0,025212</td>
+
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+		
+			
+			
+				<td width="25%" class="valore">&nbsp;</td>
+						
+		
+		
+		
+		
+		
+	</tr>		
+ 		
+
+  
+   
+	
+
+  	
+		
+			
+		
+		
+	
+
+  	<tr class="even">
+
+  		<td width="5%" class="valore">
+  			
+			
+			
+  		</td>
+
+		
+		
+			<td width="50%" class="valore">QTint</td>
+		
+
+  		<td width="15%" class="valore">0,000000</td>
+
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+		
+			
+			
+				<td width="25%" class="valore">&nbsp;</td>
+						
+		
+		
+		
+		
+		
+	</tr>		
+ 		
+
+  
+   
+	
+
+  	
+		
+			
+		
+		
+	
+
+  	<tr class="odd">
+
+  		<td width="5%" class="valore">
+  			
+			
+			
+  		</td>
+
+		
+		
+			<td width="50%" class="valore">QTpsv</td>
+		
+
+  		<td width="15%" class="valore">0,000000</td>
+
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+		
+			
+			
+				<td width="25%" class="valore">&nbsp;</td>
+						
+		
+		
+		
+		
+		
+	</tr>		
+ 		
+
+  
+  
+  	
+</table>	
+
+	  		
+								  
+											  
+			
+
+
+
+        
+<table class="param_table">
+  
+	
+  
+   
+	
+
+  	
+		
+			
+		
+		
+	
+
+  	<tr class="even">
+
+  		<td width="5%" class="valore">
+  			
+			
+			
+  		</td>
+
+		
+		
+			<td width="50%" class="valore">QVD variabile</td>
+		
+
+  		<td width="15%" class="valore">0,007946</td>
+
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+		
+			
+			
+				<td width="25%" class="valore">&nbsp;</td>
+						
+		
+		
+		
+		
+		
+	</tr>		
+ 		
+
+  
+  
+  	
+</table>	
+
+	  							  	
+	</td>
+  </tr>
+  
+      	
+		   		  
+				  			  
+		  
+ 		  
+		
+
+	  
+        <tr class="row_head">
+          <td>&nbsp;</td>
+          <td class="valore">&nbsp;</td>
+          <td class="valore">&nbsp;</td>
+        </tr>
+        <tr class="header">
+          <th scope="row">Tariffa per l&apos;uso della rete del gas naturale</th>
+          <td class="valore">&nbsp;</td>
+          <td class="valore"><strong>216,62 €</strong></td>
+        </tr>    
+        <tr class="row_head">
+          <td><strong>Quota fissa (&#8364;/anno)</strong></td>
+          <td class="valore">&nbsp;</td>
+          <td class="valore"><span data-toggle="collapse" href="#trasp_quota_fissa_gas" class="glyphicon glyphicon-chevron-down"></td>
+        </tr>
+        <tr id="trasp_quota_fissa_gas" class="collapse" >
+        	<td colspan="3">
+           						  
+											  
+			
+
+
+
+        
+<table class="param_table">
+  
+	
+  
+   
+	
+
+  	
+		
+			
+		
+		
+	
+
+  	<tr class="odd">
+
+  		<td width="5%" class="valore">
+  			
+			
+			
+  		</td>
+
+		
+		
+			<td width="50%" class="valore">TAU1 (Distribuzione)</td>
+		
+
+  		<td width="15%" class="valore">80,760000</td>
+
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+		
+			
+			
+				<td width="25%" class="valore">&nbsp;</td>
+						
+		
+		
+		
+		
+		
+	</tr>		
+ 		
+
+  
+   
+	
+
+  	
+		
+			
+		
+		
+	
+
+  	<tr class="even">
+
+  		<td width="5%" class="valore">
+  			
+			
+			
+  		</td>
+
+		
+		
+			<td width="50%" class="valore">ST</td>
+		
+
+  		<td width="15%" class="valore">-0,230000</td>
+
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+		
+			
+			
+				<td width="25%" class="valore">&nbsp;</td>
+						
+		
+		
+		
+		
+		
+	</tr>		
+ 		
+
+  
+   
+	
+
+  	
+		
+			
+		
+		
+	
+
+  	<tr class="odd">
+
+  		<td width="5%" class="valore">
+  			
+			
+			
+  		</td>
+
+		
+		
+			<td width="50%" class="valore">VR</td>
+		
+
+  		<td width="15%" class="valore">0,070000</td>
+
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+		
+			
+			
+				<td width="25%" class="valore">&nbsp;</td>
+						
+		
+		
+		
+		
+		
+	</tr>		
+ 		
+
+  
+  
+  	
+</table>	
+
+	  		
+		</td>
+	  </tr>
+        <tr class="row_head">
+          <td><strong>Quota energia (&#8364;/Smc)</strong></td>
+          <td class="valore">&nbsp;</td>
+          <td class="valore"><span data-toggle="collapse" href="#trasp_quota_energia_gas" class="glyphicon glyphicon-chevron-down"></td>
+        </tr>
+        <tr id="trasp_quota_energia_gas" class="collapse" >
+        	<td colspan="3">
+           						  
+											  
+			
+
+
+
+        
+<table class="param_table">
+  
+	
+  
+   
+	
+
+  	
+		
+			
+		
+		
+	
+
+  	<tr class="even">
+
+  		<td width="5%" class="valore">
+  			
+			
+			
+  		</td>
+
+		
+		
+			<td width="50%" class="valore">QT (Trasporto)</td>
+		
+
+  		<td width="15%" class="valore">0,105049</td>
+
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+		
+			
+			
+				<td width="25%" class="valore">&nbsp;</td>
+						
+		
+		
+		
+		
+		
+	</tr>		
+ 		
+
+  
+   
+	
+
+  	
+		
+			
+		
+		
+	
+
+  	<tr class="odd">
+
+  		<td width="5%" class="valore">
+  			
+			
+			
+  		</td>
+
+		
+		
+			<td width="50%" class="valore">TAU3 (Misura) 0-120 Smc</td>
+		
+
+  		<td width="15%" class="valore">0,000000</td>
+
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+		
+			
+			
+				<td width="25%" class="valore">&nbsp;</td>
+						
+		
+		
+		
+		
+		
+	</tr>		
+ 		
+
+  
+   
+	
+
+  	
+		
+			
+		
+		
+	
+
+  	<tr class="even">
+
+  		<td width="5%" class="valore">
+  			
+			
+			
+  		</td>
+
+		
+		
+			<td width="50%" class="valore">TAU3 (Misura) 121-480 Smc</td>
+		
+
+  		<td width="15%" class="valore">0,107315</td>
+
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+		
+			
+			
+				<td width="25%" class="valore">&nbsp;</td>
+						
+		
+		
+		
+		
+		
+	</tr>		
+ 		
+
+  
+   
+	
+
+  	
+		
+			
+		
+		
+	
+
+  	<tr class="odd">
+
+  		<td width="5%" class="valore">
+  			
+			
+			
+  		</td>
+
+		
+		
+			<td width="50%" class="valore">TAU3 (Misura) 481-1.560 Smc</td>
+		
+
+  		<td width="15%" class="valore">0,098223</td>
+
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+		
+			
+			
+				<td width="25%" class="valore">&nbsp;</td>
+						
+		
+		
+		
+		
+		
+	</tr>		
+ 		
+
+  
+   
+	
+
+  	
+		
+			
+		
+		
+	
+
+  	<tr class="even">
+
+  		<td width="5%" class="valore">
+  			
+			
+			
+  		</td>
+
+		
+		
+			<td width="50%" class="valore">RS (Qualità)</td>
+		
+
+  		<td width="15%" class="valore">0,002788</td>
+
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+		
+			
+			
+				<td width="25%" class="valore">&nbsp;</td>
+						
+		
+		
+		
+		
+		
+	</tr>		
+ 		
+
+  
+   
+	
+
+  	
+		
+			
+		
+		
+	
+
+  	<tr class="odd">
+
+  		<td width="5%" class="valore">
+  			
+			
+			
+  		</td>
+
+		
+		
+			<td width="50%" class="valore">UG1 (Perequazione)</td>
+		
+
+  		<td width="15%" class="valore">0,034837</td>
+
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+		
+			
+			
+				<td width="25%" class="valore">&nbsp;</td>
+						
+		
+		
+		
+		
+		
+	</tr>		
+ 		
+
+  
+  
+  	
+</table>	
+
+	  		
+		</td>
+	  </tr>		      
+      
+        <tr class="row_head">
+          <td>&nbsp;</td>
+          <td class="valore">&nbsp;</td>
+          <td class="valore">&nbsp;</td>
+        </tr>
+        <tr class="header">
+          <th scope="row">Oneri generali di sistema</th>
+          <td class="valore">&nbsp;</td>
+          <td class="valore"><strong>21,77 €</strong></td>
+        </tr>
+        
+        <tr class="row_head">
+          <td><strong>Quota fissa (&#8364;/anno)</strong></td>
+          <td class="valore">&nbsp;</td>
+          <td class="valore"><span data-toggle="collapse" href="#oneri_sistema_fissa_gas" class="glyphicon glyphicon-chevron-down"></td>
+        </tr>
+        <tr id="oneri_sistema_fissa_gas" class="collapse" >
+        	<td colspan="3">
+           						  
+											  
+			
+
+
+
+        
+<table class="param_table">
+  
+	
+  
+   
+	
+
+  	
+		
+			
+		
+		
+	
+
+  	<tr class="even">
+
+  		<td width="5%" class="valore">
+  			
+			
+			
+  		</td>
+
+		
+		
+			<td width="50%" class="valore">UG2 secondo</td>
+		
+
+  		<td width="15%" class="valore">-21,630000</td>
+
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+		
+			
+			
+				<td width="25%" class="valore">&nbsp;</td>
+						
+		
+		
+		
+		
+		
+	</tr>		
+ 		
+
+  
+  
+  	
+</table>	
+
+	  		
+		</td>
+	  </tr>
+        <tr class="row_head">
+          <td><strong>Quota energia (&#8364;/Smc)</strong></td>
+          <td class="valore">&nbsp;</td>
+          <td class="valore"><span data-toggle="collapse" href="#oneri_sistema_energia_gas" class="glyphicon glyphicon-chevron-down"></td>
+        </tr>
+        <tr id="oneri_sistema_energia_gas" class="collapse" >
+        	<td colspan="3">
+           						  
+											  
+			
+
+
+
+        
+<table class="param_table">
+  
+	
+  
+   
+	
+
+  	
+		
+			
+		
+		
+	
+
+  	<tr class="odd">
+
+  		<td width="5%" class="valore">
+  			
+			
+			
+  		</td>
+
+		
+		
+			<td width="50%" class="valore">RE (Risparmio energetico)</td>
+		
+
+  		<td width="15%" class="valore">0,029417</td>
+
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+		
+			
+			
+				<td width="25%" class="valore">&nbsp;</td>
+						
+		
+		
+		
+		
+		
+	</tr>		
+ 		
+
+  
+   
+	
+
+  	
+		
+			
+		
+		
+	
+
+  	<tr class="even">
+
+  		<td width="5%" class="valore">
+  			
+			
+			
+  		</td>
+
+		
+		
+			<td width="50%" class="valore">UG2 primo 0-120 Smc</td>
+		
+
+  		<td width="15%" class="valore">0,000000</td>
+
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+		
+			
+			
+				<td width="25%" class="valore">&nbsp;</td>
+						
+		
+		
+		
+		
+		
+	</tr>		
+ 		
+
+  
+   
+	
+
+  	
+		
+			
+		
+		
+	
+
+  	<tr class="odd">
+
+  		<td width="5%" class="valore">
+  			
+			
+			
+  		</td>
+
+		
+		
+			<td width="50%" class="valore">UG2 primo 121-480 Smc</td>
+		
+
+  		<td width="15%" class="valore">0,049600</td>
+
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+		
+			
+			
+				<td width="25%" class="valore">&nbsp;</td>
+						
+		
+		
+		
+		
+		
+	</tr>		
+ 		
+
+  
+   
+	
+
+  	
+		
+			
+		
+		
+	
+
+  	<tr class="even">
+
+  		<td width="5%" class="valore">
+  			
+			
+			
+  		</td>
+
+		
+		
+			<td width="50%" class="valore">UG2 primo 481-1.560 Smc</td>
+		
+
+  		<td width="15%" class="valore">0,029300</td>
+
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+		
+			
+			
+				<td width="25%" class="valore">&nbsp;</td>
+						
+		
+		
+		
+		
+		
+	</tr>		
+ 		
+
+  
+   
+	
+
+  	
+		
+			
+		
+		
+	
+
+  	<tr class="odd">
+
+  		<td width="5%" class="valore">
+  			
+			
+			
+  		</td>
+
+		
+		
+			<td width="50%" class="valore">UG3</td>
+		
+
+  		<td width="15%" class="valore">0,007292</td>
+
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+		
+			
+			
+				<td width="25%" class="valore">&nbsp;</td>
+						
+		
+		
+		
+		
+		
+	</tr>		
+ 		
+
+  
+  
+  	
+</table>	
+
+	  		
+		</td>
+	  </tr>	      
+	        
+
+        <tr class="row_head">
+          <td>&nbsp;</td>
+          <td class="valore">&nbsp;</td>
+          <td class="valore">&nbsp;</td>
+        </tr>
+        
+       	<tr class="somma">
+	      <th scope="row">Spesa netto imposte stimata</th>
+	      <td class="valore">&nbsp;</td>
+	      <td class="valore"><strong>1.069,29&nbsp;&euro;</strong></td>
+	   </tr>   
+	   
+	     <tr class="row_head">
+          <td>&nbsp;</td>
+          <td class="valore">&nbsp;</td>
+          <td class="valore">&nbsp;</td>
+        </tr>
+	   
+        <tr class="header">
+          <th scope="row">Imposte</th>
+          <td class="valore">&nbsp;</td>
+          <td class="valore"><strong>103,70 €</strong></td>
+        </tr>
+        <tr class="row_head" >
+          <td><strong>Corrispettivi unitari</strong></td>
+          <td class="valore">&nbsp;</td>
+          <td class="valore"><span data-toggle="collapse" href="#corr_unitari_imposte_gas" class="glyphicon glyphicon-chevron-down"></span></td>
+        </tr>
+        <tr id="corr_unitari_imposte_gas" class="collapse">
+			<td colspan="3">        
+	           						  
+												  
+				
+
+
+
+        
+<table class="param_table">
+  
+	
+  
+   
+	
+
+  	
+		
+			
+		
+		
+	
+
+  	<tr class="even">
+
+  		<td width="5%" class="valore">
+  			
+			
+			
+  		</td>
+
+		
+		
+			<td width="50%" class="valore">Accisa - da 0 a 120 Smc</td>
+		
+
+  		<td width="15%" class="valore">0,044000</td>
+
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+		
+			
+			
+				<td width="25%" class="valore">&nbsp;</td>
+						
+		
+		
+		
+		
+		
+	</tr>		
+ 		
+
+  
+   
+	
+
+  	
+		
+			
+		
+		
+	
+
+  	<tr class="odd">
+
+  		<td width="5%" class="valore">
+  			
+			
+			
+  		</td>
+
+		
+		
+			<td width="50%" class="valore">Accisa - da 121 a 480 Smc</td>
+		
+
+  		<td width="15%" class="valore">0,175000</td>
+
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+		
+			
+			
+				<td width="25%" class="valore">&nbsp;</td>
+						
+		
+		
+		
+		
+		
+	</tr>		
+ 		
+
+  
+   
+	
+
+  	
+		
+			
+		
+		
+	
+
+  	<tr class="even">
+
+  		<td width="5%" class="valore">
+  			
+			
+			
+  		</td>
+
+		
+		
+			<td width="50%" class="valore">Accisa - da 481 a 1.560 Smc</td>
+		
+
+  		<td width="15%" class="valore">0,170000</td>
+
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+		
+			
+			
+				<td width="25%" class="valore">&nbsp;</td>
+						
+		
+		
+		
+		
+		
+	</tr>		
+ 		
+
+  
+  
+  	
+</table>	
+
+		  			
+	           						  
+												  
+				
+
+
+
+        
+<table class="param_table">
+  
+	
+  
+   
+	
+
+  	
+		
+			
+		
+		
+	
+
+  	<tr class="odd">
+
+  		<td width="5%" class="valore">
+  			
+			
+			
+  		</td>
+
+		
+		
+			<td width="50%" class="valore">Add. reg. fino a 120 Smc</td>
+		
+
+  		<td width="15%" class="valore">0,022000</td>
+
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+		
+			
+			
+				<td width="25%" class="valore">&nbsp;</td>
+						
+		
+		
+		
+		
+		
+	</tr>		
+ 		
+
+  
+   
+	
+
+  	
+		
+			
+		
+		
+	
+
+  	<tr class="even">
+
+  		<td width="5%" class="valore">
+  			
+			
+			
+  		</td>
+
+		
+		
+			<td width="50%" class="valore">Add. reg. da 121 a 480 Smc</td>
+		
+
+  		<td width="15%" class="valore">0,025800</td>
+
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+		
+			
+			
+				<td width="25%" class="valore">&nbsp;</td>
+						
+		
+		
+		
+		
+		
+	</tr>		
+ 		
+
+  
+   
+	
+
+  	
+		
+			
+		
+		
+	
+
+  	<tr class="odd">
+
+  		<td width="5%" class="valore">
+  			
+			
+			
+  		</td>
+
+		
+		
+			<td width="50%" class="valore">Add. reg. da 481 a 1.560 Smc</td>
+		
+
+  		<td width="15%" class="valore">0,025800</td>
+
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+		
+			
+			
+				<td width="25%" class="valore">&nbsp;</td>
+						
+		
+		
+		
+		
+		
+	</tr>		
+ 		
+
+  
+  
+  	
+</table>	
+
+		  		
+			</td>
+		</tr>
+		          
+  <tr class="row_head">
+    <td>&nbsp;</td>
+    <td class="valore">&nbsp;</td>
+    <td class="valore">&nbsp;</td>
+  </tr>
+  
+
+  
+	  	
+	          <tr class="header tr_iva">
+	            <th scope="row">IVA 5%</th>
+	            <td>&nbsp;</td>
+	            <td  class="valore"><strong>0,00 €</strong></td>
+	          </tr>	
+	          <tr class="header tr_iva">
+	            <th scope="row">IVA 10%</th>
+	            <td>&nbsp;</td>
+	            <td  class="valore"><strong>77,1&nbsp;&euro;</strong></td>
+	          </tr>		
+	          <tr class="header tr_iva">
+	            <th scope="row">IVA 22%</th>
+	            <td>&nbsp;</td>
+	            <td  class="valore"><strong>88,44 €</strong></td>
+	          </tr>			
+	  	
+	  	
+  	
+  
+  
+   		          
+       <tr>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr class="somma">
+          <th scope="row">Spesa annua stimata</th>
+          <td>&nbsp;</td>
+          <td  class="valore"><strong>1.338,53 €</strong></td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td colspan="3">
+          	La spesa annua riportata rappresenta una stima che si basa su prezzi che nel tempo possono variare e su dati di consumo storici (in caso di autenticazione con SPID o CIE) oppure dichiarati dall&#8217;utente, o stimati sulla base delle informazioni fornite, che si possono discostare dai consumi futuri. Tutti i corrispettivi unitari pubblicati sono indicati nel loro valore unitario al netto delle imposte e al lordo delle perdite di rete.
+          	
+          		I prezzi della materia prima per il calcolo della spesa fanno riferimento alle previsioni di prezzo disponibili alla data di consultazione del Portale Offerte.
+          	
+         	</td>
+        </tr>         
+        
+        	  
+      		  
+</table>
+							</div>							
+						</div>	
+					
+				
+		
+
+

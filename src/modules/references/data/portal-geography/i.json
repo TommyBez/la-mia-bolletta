@@ -1,0 +1,512 @@
+{
+  "prefix": "i",
+  "source": "https://www.ilportaleofferte.it/portaleOfferte/api/rs/it/portal/geoService.json?cap-comune=i",
+  "observedAt": "2026-10-29T22:27:26Z",
+  "sha256": "aad5d93b137788ea3218379d20929fda45096ff4d60d9bb35b450591f996343a",
+  "items": [
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017082",
+      "denominazione": "Idro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111035,
+      "denominazione": "Iglesias",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004102",
+      "denominazione": "Igliano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "091032",
+      "denominazione": "Ilbono",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "023039",
+      "denominazione": "Illasi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "090031",
+      "denominazione": "Illorai",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "097039",
+      "denominazione": "Imbersago",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022097",
+      "denominazione": "Imer",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "037032",
+      "denominazione": "Imola",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "008031",
+      "denominazione": "Imperia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "048022",
+      "denominazione": "Impruneta",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "012082",
+      "denominazione": "Inarzo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005058",
+      "denominazione": "Incisa Scapaccino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017083",
+      "denominazione": "Incudine",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "012083",
+      "denominazione": "Induno Olona",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001121",
+      "denominazione": "Ingria",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 103037,
+      "denominazione": "Intragna",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "097040",
+      "denominazione": "Introbio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "007035",
+      "denominazione": "Introd",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "066048",
+      "denominazione": "Introdacqua",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "013118",
+      "denominazione": "Inverigo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018077",
+      "denominazione": "Inverno e Monteleone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001122",
+      "denominazione": "Inverso Pinasca",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015113",
+      "denominazione": "Inveruno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "003082",
+      "denominazione": "Invorio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015114",
+      "denominazione": "Inzago",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 102017,
+      "denominazione": "Ionadi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "091033",
+      "denominazione": "Irgoli",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017084",
+      "denominazione": "Irma",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "077013",
+      "denominazione": "Irsina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004103",
+      "denominazione": "Isasca",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "079063",
+      "denominazione": "Isca sullo Ionio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "063037",
+      "denominazione": "Ischia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "056031",
+      "denominazione": "Ischia di Castro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "071025",
+      "denominazione": "Ischitella",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017085",
+      "denominazione": "Iseo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022098",
+      "denominazione": "Isera",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "094023",
+      "denominazione": "Isernia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111036,
+      "denominazione": "Isili",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "082042",
+      "denominazione": "Isnello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "019053",
+      "denominazione": "Isola Dovarese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "023041",
+      "denominazione": "Isola Rizza",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006087",
+      "denominazione": "Isola Sant'Antonio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024048",
+      "denominazione": "Isola Vicentina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005059",
+      "denominazione": "Isola d'Asti",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "010027",
+      "denominazione": "Isola del Cantone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "053012",
+      "denominazione": "Isola del Giglio",
+      "esclusoOffertaEE": 1,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "067026",
+      "denominazione": "Isola del Gran Sasso d'Italia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "060043",
+      "denominazione": "Isola del Liri",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "041021",
+      "denominazione": "Isola del Piano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "023040",
+      "denominazione": "Isola della Scala",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "082043",
+      "denominazione": "Isola delle Femmine",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 101013,
+      "denominazione": "Isola di Capo Rizzuto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016121",
+      "denominazione": "Isola di Fondra",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001123",
+      "denominazione": "Isolabella",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "008032",
+      "denominazione": "Isolabona",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "071026",
+      "denominazione": "Isole Tremiti",
+      "esclusoOffertaEE": 1,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017086",
+      "denominazione": "Isorella",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065059",
+      "denominazione": "Ispani",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "088005",
+      "denominazione": "Ispica",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "012084",
+      "denominazione": "Ispra",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001124",
+      "denominazione": "Issiglio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "007036",
+      "denominazione": "Issime",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016122",
+      "denominazione": "Isso",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "007037",
+      "denominazione": "Issogne",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "026035",
+      "denominazione": "Istrana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083036",
+      "denominazione": "Itala",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "059010",
+      "denominazione": "Itri",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "090032",
+      "denominazione": "Ittireddu",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "090033",
+      "denominazione": "Ittiri",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001125",
+      "denominazione": "Ivrea",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "019054",
+      "denominazione": "Izano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    }
+  ]
+}

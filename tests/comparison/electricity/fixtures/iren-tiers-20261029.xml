@@ -1,0 +1,87 @@
+<ListaOfferteMercatoLibero><offerta>
+        <IdentificativiOfferta>
+            <PIVA_UTENTE>01178580997</PIVA_UTENTE>
+            <COD_OFFERTA>000208ESFML03XX00IEDOPRIMN261115</COD_OFFERTA>
+        </IdentificativiOfferta>
+        <DettaglioOfferta>
+            <TIPO_MERCATO>01</TIPO_MERCATO>
+            <OFFERTA_SINGOLA>SI</OFFERTA_SINGOLA>
+            <TIPO_CLIENTE>01</TIPO_CLIENTE>
+            <TIPO_OFFERTA>01</TIPO_OFFERTA>
+            <TIPOLOGIA_ATT_CONTR>01</TIPOLOGIA_ATT_CONTR>
+            <NOME_OFFERTA>IREN PRIMA SCELTA LUCE NEW</NOME_OFFERTA>
+            <DESCRIZIONE>Tale offerta è valida a decorrere dalla data di attivazione della fornitura e fino al 31/12/2028</DESCRIZIONE>
+            <DURATA>27</DURATA>
+            <GARANZIE>La presente offerta richiede l’obbligatorietà del pagamento tramite domiciliazione bancaria o postale e la bolletta in formato digitale. Iren Mercato provvederà ad inviare una e-mail all’indirizzo di posta elettronica indicato ogni qualvolta verrà emessa una fattura a carico del Cliente. Le fatture potranno essere visualizzate e stampate tramite l’applicativo IrenYou (accessibile alla pagina https://clienti.irenlucegas.it anche da mobile).</GARANZIE>
+            <ModalitaAttivazione>
+                <MODALITA>02</MODALITA>
+            </ModalitaAttivazione>
+            <Contatti>
+                <TELEFONO>800969696</TELEFONO>
+                <URL_SITO_VENDITORE>www.irenlucegas.it</URL_SITO_VENDITORE>
+                <URL_OFFERTA>https://www.irenlucegas.it/casa/offerte-luce/iren-prima-scelta-luce</URL_OFFERTA>
+            </Contatti>
+        </DettaglioOfferta>
+        <ValiditaOfferta>
+            <DATA_INIZIO>28/10/2026_00:00:00</DATA_INIZIO>
+            <DATA_FINE>15/11/2026_23:59:59</DATA_FINE>
+        </ValiditaOfferta>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>01</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>02</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>99</MODALITA_PAGAMENTO>
+            <DESCRIZIONE>Altro</DESCRIZIONE>
+        </MetodoPagamento>
+        <TipoPrezzo>
+            <TIPOLOGIA_FASCE>01</TIPOLOGIA_FASCE>
+        </TipoPrezzo>
+        <Dispacciamento>
+            <TIPO_DISPACCIAMENTO>14</TIPO_DISPACCIAMENTO>
+            <NOME>CdispD</NOME>
+            <DESCRIZIONE>CdispD</DESCRIZIONE>
+        </Dispacciamento>
+        <ComponenteImpresa>
+            <NOME>Prezzo</NOME>
+            <DESCRIZIONE>Valido da 3001 kWh/anno</DESCRIZIONE>
+            <TIPOLOGIA>01</TIPOLOGIA>
+            <MACROAREA>04</MACROAREA>
+            <IntervalloPrezzi>
+                <FASCIA_COMPONENTE>01</FASCIA_COMPONENTE>
+                <PREZZO>0.176000</PREZZO>
+                <UNITA_MISURA>03</UNITA_MISURA>
+            </IntervalloPrezzi>
+            <IntervalloPrezzi>
+                <FASCIA_COMPONENTE>01</FASCIA_COMPONENTE>
+                <CONSUMO_DA>0</CONSUMO_DA>
+                <CONSUMO_A>3000</CONSUMO_A>
+                <PREZZO>0.176000</PREZZO>
+                <UNITA_MISURA>03</UNITA_MISURA>
+            </IntervalloPrezzi>
+            <IntervalloPrezzi>
+                <FASCIA_COMPONENTE>01</FASCIA_COMPONENTE>
+                <CONSUMO_DA>3001</CONSUMO_DA>
+                <PREZZO>0.209000</PREZZO>
+                <UNITA_MISURA>03</UNITA_MISURA>
+            </IntervalloPrezzi>
+        </ComponenteImpresa>
+        <ComponenteImpresa>
+            <NOME>Quota fissa</NOME>
+            <DESCRIZIONE>Importo, definito in bolletta “Componente CCOM”, fissato in € 147 per POD/anno</DESCRIZIONE>
+            <TIPOLOGIA>01</TIPOLOGIA>
+            <MACROAREA>01</MACROAREA>
+            <IntervalloPrezzi>
+                <PREZZO>147.000000</PREZZO>
+                <UNITA_MISURA>01</UNITA_MISURA>
+            </IntervalloPrezzi>
+        </ComponenteImpresa>
+        <CondizioniContrattuali>
+            <TIPOLOGIA_CONDIZIONE>01</TIPOLOGIA_CONDIZIONE>
+            <DESCRIZIONE>In caso di Switch-in (cambio fornitore) la fornitura verrà attivata entro 3 mesi dalla conclusione del contratto. Per  altre richieste di fornitura (ad esempio subentro, voltura, attivazione) le tempistiche di  conclusione del Contratto sono indicate all'art. 2 delle Condizioni Generali di Fornitura. Eventuali corrispettivi previsti dal Fornitore per l’attivazione del Contratto sono dettagliati all’art. 20 delle Condizioni Generali di Fornitura e nelle Condizioni Economiche; in ogni caso, sono fatti salvi i tempi richiesti per le attività del Distributore e la fatturazione di eventuali oneri previsti dal Distributore stesso.</DESCRIZIONE>
+            <LIMITANTE>02</LIMITANTE>
+        </CondizioniContrattuali>
+    </offerta>
+    </ListaOfferteMercatoLibero>

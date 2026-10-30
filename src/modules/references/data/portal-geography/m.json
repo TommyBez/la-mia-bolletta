@@ -1,0 +1,5846 @@
+{
+  "prefix": "m",
+  "source": "https://www.ilportaleofferte.it/portaleOfferte/api/rs/it/portal/geoService.json?cap-comune=m",
+  "observedAt": "2026-10-29T22:27:29Z",
+  "sha256": "31770ba1e79fe881fb5a0fa076e149380e404eaa2793d1a43f461b1daee6e906",
+  "items": [
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "012142",
+      "denominazione": "Maccagno con Pino e Veddasca",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "098033",
+      "denominazione": "Maccastorna",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "070035",
+      "denominazione": "Macchia Valfortore",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "094025",
+      "denominazione": "Macchia d'Isernia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "094026",
+      "denominazione": "Macchiagodena",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001142",
+      "denominazione": "Macello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "043023",
+      "denominazione": "Macerata",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "061047",
+      "denominazione": "Macerata Campania",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "041023",
+      "denominazione": "Macerata Feltria",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 108029,
+      "denominazione": "Macherio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017097",
+      "denominazione": "Maclodio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "091044",
+      "denominazione": "Macomer",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004112",
+      "denominazione": "Macra",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 103039,
+      "denominazione": "Macugnaga",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "061048",
+      "denominazione": "Maddaloni",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "014035",
+      "denominazione": "Madesimo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "019055",
+      "denominazione": "Madignano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016131",
+      "denominazione": "Madone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 103040,
+      "denominazione": "Madonna del Sasso",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022243",
+      "denominazione": "Madruzzo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "059013",
+      "denominazione": "Maenza",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "070036",
+      "denominazione": "Mafalda",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017098",
+      "denominazione": "Magasa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015130",
+      "denominazione": "Magenta",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "003088",
+      "denominazione": "Maggiora",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018085",
+      "denominazione": "Magherno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "054026",
+      "denominazione": "Magione",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "079068",
+      "denominazione": "Magisano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004113",
+      "denominazione": "Magliano Alfieri",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004114",
+      "denominazione": "Magliano Alpi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "058052",
+      "denominazione": "Magliano Romano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "057035",
+      "denominazione": "Magliano Sabina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065065",
+      "denominazione": "Magliano Vetere",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "066053",
+      "denominazione": "Magliano de' Marsi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 109010,
+      "denominazione": "Magliano di Tenna",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "053013",
+      "denominazione": "Magliano in Toscana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075039",
+      "denominazione": "Maglie",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "009035",
+      "denominazione": "Magliolo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001143",
+      "denominazione": "Maglione",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "020029",
+      "denominazione": "Magnacavallo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015131",
+      "denominazione": "Magnago",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "096030",
+      "denominazione": "Magnano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "030052",
+      "denominazione": "Magnano in Riviera",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095083",
+      "denominazione": "Magomadas",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "013139",
+      "denominazione": "Magreglio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021045",
+      "denominazione": "Magrè sulla strada del vino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "079069",
+      "denominazione": "Maida",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 102020,
+      "denominazione": "Maierato",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078071",
+      "denominazione": "Maierà",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "042023",
+      "denominazione": "Maiolati Spontini",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "099022",
+      "denominazione": "Maiolo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065066",
+      "denominazione": "Maiori",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "098034",
+      "denominazione": "Mairago",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017099",
+      "denominazione": "Mairano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "011018",
+      "denominazione": "Maissana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "030053",
+      "denominazione": "Majano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "019056",
+      "denominazione": "Malagnino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "037035",
+      "denominazione": "Malalbergo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "030054",
+      "denominazione": "Malborghetto Valbruna",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "023045",
+      "denominazione": "Malcesine",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017100",
+      "denominazione": "Malegno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "098035",
+      "denominazione": "Maleo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 103041,
+      "denominazione": "Malesco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "087022",
+      "denominazione": "Maletto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083043",
+      "denominazione": "Malfa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "012095",
+      "denominazione": "Malgesso",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "097045",
+      "denominazione": "Malgrate",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078072",
+      "denominazione": "Malito",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "009036",
+      "denominazione": "Mallare",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021046",
+      "denominazione": "Malles Venosta",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "012096",
+      "denominazione": "Malnate",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024055",
+      "denominazione": "Malo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017101",
+      "denominazione": "Malonno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "044027",
+      "denominazione": "Maltignano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083044",
+      "denominazione": "Malvagna",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006090",
+      "denominazione": "Malvicino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078073",
+      "denominazione": "Malvito",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022110",
+      "denominazione": "Malé",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080044",
+      "denominazione": "Mammola",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "091046",
+      "denominazione": "Mamoiada",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "053014",
+      "denominazione": "Manciano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083045",
+      "denominazione": "Mandanici",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111039,
+      "denominazione": "Mandas",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078074",
+      "denominazione": "Mandatoriccio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "058053",
+      "denominazione": "Mandela",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "003090",
+      "denominazione": "Mandello Vitta",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "097046",
+      "denominazione": "Mandello del Lario",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "073012",
+      "denominazione": "Manduria",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017102",
+      "denominazione": "Manerba del Garda",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017103",
+      "denominazione": "Manerbio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "071029",
+      "denominazione": "Manfredonia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004115",
+      "denominazione": "Mango",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078075",
+      "denominazione": "Mangone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "087057",
+      "denominazione": "Maniace",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "093025",
+      "denominazione": "Maniago",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064046",
+      "denominazione": "Manocalzati",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "068022",
+      "denominazione": "Manoppello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "026037",
+      "denominazione": "Mansuè",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004116",
+      "denominazione": "Manta",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "014039",
+      "denominazione": "Mantello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "020030",
+      "denominazione": "Mantova",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "030055",
+      "denominazione": "Manzano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "058054",
+      "denominazione": "Manziana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016132",
+      "denominazione": "Mapello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001316",
+      "denominazione": "Mappano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "090038",
+      "denominazione": "Mara",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "092037",
+      "denominazione": "Maracalagonis",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "036019",
+      "denominazione": "Maranello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "058055",
+      "denominazione": "Marano Equo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "030056",
+      "denominazione": "Marano Lagunare",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078076",
+      "denominazione": "Marano Marchesato",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078077",
+      "denominazione": "Marano Principato",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "003091",
+      "denominazione": "Marano Ticino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024056",
+      "denominazione": "Marano Vicentino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "063041",
+      "denominazione": "Marano di Napoli",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "023046",
+      "denominazione": "Marano di Valpolicella",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "036020",
+      "denominazione": "Marano sul Panaro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005061",
+      "denominazione": "Maranzana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "076044",
+      "denominazione": "Maratea",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015134",
+      "denominazione": "Marcallo con Casone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "020031",
+      "denominazione": "Marcaria",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "079071",
+      "denominazione": "Marcedusa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "058056",
+      "denominazione": "Marcellina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "079072",
+      "denominazione": "Marcellinara",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "057036",
+      "denominazione": "Marcetelli",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017104",
+      "denominazione": "Marcheno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "012097",
+      "denominazione": "Marchirolo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "049010",
+      "denominazione": "Marciana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "049011",
+      "denominazione": "Marciana Marina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "061049",
+      "denominazione": "Marcianise",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "051022",
+      "denominazione": "Marciano della Chiana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018086",
+      "denominazione": "Marcignago",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "027020",
+      "denominazione": "Marcon",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021047",
+      "denominazione": "Marebbe",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004117",
+      "denominazione": "Marene",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "026038",
+      "denominazione": "Mareno di Piave",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001144",
+      "denominazione": "Marentino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005062",
+      "denominazione": "Maretto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004118",
+      "denominazione": "Margarita",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 110005,
+      "denominazione": "Margherita di Savoia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "097047",
+      "denominazione": "Margno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "020032",
+      "denominazione": "Mariana Mantovana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "013143",
+      "denominazione": "Mariano Comense",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "031010",
+      "denominazione": "Mariano del Friuli",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "085008",
+      "denominazione": "Marianopoli",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "063042",
+      "denominazione": "Mariglianella",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "063043",
+      "denominazione": "Marigliano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080045",
+      "denominazione": "Marina di Gioiosa Ionica",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "082046",
+      "denominazione": "Marineo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "058057",
+      "denominazione": "Marino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021048",
+      "denominazione": "Marlengo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "047007",
+      "denominazione": "Marliana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017105",
+      "denominazione": "Marmentino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "020033",
+      "denominazione": "Marmirolo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004119",
+      "denominazione": "Marmora",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "012098",
+      "denominazione": "Marnate",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017106",
+      "denominazione": "Marone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080046",
+      "denominazione": "Maropati",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024057",
+      "denominazione": "Marostica",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "048026",
+      "denominazione": "Marradi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095025",
+      "denominazione": "Marrubiu",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004120",
+      "denominazione": "Marsaglia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "081011",
+      "denominazione": "Marsala",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "054027",
+      "denominazione": "Marsciano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "076045",
+      "denominazione": "Marsico Nuovo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "076046",
+      "denominazione": "Marsicovetere",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "056034",
+      "denominazione": "Marta",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075040",
+      "denominazione": "Martano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "027021",
+      "denominazione": "Martellago",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021049",
+      "denominazione": "Martello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "030057",
+      "denominazione": "Martignacco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "019057",
+      "denominazione": "Martignana di Po",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075041",
+      "denominazione": "Martignano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "073013",
+      "denominazione": "Martina Franca",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016133",
+      "denominazione": "Martinengo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004121",
+      "denominazione": "Martiniana Po",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "067047",
+      "denominazione": "Martinsicuro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "079073",
+      "denominazione": "Martirano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "079074",
+      "denominazione": "Martirano Lombardo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "090039",
+      "denominazione": "Martis",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080047",
+      "denominazione": "Martone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "098036",
+      "denominazione": "Marudo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "073014",
+      "denominazione": "Maruggio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "037036",
+      "denominazione": "Marzabotto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018087",
+      "denominazione": "Marzano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "061050",
+      "denominazione": "Marzano Appio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064047",
+      "denominazione": "Marzano di Nola",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078078",
+      "denominazione": "Marzi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "012099",
+      "denominazione": "Marzio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111040,
+      "denominazione": "Masainas",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015136",
+      "denominazione": "Masate",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "087023",
+      "denominazione": "Mascali",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "087024",
+      "denominazione": "Mascalucia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "076047",
+      "denominazione": "Maschito",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "012100",
+      "denominazione": "Masciago Primo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "026039",
+      "denominazione": "Maser",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 103042,
+      "denominazione": "Masera",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "026040",
+      "denominazione": "Maserada sul Piave",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "028048",
+      "denominazione": "Maserà di Padova",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "028049",
+      "denominazione": "Masi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "038012",
+      "denominazione": "Masi Torello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006091",
+      "denominazione": "Masio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "013144",
+      "denominazione": "Maslianico",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024058",
+      "denominazione": "Mason Vicentino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "010032",
+      "denominazione": "Masone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "045010",
+      "denominazione": "Massa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 109011,
+      "denominazione": "Massa Fermana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "039013",
+      "denominazione": "Massa Lombarda",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "063044",
+      "denominazione": "Massa Lubrense",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "053015",
+      "denominazione": "Massa Marittima",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "054028",
+      "denominazione": "Massa Martana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "066054",
+      "denominazione": "Massa d'Albe",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "063092",
+      "denominazione": "Massa di Somma",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "047008",
+      "denominazione": "Massa e Cozzile",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "073015",
+      "denominazione": "Massafra",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "098037",
+      "denominazione": "Massalengo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "028050",
+      "denominazione": "Massanzago",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "046018",
+      "denominazione": "Massarosa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "096031",
+      "denominazione": "Massazza",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001145",
+      "denominazione": "Massello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "096032",
+      "denominazione": "Masserano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "044029",
+      "denominazione": "Massignano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022112",
+      "denominazione": "Massimeno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "009037",
+      "denominazione": "Massimino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "003093",
+      "denominazione": "Massino Visconti",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 103043,
+      "denominazione": "Massiola",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095026",
+      "denominazione": "Masullas",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "043024",
+      "denominazione": "Matelica",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "077014",
+      "denominazione": "Matera",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001146",
+      "denominazione": "Mathi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075042",
+      "denominazione": "Matino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "070037",
+      "denominazione": "Matrice",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001147",
+      "denominazione": "Mattie",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "071031",
+      "denominazione": "Mattinata",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "081012",
+      "denominazione": "Mazara del Vallo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017107",
+      "denominazione": "Mazzano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "058058",
+      "denominazione": "Mazzano Romano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "085009",
+      "denominazione": "Mazzarino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "087056",
+      "denominazione": "Mazzarrone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083046",
+      "denominazione": "Mazzarrà Sant'Andrea",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022113",
+      "denominazione": "Mazzin",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "014040",
+      "denominazione": "Mazzo di Valtellina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001148",
+      "denominazione": "Mazzè",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "091047",
+      "denominazione": "Meana Sardo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001149",
+      "denominazione": "Meana di Susa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 108030,
+      "denominazione": "Meda",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018088",
+      "denominazione": "Mede",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "031011",
+      "denominazione": "Medea",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "034020",
+      "denominazione": "Medesano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "037037",
+      "denominazione": "Medicina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015139",
+      "denominazione": "Mediglia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016250",
+      "denominazione": "Medolago",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "020034",
+      "denominazione": "Medole",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "036021",
+      "denominazione": "Medolla",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "026041",
+      "denominazione": "Meduna di Livenza",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "093026",
+      "denominazione": "Meduno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "028052",
+      "denominazione": "Megliadino San Vitale",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "003095",
+      "denominazione": "Meina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "025034",
+      "denominazione": "Mel",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "029032",
+      "denominazione": "Melara",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006092",
+      "denominazione": "Melazzo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "040019",
+      "denominazione": "Meldola",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "010033",
+      "denominazione": "Mele",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015140",
+      "denominazione": "Melegnano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075043",
+      "denominazione": "Melendugno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "098038",
+      "denominazione": "Meleti",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "076048",
+      "denominazione": "Melfi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080049",
+      "denominazione": "Melicucco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080048",
+      "denominazione": "Melicuccà",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "089012",
+      "denominazione": "Melilli",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 101014,
+      "denominazione": "Melissa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075044",
+      "denominazione": "Melissano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064048",
+      "denominazione": "Melito Irpino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "063045",
+      "denominazione": "Melito di Napoli",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080050",
+      "denominazione": "Melito di Porto Salvo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "062039",
+      "denominazione": "Melizzano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004122",
+      "denominazione": "Melle",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "014041",
+      "denominazione": "Mello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075045",
+      "denominazione": "Melpignano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021050",
+      "denominazione": "Meltina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015142",
+      "denominazione": "Melzo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "013145",
+      "denominazione": "Menaggio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018089",
+      "denominazione": "Menconico",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "008034",
+      "denominazione": "Mendatica",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078079",
+      "denominazione": "Mendicino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "084023",
+      "denominazione": "Menfi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "058059",
+      "denominazione": "Mentana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "027022",
+      "denominazione": "Meolo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006093",
+      "denominazione": "Merana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021051",
+      "denominazione": "Merano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "097048",
+      "denominazione": "Merate",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "012101",
+      "denominazione": "Mercallo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "041025",
+      "denominazione": "Mercatello sul Metauro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "041026",
+      "denominazione": "Mercatino Conca",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065067",
+      "denominazione": "Mercato San Severino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "040020",
+      "denominazione": "Mercato Saraceno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001150",
+      "denominazione": "Mercenasco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064049",
+      "denominazione": "Mercogliano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "030058",
+      "denominazione": "Mereto di Tomba",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "042024",
+      "denominazione": "Mergo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 103044,
+      "denominazione": "Mergozzo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "028053",
+      "denominazione": "Merlara",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "098039",
+      "denominazione": "Merlino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "013147",
+      "denominazione": "Merone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083047",
+      "denominazione": "Merì",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "074010",
+      "denominazione": "Mesagne",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "014043",
+      "denominazione": "Mese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "012102",
+      "denominazione": "Mesenzana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015144",
+      "denominazione": "Mesero",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "038014",
+      "denominazione": "Mesola",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 101015,
+      "denominazione": "Mesoraca",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083048",
+      "denominazione": "Messina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "028054",
+      "denominazione": "Mestrino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "063046",
+      "denominazione": "Meta",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001151",
+      "denominazione": "Meugliano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 108031,
+      "denominazione": "Mezzago",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022114",
+      "denominazione": "Mezzana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018090",
+      "denominazione": "Mezzana Bigli",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "096033",
+      "denominazione": "Mezzana Mortigliengo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018091",
+      "denominazione": "Mezzana Rabattone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "023047",
+      "denominazione": "Mezzane di Sotto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "010034",
+      "denominazione": "Mezzanego",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "034021",
+      "denominazione": "Mezzani",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018092",
+      "denominazione": "Mezzanino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022115",
+      "denominazione": "Mezzano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001152",
+      "denominazione": "Mezzenile",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022116",
+      "denominazione": "Mezzocorona",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "082047",
+      "denominazione": "Mezzojuso",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016134",
+      "denominazione": "Mezzoldo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022117",
+      "denominazione": "Mezzolombardo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "003097",
+      "denominazione": "Mezzomerico",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "096034",
+      "denominazione": "Miagliano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "026042",
+      "denominazione": "Miane",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "003098",
+      "denominazione": "Miasino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 103045,
+      "denominazione": "Miazzina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "057037",
+      "denominazione": "Micigliano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075046",
+      "denominazione": "Miggiano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "069050",
+      "denominazione": "Miglianico",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "079077",
+      "denominazione": "Miglierina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "077015",
+      "denominazione": "Miglionico",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "010035",
+      "denominazione": "Mignanego",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "061051",
+      "denominazione": "Mignano Monte Lungo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015146",
+      "denominazione": "Milano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083049",
+      "denominazione": "Milazzo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "085010",
+      "denominazione": "Milena",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 102021,
+      "denominazione": "Mileto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095027",
+      "denominazione": "Milis",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083050",
+      "denominazione": "Militello Rosmarino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "087025",
+      "denominazione": "Militello in Val di Catania",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "009038",
+      "denominazione": "Millesimo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "087026",
+      "denominazione": "Milo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017108",
+      "denominazione": "Milzano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "087027",
+      "denominazione": "Mineo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "023048",
+      "denominazione": "Minerbe",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "037038",
+      "denominazione": "Minerbio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 110006,
+      "denominazione": "Minervino Murge",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075047",
+      "denominazione": "Minervino di Lecce",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065068",
+      "denominazione": "Minori",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "059014",
+      "denominazione": "Minturno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "046019",
+      "denominazione": "Minucciano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "009039",
+      "denominazione": "Mioglia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "027023",
+      "denominazione": "Mira",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064050",
+      "denominazione": "Mirabella Eclano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "087028",
+      "denominazione": "Mirabella Imbaccari",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006094",
+      "denominazione": "Mirabello Monferrato",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "070038",
+      "denominazione": "Mirabello Sannitico",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018093",
+      "denominazione": "Miradolo Terme",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "094027",
+      "denominazione": "Miranda",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "036022",
+      "denominazione": "Mirandola",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "027024",
+      "denominazione": "Mirano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083051",
+      "denominazione": "Mirto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "099005",
+      "denominazione": "Misano Adriatico",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016135",
+      "denominazione": "Misano di Gera d'Adda",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "081025",
+      "denominazione": "Misiliscemi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "082048",
+      "denominazione": "Misilmeri",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 108032,
+      "denominazione": "Misinto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "097049",
+      "denominazione": "Missaglia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "076049",
+      "denominazione": "Missanello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "087029",
+      "denominazione": "Misterbianco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083052",
+      "denominazione": "Mistretta",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005063",
+      "denominazione": "Moasca",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "010036",
+      "denominazione": "Moconesi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "036023",
+      "denominazione": "Modena",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "088006",
+      "denominazione": "Modica",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "040022",
+      "denominazione": "Modigliana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095084",
+      "denominazione": "Modolo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "072027",
+      "denominazione": "Modugno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022118",
+      "denominazione": "Moena",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "097050",
+      "denominazione": "Moggio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "030059",
+      "denominazione": "Moggio Udinese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "020035",
+      "denominazione": "Moglia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "043025",
+      "denominazione": "Mogliano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "026043",
+      "denominazione": "Mogliano Veneto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095028",
+      "denominazione": "Mogorella",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095029",
+      "denominazione": "Mogoro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "062040",
+      "denominazione": "Moiano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "030060",
+      "denominazione": "Moimacco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083053",
+      "denominazione": "Moio Alcantara",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016136",
+      "denominazione": "Moio de' Calvi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065069",
+      "denominazione": "Moio della Civitella",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004123",
+      "denominazione": "Moiola",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "072028",
+      "denominazione": "Mola di Bari",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006095",
+      "denominazione": "Molare",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "046020",
+      "denominazione": "Molazzana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "072029",
+      "denominazione": "Molfetta",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "066055",
+      "denominazione": "Molina Aterno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "062041",
+      "denominazione": "Molinara",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "037039",
+      "denominazione": "Molinella",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "008035",
+      "denominazione": "Molini di Triora",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006096",
+      "denominazione": "Molino dei Torti",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "070039",
+      "denominazione": "Molise",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "076050",
+      "denominazione": "Moliterno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "002078",
+      "denominazione": "Mollia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080051",
+      "denominazione": "Molochio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "097051",
+      "denominazione": "Molteno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "013152",
+      "denominazione": "Moltrasio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024059",
+      "denominazione": "Molvena",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022120",
+      "denominazione": "Molveno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005064",
+      "denominazione": "Mombaldone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004124",
+      "denominazione": "Mombarcaro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "041027",
+      "denominazione": "Mombaroccio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005065",
+      "denominazione": "Mombaruzzo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004125",
+      "denominazione": "Mombasiglio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006097",
+      "denominazione": "Mombello Monferrato",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001153",
+      "denominazione": "Mombello di Torino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005066",
+      "denominazione": "Mombercelli",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "003100",
+      "denominazione": "Momo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001154",
+      "denominazione": "Mompantero",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "057038",
+      "denominazione": "Mompeo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006098",
+      "denominazione": "Momperone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "070040",
+      "denominazione": "Monacilioni",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005067",
+      "denominazione": "Monale",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080052",
+      "denominazione": "Monasterace",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005068",
+      "denominazione": "Monastero Bormida",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001155",
+      "denominazione": "Monastero di Lanzo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004126",
+      "denominazione": "Monastero di Vasco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004127",
+      "denominazione": "Monasterolo Casotto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016137",
+      "denominazione": "Monasterolo del Castello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004128",
+      "denominazione": "Monasterolo di Savigliano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "026044",
+      "denominazione": "Monastier di Treviso",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111041,
+      "denominazione": "Monastir",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001156",
+      "denominazione": "Moncalieri",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005069",
+      "denominazione": "Moncalvo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001157",
+      "denominazione": "Moncenisio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006099",
+      "denominazione": "Moncestino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004129",
+      "denominazione": "Monchiero",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "034022",
+      "denominazione": "Monchio delle Corti",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "002079",
+      "denominazione": "Moncrivello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005070",
+      "denominazione": "Moncucco Torinese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "099006",
+      "denominazione": "Mondaino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "041028",
+      "denominazione": "Mondavio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "041029",
+      "denominazione": "Mondolfo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004130",
+      "denominazione": "Mondovì",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "061052",
+      "denominazione": "Mondragone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "010037",
+      "denominazione": "Moneglia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004131",
+      "denominazione": "Monesiglio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "031012",
+      "denominazione": "Monfalcone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083054",
+      "denominazione": "Monforte San Giorgio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004132",
+      "denominazione": "Monforte d'Alba",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "026045",
+      "denominazione": "Monfumo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005071",
+      "denominazione": "Mongardino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "037040",
+      "denominazione": "Monghidoro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 102022,
+      "denominazione": "Mongiana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006100",
+      "denominazione": "Mongiardino Ligure",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083055",
+      "denominazione": "Mongiuffi Melia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "096035",
+      "denominazione": "Mongrando",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078080",
+      "denominazione": "Mongrassano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021052",
+      "denominazione": "Monguelfo-Tesido",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "013153",
+      "denominazione": "Monguzzo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017109",
+      "denominazione": "Moniga del Garda",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006101",
+      "denominazione": "Monleale",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017110",
+      "denominazione": "Monno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "072030",
+      "denominazione": "Monopoli",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "082049",
+      "denominazione": "Monreale",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "032002",
+      "denominazione": "Monrupino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 109012,
+      "denominazione": "Monsampietro Morico",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "044031",
+      "denominazione": "Monsampolo del Tronto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "042025",
+      "denominazione": "Monsano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "028055",
+      "denominazione": "Monselice",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "092109",
+      "denominazione": "Monserrato",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "047009",
+      "denominazione": "Monsummano Terme",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005072",
+      "denominazione": "Montabone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006102",
+      "denominazione": "Montacuto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005073",
+      "denominazione": "Montafia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "070041",
+      "denominazione": "Montagano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021053",
+      "denominazione": "Montagna",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "014044",
+      "denominazione": "Montagna in Valtellina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "028056",
+      "denominazione": "Montagnana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083056",
+      "denominazione": "Montagnareale",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064051",
+      "denominazione": "Montaguto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "048027",
+      "denominazione": "Montaione",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083057",
+      "denominazione": "Montalbano Elicona",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "077016",
+      "denominazione": "Montalbano Jonico",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "052037",
+      "denominazione": "Montalcino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006103",
+      "denominazione": "Montaldeo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006104",
+      "denominazione": "Montaldo Bormida",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004135",
+      "denominazione": "Montaldo Roero",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005074",
+      "denominazione": "Montaldo Scarampi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001158",
+      "denominazione": "Montaldo Torinese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004134",
+      "denominazione": "Montaldo di Mondovì",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "047010",
+      "denominazione": "Montale",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001159",
+      "denominazione": "Montalenghe",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "084024",
+      "denominazione": "Montallegro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "008068",
+      "denominazione": "Montalto Carpasio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001160",
+      "denominazione": "Montalto Dora",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018094",
+      "denominazione": "Montalto Pavese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078081",
+      "denominazione": "Montalto Uffugo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "044032",
+      "denominazione": "Montalto delle Marche",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "056035",
+      "denominazione": "Montalto di Castro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001161",
+      "denominazione": "Montanaro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "098040",
+      "denominazione": "Montanaso Lombardo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004136",
+      "denominazione": "Montanera",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065070",
+      "denominazione": "Montano Antilia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "013154",
+      "denominazione": "Montano Lucino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 109013,
+      "denominazione": "Montappone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "094028",
+      "denominazione": "Montaquila",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "057039",
+      "denominazione": "Montasola",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "079080",
+      "denominazione": "Montauro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "069051",
+      "denominazione": "Montazzoli",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "053016",
+      "denominazione": "Monte Argentario",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "054029",
+      "denominazione": "Monte Castello di Vibio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "043027",
+      "denominazione": "Monte Cavallo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "041031",
+      "denominazione": "Monte Cerignone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "058060",
+      "denominazione": "Monte Compatri",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "019058",
+      "denominazione": "Monte Cremasco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 109016,
+      "denominazione": "Monte Giberto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "041035",
+      "denominazione": "Monte Grimano Terme",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017111",
+      "denominazione": "Monte Isola",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "097052",
+      "denominazione": "Monte Marenzo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "041038",
+      "denominazione": "Monte Porzio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "058064",
+      "denominazione": "Monte Porzio Catone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 109021,
+      "denominazione": "Monte Rinaldo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "042029",
+      "denominazione": "Monte Roberto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "056037",
+      "denominazione": "Monte Romano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "059015",
+      "denominazione": "Monte San Biagio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065075",
+      "denominazione": "Monte San Giacomo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "060044",
+      "denominazione": "Monte San Giovanni Campano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "057043",
+      "denominazione": "Monte San Giovanni in Sabina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "043031",
+      "denominazione": "Monte San Giusto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "043032",
+      "denominazione": "Monte San Martino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 109023,
+      "denominazione": "Monte San Pietrangeli",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "037042",
+      "denominazione": "Monte San Pietro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "051025",
+      "denominazione": "Monte San Savino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "042030",
+      "denominazione": "Monte San Vito",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "071033",
+      "denominazione": "Monte Sant'Angelo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "054032",
+      "denominazione": "Monte Santa Maria Tiberina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 109024,
+      "denominazione": "Monte Urano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 109025,
+      "denominazione": "Monte Vidon Combatte",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 109026,
+      "denominazione": "Monte Vidon Corrado",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024063",
+      "denominazione": "Monte di Malo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "063047",
+      "denominazione": "Monte di Procida",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080053",
+      "denominazione": "Montebello Jonico",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024060",
+      "denominazione": "Montebello Vicentino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018095",
+      "denominazione": "Montebello della Battaglia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "068023",
+      "denominazione": "Montebello di Bertona",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "069009",
+      "denominazione": "Montebello sul Sangro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "026046",
+      "denominazione": "Montebelluna",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "010038",
+      "denominazione": "Montebruno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "057040",
+      "denominazione": "Montebuono",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064052",
+      "denominazione": "Montecalvo Irpino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018096",
+      "denominazione": "Montecalvo Versiggia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "041030",
+      "denominazione": "Montecalvo in Foglia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "046021",
+      "denominazione": "Montecarlo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "042026",
+      "denominazione": "Montecarotto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "043026",
+      "denominazione": "Montecassiano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006105",
+      "denominazione": "Montecastello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "055017",
+      "denominazione": "Montecastrilli",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "050019",
+      "denominazione": "Montecatini Val di Cecina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "047011",
+      "denominazione": "Montecatini-Terme",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "023049",
+      "denominazione": "Montecchia di Crosara",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "055018",
+      "denominazione": "Montecchio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "035027",
+      "denominazione": "Montecchio Emilia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024061",
+      "denominazione": "Montecchio Maggiore",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024062",
+      "denominazione": "Montecchio Precalcino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006106",
+      "denominazione": "Montechiaro d'Acqui",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005075",
+      "denominazione": "Montechiaro d'Asti",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "034023",
+      "denominazione": "Montechiarugolo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "041032",
+      "denominazione": "Monteciccardo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "070042",
+      "denominazione": "Montecilfone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "099030",
+      "denominazione": "Montecopiolo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065071",
+      "denominazione": "Montecorice",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065072",
+      "denominazione": "Montecorvino Pugliano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065073",
+      "denominazione": "Montecorvino Rovella",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "043028",
+      "denominazione": "Montecosaro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 103046,
+      "denominazione": "Montecrestese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "036024",
+      "denominazione": "Montecreto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "044034",
+      "denominazione": "Montedinove",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "085011",
+      "denominazione": "Montedoro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064053",
+      "denominazione": "Montefalcione",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "054030",
+      "denominazione": "Montefalco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 109014,
+      "denominazione": "Montefalcone Appennino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "062042",
+      "denominazione": "Montefalcone di Val Fortore",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "070043",
+      "denominazione": "Montefalcone nel Sannio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "043029",
+      "denominazione": "Montefano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "041034",
+      "denominazione": "Montefelcino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "069052",
+      "denominazione": "Monteferrante",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "056036",
+      "denominazione": "Montefiascone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "067027",
+      "denominazione": "Montefino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "099008",
+      "denominazione": "Montefiore Conca",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "044036",
+      "denominazione": "Montefiore dell'Aso",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "036025",
+      "denominazione": "Montefiorino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "058061",
+      "denominazione": "Monteflavio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065074",
+      "denominazione": "Monteforte Cilento",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064054",
+      "denominazione": "Monteforte Irpino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "023050",
+      "denominazione": "Monteforte d'Alpone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 109015,
+      "denominazione": "Montefortino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "055019",
+      "denominazione": "Montefranco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064055",
+      "denominazione": "Montefredane",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064056",
+      "denominazione": "Montefusco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "055020",
+      "denominazione": "Montegabbione",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024064",
+      "denominazione": "Montegalda",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024065",
+      "denominazione": "Montegaldella",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "044038",
+      "denominazione": "Montegallo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006107",
+      "denominazione": "Montegioco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078082",
+      "denominazione": "Montegiordano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 109017,
+      "denominazione": "Montegiorgio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 109018,
+      "denominazione": "Montegranaro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "099009",
+      "denominazione": "Montegridolfo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "012103",
+      "denominazione": "Montegrino Valtravaglia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "008037",
+      "denominazione": "Montegrosso Pian Latte",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005076",
+      "denominazione": "Montegrosso d'Asti",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "028057",
+      "denominazione": "Montegrotto Terme",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "073016",
+      "denominazione": "Monteiasi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "041036",
+      "denominazione": "Montelabbate",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "058062",
+      "denominazione": "Montelanico",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "069053",
+      "denominazione": "Montelapiano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "090040",
+      "denominazione": "Monteleone Rocca Doria",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "057041",
+      "denominazione": "Monteleone Sabino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "055021",
+      "denominazione": "Monteleone d'Orvieto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 109019,
+      "denominazione": "Monteleone di Fermo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "071032",
+      "denominazione": "Monteleone di Puglia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "054031",
+      "denominazione": "Monteleone di Spoleto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "082050",
+      "denominazione": "Montelepre",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "058063",
+      "denominazione": "Montelibretti",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064057",
+      "denominazione": "Montella",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016139",
+      "denominazione": "Montello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "070044",
+      "denominazione": "Montelongo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 109020,
+      "denominazione": "Montelparo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004137",
+      "denominazione": "Montelupo Albese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "048028",
+      "denominazione": "Montelupo Fiorentino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "043030",
+      "denominazione": "Montelupone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "082051",
+      "denominazione": "Montemaggiore Belsito",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005077",
+      "denominazione": "Montemagno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004138",
+      "denominazione": "Montemale di Cuneo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064058",
+      "denominazione": "Montemarano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "042027",
+      "denominazione": "Montemarciano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006108",
+      "denominazione": "Montemarzino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "073017",
+      "denominazione": "Montemesola",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "013155",
+      "denominazione": "Montemezzo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "051023",
+      "denominazione": "Montemignaio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064059",
+      "denominazione": "Montemiletto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "076051",
+      "denominazione": "Montemilone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "070045",
+      "denominazione": "Montemitro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "044044",
+      "denominazione": "Montemonaco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 100003,
+      "denominazione": "Montemurlo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "076052",
+      "denominazione": "Montemurro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "030061",
+      "denominazione": "Montenars",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "057042",
+      "denominazione": "Montenero Sabino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "094029",
+      "denominazione": "Montenero Val Cocchiara",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "070046",
+      "denominazione": "Montenero di Bisaccia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "069054",
+      "denominazione": "Montenerodomo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "069055",
+      "denominazione": "Monteodorisio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "079081",
+      "denominazione": "Montepaone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "073018",
+      "denominazione": "Monteparano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "044045",
+      "denominazione": "Monteprandone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "052015",
+      "denominazione": "Montepulciano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "051024",
+      "denominazione": "Monterchi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "066056",
+      "denominazione": "Montereale",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "093027",
+      "denominazione": "Montereale Valcellina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "037041",
+      "denominazione": "Monterenzio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "052016",
+      "denominazione": "Monteriggioni",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "094030",
+      "denominazione": "Monteroduni",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "052017",
+      "denominazione": "Monteroni d'Arbia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075048",
+      "denominazione": "Monteroni di Lecce",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "056038",
+      "denominazione": "Monterosi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "088007",
+      "denominazione": "Monterosso Almo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 102023,
+      "denominazione": "Monterosso Calabro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004139",
+      "denominazione": "Monterosso Grana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "011019",
+      "denominazione": "Monterosso al Mare",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "058065",
+      "denominazione": "Monterotondo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "053027",
+      "denominazione": "Monterotondo Marittimo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 109022,
+      "denominazione": "Monterubbiano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075049",
+      "denominazione": "Montesano Salentino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065076",
+      "denominazione": "Montesano sulla Marcellana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "062043",
+      "denominazione": "Montesarchio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "077017",
+      "denominazione": "Montescaglioso",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018097",
+      "denominazione": "Montescano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 103047,
+      "denominazione": "Montescheno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "050020",
+      "denominazione": "Montescudaio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "099029",
+      "denominazione": "Montescudo-Monte Colombo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "036026",
+      "denominazione": "Montese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018098",
+      "denominazione": "Montesegale",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "068024",
+      "denominazione": "Montesilvano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "048030",
+      "denominazione": "Montespertoli",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004140",
+      "denominazione": "Monteu Roero",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001162",
+      "denominazione": "Monteu da Po",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "084025",
+      "denominazione": "Montevago",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "051026",
+      "denominazione": "Montevarchi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "097053",
+      "denominazione": "Montevecchia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064060",
+      "denominazione": "Monteverde",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "050021",
+      "denominazione": "Monteverdi Marittimo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024066",
+      "denominazione": "Monteviale",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004141",
+      "denominazione": "Montezemolo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "090041",
+      "denominazione": "Monti",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "040028",
+      "denominazione": "Montiano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017112",
+      "denominazione": "Monticelli Brusati",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018099",
+      "denominazione": "Monticelli Pavese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "033027",
+      "denominazione": "Monticelli d'Ongina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "097054",
+      "denominazione": "Monticello Brianza",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024067",
+      "denominazione": "Monticello Conte Otto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004142",
+      "denominazione": "Monticello d'Alba",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017113",
+      "denominazione": "Montichiari",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "052018",
+      "denominazione": "Monticiano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "053017",
+      "denominazione": "Montieri",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005121",
+      "denominazione": "Montiglio Monferrato",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "045011",
+      "denominazione": "Montignoso",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017114",
+      "denominazione": "Montirone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "007043",
+      "denominazione": "Montjovet",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "019059",
+      "denominazione": "Montodine",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "010039",
+      "denominazione": "Montoggio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "054033",
+      "denominazione": "Montone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "057044",
+      "denominazione": "Montopoli di Sabina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "050022",
+      "denominazione": "Montopoli in Val d'Arno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "013157",
+      "denominazione": "Montorfano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "058066",
+      "denominazione": "Montorio Romano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "067028",
+      "denominazione": "Montorio al Vomano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "070047",
+      "denominazione": "Montorio nei Frentani",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064121",
+      "denominazione": "Montoro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024068",
+      "denominazione": "Montorso Vicentino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 109027,
+      "denominazione": "Montottone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095085",
+      "denominazione": "Montresta",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004133",
+      "denominazione": "Montà",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018100",
+      "denominazione": "Montù Beccaria",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "012104",
+      "denominazione": "Monvalle",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 108033,
+      "denominazione": "Monza",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "020036",
+      "denominazione": "Monzambano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "037044",
+      "denominazione": "Monzuno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078083",
+      "denominazione": "Morano Calabro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006109",
+      "denominazione": "Morano sul Po",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005079",
+      "denominazione": "Moransengo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "031013",
+      "denominazione": "Moraro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "012105",
+      "denominazione": "Morazzone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "014045",
+      "denominazione": "Morbegno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006110",
+      "denominazione": "Morbello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075050",
+      "denominazione": "Morciano di Leuca",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "099011",
+      "denominazione": "Morciano di Romagna",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "062044",
+      "denominazione": "Morcone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "037045",
+      "denominazione": "Mordano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016140",
+      "denominazione": "Morengo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "090042",
+      "denominazione": "Mores",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 109028,
+      "denominazione": "Moresco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004143",
+      "denominazione": "Moretta",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "033028",
+      "denominazione": "Morfasso",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "026047",
+      "denominazione": "Morgano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "007044",
+      "denominazione": "Morgex",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095030",
+      "denominazione": "Morgongiori",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022123",
+      "denominazione": "Mori",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "026048",
+      "denominazione": "Moriago della Battaglia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "058067",
+      "denominazione": "Moricone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065077",
+      "denominazione": "Morigerati",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015150",
+      "denominazione": "Morimondo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "066057",
+      "denominazione": "Morino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001163",
+      "denominazione": "Moriondo Torinese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "058068",
+      "denominazione": "Morlupo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078084",
+      "denominazione": "Mormanno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "012106",
+      "denominazione": "Mornago",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006111",
+      "denominazione": "Mornese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018101",
+      "denominazione": "Mornico Losana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016141",
+      "denominazione": "Mornico al Serio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "060045",
+      "denominazione": "Morolo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004144",
+      "denominazione": "Morozzo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064063",
+      "denominazione": "Morra De Sanctis",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "057045",
+      "denominazione": "Morro Reatino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "042031",
+      "denominazione": "Morro d'Alba",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "067029",
+      "denominazione": "Morro d'Oro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "070048",
+      "denominazione": "Morrone del Sannio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "043033",
+      "denominazione": "Morrovalle",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "093028",
+      "denominazione": "Morsano al Tagliamento",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006112",
+      "denominazione": "Morsasco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018102",
+      "denominazione": "Mortara",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "030062",
+      "denominazione": "Mortegliano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "097055",
+      "denominazione": "Morterone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "030063",
+      "denominazione": "Moruzzo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "019060",
+      "denominazione": "Moscazzano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064064",
+      "denominazione": "Moschiano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "067030",
+      "denominazione": "Mosciano Sant'Angelo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "068025",
+      "denominazione": "Moscufo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021054",
+      "denominazione": "Moso in Passiria",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "031014",
+      "denominazione": "Mossa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "096084",
+      "denominazione": "Mosso",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "019061",
+      "denominazione": "Motta Baluffi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083058",
+      "denominazione": "Motta Camastra",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "071034",
+      "denominazione": "Motta Montecorvino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080054",
+      "denominazione": "Motta San Giovanni",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "087030",
+      "denominazione": "Motta Sant'Anastasia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "079083",
+      "denominazione": "Motta Santa Lucia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015151",
+      "denominazione": "Motta Visconti",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083059",
+      "denominazione": "Motta d'Affermo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "002082",
+      "denominazione": "Motta de' Conti",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "026049",
+      "denominazione": "Motta di Livenza",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078085",
+      "denominazione": "Mottafollone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "096037",
+      "denominazione": "Mottalciata",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "020037",
+      "denominazione": "Motteggiana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "073019",
+      "denominazione": "Mottola",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "069056",
+      "denominazione": "Mozzagrogna",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016142",
+      "denominazione": "Mozzanica",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "013159",
+      "denominazione": "Mozzate",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "023051",
+      "denominazione": "Mozzecane",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016143",
+      "denominazione": "Mozzo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "043034",
+      "denominazione": "Muccia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "032003",
+      "denominazione": "Muggia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 108034,
+      "denominazione": "Muggiò",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064065",
+      "denominazione": "Mugnano del Cardinale",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "063048",
+      "denominazione": "Mugnano di Napoli",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "098041",
+      "denominazione": "Mulazzano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "045012",
+      "denominazione": "Mulazzo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017115",
+      "denominazione": "Mura",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111042,
+      "denominazione": "Muravera",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004145",
+      "denominazione": "Murazzano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004146",
+      "denominazione": "Murello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "009040",
+      "denominazione": "Murialdo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006113",
+      "denominazione": "Murisengo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "052019",
+      "denominazione": "Murlo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075051",
+      "denominazione": "Muro Leccese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "076053",
+      "denominazione": "Muro Lucano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "090043",
+      "denominazione": "Muros",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017116",
+      "denominazione": "Muscoline",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111043,
+      "denominazione": "Musei",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "027025",
+      "denominazione": "Musile di Piave",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "013160",
+      "denominazione": "Musso",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024070",
+      "denominazione": "Mussolente",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "085012",
+      "denominazione": "Mussomeli",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "030064",
+      "denominazione": "Muzzana del Turgnano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "096038",
+      "denominazione": "Muzzano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "kind": "psv_drift_control",
+  "profile": "C2",
+  "municipality": {
+    "portalCode": "068028",
+    "name": "Pescara"
+  },
+  "offerCode": "000190GSVML18XXLGWD1X001X18XXXX5",
+  "volume": "1200",
+  "predictedSales": "1269.34979895467",
+  "uncertainty": "0.010000000005",
+  "predictedAt": "2026-10-29T23:13:08.478Z"
+}

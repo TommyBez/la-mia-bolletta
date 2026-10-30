@@ -1,0 +1,96 @@
+[
+  {
+    "commodity": "gas",
+    "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+    "observedAt": "2026-10-29T22:12:13.394378Z",
+    "sha256": "e6dc771f5a43559e08e22cdcac6c92138d577796ea483ec6fe961ca0b7177b4c",
+    "code": "CCR",
+    "quarter": "2026-Q4",
+    "value": "0.025212",
+    "unit": "EUR/Smc"
+  },
+  {
+    "commodity": "gas",
+    "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+    "observedAt": "2026-10-29T22:12:13.394378Z",
+    "sha256": "e6dc771f5a43559e08e22cdcac6c92138d577796ea483ec6fe961ca0b7177b4c",
+    "code": "CCR",
+    "quarter": "2027-Q1",
+    "value": "0.025212",
+    "unit": "EUR/Smc"
+  },
+  {
+    "commodity": "gas",
+    "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+    "observedAt": "2026-10-29T22:12:13.394378Z",
+    "sha256": "e6dc771f5a43559e08e22cdcac6c92138d577796ea483ec6fe961ca0b7177b4c",
+    "code": "CCR",
+    "quarter": "2027-Q2",
+    "value": "0.027267",
+    "unit": "EUR/Smc"
+  },
+  {
+    "commodity": "gas",
+    "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+    "observedAt": "2026-10-29T22:12:13.394378Z",
+    "sha256": "e6dc771f5a43559e08e22cdcac6c92138d577796ea483ec6fe961ca0b7177b4c",
+    "code": "CCR",
+    "quarter": "2027-Q3",
+    "value": "0.027267",
+    "unit": "EUR/Smc"
+  },
+  {
+    "commodity": "gas",
+    "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+    "observedAt": "2026-10-29T22:12:13.394378Z",
+    "sha256": "e6dc771f5a43559e08e22cdcac6c92138d577796ea483ec6fe961ca0b7177b4c",
+    "code": "QTINT",
+    "value": "0.000000",
+    "unit": "EUR/Smc"
+  },
+  {
+    "commodity": "gas",
+    "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+    "observedAt": "2026-10-29T22:12:13.394378Z",
+    "sha256": "e6dc771f5a43559e08e22cdcac6c92138d577796ea483ec6fe961ca0b7177b4c",
+    "code": "QTPSV",
+    "value": "0.000000",
+    "unit": "EUR/Smc"
+  },
+  {
+    "commodity": "gas",
+    "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+    "observedAt": "2026-10-29T22:12:13.394378Z",
+    "sha256": "e6dc771f5a43559e08e22cdcac6c92138d577796ea483ec6fe961ca0b7177b4c",
+    "code": "QVD_VARIABLE",
+    "value": "0.007946",
+    "unit": "EUR/Smc"
+  },
+  {
+    "commodity": "gas",
+    "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametriML/2026_10/PO_Parametri_Mercato_Libero_G_20261029.csv",
+    "observedAt": "2026-10-29T22:12:13.394378Z",
+    "sha256": "961f3013002f5dd0a06432d2cd868255e2d423aeda6baa1239190c8af1c3c643",
+    "code": "CPR",
+    "value": "0.000000",
+    "unit": "EUR/Smc"
+  },
+  {
+    "commodity": "gas",
+    "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametriML/2026_10/PO_Parametri_Mercato_Libero_G_20261029.csv",
+    "observedAt": "2026-10-29T22:12:13.394378Z",
+    "sha256": "961f3013002f5dd0a06432d2cd868255e2d423aeda6baa1239190c8af1c3c643",
+    "code": "GRAD",
+    "value": "0.000000",
+    "unit": "EUR/Smc"
+  },
+  {
+    "commodity": "gas",
+    "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametriML/2026_10/PO_Parametri_Mercato_Libero_G_20261029.csv",
+    "observedAt": "2026-10-29T22:12:13.394378Z",
+    "sha256": "961f3013002f5dd0a06432d2cd868255e2d423aeda6baa1239190c8af1c3c643",
+    "code": "QVD_FIXED",
+    "value": "55.390000",
+    "unit": "EUR/year"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "profile": "C1 F",
+  "municipality": {
+    "portalCode": "001003",
+    "name": "Ala di Stura"
+  },
+  "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+  "volume": "120",
+  "predictedSales": "290.98",
+  "predictedVat": "63.74",
+  "predictedTotal": "443.13",
+  "totalBound": "0.0115127982328544",
+  "vatBound": "0.0152727996813344",
+  "predictedAt": "2026-10-29T23:09:03.068Z"
+}

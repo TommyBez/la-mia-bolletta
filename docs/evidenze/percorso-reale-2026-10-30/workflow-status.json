@@ -1,0 +1,35 @@
+{
+  "checkedAt": "2026-10-29T23:31:20.053Z",
+  "baseUrl": "https://la-mia-bolletta-8bumk8krn-tommasos-projects-bb9d6551.vercel.app",
+  "productionCronVerified": false,
+  "statuses": [
+    {
+      "commodity": "electricity",
+      "status": "ready",
+      "versionId": "0836a638a592e09872f8a02e5c06aca7ac0e05a843b549509c8ea3adec3dffee",
+      "referenceVersionId": "7e3a24a442efa8fa495b3a0cd8728ba6e4a3b279fb8fbaccc7f2116b79b45849",
+      "sourceDate": "2026-10-29",
+      "lastRun": {
+        "id": "e7c19a8d-72f9-4431-8deb-9ecbf0efb756",
+        "state": "unchanged",
+        "startedAt": "2026-10-29T23:29:04.514Z",
+        "finishedAt": "2026-10-29T23:29:16.213Z",
+        "error": null
+      }
+    },
+    {
+      "commodity": "gas",
+      "status": "ready",
+      "versionId": "0b348e30bbd8406bae629e9396c77f29ec7f7c2ec82da36b8bce435707ffd50f",
+      "referenceVersionId": "7e3a24a442efa8fa495b3a0cd8728ba6e4a3b279fb8fbaccc7f2116b79b45849",
+      "sourceDate": "2026-10-29",
+      "lastRun": {
+        "id": "f050e343-f27d-46e6-8947-847821fac01b",
+        "state": "unchanged",
+        "startedAt": "2026-10-29T23:29:04.993Z",
+        "finishedAt": "2026-10-29T23:29:18.086Z",
+        "error": null
+      }
+    }
+  ]
+}

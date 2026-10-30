@@ -1,0 +1,776 @@
+{
+  "schemaVersion": 1,
+  "commodity": "electricity",
+  "acquisitionMonth": "2026-10",
+  "acquiredAt": "2026-10-29T22:00:59.220644Z",
+  "method": "portal-implicit-quarterly-v1",
+  "provenance": "inferred_from_official_simulator",
+  "coverageStart": "2026-10-01",
+  "coverageEnd": "2027-09-30",
+  "catalogVersionId": "55c522617793f9d92cd50c0561d07711c6985e361199acbf276b023e4386ffe0",
+  "requiredAnnualFingerprints": [],
+  "evidence": [
+    {
+      "blobKey": "scenario/2026-10/55c522617793f9d92cd50c0561d07711c6985e361199acbf276b023e4386ffe0.xml",
+      "sha256": "55c522617793f9d92cd50c0561d07711c6985e361199acbf276b023e4386ffe0",
+      "kind": "official_offer"
+    },
+    {
+      "blobKey": "scenario/2026-10/43c95d44a8dbef2e2ab9ff1e7b095fde93db189bde42d442272f521aa8f47b29.json",
+      "sha256": "43c95d44a8dbef2e2ab9ff1e7b095fde93db189bde42d442272f521aa8f47b29",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/407eff242a8b87ded607cec59b6a07acde50e3efc69dc977f1b1fce5a76775dc.json",
+      "sha256": "407eff242a8b87ded607cec59b6a07acde50e3efc69dc977f1b1fce5a76775dc",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/4b0542755b0fe1bdfb8e1ad9e96defad2104b429e4dba71a8396502d273fdba1.json",
+      "sha256": "4b0542755b0fe1bdfb8e1ad9e96defad2104b429e4dba71a8396502d273fdba1",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/f6ceece63a4e924151b0056badd0283f407ab786fad5dc2861f604f788d920a3.json",
+      "sha256": "f6ceece63a4e924151b0056badd0283f407ab786fad5dc2861f604f788d920a3",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/269cd40772ccebb457e5f267cf2427b197a8fa456779c4b594f7212e6fffb10a.json",
+      "sha256": "269cd40772ccebb457e5f267cf2427b197a8fa456779c4b594f7212e6fffb10a",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ee0300eddbdc9bb5eb7ddadb0dd6a83b609f20e7d94a9f2933089191678aed4e.json",
+      "sha256": "ee0300eddbdc9bb5eb7ddadb0dd6a83b609f20e7d94a9f2933089191678aed4e",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/55c522617793f9d92cd50c0561d07711c6985e361199acbf276b023e4386ffe0.xml",
+      "sha256": "55c522617793f9d92cd50c0561d07711c6985e361199acbf276b023e4386ffe0",
+      "kind": "official_offer"
+    },
+    {
+      "blobKey": "scenario/2026-10/6b70d0c661b9e650fab9d484abc84e6e07fdc5310acbca88300cde1b279af39e.json",
+      "sha256": "6b70d0c661b9e650fab9d484abc84e6e07fdc5310acbca88300cde1b279af39e",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/df42a5014d144117e3f12f4161043d5b21630fd80b8d013a2468c7fafc8f9f7d.json",
+      "sha256": "df42a5014d144117e3f12f4161043d5b21630fd80b8d013a2468c7fafc8f9f7d",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/c749818bb36de46e84f3597f391515d8e6594eae51cfb5d3307736f9dc314bdc.json",
+      "sha256": "c749818bb36de46e84f3597f391515d8e6594eae51cfb5d3307736f9dc314bdc",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/009140b4261b76d21237e054a62f7a309780a101ae73006b9186778ee7042f16.json",
+      "sha256": "009140b4261b76d21237e054a62f7a309780a101ae73006b9186778ee7042f16",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/baccd98e65541d29819f70db9eac841819a4594ea4002566b731296844239ffa.json",
+      "sha256": "baccd98e65541d29819f70db9eac841819a4594ea4002566b731296844239ffa",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/160cf426f2fce5d4bf8631f82551752b764e70476a967a009477ed38da35632d.json",
+      "sha256": "160cf426f2fce5d4bf8631f82551752b764e70476a967a009477ed38da35632d",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/55c522617793f9d92cd50c0561d07711c6985e361199acbf276b023e4386ffe0.xml",
+      "sha256": "55c522617793f9d92cd50c0561d07711c6985e361199acbf276b023e4386ffe0",
+      "kind": "official_offer"
+    },
+    {
+      "blobKey": "scenario/2026-10/35a7f3aa9c591ddaef71ec6ad2ece478357dc63b03579843c548981933a55c03.json",
+      "sha256": "35a7f3aa9c591ddaef71ec6ad2ece478357dc63b03579843c548981933a55c03",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/2714027a6fa1d008391d5bf21c352ebb4bd692ac7447406e895a960707e8dc48.json",
+      "sha256": "2714027a6fa1d008391d5bf21c352ebb4bd692ac7447406e895a960707e8dc48",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/2ad2dcb9cddbf04c39e649fdfa03dc39559d1400e33b00336e1ca1d58487f8d0.json",
+      "sha256": "2ad2dcb9cddbf04c39e649fdfa03dc39559d1400e33b00336e1ca1d58487f8d0",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/160faa41c61164212ea6fb68efd1d7989b694e50a5f756e86d3a6223b5eaa5f1.json",
+      "sha256": "160faa41c61164212ea6fb68efd1d7989b694e50a5f756e86d3a6223b5eaa5f1",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/9bebeae10d79318d02e56b7dfe35083367e56555b22addd9501808632100efa1.json",
+      "sha256": "9bebeae10d79318d02e56b7dfe35083367e56555b22addd9501808632100efa1",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/b01ea774dd3ebdb7acaf589bb57a4f39ee1244f11d5f2ceaeff69f856b082fbc.json",
+      "sha256": "b01ea774dd3ebdb7acaf589bb57a4f39ee1244f11d5f2ceaeff69f856b082fbc",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/55c522617793f9d92cd50c0561d07711c6985e361199acbf276b023e4386ffe0.xml",
+      "sha256": "55c522617793f9d92cd50c0561d07711c6985e361199acbf276b023e4386ffe0",
+      "kind": "official_offer"
+    },
+    {
+      "blobKey": "scenario/2026-10/4037e6b911e3aaecbd8a78569bd7f2c9ca2a90a3b22f511697cfe6b448753c69.json",
+      "sha256": "4037e6b911e3aaecbd8a78569bd7f2c9ca2a90a3b22f511697cfe6b448753c69",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/5f0a547b68bc8be13583b142620cb4ec5ee7a28c854767305e986031c1be06fc.json",
+      "sha256": "5f0a547b68bc8be13583b142620cb4ec5ee7a28c854767305e986031c1be06fc",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/48c72c5376dcda736597eacee8cede2a3f6ef662174cdf371da12a9ffcb3391e.json",
+      "sha256": "48c72c5376dcda736597eacee8cede2a3f6ef662174cdf371da12a9ffcb3391e",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/97d376308366e6bf9897cb94f4a886b8d2ebf90fec2c31095c66672aec97a146.json",
+      "sha256": "97d376308366e6bf9897cb94f4a886b8d2ebf90fec2c31095c66672aec97a146",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/7ae984dc8cf6955cb79369d21d21a52bb6d8cb23690efd55238d8358356b2a50.json",
+      "sha256": "7ae984dc8cf6955cb79369d21d21a52bb6d8cb23690efd55238d8358356b2a50",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/8598f9ec11a3397b9ef880b9be35435de340c229d82b960ffbfbc2e43838c6e5.json",
+      "sha256": "8598f9ec11a3397b9ef880b9be35435de340c229d82b960ffbfbc2e43838c6e5",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/55c522617793f9d92cd50c0561d07711c6985e361199acbf276b023e4386ffe0.xml",
+      "sha256": "55c522617793f9d92cd50c0561d07711c6985e361199acbf276b023e4386ffe0",
+      "kind": "official_offer"
+    },
+    {
+      "blobKey": "scenario/2026-10/379378eef315ed037dbdcf10f006af87aa4a2b07c561b829bf39443799e680c3.json",
+      "sha256": "379378eef315ed037dbdcf10f006af87aa4a2b07c561b829bf39443799e680c3",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/125224366ab90d310eb2af3994dc5532ed2b28102bfd3dba7a97e5e1a6b4c49b.json",
+      "sha256": "125224366ab90d310eb2af3994dc5532ed2b28102bfd3dba7a97e5e1a6b4c49b",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/79afe04fbebad0c2f5acb097cff5c14b75124b1b0e078808b99cf1ad3b42bea6.json",
+      "sha256": "79afe04fbebad0c2f5acb097cff5c14b75124b1b0e078808b99cf1ad3b42bea6",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/e2598944502569ef0f7f78cd3a16e8dc711c347660888a4c929761ae701b1b7c.json",
+      "sha256": "e2598944502569ef0f7f78cd3a16e8dc711c347660888a4c929761ae701b1b7c",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/f01d0ec9f0dd9be31eb0fcb3e8feb20c8c35710ec85eca3d2c06a686435a0d89.json",
+      "sha256": "f01d0ec9f0dd9be31eb0fcb3e8feb20c8c35710ec85eca3d2c06a686435a0d89",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/6486bb30dde5163dad9a8e1f226280c819258b8673ae8d2d588c3915f5475560.json",
+      "sha256": "6486bb30dde5163dad9a8e1f226280c819258b8673ae8d2d588c3915f5475560",
+      "kind": "sanitized_probe"
+    }
+  ],
+  "coefficients": [
+    {
+      "quarter": "2026-Q4",
+      "band": "F2",
+      "index": "PUN",
+      "value": "0.2452945454545454545454545455",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2027-Q1",
+      "band": "F2",
+      "index": "PUN",
+      "value": "0.2142642424242424242424242425",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2027-Q2",
+      "band": "F2",
+      "index": "PUN",
+      "value": "0.16384",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2027-Q3",
+      "band": "F2",
+      "index": "PUN",
+      "value": "0.1776006060606060606060606061",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2026-Q4",
+      "band": "F3",
+      "index": "PUN",
+      "value": "0.2108036363636363636363636364",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2027-Q1",
+      "band": "F3",
+      "index": "PUN",
+      "value": "0.1841218181818181818181818182",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2027-Q2",
+      "band": "F3",
+      "index": "PUN",
+      "value": "0.1407915151515151515151515152",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2027-Q3",
+      "band": "F3",
+      "index": "PUN",
+      "value": "0.1526157575757575757575757575",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2026-Q4",
+      "band": "F23",
+      "index": "PUN",
+      "value": "0.2233233333333333333333333334",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2027-Q1",
+      "band": "F23",
+      "index": "PUN",
+      "value": "0.1950657575757575757575757575",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2027-Q2",
+      "band": "F23",
+      "index": "PUN",
+      "value": "0.149159696969696969696969697",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2027-Q3",
+      "band": "F23",
+      "index": "PUN",
+      "value": "0.1616748484848484848484848485",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2026-Q4",
+      "band": "F1",
+      "index": "PUN",
+      "value": "0.2453854545454545454545454545",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2027-Q1",
+      "band": "F1",
+      "index": "PUN",
+      "value": "0.2126975757575757575757575757",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2027-Q2",
+      "band": "F1",
+      "index": "PUN",
+      "value": "0.1388824242424242424242424243",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2027-Q3",
+      "band": "F1",
+      "index": "PUN",
+      "value": "0.1592460606060606060606060606",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2026-Q4",
+      "band": "F0",
+      "index": "PUN",
+      "value": "0.23054",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2027-Q1",
+      "band": "F0",
+      "index": "PUN",
+      "value": "0.2008309090909090909090909091",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2027-Q2",
+      "band": "F0",
+      "index": "PUN",
+      "value": "0.1457915151515151515151515152",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2027-Q3",
+      "band": "F0",
+      "index": "PUN",
+      "value": "0.1608854545454545454545454545",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    }
+  ],
+  "calibrations": [
+    {
+      "offerCode": "001686ESVFL00XXES3PC1026DO000000",
+      "fixedAnnual": "120",
+      "spread": "0.0275",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F2-2026-Q4",
+      "quarter": "2026-Q4",
+      "band": "F2",
+      "consumption": "3000",
+      "observedSales": "1062.30",
+      "evidenceIndex": 1
+    },
+    {
+      "offerCode": "001686ESVFL00XXES3PC1026DO000000",
+      "fixedAnnual": "120",
+      "spread": "0.0275",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F2-2027-Q1",
+      "quarter": "2027-Q1",
+      "band": "F2",
+      "consumption": "3000",
+      "observedSales": "959.90",
+      "evidenceIndex": 2
+    },
+    {
+      "offerCode": "001686ESVFL00XXES3PC1026DO000000",
+      "fixedAnnual": "120",
+      "spread": "0.0275",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F2-2027-Q2",
+      "quarter": "2027-Q2",
+      "band": "F2",
+      "consumption": "3000",
+      "observedSales": "793.50",
+      "evidenceIndex": 3
+    },
+    {
+      "offerCode": "001686ESVFL00XXES3PC1026DO000000",
+      "fixedAnnual": "120",
+      "spread": "0.0275",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F2-2027-Q3",
+      "quarter": "2027-Q3",
+      "band": "F2",
+      "consumption": "3000",
+      "observedSales": "838.91",
+      "evidenceIndex": 4
+    },
+    {
+      "offerCode": "001686ESVFL00XXES3PC1026DO000000",
+      "fixedAnnual": "120",
+      "spread": "0.0275",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F3-2026-Q4",
+      "quarter": "2026-Q4",
+      "band": "F3",
+      "consumption": "3000",
+      "observedSales": "948.48",
+      "evidenceIndex": 8
+    },
+    {
+      "offerCode": "001686ESVFL00XXES3PC1026DO000000",
+      "fixedAnnual": "120",
+      "spread": "0.0275",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F3-2027-Q1",
+      "quarter": "2027-Q1",
+      "band": "F3",
+      "consumption": "3000",
+      "observedSales": "860.43",
+      "evidenceIndex": 9
+    },
+    {
+      "offerCode": "001686ESVFL00XXES3PC1026DO000000",
+      "fixedAnnual": "120",
+      "spread": "0.0275",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F3-2027-Q2",
+      "quarter": "2027-Q2",
+      "band": "F3",
+      "consumption": "3000",
+      "observedSales": "717.44",
+      "evidenceIndex": 10
+    },
+    {
+      "offerCode": "001686ESVFL00XXES3PC1026DO000000",
+      "fixedAnnual": "120",
+      "spread": "0.0275",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F3-2027-Q3",
+      "quarter": "2027-Q3",
+      "band": "F3",
+      "consumption": "3000",
+      "observedSales": "756.46",
+      "evidenceIndex": 11
+    },
+    {
+      "offerCode": "036329ESVFL01XXONDABLUE0EE202620",
+      "fixedAnnual": "120",
+      "spread": "0.014215",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F23-2026-Q4",
+      "quarter": "2026-Q4",
+      "band": "F23",
+      "consumption": "3000",
+      "observedSales": "949.94",
+      "evidenceIndex": 15
+    },
+    {
+      "offerCode": "036329ESVFL01XXONDABLUE0EE202620",
+      "fixedAnnual": "120",
+      "spread": "0.014215",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F23-2027-Q1",
+      "quarter": "2027-Q1",
+      "band": "F23",
+      "consumption": "3000",
+      "observedSales": "856.69",
+      "evidenceIndex": 16
+    },
+    {
+      "offerCode": "036329ESVFL01XXONDABLUE0EE202620",
+      "fixedAnnual": "120",
+      "spread": "0.014215",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F23-2027-Q2",
+      "quarter": "2027-Q2",
+      "band": "F23",
+      "consumption": "3000",
+      "observedSales": "705.20",
+      "evidenceIndex": 17
+    },
+    {
+      "offerCode": "036329ESVFL01XXONDABLUE0EE202620",
+      "fixedAnnual": "120",
+      "spread": "0.014215",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F23-2027-Q3",
+      "quarter": "2027-Q3",
+      "band": "F23",
+      "consumption": "3000",
+      "observedSales": "746.50",
+      "evidenceIndex": 18
+    },
+    {
+      "offerCode": "001686ESVFL00XXES3PC1026DO000000",
+      "fixedAnnual": "120",
+      "spread": "0.0275",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F1-2026-Q4",
+      "quarter": "2026-Q4",
+      "band": "F1",
+      "consumption": "3000",
+      "observedSales": "1062.60",
+      "evidenceIndex": 22
+    },
+    {
+      "offerCode": "001686ESVFL00XXES3PC1026DO000000",
+      "fixedAnnual": "120",
+      "spread": "0.0275",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F1-2027-Q1",
+      "quarter": "2027-Q1",
+      "band": "F1",
+      "consumption": "3000",
+      "observedSales": "954.73",
+      "evidenceIndex": 23
+    },
+    {
+      "offerCode": "001686ESVFL00XXES3PC1026DO000000",
+      "fixedAnnual": "120",
+      "spread": "0.0275",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F1-2027-Q2",
+      "quarter": "2027-Q2",
+      "band": "F1",
+      "consumption": "3000",
+      "observedSales": "711.14",
+      "evidenceIndex": 24
+    },
+    {
+      "offerCode": "001686ESVFL00XXES3PC1026DO000000",
+      "fixedAnnual": "120",
+      "spread": "0.0275",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F1-2027-Q3",
+      "quarter": "2027-Q3",
+      "band": "F1",
+      "consumption": "3000",
+      "observedSales": "778.34",
+      "evidenceIndex": 25
+    },
+    {
+      "offerCode": "000294ESVML01XXA2AEasyL261034295",
+      "fixedAnnual": "150",
+      "spread": "0",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F0-2026-Q4",
+      "quarter": "2026-Q4",
+      "band": "F0",
+      "consumption": "3000",
+      "observedSales": "961.11",
+      "evidenceIndex": 29
+    },
+    {
+      "offerCode": "000294ESVML01XXA2AEasyL261034295",
+      "fixedAnnual": "150",
+      "spread": "0",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F0-2027-Q1",
+      "quarter": "2027-Q1",
+      "band": "F0",
+      "consumption": "3000",
+      "observedSales": "863.07",
+      "evidenceIndex": 30
+    },
+    {
+      "offerCode": "000294ESVML01XXA2AEasyL261034295",
+      "fixedAnnual": "150",
+      "spread": "0",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F0-2027-Q2",
+      "quarter": "2027-Q2",
+      "band": "F0",
+      "consumption": "3000",
+      "observedSales": "681.44",
+      "evidenceIndex": 31
+    },
+    {
+      "offerCode": "000294ESVML01XXA2AEasyL261034295",
+      "fixedAnnual": "150",
+      "spread": "0",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F0-2027-Q3",
+      "quarter": "2027-Q3",
+      "band": "F0",
+      "consumption": "3000",
+      "observedSales": "731.25",
+      "evidenceIndex": 32
+    }
+  ],
+  "holdouts": [
+    {
+      "offerCode": "001686ESVFL00XXES2PC1026DO000000",
+      "fixedAnnual": "144",
+      "spread": "0.033",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "holdout-F2",
+      "observedSales": "912.33",
+      "terms": [
+        {
+          "quarter": "2026-Q4",
+          "band": "F2",
+          "consumption": "300.0"
+        },
+        {
+          "quarter": "2027-Q1",
+          "band": "F2",
+          "consumption": "600.0"
+        },
+        {
+          "quarter": "2027-Q2",
+          "band": "F2",
+          "consumption": "900.0"
+        },
+        {
+          "quarter": "2027-Q3",
+          "band": "F2",
+          "consumption": "1200.0"
+        }
+      ],
+      "evidenceIndex": 6
+    },
+    {
+      "offerCode": "001686ESVFL00XXES2PC1026DO000000",
+      "fixedAnnual": "144",
+      "spread": "0.033",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "holdout-F3",
+      "observedSales": "825.25",
+      "terms": [
+        {
+          "quarter": "2026-Q4",
+          "band": "F3",
+          "consumption": "300.0"
+        },
+        {
+          "quarter": "2027-Q1",
+          "band": "F3",
+          "consumption": "600.0"
+        },
+        {
+          "quarter": "2027-Q2",
+          "band": "F3",
+          "consumption": "900.0"
+        },
+        {
+          "quarter": "2027-Q3",
+          "band": "F3",
+          "consumption": "1200.0"
+        }
+      ],
+      "evidenceIndex": 13
+    },
+    {
+      "offerCode": "000606ESVFL01XXELEGGERALCD002605",
+      "fixedAnnual": "150",
+      "spread": "0",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "holdout-F23",
+      "observedSales": "763.85",
+      "terms": [
+        {
+          "quarter": "2026-Q4",
+          "band": "F23",
+          "consumption": "300.0"
+        },
+        {
+          "quarter": "2027-Q1",
+          "band": "F23",
+          "consumption": "600.0"
+        },
+        {
+          "quarter": "2027-Q2",
+          "band": "F23",
+          "consumption": "900.0"
+        },
+        {
+          "quarter": "2027-Q3",
+          "band": "F23",
+          "consumption": "1200.0"
+        }
+      ],
+      "evidenceIndex": 20
+    },
+    {
+      "offerCode": "001686ESVFL00XXES2PC1026DO000000",
+      "fixedAnnual": "144",
+      "spread": "0.033",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "holdout-F1",
+      "observedSales": "862.38",
+      "terms": [
+        {
+          "quarter": "2026-Q4",
+          "band": "F1",
+          "consumption": "300.0"
+        },
+        {
+          "quarter": "2027-Q1",
+          "band": "F1",
+          "consumption": "600.0"
+        },
+        {
+          "quarter": "2027-Q2",
+          "band": "F1",
+          "consumption": "900.0"
+        },
+        {
+          "quarter": "2027-Q3",
+          "band": "F1",
+          "consumption": "1200.0"
+        }
+      ],
+      "evidenceIndex": 27
+    },
+    {
+      "offerCode": "028979ESVML01XX00000000003515106",
+      "fixedAnnual": "120",
+      "spread": "0.022",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "holdout-F0",
+      "observedSales": "801.66",
+      "terms": [
+        {
+          "quarter": "2026-Q4",
+          "band": "F0",
+          "consumption": "300.0"
+        },
+        {
+          "quarter": "2027-Q1",
+          "band": "F0",
+          "consumption": "600.0"
+        },
+        {
+          "quarter": "2027-Q2",
+          "band": "F0",
+          "consumption": "900.0"
+        },
+        {
+          "quarter": "2027-Q3",
+          "band": "F0",
+          "consumption": "1200.0"
+        }
+      ],
+      "evidenceIndex": 34
+    }
+  ],
+  "annualSales": []
+}

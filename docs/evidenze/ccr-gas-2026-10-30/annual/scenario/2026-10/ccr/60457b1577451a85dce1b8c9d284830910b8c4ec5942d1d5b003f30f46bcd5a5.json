@@ -1,0 +1,37 @@
+{
+  "id": "ccr-C1D-0-008001-600",
+  "kind": "calibration",
+  "source": "official_portal",
+  "profile": "C1 D",
+  "municipality": {
+    "portalCode": "008001",
+    "name": "Airole"
+  },
+  "offerCode": "044848GSVML02XX0000GAS00HOME4ALL",
+  "volume": "600",
+  "acquisitionMonth": "2026-10",
+  "coverageStart": "2026-10-01",
+  "coverageEnd": "2027-09-30",
+  "baselineSales": "789.681709959",
+  "baselineUncertainty": "0.0024999999975",
+  "terms": [
+    {
+      "quarter": "2026-Q4",
+      "consumption": "215.3578368"
+    },
+    {
+      "quarter": "2027-Q1",
+      "consumption": "343.0755312"
+    },
+    {
+      "quarter": "2027-Q2",
+      "consumption": "41.566626"
+    },
+    {
+      "quarter": "2027-Q3",
+      "consumption": "0.0000054"
+    }
+  ],
+  "equation": "observedSales = baselineSales + volume * annualCCR",
+  "predictedAt": "2026-10-29T23:03:02.440Z"
+}

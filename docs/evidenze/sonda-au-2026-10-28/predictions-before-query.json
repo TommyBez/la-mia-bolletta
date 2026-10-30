@@ -1,0 +1,56 @@
+{
+  "recorded_before_queries": true,
+  "basis": "Portale observations 27 October, not refitted to holdouts",
+  "holdouts": [
+    {
+      "code": "001686ESVFL00XXES3PC1026DO000000",
+      "bands": [
+        1000,
+        1000,
+        1000
+      ],
+      "sale_eur": "821.29",
+      "assumption": "affine interpolation at same total"
+    },
+    {
+      "code": "001686ESVFL00XXES3PC1026DO000000",
+      "bands": [
+        2000,
+        500,
+        1500
+      ],
+      "sale_eur": "1044.09",
+      "assumption": "fixed intercept 120; potential dispatch fixed terms not yet decomposed"
+    }
+  ],
+  "cross_offer_holdout": {
+    "code": "001686ESVFL00XXES2PC1026DO000000",
+    "bands": [
+      1000,
+      1000,
+      1000
+    ],
+    "sale_eur": "861.79",
+    "basis": "821.29 + fixed delta24 + spread delta.0055*3000; known XML only"
+  },
+  "further_holdouts": [
+    {
+      "bands": [
+        1000,
+        1000,
+        2000
+      ],
+      "sale_eur": "1039.33",
+      "reason": "new total different composition no calibration on observed4000"
+    },
+    {
+      "bands": [
+        0,
+        3000,
+        0
+      ],
+      "sale_eur": "857.67",
+      "reason": "pure F2 at calibration total"
+    }
+  ]
+}

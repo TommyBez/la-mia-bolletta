@@ -1,0 +1,80 @@
+<ListaOfferteMercatoLibero><offerta>
+        <IdentificativiOfferta>
+            <PIVA_UTENTE>10564110962</PIVA_UTENTE>
+            <COD_OFFERTA>028628ESFML01XX00000BLOCCALUCE26</COD_OFFERTA>
+        </IdentificativiOfferta>
+        <DettaglioOfferta>
+            <TIPO_MERCATO>01</TIPO_MERCATO>
+            <OFFERTA_SINGOLA>SI</OFFERTA_SINGOLA>
+            <TIPO_CLIENTE>01</TIPO_CLIENTE>
+            <DOMESTICO_RESIDENTE>03</DOMESTICO_RESIDENTE>
+            <TIPO_OFFERTA>01</TIPO_OFFERTA>
+            <TIPOLOGIA_ATT_CONTR>01</TIPOLOGIA_ATT_CONTR>
+            <TIPOLOGIA_ATT_CONTR>03</TIPOLOGIA_ATT_CONTR>
+            <TIPOLOGIA_ATT_CONTR>04</TIPOLOGIA_ATT_CONTR>
+            <NOME_OFFERTA>Blocca Luce</NOME_OFFERTA>
+            <DESCRIZIONE>La luce che scegli può fare la differenza. Energialocale, premia chi decide con lungimiranza: programmi fedeltà esclusivi e la GARANZIA DI RIMBORSO DOPO 12 MESI, per vivere la tua energia con serenità e senza compromessi.DIVENTA CLIENTE ENERGIALOCALE: la tua luce, i tuoi vantaggi.</DESCRIZIONE>
+            <DURATA>-1</DURATA>
+            <GARANZIE>Deposito Cauzionale qualora si scegliesse di pagare con un metodo diverso dalla domiciliazione bancaria o postale.</GARANZIE>
+            <ModalitaAttivazione>
+                <MODALITA>02</MODALITA>
+            </ModalitaAttivazione>
+            <Contatti>
+                <TELEFONO>0280012397</TELEFONO>
+                <URL_SITO_VENDITORE>https://www.energialocale.com/nuovo-contratto-contattami</URL_SITO_VENDITORE>
+                <URL_OFFERTA>https://www.energialocale.com/nuovo-contratto-contattami</URL_OFFERTA>
+            </Contatti>
+        </DettaglioOfferta>
+        <ValiditaOfferta>
+            <DATA_INIZIO>12/05/2026_18:00:00</DATA_INIZIO>
+            <DATA_FINE>31/01/2027_23:59:59</DATA_FINE>
+        </ValiditaOfferta>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>01</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>02</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>04</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <TipoPrezzo>
+            <TIPOLOGIA_FASCE>01</TIPOLOGIA_FASCE>
+        </TipoPrezzo>
+        <Dispacciamento>
+            <TIPO_DISPACCIAMENTO>14</TIPO_DISPACCIAMENTO>
+            <NOME>CDISPD</NOME>
+        </Dispacciamento>
+        <ComponenteImpresa>
+            <NOME>Contributo al consumo</NOME>
+            <DESCRIZIONE>Contributo al consumo</DESCRIZIONE>
+            <TIPOLOGIA>02</TIPOLOGIA>
+            <MACROAREA>04</MACROAREA>
+            <IntervalloPrezzi>
+                <FASCIA_COMPONENTE>01</FASCIA_COMPONENTE>
+                <PREZZO>0.165</PREZZO>
+                <UNITA_MISURA>03</UNITA_MISURA>
+            </IntervalloPrezzi>
+        </ComponenteImpresa>
+        <ComponenteImpresa>
+            <NOME>PCV</NOME>
+            <DESCRIZIONE>Corrispettivo di Commercializzazione e Vendita Fisso</DESCRIZIONE>
+            <TIPOLOGIA>02</TIPOLOGIA>
+            <MACROAREA>01</MACROAREA>
+            <IntervalloPrezzi>
+                <PREZZO>132</PREZZO>
+                <UNITA_MISURA>01</UNITA_MISURA>
+            </IntervalloPrezzi>
+        </ComponenteImpresa>
+        <CondizioniContrattuali>
+            <TIPOLOGIA_CONDIZIONE>01</TIPOLOGIA_CONDIZIONE>
+            <DESCRIZIONE>Nessuna Condizione</DESCRIZIONE>
+            <LIMITANTE>02</LIMITANTE>
+        </CondizioniContrattuali>
+        <ProdottiServiziAggiuntivi>
+            <NOME>Consulente Dedicato</NOME>
+            <DETTAGLIO>Oltre all'ordinario centralino di assistenza, che è disponibile per tutti i clienti, ti verrà assegnato un consulente dedicato il cui numero di cellulare apparirà direttamente nelle tue fatture. Il costo del servizio è di 36€ rateizzato in 24 mesi a 1.50€/mese. Con l'attivazione del servizio è prevista l'applicazione di uno sconto pari a -1,50€/mese (rendendo il costo mensile del servizio pari a 0.00€) sino al raggiungimento del 24esimo mese di fornitura. In caso di recesso anticipato verrà addebitato il costo totale del servizio e si perderà il diritto di godimento degli sconti mensili erogati.</DETTAGLIO>
+            <MACROAREA>99</MACROAREA>
+            <DETTAGLI_MACROAREA>Servizio di assistenza prioritaria</DETTAGLI_MACROAREA>
+        </ProdottiServiziAggiuntivi>
+    </offerta></ListaOfferteMercatoLibero>

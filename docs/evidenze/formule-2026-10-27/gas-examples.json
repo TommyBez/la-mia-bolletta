@@ -1,0 +1,436 @@
+{
+  "assumptions": [
+    "1,400 Smc over 12 months; domestic switching, supply active throughout first year",
+    "Direct debit and digital bill; both comparison offers declare no geography or consumption limit in source",
+    "Shared monthly PSV price path, same customer/territory; no numeric forward price invented",
+    "Amounts below exclude common index cost, network, general charges and taxes; this is a commercial component comparison, not a total bill or market ranking",
+    "Union fidelity bonus requires reaching month 12; GASXPLUS textual bonus condition requires 12 consecutive active months; both assumed fulfilled",
+    "Source fields are vendor declarations; a full signed-contract verification was not performed"
+  ],
+  "bonus_order_reversal": [
+    {
+      "code": "027208GSVML01XX00000000000033846",
+      "name": "UW1GCPWXNMTAA",
+      "fixed_eur_year": "144",
+      "unit_eur_smc": "0.075",
+      "bonus_eur": "144",
+      "commercial_before_bonus_excluding_common_index": "249.000",
+      "commercial_after_bonus_excluding_common_index": "105.000"
+    },
+    {
+      "code": "028330GSVML01XXDOPSV26091A010500",
+      "name": "GASXPLUS",
+      "fixed_eur_year": "60.000000",
+      "unit_eur_smc": "0.055000",
+      "bonus_eur": "20.000000",
+      "commercial_before_bonus_excluding_common_index": "137.000000",
+      "commercial_after_bonus_excluding_common_index": "117.000000"
+    }
+  ],
+  "edison_tier_case": {
+    "code": "000190GSVML13XXLGSPGX001X14XXXX5",
+    "volume_smc": "1400",
+    "structured_tier_contribution_eur": "115.500",
+    "naive_default_only_eur": "154.00",
+    "difference_eur": "-38.500"
+  },
+  "altis_period_case": {
+    "code": "000579GSVML25XXPSVVARIABILED2025",
+    "volume_smc": "1400",
+    "first_12_month_contribution_eur": "133.000",
+    "naive_default_only_eur": "0.00",
+    "difference_eur": "133.000"
+  },
+  "source_records": {
+    "027208GSVML01XX00000000000033846": {
+      "IdentificativiOfferta": {
+        "PIVA_UTENTE": "02195350687",
+        "COD_OFFERTA": "027208GSVML01XX00000000000033846"
+      },
+      "DettaglioOfferta": {
+        "TIPO_MERCATO": "02",
+        "OFFERTA_SINGOLA": "SI",
+        "TIPO_CLIENTE": "01",
+        "DOMESTICO_RESIDENTE": "03",
+        "TIPO_OFFERTA": "02",
+        "TIPOLOGIA_ATT_CONTR": [
+          "01",
+          "03",
+          "02",
+          "99",
+          "04"
+        ],
+        "NOME_OFFERTA": "UW1GCPWXNMTAA",
+        "DESCRIZIONE": "Union Web PO Domestico Gas",
+        "DURATA": "12",
+        "GARANZIE": "Al cliente finale non domestico il Fornitore si riserva la facoltà di richiedere idonea garanzia anche in presenza di domiciliazione bancaria. Per ulteriori dettagli si rimanda alle Condizioni Generali di Fornitura dell'offerta.",
+        "ModalitaAttivazione": {
+          "MODALITA": "01"
+        },
+        "Contatti": {
+          "TELEFONO": "800227825",
+          "URL_SITO_VENDITORE": "https://www.unionenergia.it",
+          "URL_OFFERTA": "https://share.unionenergia.it/s/sw-po1v1"
+        }
+      },
+      "RiferimentiPrezzoEnergia": {
+        "IDX_PREZZO_ENERGIA": "14"
+      },
+      "ValiditaOfferta": {
+        "DATA_INIZIO": "13/10/2026_00:00:00",
+        "DATA_FINE": "07/12/2026_00:00:00"
+      },
+      "CaratteristicheOfferta": "",
+      "MetodoPagamento": {
+        "MODALITA_PAGAMENTO": "01"
+      },
+      "ComponentiRegolate": "",
+      "ComponenteImpresa": [
+        {
+          "NOME": "Componente Pfix (Union)",
+          "DESCRIZIONE": "Componente Pfix (Union)",
+          "TIPOLOGIA": "01",
+          "MACROAREA": "01",
+          "IntervalloPrezzi": {
+            "PREZZO": "144",
+            "UNITA_MISURA": "01"
+          }
+        },
+        {
+          "NOME": "Componente alpha (Union)",
+          "DESCRIZIONE": "Componente alpha (Union)",
+          "TIPOLOGIA": "01",
+          "MACROAREA": "02",
+          "IntervalloPrezzi": {
+            "PREZZO": "0.075",
+            "UNITA_MISURA": "04"
+          }
+        }
+      ],
+      "CondizioniContrattuali": [
+        {
+          "TIPOLOGIA_CONDIZIONE": "01",
+          "DESCRIZIONE": "L’attivazione della nuova fornitura di energia elettrica o la modifica di quella in atto è subordinata alla verifica di idoneità della rete di distribuzione da parte del relativo gestore, all'esecuzione dell'allacciamento alla rete stessa, ove necessario, ed alla stipula di contratto scritto. L’attivazione della fornitura e le variazioni contrattuali saranno altresì soggette al pagamento da parte del Cliente di eventuali oneri dovuti al Distributore ai sensi della regolazione vigente. Il Cliente, ove necessario, contestualmente alla sottoscrizione del contratto deve versare il contributo di allacciamento come determinato dalle norme vigenti o, in mancanza di queste, dal Distributore. Nel caso in cui l’allacciamento non fosse realizzato per cause indipendenti dal Fornitore e/o Distributore, il contratto si intenderà risolto per impossibilità sopravvenuta ed il Fornitore restituirà il contributo versato detraendo dal medesimo le spese sostenute e l’ammontare dell’IVA relativa, se dovuta. In caso di allacciamento, l’attivazione della fornitura è subordinata a) all’ottenimento da parte del Cliente delle autorizzazioni, concessioni o servitù che dovessero rendersi necessarie per consentire l’esecuzione dell’allacciamento; b) al rilascio al Fornitore e/o al Distributore dei permessi e delle autorizzazioni se richieste dalla legge e/o dagli Enti pubblici; c) all’esecuzione degli eventuali lavori da realizzarsi a cura del Cliente. L’esecuzione del contratto è, altresì, condizionata al fatto che il Cliente non risulti sospeso per morosità ovvero non sia soggetto a richiesta di indennizzo da parte del precedente fornitore al momento in cui perviene la richiesta di switching e in ogni caso alla mancata revoca della richiesta di switching da parte del Fornitore. Qualora il contratto non sia stato concluso in forma contestuale alla richiesta di fornitura, il Cliente dovrà inviare al Fornitore i documenti contrattuali debitamente sottoscritti, unitamente all’ulteriore documentazione necessaria entro 60 giorni dalla richiesta. In mancanza resta salvo il diritto del Fornitore di richiedere il pagamento delle forniture comunque nel frattempo effettuate oltre alle eventuali spese. La richiesta di attivazione o modificazione della fornitura sarà inviata dal Fornitore al gestore del servizio di distribuzione, che procederà alla realizzazione dei lavori di sua competenza secondo le modalità e nei termini fissati dall’ARERA. Il Cliente domestico può recedere senza oneri dal contratto stipulato fuori dai locali commerciali del Fornitore entro 20 giorni solari dalla data di conclusione (c.d. diritto di ripensamento). Se, in occasione della stipula di tale contratto, è stata concordata l’attivazione della fornitura durante il suddetto periodo di 20 giorni, il Cliente che esercita il diritto di ripensamento è comunque tenuto a versare i corrispettivi dovuti per i servizi effettivamente erogati dal Fornitore.",
+          "LIMITANTE": "02"
+        },
+        {
+          "TIPOLOGIA_CONDIZIONE": "02",
+          "DESCRIZIONE": "Il Cliente può richiedere direttamente al Fornitore la cessazione dell'utenza in ogni momento, mediante richiesta scritta, indicando in ogni caso l'indirizzo dove spedire la fattura finale, con preavviso di un mese a decorrere dal primo giorno del mese successivo a quello di ricevimento del recesso stesso. Il Fornitore comunicherà tempestivamente al Distributore l'ordine di cessazione dell'erogazione nei tempi e nei modi previsti dall'ARERA. In ogni caso il Cliente che vende o cede a qualsiasi titolo, abbandona o dà in locazione i locali dal medesimo occupati ove si trovano impianti in attività, deve — salvo diverse specificazioni — darne avviso scritto al Fornitore almeno trenta giorni prima; indicando il recapito al quale dovrà essere inviata la chiusura contabile dell’utenza. In caso di mancata comunicazione della richiesta di cessazione dell’utenza o di mancato accesso al gruppo di misura per cause imputabili al Cliente, quest’ultimo risponde di tutti i consumi da chiunque effettuati e di eventuali danni da chiunque arrecati alle apparecchiature del Distributore. Il Cliente deve pagare gli eventuali debiti oggetto di precedente rateizzazione nei medesimi termini ed alle medesime condizioni concordate nel piano di rateizzazione in vigore all’atto della cessazione del rapporto contrattuale.",
+          "LIMITANTE": "02"
+        },
+        {
+          "TIPOLOGIA_CONDIZIONE": "03",
+          "DESCRIZIONE": "Il Cliente potrà recedere in ogni momento dal contratto qualora le tariffe specificamente applicabili subiscano nell'anno contrattuale e per cause diverse da modifiche normative o tributarie un aumento superiore al 30%, dandone comunicazione con lettera raccomandata entro trenta giorni dalla decorrenza dell'aumento. Analoga facoltà è data al Cliente nei casi in cui il Distributore modifichi le condizioni o le caratteristiche della fornitura, dandone comunicazione con lettera raccomandata almeno trenta giorni prima dell'entrata in vigore di dette modificazioni. I Clienti potranno recedere dal contratto inqualsiasi momento dandone comunicazione con lettera raccomandata A/R con un preavviso di almeno tre settimane con inizio della fornitura dal primo giorno del mese successivo. Il termine di preavviso per il diritto di recesso, senza il fine di cambiare esercente, non può essere superiore ad un mese. Il Fornitore potrà recedere con un preavviso di sei mesi. Al fine di cambiare esercente, il Cliente si avvale del nuovo Esercente per inoltrare la comunicazione di recesso al precedente fornitore. In ogni caso il Cliente sarà tenuto al pagamento degli importi spettanti al Fornitore per il servizio fino ad allora prestato. Nel caso il Cliente faccia ritorno sul servizio di Maggior Tutela o di salvaguardia, questi deve darne espressa comunicazione al Fornitore nella raccomandata A/R di recesso.",
+          "LIMITANTE": "02"
+        }
+      ],
+      "Sconto": {
+        "NOME": "Sconto Fidelity",
+        "DESCRIZIONE": "Sconto 144 €/anno al conseguimento del 12mo mese di fornitura",
+        "VALIDITA": "02",
+        "IVA_SCONTO": "01",
+        "Condizione": {
+          "CONDIZIONE_APPLICAZIONE": "00"
+        },
+        "PrezziSconto": {
+          "TIPOLOGIA": "01",
+          "UNITA_MISURA": "01",
+          "PREZZO": "144"
+        }
+      }
+    },
+    "028330GSVML01XXDOPSV26091A010500": {
+      "IdentificativiOfferta": {
+        "PIVA_UTENTE": "10378510969",
+        "COD_OFFERTA": "028330GSVML01XXDOPSV26091A010500"
+      },
+      "DettaglioOfferta": {
+        "TIPO_MERCATO": "02",
+        "OFFERTA_SINGOLA": "SI",
+        "TIPO_CLIENTE": "01",
+        "TIPO_OFFERTA": "02",
+        "TIPOLOGIA_ATT_CONTR": "99",
+        "NOME_OFFERTA": "GASXPLUS",
+        "DESCRIZIONE": "GasXPLUS è l’offerta domestica di gas naturale pensata per chi cerca trasparenza e flessibilità. Zero vincoli contrattuali; puoi cambiare fornitore o disdire quando vuoi, senza penali né costi nascosti. Paghi solo ciò che consumi, al prezzo reale dell’energia! Area clienti online per gestire tutto in autonomia, bolletta web, pagamento con addebito automatico. Assistenza clienti dedicata e veloce, sempre pronta a rispondere ad ogni tua esigenza!",
+        "DURATA": "12",
+        "GARANZIE": "NO",
+        "ModalitaAttivazione": {
+          "MODALITA": "01"
+        },
+        "Contatti": {
+          "TELEFONO": "0287078971",
+          "URL_SITO_VENDITORE": "https://www.e-plusenergia.it/",
+          "URL_OFFERTA": "https://join.e-plusenergia.it/"
+        }
+      },
+      "RiferimentiPrezzoEnergia": {
+        "IDX_PREZZO_ENERGIA": "14"
+      },
+      "ValiditaOfferta": {
+        "DATA_INIZIO": "01/09/2026_00:00:00",
+        "DATA_FINE": "31/10/2026_23:59:59"
+      },
+      "MetodoPagamento": {
+        "MODALITA_PAGAMENTO": "01"
+      },
+      "ComponenteImpresa": [
+        {
+          "NOME": "SPREAD",
+          "DESCRIZIONE": "SPREAD",
+          "TIPOLOGIA": "01",
+          "MACROAREA": "04",
+          "IntervalloPrezzi": {
+            "PREZZO": "0.055000",
+            "UNITA_MISURA": "04"
+          }
+        },
+        {
+          "NOME": "CGFG",
+          "DESCRIZIONE": "La Quota fissa è pari al corrispettivo fisso a copertura della fornitura di gas, applicato su base mensile",
+          "TIPOLOGIA": "01",
+          "MACROAREA": "01",
+          "IntervalloPrezzi": {
+            "PREZZO": "60.000000",
+            "UNITA_MISURA": "01"
+          }
+        }
+      ],
+      "CondizioniContrattuali": {
+        "TIPOLOGIA_CONDIZIONE": "01",
+        "DESCRIZIONE": "ATTIVAZIONE",
+        "LIMITANTE": "02"
+      },
+      "Sconto": {
+        "NOME": "Sconto Commerciale",
+        "DESCRIZIONE": "Attiva la nostra fornitura e ricevi uno sconto di 20€, suddiviso in 4 rate mensili da 5€ nei primi 4 mesi del primo anno di fornitura. L’offerta è valida se la fornitura resta attiva per almeno 12 mesi consecutivi. Risparmia subito!",
+        "VALIDITA": "01",
+        "IVA_SCONTO": "01",
+        "Condizione": {
+          "CONDIZIONE_APPLICAZIONE": "00"
+        },
+        "PrezziSconto": {
+          "TIPOLOGIA": "01",
+          "UNITA_MISURA": "01",
+          "PREZZO": "20.000000"
+        }
+      }
+    },
+    "000190GSVML13XXLGSPGX001X14XXXX5": {
+      "IdentificativiOfferta": {
+        "PIVA_UTENTE": "08526440154",
+        "COD_OFFERTA": "000190GSVML13XXLGSPGX001X14XXXX5"
+      },
+      "DettaglioOfferta": {
+        "TIPO_MERCATO": "02",
+        "OFFERTA_SINGOLA": "SI",
+        "TIPO_CLIENTE": "01",
+        "DOMESTICO_RESIDENTE": "03",
+        "TIPO_OFFERTA": "02",
+        "TIPOLOGIA_ATT_CONTR": "99",
+        "NOME_OFFERTA": "Edison Dynamic Gas",
+        "DESCRIZIONE": "Edison Dynamic Gas di Edison Energia destinata ai clienti finali titolari di punti di riconsegna gas per usi domestici. Edison Dynamic Gas garantisce un prezzo variabile coerente con gli andamenti del mercato all'ingrosso del gas naturale (PSV). E' inoltre possibile personalizzare l'offerta scegliendo fra prodotti assicurativi e di risparmio energetico. Attivando l'offerta, il cliente accede a Risolve, il mondo di servizi, soluzioni, bonus e premi di Edison. Con Edison Dynamic Gas, rispetti l ambiente: le emissioni di carbonio del gas impiegato sono compensate con crediti certificati relativi a primari standard internazionali.",
+        "DURATA": "12",
+        "GARANZIE": "Non e' richiesta nessuna garanzia.",
+        "ModalitaAttivazione": {
+          "MODALITA": "02"
+        },
+        "Contatti": {
+          "TELEFONO": "800141414",
+          "URL_SITO_VENDITORE": "www.edisonenergia.it",
+          "URL_OFFERTA": "www.edisonenergia.it/edison/casa/gas/dynamic-gas"
+        }
+      },
+      "RiferimentiPrezzoEnergia": {
+        "IDX_PREZZO_ENERGIA": "14",
+        "ALTRO": "Il PSV e' il prezzo di riferimento per l'acquisto del gas in Italia."
+      },
+      "ValiditaOfferta": {
+        "DATA_INIZIO": "24/09/2026_00:00:00",
+        "DATA_FINE": "28/10/2026_23:59:59"
+      },
+      "CaratteristicheOfferta": {
+        "CONSUMO_MIN": "0",
+        "CONSUMO_MAX": "200000"
+      },
+      "MetodoPagamento": [
+        {
+          "MODALITA_PAGAMENTO": "03"
+        },
+        {
+          "MODALITA_PAGAMENTO": "01"
+        }
+      ],
+      "ComponenteImpresa": [
+        {
+          "NOME": "Corrispettivo Annuo",
+          "DESCRIZIONE": "Corrispettivo Annuo",
+          "TIPOLOGIA": "01",
+          "MACROAREA": "01",
+          "IntervalloPrezzi": {
+            "PREZZO": "99",
+            "UNITA_MISURA": "01"
+          }
+        },
+        {
+          "NOME": "Contributo al consumo differenziato per soglie",
+          "DESCRIZIONE": "Fino alla soglia di 700 Smc/anno sara applicato un contributo al consumo pari a 0.055€/Smc. Oltre tale soglia sara applicato un contributo al consumo pari a 0.11€/Smc. Il conteggio dei consumi eccedenti la soglia si azzera ogni 12 mesi di fornitura.",
+          "TIPOLOGIA": "01",
+          "MACROAREA": "04",
+          "IntervalloPrezzi": [
+            {
+              "CONSUMO_DA": "0",
+              "CONSUMO_A": "700",
+              "PREZZO": "0.055",
+              "UNITA_MISURA": "04"
+            },
+            {
+              "CONSUMO_DA": "701",
+              "PREZZO": "0.11",
+              "UNITA_MISURA": "04"
+            },
+            {
+              "PREZZO": "0.11",
+              "UNITA_MISURA": "04"
+            }
+          ]
+        }
+      ],
+      "CondizioniContrattuali": [
+        {
+          "TIPOLOGIA_CONDIZIONE": "99",
+          "ALTRO": "Fatturazione",
+          "DESCRIZIONE": "La fatturazione avra' periodicita' bimestrale ad eccezione della prima fattura che sara' mensile.",
+          "LIMITANTE": "01"
+        },
+        {
+          "TIPOLOGIA_CONDIZIONE": "99",
+          "ALTRO": "Oneri accessori",
+          "DESCRIZIONE": "Edison addebitera' un corrispettivo di valore pari a quelli previsti all'art. 11 del Testo Integrato di Vendita (attualmente pari a 23 euro) per ciascuna delle seguenti prestazioni eventualmente richieste dal cliente: attivazione della fornitura di un nuovo punto di prelievo, o di uno precedentemente disattivato; disattivazione della fornitura su richiesta del cliente finale; voltura; variazione di potenza.",
+          "LIMITANTE": "01"
+        }
+      ],
+      "ProdottiServiziAggiuntivi": {
+        "NOME": "Risolve",
+        "DETTAGLIO": "Servizio di Prenotazione ed Assistenza Telefonica tramite numero dedicato e/o tramite Piattaforma ecommerce di Servizi a Richiesta per la gestione delle incombenze domestiche, incluso nell'offerta senza costi aggiuntivi. Il servizio fornisce inoltre la possibilita' di usufruire di un Intervento Tecnico 24/7 , che prevede la prima uscita e la prima ora di manodopera gratuite (materiali e pezzi di ricambio esclusi) per la risoluzione di malfunzionamenti in ambito domestico Il servizio Risolve ha durata illimitata per tutto il periodo in cui sara' attiva almeno una fornitura di Energia elettrica o Gas naturale, quindi decadra' automaticamente in caso di recesso dalle forniture Edison.",
+        "MACROAREA": "99",
+        "DETTAGLI_MACROAREA": "Assistenza telefonica per la gestione delle incombenze domestiche."
+      }
+    },
+    "000579GSVML25XXPSVVARIABILED2025": {
+      "IdentificativiOfferta": {
+        "PIVA_UTENTE": "00979450251",
+        "COD_OFFERTA": "000579GSVML25XXPSVVARIABILED2025"
+      },
+      "DettaglioOfferta": {
+        "TIPO_MERCATO": "02",
+        "OFFERTA_SINGOLA": "SI",
+        "TIPO_CLIENTE": "01",
+        "DOMESTICO_RESIDENTE": "03",
+        "TIPO_OFFERTA": "02",
+        "TIPOLOGIA_ATT_CONTR": "99",
+        "NOME_OFFERTA": "ALTIS26GAS_DOMESTICO",
+        "DESCRIZIONE": "Il prezzo della componente materia prima gas fissa sarà pari a 90,00 €/PDR/anno ed il prezzo della componente materia prima gas variabile sarà come di seguito definito: Pm = PSVm + Spread 0,095 €/Smc",
+        "DURATA": "12",
+        "GARANZIE": "All'atto della sottoscrizione della Richiesta di Fornitura o, qualora lo ritenga opportuno, Frizzarin S.r.l. richiederà al Cliente a garanzia degli impegni contrattuali assunti dallo stesso, un deposito cauzionale",
+        "ModalitaAttivazione": {
+          "MODALITA": "03"
+        },
+        "Contatti": {
+          "TELEFONO": "04362552",
+          "URL_SITO_VENDITORE": "http://www.frizzarinsrl.it",
+          "URL_OFFERTA": "https://https://www.frizzarinsrl.it/gas-naturale/offerte-gas/"
+        }
+      },
+      "RiferimentiPrezzoEnergia": {
+        "IDX_PREZZO_ENERGIA": "14"
+      },
+      "ValiditaOfferta": {
+        "DATA_INIZIO": "06/10/2026_22:20:00",
+        "DATA_FINE": "30/09/2027_23:59:59"
+      },
+      "CaratteristicheOfferta": {
+        "CONSUMO_MIN": "0",
+        "CONSUMO_MAX": "150000"
+      },
+      "MetodoPagamento": [
+        {
+          "MODALITA_PAGAMENTO": "01"
+        },
+        {
+          "MODALITA_PAGAMENTO": "04"
+        }
+      ],
+      "ComponenteImpresa": [
+        {
+          "NOME": "CC FISSA",
+          "DESCRIZIONE": "Corrispettivo Commercializzazione euro/PDR/anno",
+          "TIPOLOGIA": "01",
+          "MACROAREA": "01",
+          "IntervalloPrezzi": {
+            "PREZZO": "90.00",
+            "UNITA_MISURA": "01"
+          }
+        },
+        {
+          "NOME": "PM",
+          "DESCRIZIONE": "PSVm + Spread",
+          "TIPOLOGIA": "01",
+          "MACROAREA": "02",
+          "IntervalloPrezzi": [
+            {
+              "CONSUMO_DA": "0",
+              "CONSUMO_A": "200000",
+              "PREZZO": "0.095",
+              "UNITA_MISURA": "04",
+              "PeriodoValidita": {
+                "DURATA": "12"
+              }
+            },
+            {
+              "PREZZO": "0.00",
+              "UNITA_MISURA": "04"
+            }
+          ]
+        }
+      ],
+      "CondizioniContrattuali": {
+        "TIPOLOGIA_CONDIZIONE": "01",
+        "DESCRIZIONE": "Offerta valida solo nei comuni della provincia di Belluno e con decorrenza dalla data del 01/10/2025",
+        "LIMITANTE": "01"
+      },
+      "ZoneOfferta": {
+        "PROVINCIA": "025"
+      },
+      "Sconto": {
+        "NOME": "Sconto",
+        "DESCRIZIONE": "Sconto riconosciuto €/Smc. -0,01",
+        "VALIDITA": "01",
+        "IVA_SCONTO": "01",
+        "PeriodoValidita": {
+          "DURATA": "12"
+        },
+        "Condizione": {
+          "CONDIZIONE_APPLICAZIONE": "00"
+        },
+        "PrezziSconto": {
+          "TIPOLOGIA": "03",
+          "UNITA_MISURA": "04",
+          "PREZZO": "0.01"
+        }
+      },
+      "ProdottiServiziAggiuntivi": [
+        {
+          "NOME": "Non Previsti",
+          "DETTAGLIO": "Non Previsti",
+          "MACROAREA": "99",
+          "DETTAGLI_MACROAREA": "Non Previsti"
+        },
+        {
+          "NOME": "Nessuno",
+          "DETTAGLIO": "Nessuno",
+          "MACROAREA": "06"
+        }
+      ]
+    }
+  }
+}

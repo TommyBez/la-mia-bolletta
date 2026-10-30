@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:ListaOfferteMercatoLibero xmlns:ns0="http://www.acquirenteunico.it/schemas/SII_AU/OffertaRetail/01"><ns0:offerta>
+        <ns0:IdentificativiOfferta>
+            <ns0:PIVA_UTENTE>07610960721</ns0:PIVA_UTENTE>
+            <ns0:COD_OFFERTA>022119GSFML01XXPFIXGASVDOM088RID</ns0:COD_OFFERTA>
+        </ns0:IdentificativiOfferta>
+        <ns0:DettaglioOfferta>
+            <ns0:TIPO_MERCATO>02</ns0:TIPO_MERCATO>
+            <ns0:OFFERTA_SINGOLA>SI</ns0:OFFERTA_SINGOLA>
+            <ns0:TIPO_CLIENTE>01</ns0:TIPO_CLIENTE>
+            <ns0:TIPO_OFFERTA>01</ns0:TIPO_OFFERTA>
+            <ns0:TIPOLOGIA_ATT_CONTR>99</ns0:TIPOLOGIA_ATT_CONTR>
+            <ns0:NOME_OFFERTA>PFIXGASVDOM088RID</ns0:NOME_OFFERTA>
+            <ns0:DESCRIZIONE>Offerta Fissa Gas Domestico 24 mesi RID</ns0:DESCRIZIONE>
+            <ns0:DURATA>-1</ns0:DURATA>
+            <ns0:GARANZIE>NO</ns0:GARANZIE>
+            <ns0:ModalitaAttivazione>
+                <ns0:MODALITA>02</ns0:MODALITA>
+            </ns0:ModalitaAttivazione>
+            <ns0:Contatti>
+                <ns0:TELEFONO>800145516</ns0:TELEFONO>
+                <ns0:URL_SITO_VENDITORE>www.camergasepower.com</ns0:URL_SITO_VENDITORE>
+                <ns0:URL_OFFERTA>https://www.camergasepower.com/</ns0:URL_OFFERTA>
+            </ns0:Contatti>
+        </ns0:DettaglioOfferta>
+        <ns0:ValiditaOfferta>
+            <ns0:DATA_INIZIO>28/10/2026_23:59:00</ns0:DATA_INIZIO>
+            <ns0:DATA_FINE>30/11/2026_23:59:00</ns0:DATA_FINE>
+        </ns0:ValiditaOfferta>
+        <ns0:MetodoPagamento>
+            <ns0:MODALITA_PAGAMENTO>01</ns0:MODALITA_PAGAMENTO>
+        </ns0:MetodoPagamento>
+        <ns0:MetodoPagamento>
+            <ns0:MODALITA_PAGAMENTO>02</ns0:MODALITA_PAGAMENTO>
+        </ns0:MetodoPagamento>
+        <ns0:MetodoPagamento>
+            <ns0:MODALITA_PAGAMENTO>03</ns0:MODALITA_PAGAMENTO>
+        </ns0:MetodoPagamento>
+        <ns0:MetodoPagamento>
+            <ns0:MODALITA_PAGAMENTO>99</ns0:MODALITA_PAGAMENTO>
+            <ns0:DESCRIZIONE>AMERICAN EXPRESS</ns0:DESCRIZIONE>
+        </ns0:MetodoPagamento>
+        <ns0:ComponenteImpresa>
+            <ns0:NOME>Oneri fissi di commercializzazione</ns0:NOME>
+            <ns0:DESCRIZIONE>Oneri fissi di commercializzazione</ns0:DESCRIZIONE>
+            <ns0:TIPOLOGIA>02</ns0:TIPOLOGIA>
+            <ns0:MACROAREA>01</ns0:MACROAREA>
+            <ns0:IntervalloPrezzi>
+                <ns0:PREZZO>138.000000</ns0:PREZZO>
+                <ns0:UNITA_MISURA>01</ns0:UNITA_MISURA>
+            </ns0:IntervalloPrezzi>
+        </ns0:ComponenteImpresa>
+        <ns0:ComponenteImpresa>
+            <ns0:NOME>Oneri variabili di commercializzazione</ns0:NOME>
+            <ns0:DESCRIZIONE>Oneri variabili di commercializzazione</ns0:DESCRIZIONE>
+            <ns0:TIPOLOGIA>02</ns0:TIPOLOGIA>
+            <ns0:MACROAREA>04</ns0:MACROAREA>
+            <ns0:IntervalloPrezzi>
+                <ns0:PREZZO>0.025000</ns0:PREZZO>
+                <ns0:UNITA_MISURA>04</ns0:UNITA_MISURA>
+            </ns0:IntervalloPrezzi>
+        </ns0:ComponenteImpresa>
+        <ns0:CondizioniContrattuali>
+            <ns0:TIPOLOGIA_CONDIZIONE>04</ns0:TIPOLOGIA_CONDIZIONE>
+            <ns0:DESCRIZIONE>Rinnovo Automatico a PSV</ns0:DESCRIZIONE>
+            <ns0:LIMITANTE>02</ns0:LIMITANTE>
+        </ns0:CondizioniContrattuali>
+    </ns0:offerta>
+    </ns0:ListaOfferteMercatoLibero>

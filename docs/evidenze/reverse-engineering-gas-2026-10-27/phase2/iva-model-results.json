@@ -1,0 +1,114 @@
+{
+  "model": "Repeated cumulative first-480-Smc energy base in IVA10, ordinary non-energy base once; residual IVA22 clipped at zero",
+  "confidence": "Predictive behavioral model, not source-code proof or normative calculation",
+  "calibration_count": 8,
+  "calibration_observations": [
+    {
+      "profile": "RISC",
+      "smc": 100,
+      "anomalous_iva10": 92.67,
+      "ordinary_iva10": 10.69
+    },
+    {
+      "profile": "RISC",
+      "smc": 500,
+      "anomalous_iva10": 463.26,
+      "ordinary_iva10": 61.94
+    },
+    {
+      "profile": "RISC",
+      "smc": 1000,
+      "anomalous_iva10": 516.44,
+      "ordinary_iva10": 62.51
+    },
+    {
+      "profile": "RISC",
+      "smc": 1159,
+      "anomalous_iva10": 524.67,
+      "ordinary_iva10": 62.59
+    },
+    {
+      "profile": "RISC",
+      "smc": 1200,
+      "anomalous_iva10": 526.79,
+      "ordinary_iva10": 62.61
+    },
+    {
+      "profile": "RISC",
+      "smc": 1400,
+      "anomalous_iva10": 534.72,
+      "ordinary_iva10": 62.68
+    },
+    {
+      "profile": "RISC",
+      "smc": 2000,
+      "anomalous_iva10": 542.66,
+      "ordinary_iva10": 62.68
+    },
+    {
+      "profile": "CC",
+      "smc": 1200,
+      "anomalous_iva10": 497.33,
+      "ordinary_iva10": 62.37
+    }
+  ],
+  "candidate_implicit_quarter_prices": {
+    "Q4": 0.8568320480963247,
+    "Q1": 0.8432464256711811,
+    "Q2": 0.6219962403552434,
+    "Q3": 0.575031037654777
+  },
+  "prices_note": "One feasible candidate, not recovered official forward quotations; holdouts were excluded from fitting.",
+  "holdouts": [
+    {
+      "profile": "RISC",
+      "smc": 1500,
+      "observed_S_IVA10": 536.05,
+      "predicted_unrounded_interval": [
+        536.0320243443107,
+        536.0576391168105
+      ],
+      "compatible": true
+    },
+    {
+      "profile": "CC",
+      "smc": 100,
+      "observed_S_IVA10": 67.36,
+      "predicted_unrounded_interval": [
+        67.36071719284922,
+        67.37411366410899
+      ],
+      "compatible": true
+    },
+    {
+      "profile": "RISC",
+      "smc": 100,
+      "L_minus_S_IVA_observed": 3.94,
+      "predicted_unrounded_delta": 3.9349888111999998,
+      "compatible": true
+    },
+    {
+      "profile": "CC",
+      "smc": 100,
+      "L_minus_S_IVA_observed": 2.97,
+      "predicted_unrounded_delta": 2.9687477332000003,
+      "compatible": true
+    },
+    {
+      "profile": "RISC",
+      "smc": 10,
+      "offer": "L",
+      "IVA10_observed": 9.66,
+      "IVA10_predicted_unrounded_interval": [
+        9.658498881119998,
+        9.66849888112
+      ],
+      "IVA22_observed": 44.32,
+      "IVA22_predicted_unrounded_interval": [
+        44.298102461536004,
+        44.324502461536
+      ],
+      "compatible": true
+    }
+  ]
+}

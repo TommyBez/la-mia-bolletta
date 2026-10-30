@@ -1,0 +1,51 @@
+{
+  "formula": "((sale-144)/3000-.045-.016776)/1.1",
+  "indices": [
+    {
+      "historical_consumption_month": "202512",
+      "calendar_quarter": 4,
+      "sale_eur": "1009.06",
+      "index_eur_kwh": "0.2059793939393939393939393939",
+      "cent_rounding_half_width_eur_kwh": "0.000001515151515151515151515151515"
+    },
+    {
+      "historical_consumption_month": "202602",
+      "calendar_quarter": 1,
+      "sale_eur": "961.06",
+      "index_eur_kwh": "0.1914339393939393939393939394",
+      "cent_rounding_half_width_eur_kwh": "0.000001515151515151515151515151515"
+    },
+    {
+      "historical_consumption_month": "202605",
+      "calendar_quarter": 2,
+      "sale_eur": "767.80",
+      "index_eur_kwh": "0.132870303030303030303030303",
+      "cent_rounding_half_width_eur_kwh": "0.000001515151515151515151515151515"
+    },
+    {
+      "historical_consumption_month": "202608",
+      "calendar_quarter": 3,
+      "sale_eur": "785.79",
+      "index_eur_kwh": "0.1383218181818181818181818182",
+      "cent_rounding_half_width_eur_kwh": "0.000001515151515151515151515151515"
+    }
+  ],
+  "flat_prediction": "880.9275",
+  "flat_observed": "880.93",
+  "F2_F3_symmetry_Dec_eur": "1009.06",
+  "F1_Dec_prediction_and_observed_eur": "1087.73",
+  "holdouts": [
+    {
+      "code": "001046ESVFL01XXGIUE1AB1261260401",
+      "predicted_unrounded": "875.829",
+      "observed": "875.83",
+      "residual": "0.001"
+    },
+    {
+      "code": "036329ESVFL01XXONDABLUE0EE202620",
+      "predicted_unrounded": "759.474",
+      "observed": "759.47",
+      "residual": "-0.004"
+    }
+  ]
+}

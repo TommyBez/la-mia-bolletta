@@ -1,0 +1,91 @@
+{
+  "ML": {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametriML/2026_10/PO_Parametri_Mercato_Libero_G_20261027.csv",
+    "sha256": "961f3013002f5dd0a06432d2cd868255e2d423aeda6baa1239190c8af1c3c643",
+    "row_count": 96,
+    "vat_rows": [
+      {
+        "nome_parametro": "iva_f1",
+        "valore": "0.100000",
+        "descrizione": "IVA"
+      },
+      {
+        "nome_parametro": "iva_f2",
+        "valore": "0.100000",
+        "descrizione": "IVA"
+      },
+      {
+        "nome_parametro": "iva_f3",
+        "valore": "0.220000",
+        "descrizione": "IVA"
+      },
+      {
+        "nome_parametro": "iva_f4",
+        "valore": "0.220000",
+        "descrizione": "IVA"
+      },
+      {
+        "nome_parametro": "iva_ui",
+        "valore": "0.220000",
+        "descrizione": "IVA"
+      }
+    ],
+    "accise_or_regional_tax_rows": []
+  },
+  "PLACET": {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametri/2026_10/PO_Parametri_G_20261027.csv",
+    "sha256": "961f3013002f5dd0a06432d2cd868255e2d423aeda6baa1239190c8af1c3c643",
+    "row_count": 96,
+    "vat_rows": [
+      {
+        "nome_parametro": "iva_f1",
+        "valore": "0.100000",
+        "descrizione": "IVA"
+      },
+      {
+        "nome_parametro": "iva_f2",
+        "valore": "0.100000",
+        "descrizione": "IVA"
+      },
+      {
+        "nome_parametro": "iva_f3",
+        "valore": "0.220000",
+        "descrizione": "IVA"
+      },
+      {
+        "nome_parametro": "iva_f4",
+        "valore": "0.220000",
+        "descrizione": "IVA"
+      },
+      {
+        "nome_parametro": "iva_ui",
+        "valore": "0.220000",
+        "descrizione": "IVA"
+      }
+    ],
+    "accise_or_regional_tax_rows": []
+  },
+  "geo": {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/api/rs/it/portal/geoService.json?cap-comune=Milano",
+    "sha256": "9829960b02f90c1a96162b3975c59bcb1b6d833a61cbc2b4583e29c0779ed8ea",
+    "response": {
+      "response": {
+        "errors": "",
+        "result": {
+          "html": "",
+          "services": {
+            "size": 1,
+            "item": {
+              "@xsi.type": "comuneLight",
+              "codIstat": "015146",
+              "denominazione": "Milano",
+              "esclusoOffertaEE": 0,
+              "esclusoOffertaGas": 0
+            }
+          }
+        }
+      }
+    }
+  },
+  "ui_evidence_sha256": "f78b87c7114e1e03f963c6223d71ca914d09d772ab661e7af9aa4b8b3fbc583b"
+}

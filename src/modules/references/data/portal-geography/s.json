@@ -1,0 +1,7631 @@
+{
+  "prefix": "s",
+  "source": "https://www.ilportaleofferte.it/portaleOfferte/api/rs/it/portal/geoService.json?cap-comune=s",
+  "observedAt": "2026-10-29T22:27:33Z",
+  "sha256": "ef8778497a633accb7429f00c5826f23b9d50d8d1bbe26470aabf8e3112be97b",
+  "items": [
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "059024",
+      "denominazione": "Sabaudia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017168",
+      "denominazione": "Sabbio Chiese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "020054",
+      "denominazione": "Sabbioneta",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065113",
+      "denominazione": "Sacco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "028073",
+      "denominazione": "Saccolongo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "093037",
+      "denominazione": "Sacile",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "058093",
+      "denominazione": "Sacrofano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111058,
+      "denominazione": "Sadali",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095086",
+      "denominazione": "Sagama",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "096056",
+      "denominazione": "Sagliano Micca",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "031017",
+      "denominazione": "Sagrado",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022164",
+      "denominazione": "Sagron Mis",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "007058",
+      "denominazione": "Saint-Christophe",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "007059",
+      "denominazione": "Saint-Denis",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "007060",
+      "denominazione": "Saint-Marcel",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "007061",
+      "denominazione": "Saint-Nicolas",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "007062",
+      "denominazione": "Saint-Oyen",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "007063",
+      "denominazione": "Saint-Pierre",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "007064",
+      "denominazione": "Saint-Rhémy-en-Bosses",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "007065",
+      "denominazione": "Saint-Vincent",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "034031",
+      "denominazione": "Sala Baganza",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "096057",
+      "denominazione": "Sala Biellese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "037050",
+      "denominazione": "Sala Bolognese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "013203",
+      "denominazione": "Sala Comacina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065114",
+      "denominazione": "Sala Consilina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006150",
+      "denominazione": "Sala Monferrato",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "077024",
+      "denominazione": "Salandra",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "081017",
+      "denominazione": "Salaparuta",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "029042",
+      "denominazione": "Salara",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "002126",
+      "denominazione": "Salasco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001231",
+      "denominazione": "Salassa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001232",
+      "denominazione": "Salbertrand",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024090",
+      "denominazione": "Salcedo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "070062",
+      "denominazione": "Salcito",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006151",
+      "denominazione": "Sale",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017169",
+      "denominazione": "Sale Marasino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004200",
+      "denominazione": "Sale San Giovanni",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004199",
+      "denominazione": "Sale delle Langhe",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "081018",
+      "denominazione": "Salemi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065115",
+      "denominazione": "Salento",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001233",
+      "denominazione": "Salerano Canavese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "098046",
+      "denominazione": "Salerano sul Lambro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065116",
+      "denominazione": "Salerno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "026070",
+      "denominazione": "Salgareda",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "002127",
+      "denominazione": "Sali Vercellese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075065",
+      "denominazione": "Salice Salentino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004201",
+      "denominazione": "Saliceto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "057063",
+      "denominazione": "Salisano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "023068",
+      "denominazione": "Salizzole",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "068036",
+      "denominazione": "Salle",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004202",
+      "denominazione": "Salmour",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021076",
+      "denominazione": "Salorno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "034032",
+      "denominazione": "Salsomaggiore Terme",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "012117",
+      "denominazione": "Saltrio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "099015",
+      "denominazione": "Saludecio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "002128",
+      "denominazione": "Saluggia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "096058",
+      "denominazione": "Salussola",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004203",
+      "denominazione": "Saluzzo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075066",
+      "denominazione": "Salve",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "019087",
+      "denominazione": "Salvirola",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065117",
+      "denominazione": "Salvitelle",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064081",
+      "denominazione": "Salza Irpina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001234",
+      "denominazione": "Salza di Pinerolo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "027032",
+      "denominazione": "Salzano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017170",
+      "denominazione": "Salò",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "012118",
+      "denominazione": "Samarate",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111059,
+      "denominazione": "Samassi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111060,
+      "denominazione": "Samatzai",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "047018",
+      "denominazione": "Sambuca Pistoiese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "084034",
+      "denominazione": "Sambuca di Sicilia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "058094",
+      "denominazione": "Sambuci",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004204",
+      "denominazione": "Sambuco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "072039",
+      "denominazione": "Sammichele di Bari",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080070",
+      "denominazione": "Samo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "014057",
+      "denominazione": "Samolaco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001235",
+      "denominazione": "Samone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022165",
+      "denominazione": "Samone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004205",
+      "denominazione": "Sampeyre",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095045",
+      "denominazione": "Samugheo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "013204",
+      "denominazione": "San Bartolomeo Val Cavargna",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "008052",
+      "denominazione": "San Bartolomeo al Mare",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "062057",
+      "denominazione": "San Bartolomeo in Galdo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078111",
+      "denominazione": "San Basile",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111061,
+      "denominazione": "San Basilio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "019088",
+      "denominazione": "San Bassano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "029043",
+      "denominazione": "San Bellino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004206",
+      "denominazione": "San Benedetto Belbo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "020055",
+      "denominazione": "San Benedetto Po",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078112",
+      "denominazione": "San Benedetto Ullano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "037051",
+      "denominazione": "San Benedetto Val di Sambro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "066085",
+      "denominazione": "San Benedetto dei Marsi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "044066",
+      "denominazione": "San Benedetto del Tronto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "066086",
+      "denominazione": "San Benedetto in Perillis",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001236",
+      "denominazione": "San Benigno Canavese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 103061,
+      "denominazione": "San Bernardino Verbano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "084035",
+      "denominazione": "San Biagio Platani",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "060061",
+      "denominazione": "San Biagio Saracinisco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "008053",
+      "denominazione": "San Biagio della Cima",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "026071",
+      "denominazione": "San Biagio di Callalta",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "070063",
+      "denominazione": "San Biase",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "023069",
+      "denominazione": "San Bonifacio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "069079",
+      "denominazione": "San Buono",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 102032,
+      "denominazione": "San Calogero",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021077",
+      "denominazione": "San Candido",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "031018",
+      "denominazione": "San Canzian d'Isonzo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001237",
+      "denominazione": "San Carlo Canavese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "052027",
+      "denominazione": "San Casciano dei Bagni",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "048038",
+      "denominazione": "San Casciano in Val di Pesa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075095",
+      "denominazione": "San Cassiano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "085016",
+      "denominazione": "San Cataldo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "058119",
+      "denominazione": "San Cesareo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075068",
+      "denominazione": "San Cesario di Lecce",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "036036",
+      "denominazione": "San Cesario sul Panaro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "076073",
+      "denominazione": "San Chirico Nuovo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "076074",
+      "denominazione": "San Chirico Raparo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "082063",
+      "denominazione": "San Cipirello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065118",
+      "denominazione": "San Cipriano Picentino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018133",
+      "denominazione": "San Cipriano Po",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "061074",
+      "denominazione": "San Cipriano d'Aversa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "099016",
+      "denominazione": "San Clemente",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001238",
+      "denominazione": "San Colombano Belmonte",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "010053",
+      "denominazione": "San Colombano Certenoli",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015191",
+      "denominazione": "San Colombano al Lambro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "087040",
+      "denominazione": "San Cono",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078113",
+      "denominazione": "San Cosmo Albanese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "076075",
+      "denominazione": "San Costantino Albanese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 102033,
+      "denominazione": "San Costantino Calabro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "041051",
+      "denominazione": "San Costanzo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006152",
+      "denominazione": "San Cristoforo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004207",
+      "denominazione": "San Damiano Macra",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018134",
+      "denominazione": "San Damiano al Colle",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005097",
+      "denominazione": "San Damiano d'Asti",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "019089",
+      "denominazione": "San Daniele Po",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "030099",
+      "denominazione": "San Daniele del Friuli",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078114",
+      "denominazione": "San Demetrio Corone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "066087",
+      "denominazione": "San Demetrio ne' Vestini",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001239",
+      "denominazione": "San Didero",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "074013",
+      "denominazione": "San Donaci",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015192",
+      "denominazione": "San Donato Milanese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "060062",
+      "denominazione": "San Donato Val di Comino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075069",
+      "denominazione": "San Donato di Lecce",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078115",
+      "denominazione": "San Donato di Ninea",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "027033",
+      "denominazione": "San Donà di Piave",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "032004",
+      "denominazione": "San Dorligo della Valle",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "076076",
+      "denominazione": "San Fele",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "059025",
+      "denominazione": "San Felice Circeo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "061075",
+      "denominazione": "San Felice a Cancello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017171",
+      "denominazione": "San Felice del Benaco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "070064",
+      "denominazione": "San Felice del Molise",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "036037",
+      "denominazione": "San Felice sul Panaro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080097",
+      "denominazione": "San Ferdinando",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 110007,
+      "denominazione": "San Ferdinando di Puglia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "013206",
+      "denominazione": "San Fermo della Battaglia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078116",
+      "denominazione": "San Fili",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083077",
+      "denominazione": "San Filippo del Mela",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "026072",
+      "denominazione": "San Fior",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "098047",
+      "denominazione": "San Fiorano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "031019",
+      "denominazione": "San Floriano del Collio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "079108",
+      "denominazione": "San Floro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001240",
+      "denominazione": "San Francesco al Campo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083078",
+      "denominazione": "San Fratello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111062,
+      "denominazione": "San Gavino Monreale",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "055029",
+      "denominazione": "San Gemini",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021079",
+      "denominazione": "San Genesio Atesino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018135",
+      "denominazione": "San Genesio ed Uniti",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "063066",
+      "denominazione": "San Gennaro Vesuviano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001242",
+      "denominazione": "San Germano Chisone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "002131",
+      "denominazione": "San Germano Vercellese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017172",
+      "denominazione": "San Gervasio Bresciano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "014058",
+      "denominazione": "San Giacomo Filippo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "002035",
+      "denominazione": "San Giacomo Vercellese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "070065",
+      "denominazione": "San Giacomo degli Schiavoni",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "020056",
+      "denominazione": "San Giacomo delle Segnate",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001243",
+      "denominazione": "San Gillio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "052028",
+      "denominazione": "San Gimignano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "043046",
+      "denominazione": "San Ginesio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078118",
+      "denominazione": "San Giorgio Albanese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "020057",
+      "denominazione": "San Giorgio Bigarello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001244",
+      "denominazione": "San Giorgio Canavese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "073024",
+      "denominazione": "San Giorgio Ionico",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "062059",
+      "denominazione": "San Giorgio La Molara",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "077025",
+      "denominazione": "San Giorgio Lucano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006153",
+      "denominazione": "San Giorgio Monferrato",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080071",
+      "denominazione": "San Giorgio Morgeto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "033040",
+      "denominazione": "San Giorgio Piacentino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005098",
+      "denominazione": "San Giorgio Scarampi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "063067",
+      "denominazione": "San Giorgio a Cremano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "060063",
+      "denominazione": "San Giorgio a Liri",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "062058",
+      "denominazione": "San Giorgio del Sannio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "093038",
+      "denominazione": "San Giorgio della Richinvelda",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "028075",
+      "denominazione": "San Giorgio delle Pertiche",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018136",
+      "denominazione": "San Giorgio di Lomellina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "030100",
+      "denominazione": "San Giorgio di Nogaro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "037052",
+      "denominazione": "San Giorgio di Piano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "028076",
+      "denominazione": "San Giorgio in Bosco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015194",
+      "denominazione": "San Giorgio su Legnano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001245",
+      "denominazione": "San Giorio di Susa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016188",
+      "denominazione": "San Giovanni Bianco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "084036",
+      "denominazione": "San Giovanni Gemini",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "023070",
+      "denominazione": "San Giovanni Ilarione",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "060064",
+      "denominazione": "San Giovanni Incarico",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "069080",
+      "denominazione": "San Giovanni Lipioni",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "023071",
+      "denominazione": "San Giovanni Lupatoto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "071046",
+      "denominazione": "San Giovanni Rotondo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111063,
+      "denominazione": "San Giovanni Suergiu",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "069081",
+      "denominazione": "San Giovanni Teatino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "051033",
+      "denominazione": "San Giovanni Valdarno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065119",
+      "denominazione": "San Giovanni a Piro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "030101",
+      "denominazione": "San Giovanni al Natisone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "020058",
+      "denominazione": "San Giovanni del Dosso",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080072",
+      "denominazione": "San Giovanni di Gerace",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "019090",
+      "denominazione": "San Giovanni in Croce",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078119",
+      "denominazione": "San Giovanni in Fiore",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "070066",
+      "denominazione": "San Giovanni in Galdo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "099017",
+      "denominazione": "San Giovanni in Marignano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "037053",
+      "denominazione": "San Giovanni in Persiceto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "087041",
+      "denominazione": "San Giovanni la Punta",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015195",
+      "denominazione": "San Giuliano Milanese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "050031",
+      "denominazione": "San Giuliano Terme",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "070067",
+      "denominazione": "San Giuliano del Sannio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "070068",
+      "denominazione": "San Giuliano di Puglia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "082064",
+      "denominazione": "San Giuseppe Jato",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "063068",
+      "denominazione": "San Giuseppe Vesuviano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "054044",
+      "denominazione": "San Giustino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001246",
+      "denominazione": "San Giusto Canavese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "048039",
+      "denominazione": "San Godenzo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065120",
+      "denominazione": "San Gregorio Magno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "061076",
+      "denominazione": "San Gregorio Matese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 102034,
+      "denominazione": "San Gregorio d'Ippona",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "058095",
+      "denominazione": "San Gregorio da Sassola",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "087042",
+      "denominazione": "San Gregorio di Catania",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "025045",
+      "denominazione": "San Gregorio nelle Alpi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "037054",
+      "denominazione": "San Lazzaro di Savena",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "099025",
+      "denominazione": "San Leo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "030102",
+      "denominazione": "San Leonardo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021080",
+      "denominazione": "San Leonardo in Passiria",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "062060",
+      "denominazione": "San Leucio del Sannio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "062061",
+      "denominazione": "San Lorenzello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080073",
+      "denominazione": "San Lorenzo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078120",
+      "denominazione": "San Lorenzo Bellizzi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022231",
+      "denominazione": "San Lorenzo Dorsino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "031020",
+      "denominazione": "San Lorenzo Isontino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "062062",
+      "denominazione": "San Lorenzo Maggiore",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "056047",
+      "denominazione": "San Lorenzo Nuovo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "008054",
+      "denominazione": "San Lorenzo al Mare",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078121",
+      "denominazione": "San Lorenzo del Vallo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021081",
+      "denominazione": "San Lorenzo di Sebato",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "041054",
+      "denominazione": "San Lorenzo in Campo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080074",
+      "denominazione": "San Luca",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078122",
+      "denominazione": "San Lucido",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "062063",
+      "denominazione": "San Lupo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065121",
+      "denominazione": "San Mango Piemonte",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "079110",
+      "denominazione": "San Mango d'Aquino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064082",
+      "denominazione": "San Mango sul Calore",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "061077",
+      "denominazione": "San Marcellino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "042041",
+      "denominazione": "San Marcello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "047024",
+      "denominazione": "San Marcello Piteglio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078123",
+      "denominazione": "San Marco Argentano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "061104",
+      "denominazione": "San Marco Evangelista",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083079",
+      "denominazione": "San Marco d'Alunzio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "062064",
+      "denominazione": "San Marco dei Cavoti",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "071047",
+      "denominazione": "San Marco in Lamis",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "071048",
+      "denominazione": "San Marco la Catola",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005099",
+      "denominazione": "San Martino Alfieri",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "023073",
+      "denominazione": "San Martino Buon Albergo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001247",
+      "denominazione": "San Martino Canavese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "062065",
+      "denominazione": "San Martino Sannita",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018137",
+      "denominazione": "San Martino Siccomario",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064083",
+      "denominazione": "San Martino Valle Caudina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "093039",
+      "denominazione": "San Martino al Tagliamento",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "076077",
+      "denominazione": "San Martino d'Agri",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "020059",
+      "denominazione": "San Martino dall'Argine",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "019091",
+      "denominazione": "San Martino del Lago",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078124",
+      "denominazione": "San Martino di Finita",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "028077",
+      "denominazione": "San Martino di Lupari",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "029044",
+      "denominazione": "San Martino di Venezze",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021082",
+      "denominazione": "San Martino in Badia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021083",
+      "denominazione": "San Martino in Passiria",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "070069",
+      "denominazione": "San Martino in Pensilis",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "035037",
+      "denominazione": "San Martino in Rio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "098048",
+      "denominazione": "San Martino in Strada",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "069082",
+      "denominazione": "San Martino sulla Marrucina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005100",
+      "denominazione": "San Marzano Oliveto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "073025",
+      "denominazione": "San Marzano di San Giuseppe",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065122",
+      "denominazione": "San Marzano sul Sarno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "070070",
+      "denominazione": "San Massimo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001248",
+      "denominazione": "San Maurizio Canavese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "003133",
+      "denominazione": "San Maurizio d'Opaglio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "082065",
+      "denominazione": "San Mauro Castelverde",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065123",
+      "denominazione": "San Mauro Cilento",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "077026",
+      "denominazione": "San Mauro Forte",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 101020,
+      "denominazione": "San Mauro Marchesato",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "040041",
+      "denominazione": "San Mauro Pascoli",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001249",
+      "denominazione": "San Mauro Torinese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "023074",
+      "denominazione": "San Mauro di Saline",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065124",
+      "denominazione": "San Mauro la Bruca",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004210",
+      "denominazione": "San Michele Mondovì",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "074014",
+      "denominazione": "San Michele Salentino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "027034",
+      "denominazione": "San Michele al Tagliamento",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022167",
+      "denominazione": "San Michele all'Adige",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "087043",
+      "denominazione": "San Michele di Ganzaria",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064084",
+      "denominazione": "San Michele di Serino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "050032",
+      "denominazione": "San Miniato",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024093",
+      "denominazione": "San Nazario",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "062066",
+      "denominazione": "San Nazzaro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "003134",
+      "denominazione": "San Nazzaro Sesia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "013207",
+      "denominazione": "San Nazzaro Val Cavargna",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "071049",
+      "denominazione": "San Nicandro Garganico",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078125",
+      "denominazione": "San Nicola Arcella",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064085",
+      "denominazione": "San Nicola Baronia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "062067",
+      "denominazione": "San Nicola Manfredi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 102035,
+      "denominazione": "San Nicola da Crissa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 101021,
+      "denominazione": "San Nicola dell'Alto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "061078",
+      "denominazione": "San Nicola la Strada",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111064,
+      "denominazione": "San Nicolò Gerrei",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095046",
+      "denominazione": "San Nicolò d'Arcidano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "025046",
+      "denominazione": "San Nicolò di Comelico",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021084",
+      "denominazione": "San Pancrazio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "074015",
+      "denominazione": "San Pancrazio Salentino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017138",
+      "denominazione": "San Paolo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "076020",
+      "denominazione": "San Paolo Albanese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "063069",
+      "denominazione": "San Paolo Bel Sito",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005101",
+      "denominazione": "San Paolo Solbrito",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016189",
+      "denominazione": "San Paolo d'Argon",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "071050",
+      "denominazione": "San Paolo di Civitate",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "042042",
+      "denominazione": "San Paolo di Jesi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016190",
+      "denominazione": "San Pellegrino Terme",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083080",
+      "denominazione": "San Pier Niceto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "031021",
+      "denominazione": "San Pier d'Isonzo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083081",
+      "denominazione": "San Piero Patti",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "079115",
+      "denominazione": "San Pietro Apostolo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "094043",
+      "denominazione": "San Pietro Avellana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "087044",
+      "denominazione": "San Pietro Clarenza",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "061079",
+      "denominazione": "San Pietro Infine",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "003135",
+      "denominazione": "San Pietro Mosezzo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024094",
+      "denominazione": "San Pietro Mussolino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001250",
+      "denominazione": "San Pietro Val Lemina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "074016",
+      "denominazione": "San Pietro Vernotico",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "028079",
+      "denominazione": "San Pietro Viminario",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "079114",
+      "denominazione": "San Pietro a Maida",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "030103",
+      "denominazione": "San Pietro al Natisone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065125",
+      "denominazione": "San Pietro al Tanagro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "025047",
+      "denominazione": "San Pietro di Cadore",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080075",
+      "denominazione": "San Pietro di Caridà",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "026073",
+      "denominazione": "San Pietro di Feletto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "023075",
+      "denominazione": "San Pietro di Morubio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078126",
+      "denominazione": "San Pietro in Amantea",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "023076",
+      "denominazione": "San Pietro in Cariano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "037055",
+      "denominazione": "San Pietro in Casale",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "033041",
+      "denominazione": "San Pietro in Cerro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "028078",
+      "denominazione": "San Pietro in Gu",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078127",
+      "denominazione": "San Pietro in Guarano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075071",
+      "denominazione": "San Pietro in Lama",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "066088",
+      "denominazione": "San Pio delle Camere",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "070071",
+      "denominazione": "San Polo Matese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "035038",
+      "denominazione": "San Polo d'Enza",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "058096",
+      "denominazione": "San Polo dei Cavalieri",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "026074",
+      "denominazione": "San Polo di Piave",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001251",
+      "denominazione": "San Ponso",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "036038",
+      "denominazione": "San Possidonio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "061080",
+      "denominazione": "San Potito Sannitico",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064086",
+      "denominazione": "San Potito Ultra",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "061081",
+      "denominazione": "San Prisco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080076",
+      "denominazione": "San Procopio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "036039",
+      "denominazione": "San Prospero",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "052030",
+      "denominazione": "San Quirico d'Orcia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "093040",
+      "denominazione": "San Quirino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001252",
+      "denominazione": "San Raffaele Cimena",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080077",
+      "denominazione": "San Roberto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "098049",
+      "denominazione": "San Rocco al Porto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "046027",
+      "denominazione": "San Romano in Garfagnana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065126",
+      "denominazione": "San Rufo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006154",
+      "denominazione": "San Salvatore Monferrato",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "062068",
+      "denominazione": "San Salvatore Telesino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083082",
+      "denominazione": "San Salvatore di Fitalia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "069083",
+      "denominazione": "San Salvo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006155",
+      "denominazione": "San Sebastiano Curone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "063070",
+      "denominazione": "San Sebastiano al Vesuvio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001253",
+      "denominazione": "San Sebastiano da Po",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "034033",
+      "denominazione": "San Secondo Parmense",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001254",
+      "denominazione": "San Secondo di Pinerolo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "076078",
+      "denominazione": "San Severino Lucano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "043047",
+      "denominazione": "San Severino Marche",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "071051",
+      "denominazione": "San Severo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "013248",
+      "denominazione": "San Siro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064087",
+      "denominazione": "San Sossio Baronia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "079116",
+      "denominazione": "San Sostene",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078128",
+      "denominazione": "San Sosti",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111065,
+      "denominazione": "San Sperate",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "027036",
+      "denominazione": "San Stino di Livenza",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "061085",
+      "denominazione": "San Tammaro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "090092",
+      "denominazione": "San Teodoro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083090",
+      "denominazione": "San Teodoro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "025049",
+      "denominazione": "San Tomaso Agordino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065132",
+      "denominazione": "San Valentino Torio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "068038",
+      "denominazione": "San Valentino in Abruzzo Citeriore",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "055030",
+      "denominazione": "San Venanzo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "026076",
+      "denominazione": "San Vendemiano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095050",
+      "denominazione": "San Vero Milis",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "049018",
+      "denominazione": "San Vincenzo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078135",
+      "denominazione": "San Vincenzo La Costa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "066092",
+      "denominazione": "San Vincenzo Valle Roveto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "063075",
+      "denominazione": "San Vitaliano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111066,
+      "denominazione": "San Vito",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "069086",
+      "denominazione": "San Vito Chietino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "081020",
+      "denominazione": "San Vito Lo Capo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "058100",
+      "denominazione": "San Vito Romano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "093041",
+      "denominazione": "San Vito al Tagliamento",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "030105",
+      "denominazione": "San Vito al Torre",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "074017",
+      "denominazione": "San Vito dei Normanni",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "025051",
+      "denominazione": "San Vito di Cadore",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "030106",
+      "denominazione": "San Vito di Fagagna",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024096",
+      "denominazione": "San Vito di Leguzzano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "079122",
+      "denominazione": "San Vito sullo Ionio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015201",
+      "denominazione": "San Vittore Olona",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "060070",
+      "denominazione": "San Vittore del Lazio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017173",
+      "denominazione": "San Zeno Naviglio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "023079",
+      "denominazione": "San Zeno di Montagna",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015202",
+      "denominazione": "San Zenone al Lambro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018145",
+      "denominazione": "San Zenone al Po",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "026077",
+      "denominazione": "San Zenone degli Ezzelini",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075067",
+      "denominazione": "Sanarica",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "096059",
+      "denominazione": "Sandigliano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024091",
+      "denominazione": "Sandrigo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004209",
+      "denominazione": "Sanfront",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004208",
+      "denominazione": "Sanfrè",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001241",
+      "denominazione": "Sangano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "012141",
+      "denominazione": "Sangiano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078117",
+      "denominazione": "Sangineto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "023072",
+      "denominazione": "Sanguinetto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111067,
+      "denominazione": "Sanluri",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018138",
+      "denominazione": "Sannazzaro de' Burgondi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "072040",
+      "denominazione": "Sannicandro di Bari",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075070",
+      "denominazione": "Sannicola",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "008055",
+      "denominazione": "Sanremo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "051034",
+      "denominazione": "Sansepolcro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "094044",
+      "denominazione": "Sant'Agapito",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "037056",
+      "denominazione": "Sant'Agata Bolognese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "099026",
+      "denominazione": "Sant'Agata Feltria",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006156",
+      "denominazione": "Sant'Agata Fossili",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "062070",
+      "denominazione": "Sant'Agata de' Goti",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080079",
+      "denominazione": "Sant'Agata del Bianco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078131",
+      "denominazione": "Sant'Agata di Esaro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083084",
+      "denominazione": "Sant'Agata di Militello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "071052",
+      "denominazione": "Sant'Agata di Puglia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "087045",
+      "denominazione": "Sant'Agata li Battiati",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "039017",
+      "denominazione": "Sant'Agata sul Santerno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "063071",
+      "denominazione": "Sant'Agnello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004211",
+      "denominazione": "Sant'Albano Stura",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083085",
+      "denominazione": "Sant'Alessio Siculo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018141",
+      "denominazione": "Sant'Alessio con Vialone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080080",
+      "denominazione": "Sant'Alessio in Aspromonte",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "087046",
+      "denominazione": "Sant'Alfio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001255",
+      "denominazione": "Sant'Ambrogio di Torino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "023077",
+      "denominazione": "Sant'Ambrogio di Valpolicella",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "060065",
+      "denominazione": "Sant'Ambrogio sul Garigliano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "063072",
+      "denominazione": "Sant'Anastasia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "054045",
+      "denominazione": "Sant'Anatolia di Narco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "079118",
+      "denominazione": "Sant'Andrea Apostolo dello Ionio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111069,
+      "denominazione": "Sant'Andrea Frius",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "060066",
+      "denominazione": "Sant'Andrea del Garigliano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064089",
+      "denominazione": "Sant'Andrea di Conza",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "076079",
+      "denominazione": "Sant'Angelo Le Fratte",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "070073",
+      "denominazione": "Sant'Angelo Limosano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "098050",
+      "denominazione": "Sant'Angelo Lodigiano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018144",
+      "denominazione": "Sant'Angelo Lomellina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "084039",
+      "denominazione": "Sant'Angelo Muxaro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "058098",
+      "denominazione": "Sant'Angelo Romano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "062071",
+      "denominazione": "Sant'Angelo a Cupolo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065128",
+      "denominazione": "Sant'Angelo a Fasanella",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064091",
+      "denominazione": "Sant'Angelo a Scala",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064090",
+      "denominazione": "Sant'Angelo all'Esca",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "061086",
+      "denominazione": "Sant'Angelo d'Alife",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064092",
+      "denominazione": "Sant'Angelo dei Lombardi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "094046",
+      "denominazione": "Sant'Angelo del Pesco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083088",
+      "denominazione": "Sant'Angelo di Brolo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "028082",
+      "denominazione": "Sant'Angelo di Piove di Sacco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "043048",
+      "denominazione": "Sant'Angelo in Pontano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "041057",
+      "denominazione": "Sant'Angelo in Vado",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111070,
+      "denominazione": "Sant'Anna Arresi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "023078",
+      "denominazione": "Sant'Anna d'Alfaedo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "063073",
+      "denominazione": "Sant'Antimo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111071,
+      "denominazione": "Sant'Antioco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001256",
+      "denominazione": "Sant'Antonino di Susa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "063074",
+      "denominazione": "Sant'Antonio Abate",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "090085",
+      "denominazione": "Sant'Antonio di Gallura",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "060067",
+      "denominazione": "Sant'Apollinare",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "076080",
+      "denominazione": "Sant'Arcangelo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "062078",
+      "denominazione": "Sant'Arcangelo Trimonte",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "061087",
+      "denominazione": "Sant'Arpino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065129",
+      "denominazione": "Sant'Arsenio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "067038",
+      "denominazione": "Sant'Egidio alla Vibrata",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065130",
+      "denominazione": "Sant'Egidio del Monte Albino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "028083",
+      "denominazione": "Sant'Elena",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "094047",
+      "denominazione": "Sant'Elena Sannita",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "060068",
+      "denominazione": "Sant'Elia Fiumerapido",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "070074",
+      "denominazione": "Sant'Elia a Pianisi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 109037,
+      "denominazione": "Sant'Elpidio a Mare",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "068037",
+      "denominazione": "Sant'Eufemia a Maiella",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080081",
+      "denominazione": "Sant'Eufemia d'Aspromonte",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "066090",
+      "denominazione": "Sant'Eusanio Forconese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "069085",
+      "denominazione": "Sant'Eusanio del Sangro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "035039",
+      "denominazione": "Sant'Ilario d'Enza",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080082",
+      "denominazione": "Sant'Ilario dello Ionio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "041058",
+      "denominazione": "Sant'Ippolito",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "010055",
+      "denominazione": "Sant'Olcese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "067039",
+      "denominazione": "Sant'Omero",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016252",
+      "denominazione": "Sant'Omobono Terme",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 102036,
+      "denominazione": "Sant'Onofrio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "058099",
+      "denominazione": "Sant'Oreste",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022168",
+      "denominazione": "Sant'Orsola Terme",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "028084",
+      "denominazione": "Sant'Urbano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016191",
+      "denominazione": "Santa Brigida",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078129",
+      "denominazione": "Santa Caterina Albanese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "085017",
+      "denominazione": "Santa Caterina Villarmosa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "079117",
+      "denominazione": "Santa Caterina dello Ionio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075072",
+      "denominazione": "Santa Cesarea Terme",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "082066",
+      "denominazione": "Santa Cristina Gela",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021085",
+      "denominazione": "Santa Cristina Valgardena",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080078",
+      "denominazione": "Santa Cristina d'Aspromonte",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018139",
+      "denominazione": "Santa Cristina e Bissone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "088010",
+      "denominazione": "Santa Croce Camerina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "062069",
+      "denominazione": "Santa Croce del Sannio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "070072",
+      "denominazione": "Santa Croce di Magliano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "050033",
+      "denominazione": "Santa Croce sull'Arno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078130",
+      "denominazione": "Santa Domenica Talao",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083083",
+      "denominazione": "Santa Domenica Vittoria",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "084037",
+      "denominazione": "Santa Elisabetta",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "053022",
+      "denominazione": "Santa Fiora",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "082067",
+      "denominazione": "Santa Flavia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018140",
+      "denominazione": "Santa Giuletta",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095047",
+      "denominazione": "Santa Giusta",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "025048",
+      "denominazione": "Santa Giustina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "028080",
+      "denominazione": "Santa Giustina in Colle",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "050034",
+      "denominazione": "Santa Luce",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083086",
+      "denominazione": "Santa Lucia del Mela",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "026075",
+      "denominazione": "Santa Lucia di Piave",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064088",
+      "denominazione": "Santa Lucia di Serino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "010054",
+      "denominazione": "Santa Margherita Ligure",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "084038",
+      "denominazione": "Santa Margherita di Belice",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018142",
+      "denominazione": "Santa Margherita di Staffora",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "061083",
+      "denominazione": "Santa Maria Capua Vetere",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "090087",
+      "denominazione": "Santa Maria Coghinas",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "097074",
+      "denominazione": "Santa Maria Hoè",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "069084",
+      "denominazione": "Santa Maria Imbaro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 103062,
+      "denominazione": "Santa Maria Maggiore",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "042043",
+      "denominazione": "Santa Maria Nuova",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "050035",
+      "denominazione": "Santa Maria a Monte",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "061082",
+      "denominazione": "Santa Maria a Vico",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078132",
+      "denominazione": "Santa Maria del Cedro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "094045",
+      "denominazione": "Santa Maria del Molise",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018143",
+      "denominazione": "Santa Maria della Versa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "087047",
+      "denominazione": "Santa Maria di Licodia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "027035",
+      "denominazione": "Santa Maria di Sala",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "063090",
+      "denominazione": "Santa Maria la Carità",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "061084",
+      "denominazione": "Santa Maria la Fossa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "030104",
+      "denominazione": "Santa Maria la Longa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065127",
+      "denominazione": "Santa Marina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083087",
+      "denominazione": "Santa Marina Salina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "058097",
+      "denominazione": "Santa Marinella",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "081019",
+      "denominazione": "Santa Ninfa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064093",
+      "denominazione": "Santa Paolina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 101022,
+      "denominazione": "Santa Severina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "040043",
+      "denominazione": "Santa Sofia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078133",
+      "denominazione": "Santa Sofia d'Epiro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "090063",
+      "denominazione": "Santa Teresa Gallura",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083089",
+      "denominazione": "Santa Teresa di Riva",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "087048",
+      "denominazione": "Santa Venerina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004212",
+      "denominazione": "Santa Vittoria d'Alba",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 109036,
+      "denominazione": "Santa Vittoria in Matenano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111068,
+      "denominazione": "Santadi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "099018",
+      "denominazione": "Santarcangelo di Romagna",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "066089",
+      "denominazione": "Sante Marie",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001257",
+      "denominazione": "Santena",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "072041",
+      "denominazione": "Santeramo in Colle",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "002133",
+      "denominazione": "Santhià",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "059026",
+      "denominazione": "Santi Cosma e Damiano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004213",
+      "denominazione": "Santo Stefano Belbo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "098051",
+      "denominazione": "Santo Stefano Lodigiano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "084040",
+      "denominazione": "Santo Stefano Quisquina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004214",
+      "denominazione": "Santo Stefano Roero",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015200",
+      "denominazione": "Santo Stefano Ticino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "008056",
+      "denominazione": "Santo Stefano al Mare",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "010056",
+      "denominazione": "Santo Stefano d'Aveto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064095",
+      "denominazione": "Santo Stefano del Sole",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "025050",
+      "denominazione": "Santo Stefano di Cadore",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083091",
+      "denominazione": "Santo Stefano di Camastra",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "011026",
+      "denominazione": "Santo Stefano di Magra",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078134",
+      "denominazione": "Santo Stefano di Rogliano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "066091",
+      "denominazione": "Santo Stefano di Sessanio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080083",
+      "denominazione": "Santo Stefano in Aspromonte",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065131",
+      "denominazione": "Santomenna",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "060069",
+      "denominazione": "Santopadre",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024095",
+      "denominazione": "Santorso",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095049",
+      "denominazione": "Santu Lussurgiu",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065133",
+      "denominazione": "Sanza",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022169",
+      "denominazione": "Sanzeno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "028085",
+      "denominazione": "Saonara",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083092",
+      "denominazione": "Saponara",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "030189",
+      "denominazione": "Sappada",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065134",
+      "denominazione": "Sapri",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078136",
+      "denominazione": "Saracena",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "058101",
+      "denominazione": "Saracinesco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024097",
+      "denominazione": "Sarcedo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "076081",
+      "denominazione": "Sarconi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111072,
+      "denominazione": "Sardara",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006157",
+      "denominazione": "Sardigliano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024098",
+      "denominazione": "Sarego",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021086",
+      "denominazione": "Sarentino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006158",
+      "denominazione": "Sarezzano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017174",
+      "denominazione": "Sarezzo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "033042",
+      "denominazione": "Sarmato",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "026078",
+      "denominazione": "Sarmede",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "043049",
+      "denominazione": "Sarnano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016193",
+      "denominazione": "Sarnico",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065135",
+      "denominazione": "Sarno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022170",
+      "denominazione": "Sarnonico",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "012119",
+      "denominazione": "Saronno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "007066",
+      "denominazione": "Sarre",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "092066",
+      "denominazione": "Sarroch",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "040044",
+      "denominazione": "Sarsina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "052031",
+      "denominazione": "Sarteano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018146",
+      "denominazione": "Sartirana Lomellina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "091077",
+      "denominazione": "Sarule",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "011027",
+      "denominazione": "Sarzana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065136",
+      "denominazione": "Sassano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "090064",
+      "denominazione": "Sassari",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "009055",
+      "denominazione": "Sassello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "049019",
+      "denominazione": "Sassetta",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "062072",
+      "denominazione": "Sassinoro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "037057",
+      "denominazione": "Sasso Marconi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "076082",
+      "denominazione": "Sasso di Castalda",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "041059",
+      "denominazione": "Sassocorvaro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "041071",
+      "denominazione": "Sassocorvaro Auditore",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "099031",
+      "denominazione": "Sassofeltrio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "042044",
+      "denominazione": "Sassoferrato",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "036040",
+      "denominazione": "Sassuolo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "079123",
+      "denominazione": "Satriano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "076083",
+      "denominazione": "Satriano di Lucania",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "030107",
+      "denominazione": "Sauris",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001259",
+      "denominazione": "Sauze d'Oulx",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001258",
+      "denominazione": "Sauze di Cesana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "073026",
+      "denominazione": "Sava",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 101023,
+      "denominazione": "Savelli",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "063076",
+      "denominazione": "Saviano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004215",
+      "denominazione": "Savigliano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064096",
+      "denominazione": "Savignano Irpino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "036041",
+      "denominazione": "Savignano sul Panaro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "040045",
+      "denominazione": "Savignano sul Rubicone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "010057",
+      "denominazione": "Savignone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017175",
+      "denominazione": "Saviore dell'Adamello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083093",
+      "denominazione": "Savoca",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "030108",
+      "denominazione": "Savogna",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "031022",
+      "denominazione": "Savogna d'Isonzo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "076084",
+      "denominazione": "Savoia di Lucania",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "009056",
+      "denominazione": "Savona",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "068039",
+      "denominazione": "Scafa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065137",
+      "denominazione": "Scafati",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004216",
+      "denominazione": "Scagnello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065138",
+      "denominazione": "Scala",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078137",
+      "denominazione": "Scala Coeli",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018147",
+      "denominazione": "Scaldasole",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078138",
+      "denominazione": "Scalea",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001260",
+      "denominazione": "Scalenghe",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083094",
+      "denominazione": "Scaletta Zanclea",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064097",
+      "denominazione": "Scampitella",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 101024,
+      "denominazione": "Scandale",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "035040",
+      "denominazione": "Scandiano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "048041",
+      "denominazione": "Scandicci",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "019092",
+      "denominazione": "Scandolara Ravara",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "019093",
+      "denominazione": "Scandolara Ripa d'Oglio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "057064",
+      "denominazione": "Scandriglia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "066093",
+      "denominazione": "Scanno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095051",
+      "denominazione": "Scano di Montiferro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "053023",
+      "denominazione": "Scansano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "077031",
+      "denominazione": "Scanzano Jonico",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016194",
+      "denominazione": "Scanzorosciate",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "094048",
+      "denominazione": "Scapoli",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "053024",
+      "denominazione": "Scarlino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001261",
+      "denominazione": "Scarmagno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004217",
+      "denominazione": "Scarnafigi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "048053",
+      "denominazione": "Scarperia e San Piero",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021087",
+      "denominazione": "Scena",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "069087",
+      "denominazione": "Scerni",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "054046",
+      "denominazione": "Scheggia e Pascelupo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "054047",
+      "denominazione": "Scheggino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "069088",
+      "denominazione": "Schiavi di Abruzzo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024099",
+      "denominazione": "Schiavon",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "013211",
+      "denominazione": "Schignano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016195",
+      "denominazione": "Schilpario",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024100",
+      "denominazione": "Schio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "020060",
+      "denominazione": "Schivenoglia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "084041",
+      "denominazione": "Sciacca",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "082068",
+      "denominazione": "Sciara",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "088011",
+      "denominazione": "Scicli",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080084",
+      "denominazione": "Scido",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078139",
+      "denominazione": "Scigliano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080085",
+      "denominazione": "Scilla",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "082081",
+      "denominazione": "Scillato",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001262",
+      "denominazione": "Sciolze",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "063077",
+      "denominazione": "Scisciano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "082069",
+      "denominazione": "Sclafani Bagni",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "066094",
+      "denominazione": "Scontrone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "002134",
+      "denominazione": "Scopa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "002135",
+      "denominazione": "Scopello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "066095",
+      "denominazione": "Scoppito",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "087049",
+      "denominazione": "Scordia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075073",
+      "denominazione": "Scorrano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "027037",
+      "denominazione": "Scorzè",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "066096",
+      "denominazione": "Scurcola Marsicana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022171",
+      "denominazione": "Scurelle",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005103",
+      "denominazione": "Scurzolengo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "008057",
+      "denominazione": "Seborga",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "066097",
+      "denominazione": "Secinaro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075074",
+      "denominazione": "Seclì",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "098052",
+      "denominazione": "Secugnago",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "030109",
+      "denominazione": "Sedegliano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "025053",
+      "denominazione": "Sedico",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095052",
+      "denominazione": "Sedilo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "090065",
+      "denominazione": "Sedini",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015204",
+      "denominazione": "Sedriano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016196",
+      "denominazione": "Sedrina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "043050",
+      "denominazione": "Sefro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111073,
+      "denominazione": "Segariu",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "053025",
+      "denominazione": "Seggiano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "058102",
+      "denominazione": "Segni",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022172",
+      "denominazione": "Segonzano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015205",
+      "denominazione": "Segrate",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "026079",
+      "denominazione": "Segusino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "092068",
+      "denominazione": "Selargius",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "057065",
+      "denominazione": "Selci",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111074,
+      "denominazione": "Selegas",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022246",
+      "denominazione": "Sella Giudicarie",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "054048",
+      "denominazione": "Sellano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017176",
+      "denominazione": "Sellero",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "079126",
+      "denominazione": "Sellia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "079127",
+      "denominazione": "Sellia Marina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021088",
+      "denominazione": "Selva dei Molini",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "025054",
+      "denominazione": "Selva di Cadore",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "023080",
+      "denominazione": "Selva di Progno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021089",
+      "denominazione": "Selva di Val Gardena",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "028086",
+      "denominazione": "Selvazzano Dentro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016197",
+      "denominazione": "Selvino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "090066",
+      "denominazione": "Semestene",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018148",
+      "denominazione": "Semiana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080086",
+      "denominazione": "Seminara",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "053028",
+      "denominazione": "Semproniano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015206",
+      "denominazione": "Senago",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021118",
+      "denominazione": "Senale-San Felice",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021091",
+      "denominazione": "Senales",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095053",
+      "denominazione": "Seneghe",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064098",
+      "denominazione": "Senerchia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017177",
+      "denominazione": "Seniga",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "042045",
+      "denominazione": "Senigallia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095054",
+      "denominazione": "Senis",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "076085",
+      "denominazione": "Senise",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "013212",
+      "denominazione": "Senna Comasco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "098053",
+      "denominazione": "Senna Lodigiana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095055",
+      "denominazione": "Sennariolo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "090067",
+      "denominazione": "Sennori",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111075,
+      "denominazione": "Senorbì",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "070075",
+      "denominazione": "Sepino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "093042",
+      "denominazione": "Sequals",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "046028",
+      "denominazione": "Seravezza",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111076,
+      "denominazione": "Serdiana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 108039,
+      "denominazione": "Seregno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "025055",
+      "denominazione": "Seren del Grappa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "019094",
+      "denominazione": "Sergnano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016198",
+      "denominazione": "Seriate",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016199",
+      "denominazione": "Serina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064099",
+      "denominazione": "Serino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017178",
+      "denominazione": "Serle",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "020061",
+      "denominazione": "Sermide e Felonica",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "059027",
+      "denominazione": "Sermoneta",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "026080",
+      "denominazione": "Sernaglia della Battaglia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "014059",
+      "denominazione": "Sernio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005104",
+      "denominazione": "Serole",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "010058",
+      "denominazione": "Serra Riccò",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 102037,
+      "denominazione": "Serra San Bruno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "042047",
+      "denominazione": "Serra San Quirico",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "041061",
+      "denominazione": "Serra Sant'Abbondio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078140",
+      "denominazione": "Serra d'Aiello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "042046",
+      "denominazione": "Serra de' Conti",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "071053",
+      "denominazione": "Serracapriola",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "085018",
+      "denominazione": "Serradifalco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004218",
+      "denominazione": "Serralunga d'Alba",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006159",
+      "denominazione": "Serralunga di Crea",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111077,
+      "denominazione": "Serramanna",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "036042",
+      "denominazione": "Serramazzoni",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065139",
+      "denominazione": "Serramezzana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "068040",
+      "denominazione": "Serramonacesca",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "043051",
+      "denominazione": "Serrapetrona",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "063078",
+      "denominazione": "Serrara Fontana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "079129",
+      "denominazione": "Serrastretta",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080087",
+      "denominazione": "Serrata",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004219",
+      "denominazione": "Serravalle Langhe",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "047020",
+      "denominazione": "Serravalle Pistoiese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006160",
+      "denominazione": "Serravalle Scrivia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "002137",
+      "denominazione": "Serravalle Sesia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "020062",
+      "denominazione": "Serravalle a Po",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "043052",
+      "denominazione": "Serravalle di Chienti",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065140",
+      "denominazione": "Serre",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111078,
+      "denominazione": "Serrenti",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111079,
+      "denominazione": "Serri",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "060071",
+      "denominazione": "Serrone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "079130",
+      "denominazione": "Sersale",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 109038,
+      "denominazione": "Servigliano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "061088",
+      "denominazione": "Sessa Aurunca",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065141",
+      "denominazione": "Sessa Cilento",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005105",
+      "denominazione": "Sessame",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "094049",
+      "denominazione": "Sessano del Molise",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "011028",
+      "denominazione": "Sesta Godano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "051035",
+      "denominazione": "Sestino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021092",
+      "denominazione": "Sesto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "012120",
+      "denominazione": "Sesto Calende",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "094050",
+      "denominazione": "Sesto Campano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "048043",
+      "denominazione": "Sesto Fiorentino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015209",
+      "denominazione": "Sesto San Giovanni",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "093043",
+      "denominazione": "Sesto al Reghena",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "019095",
+      "denominazione": "Sesto ed Uniti",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "036043",
+      "denominazione": "Sestola",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "010059",
+      "denominazione": "Sestri Levante",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001263",
+      "denominazione": "Sestriere",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "092074",
+      "denominazione": "Sestu",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015210",
+      "denominazione": "Settala",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "060072",
+      "denominazione": "Settefrati",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005106",
+      "denominazione": "Settime",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015211",
+      "denominazione": "Settimo Milanese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001264",
+      "denominazione": "Settimo Rottaro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "092075",
+      "denominazione": "Settimo San Pietro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001265",
+      "denominazione": "Settimo Torinese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001266",
+      "denominazione": "Settimo Vittone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "079131",
+      "denominazione": "Settingiano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111080,
+      "denominazione": "Setzu",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111081,
+      "denominazione": "Seui",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111082,
+      "denominazione": "Seulo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 108040,
+      "denominazione": "Seveso",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006161",
+      "denominazione": "Sezzadio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "059028",
+      "denominazione": "Sezze",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022173",
+      "denominazione": "Sfruz",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "032005",
+      "denominazione": "Sgonico",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "060073",
+      "denominazione": "Sgurgola",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095056",
+      "denominazione": "Siamaggiore",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095057",
+      "denominazione": "Siamanna",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065142",
+      "denominazione": "Siano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095076",
+      "denominazione": "Siapiccia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065143",
+      "denominazione": "Sicignano degli Alburni",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "084042",
+      "denominazione": "Siculiana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111083,
+      "denominazione": "Siddi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080088",
+      "denominazione": "Siderno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "052032",
+      "denominazione": "Siena",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "054049",
+      "denominazione": "Sigillo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "048044",
+      "denominazione": "Signa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021093",
+      "denominazione": "Silandro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "091083",
+      "denominazione": "Silanus",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "026081",
+      "denominazione": "Silea",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "090068",
+      "denominazione": "Siligo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111084,
+      "denominazione": "Siliqua",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111085,
+      "denominazione": "Silius",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "046037",
+      "denominazione": "Sillano Giuncugnano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "003138",
+      "denominazione": "Sillavengo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018149",
+      "denominazione": "Silvano Pietra",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006162",
+      "denominazione": "Silvano d'Orba",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "067040",
+      "denominazione": "Silvi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095058",
+      "denominazione": "Simala",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095059",
+      "denominazione": "Simaxis",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 102038,
+      "denominazione": "Simbario",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "079133",
+      "denominazione": "Simeri Crichi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083095",
+      "denominazione": "Sinagra",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "052033",
+      "denominazione": "Sinalunga",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "091084",
+      "denominazione": "Sindia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095060",
+      "denominazione": "Sini",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004220",
+      "denominazione": "Sinio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "091085",
+      "denominazione": "Siniscola",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "092080",
+      "denominazione": "Sinnai",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080089",
+      "denominazione": "Sinopoli",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "089017",
+      "denominazione": "Siracusa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064100",
+      "denominazione": "Sirignano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095061",
+      "denominazione": "Siris",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017179",
+      "denominazione": "Sirmione",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "042048",
+      "denominazione": "Sirolo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "097075",
+      "denominazione": "Sirone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "097076",
+      "denominazione": "Sirtori",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "034049",
+      "denominazione": "Sissa Trecasali",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111086,
+      "denominazione": "Siurgus Donigala",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018150",
+      "denominazione": "Siziano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "003139",
+      "denominazione": "Sizzano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021094",
+      "denominazione": "Sluderno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 109039,
+      "denominazione": "Smerillo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "023081",
+      "denominazione": "Soave",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "030110",
+      "denominazione": "Socchieve",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095078",
+      "denominazione": "Soddì",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075075",
+      "denominazione": "Sogliano Cavour",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "040046",
+      "denominazione": "Sogliano al Rubicone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "005107",
+      "denominazione": "Soglio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017180",
+      "denominazione": "Soiano del Lago",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024101",
+      "denominazione": "Solagna",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "089018",
+      "denominazione": "Solarino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "015213",
+      "denominazione": "Solaro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "039018",
+      "denominazione": "Solarolo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "019096",
+      "denominazione": "Solarolo Rainerio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095062",
+      "denominazione": "Solarussa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "013215",
+      "denominazione": "Solbiate",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "012121",
+      "denominazione": "Solbiate Arno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "012122",
+      "denominazione": "Solbiate Olona",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "013255",
+      "denominazione": "Solbiate con Cagno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "008058",
+      "denominazione": "Soldano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111087,
+      "denominazione": "Soleminis",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006163",
+      "denominazione": "Solero",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "028087",
+      "denominazione": "Solesino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075076",
+      "denominazione": "Soleto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "020063",
+      "denominazione": "Solferino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "036044",
+      "denominazione": "Soliera",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "034035",
+      "denominazione": "Solignano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064101",
+      "denominazione": "Solofra",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006164",
+      "denominazione": "Solonghello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "062073",
+      "denominazione": "Solopaca",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016200",
+      "denominazione": "Solto Collina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016251",
+      "denominazione": "Solza",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "098054",
+      "denominazione": "Somaglia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004221",
+      "denominazione": "Somano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "012123",
+      "denominazione": "Somma Lombardo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "063079",
+      "denominazione": "Somma Vesuviana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "023082",
+      "denominazione": "Sommacampagna",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004223",
+      "denominazione": "Sommariva Perno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004222",
+      "denominazione": "Sommariva del Bosco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "085019",
+      "denominazione": "Sommatino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018151",
+      "denominazione": "Sommo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "023083",
+      "denominazione": "Sona",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "019097",
+      "denominazione": "Soncino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "014060",
+      "denominazione": "Sondalo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "014061",
+      "denominazione": "Sondrio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016201",
+      "denominazione": "Songavazzo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017181",
+      "denominazione": "Sonico",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "059029",
+      "denominazione": "Sonnino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "096062",
+      "denominazione": "Soprana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "060074",
+      "denominazione": "Sora",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022176",
+      "denominazione": "Soraga di Fassa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "034036",
+      "denominazione": "Soragna",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "053026",
+      "denominazione": "Sorano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "079134",
+      "denominazione": "Sorbo San Basile",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064102",
+      "denominazione": "Sorbo Serpico",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "034037",
+      "denominazione": "Sorbolo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "034051",
+      "denominazione": "Sorbolo Mezzani",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "096063",
+      "denominazione": "Sordevolo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "098055",
+      "denominazione": "Sordio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "019098",
+      "denominazione": "Soresina",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "091086",
+      "denominazione": "Sorgono",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "023084",
+      "denominazione": "Sorgà",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "010060",
+      "denominazione": "Sori",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 102039,
+      "denominazione": "Sorianello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 102040,
+      "denominazione": "Soriano Calabro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "056048",
+      "denominazione": "Soriano nel Cimino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "013216",
+      "denominazione": "Sorico",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "003140",
+      "denominazione": "Soriso",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016202",
+      "denominazione": "Sorisole",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "013217",
+      "denominazione": "Sormano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095063",
+      "denominazione": "Sorradile",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "063080",
+      "denominazione": "Sorrento",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "090069",
+      "denominazione": "Sorso",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "089019",
+      "denominazione": "Sortino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "019099",
+      "denominazione": "Sospiro",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "025056",
+      "denominazione": "Sospirolo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024102",
+      "denominazione": "Sossano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "096064",
+      "denominazione": "Sostegno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016203",
+      "denominazione": "Sotto il Monte Giovanni XXIII",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022177",
+      "denominazione": "Sover",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "079137",
+      "denominazione": "Soverato",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016204",
+      "denominazione": "Sovere",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "079138",
+      "denominazione": "Soveria Mannelli",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "079139",
+      "denominazione": "Soveria Simeri",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "025057",
+      "denominazione": "Soverzene",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "052034",
+      "denominazione": "Sovicille",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 108041,
+      "denominazione": "Sovico",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "024103",
+      "denominazione": "Sovizzo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "025058",
+      "denominazione": "Sovramonte",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "003141",
+      "denominazione": "Sozzago",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083096",
+      "denominazione": "Spadafora",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 102041,
+      "denominazione": "Spadola",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "061089",
+      "denominazione": "Sparanise",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001267",
+      "denominazione": "Sparone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075077",
+      "denominazione": "Specchia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "054050",
+      "denominazione": "Spello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "086017",
+      "denominazione": "Sperlinga",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "059030",
+      "denominazione": "Sperlonga",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064103",
+      "denominazione": "Sperone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018152",
+      "denominazione": "Spessa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078142",
+      "denominazione": "Spezzano Albanese",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "078143",
+      "denominazione": "Spezzano della Sila",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022179",
+      "denominazione": "Spiazzo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006165",
+      "denominazione": "Spigno Monferrato",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "059031",
+      "denominazione": "Spigno Saturnia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "036045",
+      "denominazione": "Spilamberto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "093044",
+      "denominazione": "Spilimbergo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 102042,
+      "denominazione": "Spilinga",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "019100",
+      "denominazione": "Spinadesco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 110008,
+      "denominazione": "Spinazzola",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "027038",
+      "denominazione": "Spinea",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "019101",
+      "denominazione": "Spineda",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "070076",
+      "denominazione": "Spinete",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006166",
+      "denominazione": "Spineto Scrivia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "044071",
+      "denominazione": "Spinetoli",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "019102",
+      "denominazione": "Spino d'Adda",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016205",
+      "denominazione": "Spinone al Lago",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "076086",
+      "denominazione": "Spinoso",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016206",
+      "denominazione": "Spirano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "054051",
+      "denominazione": "Spoleto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "068041",
+      "denominazione": "Spoltore",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075078",
+      "denominazione": "Spongano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022180",
+      "denominazione": "Spormaggiore",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022181",
+      "denominazione": "Sporminore",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "009057",
+      "denominazione": "Spotorno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "026082",
+      "denominazione": "Spresiano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "014062",
+      "denominazione": "Spriana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "079142",
+      "denominazione": "Squillace",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075079",
+      "denominazione": "Squinzano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "042049",
+      "denominazione": "Staffolo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "019103",
+      "denominazione": "Stagno Lombardo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080090",
+      "denominazione": "Staiti",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "079143",
+      "denominazione": "Stalettì",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "028088",
+      "denominazione": "Stanghella",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "031023",
+      "denominazione": "Staranzano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "073029",
+      "denominazione": "Statte",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006167",
+      "denominazione": "Stazzano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "046030",
+      "denominazione": "Stazzema",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "013218",
+      "denominazione": "Stazzona",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 102043,
+      "denominazione": "Stefanaconi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "009058",
+      "denominazione": "Stella",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065144",
+      "denominazione": "Stella Cilento",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "009059",
+      "denominazione": "Stellanello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021095",
+      "denominazione": "Stelvio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022182",
+      "denominazione": "Stenico",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075080",
+      "denominazione": "Sternatia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016207",
+      "denominazione": "Stezzano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "029045",
+      "denominazione": "Stienta",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "077027",
+      "denominazione": "Stigliano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080091",
+      "denominazione": "Stignano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "080092",
+      "denominazione": "Stilo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "057066",
+      "denominazione": "Stimigliano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "090089",
+      "denominazione": "Stintino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "065145",
+      "denominazione": "Stio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "071054",
+      "denominazione": "Stornara",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "071055",
+      "denominazione": "Stornarella",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022183",
+      "denominazione": "Storo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "027039",
+      "denominazione": "Stra",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018153",
+      "denominazione": "Stradella",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001268",
+      "denominazione": "Strambinello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001269",
+      "denominazione": "Strambino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "060075",
+      "denominazione": "Strangolagalli",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "030111",
+      "denominazione": "Stregna",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022184",
+      "denominazione": "Strembo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 103064,
+      "denominazione": "Stresa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "006168",
+      "denominazione": "Strevi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "063081",
+      "denominazione": "Striano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "096065",
+      "denominazione": "Strona",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "055031",
+      "denominazione": "Stroncone",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 101025,
+      "denominazione": "Strongoli",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "002142",
+      "denominazione": "Stroppiana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "004224",
+      "denominazione": "Stroppo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016208",
+      "denominazione": "Strozza",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064104",
+      "denominazione": "Sturno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "018154",
+      "denominazione": "Suardi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "051037",
+      "denominazione": "Subbiano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "058103",
+      "denominazione": "Subiaco",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "061090",
+      "denominazione": "Succivo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "097077",
+      "denominazione": "Sueglio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111088,
+      "denominazione": "Suelli",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "097078",
+      "denominazione": "Suello",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016209",
+      "denominazione": "Suisio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 108042,
+      "denominazione": "Sulbiate",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "066098",
+      "denominazione": "Sulmona",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017182",
+      "denominazione": "Sulzano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "012124",
+      "denominazione": "Sumirago",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "064105",
+      "denominazione": "Summonte",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095087",
+      "denominazione": "Suni",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "003143",
+      "denominazione": "Suno",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075081",
+      "denominazione": "Supersano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "060076",
+      "denominazione": "Supino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075082",
+      "denominazione": "Surano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075083",
+      "denominazione": "Surbo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001270",
+      "denominazione": "Susa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "026083",
+      "denominazione": "Susegana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "020064",
+      "denominazione": "Sustinente",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "085020",
+      "denominazione": "Sutera",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "056049",
+      "denominazione": "Sutri",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "030112",
+      "denominazione": "Sutrio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "049020",
+      "denominazione": "Suvereto",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "020065",
+      "denominazione": "Suzzara",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "022250",
+      "denominazione": "Sèn Jan di Fassa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    }
+  ]
+}

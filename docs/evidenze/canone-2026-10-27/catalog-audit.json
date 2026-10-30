@@ -1,0 +1,2085 @@
+{
+  "date": "2026-10-27",
+  "method": "XML global tag scan and scoped type counts; text clues are an explicit non-exhaustive selection, not automatic tariff classification. Public page cards parsed without following supplier links.",
+  "xml": {
+    "20261026-E": {
+      "source": {
+        "path": "/tmp/la-mia-bolletta-20261026-E.xml",
+        "bytes": 21147758,
+        "sha256": "ee9e28869584977fe72cc57ba43ca130c7ee284bdd90777db2e72ec00a910861"
+      },
+      "global_special_tags": {},
+      "scopes": {
+        "all": {
+          "offers": 3657,
+          "types": {
+            "02": 2954,
+            "01": 703
+          },
+          "keyword_offers": {
+            "canone": 63,
+            "rata": 86,
+            "flat": 26,
+            "taglia": 0
+          },
+          "rate_phrase_offers": 33,
+          "rate_phrase_suppliers": 12
+        },
+        "domestic": {
+          "offers": 1989,
+          "types": {
+            "02": 1497,
+            "01": 492
+          },
+          "keyword_offers": {
+            "canone": 45,
+            "rata": 68,
+            "flat": 25,
+            "taglia": 0
+          },
+          "rate_phrase_offers": 28,
+          "rate_phrase_suppliers": 12
+        },
+        "scope": {
+          "offers": 1931,
+          "types": {
+            "02": 1469,
+            "01": 462
+          },
+          "keyword_offers": {
+            "canone": 44,
+            "rata": 64,
+            "flat": 25,
+            "taglia": 0
+          },
+          "rate_phrase_offers": 28,
+          "rate_phrase_suppliers": 12
+        }
+      },
+      "rate_phrase_records": [
+        {
+          "code": "025280ESFML02XXXXXXXXXXELS26AXDO",
+          "name": "No_Stress_Family_DO_Mono_Lumen",
+          "supplier_vat": "02575910415",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "025280ESFML02XXXXX26XNSFAMILYXDO",
+          "name": "Fisso_No_Stress_Family_DO",
+          "supplier_vat": "02575910415",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "000398ESFML07XXBDSIZCORA26100060",
+          "name": "LUCE SICURO Rata Costante",
+          "supplier_vat": "01967760180",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "000732ESFML01XXEQED2610XXXXXXXXX",
+          "name": "EQUA LUCE",
+          "supplier_vat": "01262680190",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "022112ESFML01XXXXXXXXXXEFL26BXDO",
+          "name": "Fisso_EEL_Fisso 2.0_DO",
+          "supplier_vat": "06469960485",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "022112ESFML02XXXXXXXXXXEFL26AXDO",
+          "name": "Fisso_EEL_Fisso 2.0_DO",
+          "supplier_vat": "06469960485",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "002521ESFML03XX000000000000EPSDO",
+          "name": "Famiglia_Spensierata_+",
+          "supplier_vat": "06017420487",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "002505ESVFL03XX00000000EEGRATAKN",
+          "name": "Gelsia Rata Fissa Luce",
+          "supplier_vat": "05970420963",
+          "offer_type": "02",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "000208ESFML07XX00IEDOFLATS261027",
+          "name": "IREN SMART NO STRESS LUCE VERDE",
+          "supplier_vat": "01178580997",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "028280ESFML01XXXXXXXEDL26BXDOXRF",
+          "name": "Fisso_Rata_Costante_Luce_Home_EE_DO",
+          "supplier_vat": "02306970514",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "036327ESFML13XX261009REPENGXXXXX",
+          "name": "Poste Energia Luce",
+          "supplier_vat": "06874351007",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "036327ESFML13XX261009REPWBYTIMXX",
+          "name": "TIM Energia Luce Special",
+          "supplier_vat": "06874351007",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "036327ESFML13XX261009REPWBYXXXXX",
+          "name": "TIM Energia Luce ",
+          "supplier_vat": "06874351007",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227ESFML15XX38600002026T64075",
+          "name": "Tea Zen Luce",
+          "supplier_vat": "02125710208",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227ESFML01XX38600002026T65001",
+          "name": "Tea Zen Luce Business",
+          "supplier_vat": "02125710208",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227ESFML15XX38600002026T64078",
+          "name": "Tea Zen Luce",
+          "supplier_vat": "02125710208",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227ESFML01XX38600002026T65005",
+          "name": "Tea Zen Luce Business",
+          "supplier_vat": "02125710208",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227ESFML15XX38600002026T64076",
+          "name": "Tea Zen Luce",
+          "supplier_vat": "02125710208",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227ESFML15XX38600002026T64077",
+          "name": "Tea Zen Luce",
+          "supplier_vat": "02125710208",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227ESFML01XX38600002026T65002",
+          "name": "Tea Zen Luce Business",
+          "supplier_vat": "02125710208",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227ESFML01XX38600002026T65004",
+          "name": "Tea Zen Luce Business",
+          "supplier_vat": "02125710208",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227ESFML15XX38600002026T64079",
+          "name": "Tea Zen Luce",
+          "supplier_vat": "02125710208",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227ESFML01XX38600002026T65003",
+          "name": "Tea Zen Luce Business",
+          "supplier_vat": "02125710208",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227ESFML01XX38600002026T65006",
+          "name": "Tea Zen Luce Business",
+          "supplier_vat": "02125710208",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227ESFML15XX38600002026T64080",
+          "name": "Tea Zen Luce",
+          "supplier_vat": "02125710208",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001293ESFML07XXEDSIZCORA26100040",
+          "name": "LUCE SICURO Rata Costante",
+          "supplier_vat": "01368720080",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "029748ESFML01XX261021LD10X000000",
+          "name": "NeN Dieci Luce",
+          "supplier_vat": "10879560968",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "029748ESFML01XX261021LDDUE000000",
+          "name": "Due Luce",
+          "supplier_vat": "10879560968",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        }
+      ]
+    },
+    "20261026-G": {
+      "source": {
+        "path": "/tmp/la-mia-bolletta-20261026-G.xml",
+        "bytes": 15043194,
+        "sha256": "b02b8dda6a452a6d563d761b49084feb14a04f346971da36eedfd25ba12ca59c"
+      },
+      "global_special_tags": {},
+      "scopes": {
+        "all": {
+          "offers": 2850,
+          "types": {
+            "02": 2433,
+            "01": 411,
+            "04": 6
+          },
+          "keyword_offers": {
+            "canone": 56,
+            "rata": 82,
+            "flat": 17,
+            "taglia": 0
+          },
+          "rate_phrase_offers": 40,
+          "rate_phrase_suppliers": 14
+        },
+        "domestic": {
+          "offers": 1623,
+          "types": {
+            "02": 1310,
+            "01": 307,
+            "04": 6
+          },
+          "keyword_offers": {
+            "canone": 39,
+            "rata": 57,
+            "flat": 16,
+            "taglia": 0
+          },
+          "rate_phrase_offers": 26,
+          "rate_phrase_suppliers": 14
+        },
+        "scope": {
+          "offers": 1570,
+          "types": {
+            "02": 1281,
+            "01": 283,
+            "04": 6
+          },
+          "keyword_offers": {
+            "canone": 37,
+            "rata": 54,
+            "flat": 16,
+            "taglia": 0
+          },
+          "rate_phrase_offers": 26,
+          "rate_phrase_suppliers": 14
+        }
+      },
+      "rate_phrase_records": [
+        {
+          "code": "000715GSVML01XXGMENERGIAFLAT2507",
+          "name": "ACOS ENERGIA FLAT",
+          "supplier_vat": "01967280064",
+          "offer_type": "02",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": false,
+            "flat": true,
+            "taglia": false
+          }
+        },
+        {
+          "code": "025280GSFML02XXXXX26XNSFAMILYXDO",
+          "name": "GAS_Fisso_No_Stress_Family_DO",
+          "supplier_vat": "02575910415",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "025280GSFML02XXXXXXXXXXELS26AXDO",
+          "name": "GAS_No_Stress_Family_DO_Lumen",
+          "supplier_vat": "02575910415",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "000398GSFML01XX000UEGSICO12R1026",
+          "name": "CALORE SICURO RATA COSTANTE",
+          "supplier_vat": "01967760180",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "000732GSFML01XXEQGD2610XXXXXXXXX",
+          "name": "EQUA GAS",
+          "supplier_vat": "01262680190",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "022112GSFML02XXXXXXXXXXEFL26AXDO",
+          "name": "Fisso_GAS_Fisso 2.0_DO",
+          "supplier_vat": "06469960485",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "002521GSFML03XX000000000000EPSDO",
+          "name": "Famiglia_Spensierata_+_Gas",
+          "supplier_vat": "06017420487",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "002505GSVML03XX00000000GMGRATAKN",
+          "name": "Gelsia Rata Fissa Gas",
+          "supplier_vat": "05970420963",
+          "offer_type": "02",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "000208GSFML25XX00IGDOFLATG261027",
+          "name": "IREN NO STRESS GAS",
+          "supplier_vat": "01178580997",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "036327GSFML13XX261009REPENGXXXXX",
+          "name": "Poste Energia Gas",
+          "supplier_vat": "06874351007",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "000075GSVML01XX00000020261001GIC",
+          "name": "GAS INDEX CASA",
+          "supplier_vat": "01495220475",
+          "offer_type": "02",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "000075GSVML01XX00020261001GICWEB",
+          "name": "GAS INDEX CASA WEB",
+          "supplier_vat": "01495220475",
+          "offer_type": "02",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "000075GSVML01XX0000020261001GICS",
+          "name": "GAS INDEX CASA SWITCH",
+          "supplier_vat": "01495220475",
+          "offer_type": "02",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "000075GSFML01XX0000020261001GFCS",
+          "name": "GAS FIX CASA SWITCH",
+          "supplier_vat": "01495220475",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "000075GSFML01XX00000020261001GFC",
+          "name": "GAS FIX CASA",
+          "supplier_vat": "01495220475",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "000075GSFML01XX00020261001GFCWEB",
+          "name": "GAS FIX CASA WEB",
+          "supplier_vat": "01495220475",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "000753GSVML10XXG0089PB3775261022",
+          "name": "FACILE GAS CASA PROMO",
+          "supplier_vat": "01877220366",
+          "offer_type": "02",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227GSFML15XX38600002026T63079",
+          "name": "Tea Zen Gas",
+          "supplier_vat": "02125710208",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227GSFML15XX38600002026T63080",
+          "name": "Tea Zen Gas",
+          "supplier_vat": "02125710208",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227GSFML15XX38600002026T63076",
+          "name": "Tea Zen Gas",
+          "supplier_vat": "02125710208",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227GSFML15XX38600002026T63078",
+          "name": "Tea Zen Gas",
+          "supplier_vat": "02125710208",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227GSVML05XX38600002026T62010",
+          "name": "TeaGasNew",
+          "supplier_vat": "02125710208",
+          "offer_type": "02",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227GSFML15XX38600002026T63077",
+          "name": "Tea Zen Gas",
+          "supplier_vat": "02125710208",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227GSFML15XX38600002026T63075",
+          "name": "Tea Zen Gas",
+          "supplier_vat": "02125710208",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001293GSFML01XX000UEGSICO12R1026",
+          "name": "CALORE SICURO RATA COSTANTE",
+          "supplier_vat": "01368720080",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "029748GSFML01XX261021GDDUE000000",
+          "name": "Due Gas",
+          "supplier_vat": "10879560968",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        }
+      ]
+    },
+    "20261027-E": {
+      "source": {
+        "path": "/tmp/la-mia-bolletta-20261027-E.xml",
+        "bytes": 20911505,
+        "sha256": "7c01ff47e716f5de6743d27f5489d0fd6e84fea4dc03f73148e38b8fc09b4c7a"
+      },
+      "global_special_tags": {},
+      "scopes": {
+        "all": {
+          "offers": 3626,
+          "types": {
+            "02": 2955,
+            "01": 670,
+            "04": 1
+          },
+          "keyword_offers": {
+            "canone": 64,
+            "rata": 86,
+            "flat": 20,
+            "taglia": 0
+          },
+          "rate_phrase_offers": 33,
+          "rate_phrase_suppliers": 12
+        },
+        "domestic": {
+          "offers": 1974,
+          "types": {
+            "02": 1502,
+            "01": 472
+          },
+          "keyword_offers": {
+            "canone": 46,
+            "rata": 68,
+            "flat": 19,
+            "taglia": 0
+          },
+          "rate_phrase_offers": 28,
+          "rate_phrase_suppliers": 12
+        },
+        "scope": {
+          "offers": 1916,
+          "types": {
+            "02": 1474,
+            "01": 442
+          },
+          "keyword_offers": {
+            "canone": 45,
+            "rata": 64,
+            "flat": 19,
+            "taglia": 0
+          },
+          "rate_phrase_offers": 28,
+          "rate_phrase_suppliers": 12
+        }
+      },
+      "rate_phrase_records": [
+        {
+          "code": "025280ESFML02XXXXX26XNSFAMILYXDO",
+          "name": "Fisso_No_Stress_Family_DO",
+          "supplier_vat": "02575910415",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "025280ESFML02XXXXXXXXXXELS26AXDO",
+          "name": "No_Stress_Family_DO_Mono_Lumen",
+          "supplier_vat": "02575910415",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "000398ESFML07XXBDSIZCORA26100060",
+          "name": "LUCE SICURO Rata Costante",
+          "supplier_vat": "01967760180",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "000732ESFML01XXEQED2610XXXXXXXXX",
+          "name": "EQUA LUCE",
+          "supplier_vat": "01262680190",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "022112ESFML02XXXXXXXXXXEFL26AXDO",
+          "name": "Fisso_EEL_Fisso 2.0_DO",
+          "supplier_vat": "06469960485",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "022112ESFML01XXXXXXXXXXEFL26BXDO",
+          "name": "Fisso_EEL_Fisso 2.0_DO",
+          "supplier_vat": "06469960485",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "002521ESFML03XX000000000000EPSDO",
+          "name": "Famiglia_Spensierata_+",
+          "supplier_vat": "06017420487",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "002505ESVFL03XX00000000EEGRATAKN",
+          "name": "Gelsia Rata Fissa Luce",
+          "supplier_vat": "05970420963",
+          "offer_type": "02",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "000208ESFML07XX00IEDOFLATS261027",
+          "name": "IREN SMART NO STRESS LUCE VERDE",
+          "supplier_vat": "01178580997",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "028280ESFML01XXXXXXXEDL26BXDOXRF",
+          "name": "Fisso_Rata_Costante_Luce_Home_EE_DO",
+          "supplier_vat": "02306970514",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "036327ESFML13XX261009REPWBYXXXXX",
+          "name": "TIM Energia Luce ",
+          "supplier_vat": "06874351007",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "036327ESFML13XX261009REPWBYTIMXX",
+          "name": "TIM Energia Luce Special",
+          "supplier_vat": "06874351007",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "036327ESFML13XX261009REPENGXXXXX",
+          "name": "Poste Energia Luce",
+          "supplier_vat": "06874351007",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227ESFML15XX38600002026T64080",
+          "name": "Tea Zen Luce",
+          "supplier_vat": "02125710208",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227ESFML01XX38600002026T65001",
+          "name": "Tea Zen Luce Business",
+          "supplier_vat": "02125710208",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227ESFML01XX38600002026T65005",
+          "name": "Tea Zen Luce Business",
+          "supplier_vat": "02125710208",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227ESFML01XX38600002026T65002",
+          "name": "Tea Zen Luce Business",
+          "supplier_vat": "02125710208",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227ESFML15XX38600002026T64077",
+          "name": "Tea Zen Luce",
+          "supplier_vat": "02125710208",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227ESFML01XX38600002026T65004",
+          "name": "Tea Zen Luce Business",
+          "supplier_vat": "02125710208",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227ESFML15XX38600002026T64079",
+          "name": "Tea Zen Luce",
+          "supplier_vat": "02125710208",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227ESFML15XX38600002026T64076",
+          "name": "Tea Zen Luce",
+          "supplier_vat": "02125710208",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227ESFML15XX38600002026T64075",
+          "name": "Tea Zen Luce",
+          "supplier_vat": "02125710208",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227ESFML15XX38600002026T64078",
+          "name": "Tea Zen Luce",
+          "supplier_vat": "02125710208",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227ESFML01XX38600002026T65006",
+          "name": "Tea Zen Luce Business",
+          "supplier_vat": "02125710208",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227ESFML01XX38600002026T65003",
+          "name": "Tea Zen Luce Business",
+          "supplier_vat": "02125710208",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001293ESFML07XXEDSIZCORA26100040",
+          "name": "LUCE SICURO Rata Costante",
+          "supplier_vat": "01368720080",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "029748ESFML01XX261021LD10X000000",
+          "name": "NeN Dieci Luce",
+          "supplier_vat": "10879560968",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "029748ESFML01XX261021LDDUE000000",
+          "name": "Due Luce",
+          "supplier_vat": "10879560968",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        }
+      ]
+    },
+    "20261027-G": {
+      "source": {
+        "path": "/tmp/la-mia-bolletta-20261027-G.xml",
+        "bytes": 14873179,
+        "sha256": "1c8c944a6911980c9946ea58e0fdd1b60cbeb795634e07e73f324eb75ae558df"
+      },
+      "global_special_tags": {},
+      "scopes": {
+        "all": {
+          "offers": 2830,
+          "types": {
+            "02": 2429,
+            "01": 395,
+            "04": 6
+          },
+          "keyword_offers": {
+            "canone": 56,
+            "rata": 82,
+            "flat": 14,
+            "taglia": 0
+          },
+          "rate_phrase_offers": 40,
+          "rate_phrase_suppliers": 14
+        },
+        "domestic": {
+          "offers": 1624,
+          "types": {
+            "02": 1316,
+            "01": 302,
+            "04": 6
+          },
+          "keyword_offers": {
+            "canone": 39,
+            "rata": 57,
+            "flat": 13,
+            "taglia": 0
+          },
+          "rate_phrase_offers": 26,
+          "rate_phrase_suppliers": 14
+        },
+        "scope": {
+          "offers": 1571,
+          "types": {
+            "02": 1287,
+            "01": 278,
+            "04": 6
+          },
+          "keyword_offers": {
+            "canone": 37,
+            "rata": 54,
+            "flat": 13,
+            "taglia": 0
+          },
+          "rate_phrase_offers": 26,
+          "rate_phrase_suppliers": 14
+        }
+      },
+      "rate_phrase_records": [
+        {
+          "code": "000715GSVML01XXGMENERGIAFLAT2507",
+          "name": "ACOS ENERGIA FLAT",
+          "supplier_vat": "01967280064",
+          "offer_type": "02",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": false,
+            "flat": true,
+            "taglia": false
+          }
+        },
+        {
+          "code": "025280GSFML02XXXXX26XNSFAMILYXDO",
+          "name": "GAS_Fisso_No_Stress_Family_DO",
+          "supplier_vat": "02575910415",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "025280GSFML02XXXXXXXXXXELS26AXDO",
+          "name": "GAS_No_Stress_Family_DO_Lumen",
+          "supplier_vat": "02575910415",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "000398GSFML01XX000UEGSICO12R1026",
+          "name": "CALORE SICURO RATA COSTANTE",
+          "supplier_vat": "01967760180",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "000732GSFML01XXEQGD2610XXXXXXXXX",
+          "name": "EQUA GAS",
+          "supplier_vat": "01262680190",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "022112GSFML02XXXXXXXXXXEFL26AXDO",
+          "name": "Fisso_GAS_Fisso 2.0_DO",
+          "supplier_vat": "06469960485",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "002521GSFML03XX000000000000EPSDO",
+          "name": "Famiglia_Spensierata_+_Gas",
+          "supplier_vat": "06017420487",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "002505GSVML03XX00000000GMGRATAKN",
+          "name": "Gelsia Rata Fissa Gas",
+          "supplier_vat": "05970420963",
+          "offer_type": "02",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "000208GSFML25XX00IGDOFLATG261027",
+          "name": "IREN NO STRESS GAS",
+          "supplier_vat": "01178580997",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "036327GSFML13XX261009REPENGXXXXX",
+          "name": "Poste Energia Gas",
+          "supplier_vat": "06874351007",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "000075GSVML01XX0000020261001GICS",
+          "name": "GAS INDEX CASA SWITCH",
+          "supplier_vat": "01495220475",
+          "offer_type": "02",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "000075GSFML01XX0000020261001GFCS",
+          "name": "GAS FIX CASA SWITCH",
+          "supplier_vat": "01495220475",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "000075GSVML01XX00020261001GICWEB",
+          "name": "GAS INDEX CASA WEB",
+          "supplier_vat": "01495220475",
+          "offer_type": "02",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "000075GSVML01XX00000020261001GIC",
+          "name": "GAS INDEX CASA",
+          "supplier_vat": "01495220475",
+          "offer_type": "02",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "000075GSFML01XX00000020261001GFC",
+          "name": "GAS FIX CASA",
+          "supplier_vat": "01495220475",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "000075GSFML01XX00020261001GFCWEB",
+          "name": "GAS FIX CASA WEB",
+          "supplier_vat": "01495220475",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "000753GSVML10XXG0089PB3775261022",
+          "name": "FACILE GAS CASA PROMO",
+          "supplier_vat": "01877220366",
+          "offer_type": "02",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227GSFML15XX38600002026T63080",
+          "name": "Tea Zen Gas",
+          "supplier_vat": "02125710208",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227GSFML15XX38600002026T63075",
+          "name": "Tea Zen Gas",
+          "supplier_vat": "02125710208",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227GSFML15XX38600002026T63078",
+          "name": "Tea Zen Gas",
+          "supplier_vat": "02125710208",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227GSFML15XX38600002026T63077",
+          "name": "Tea Zen Gas",
+          "supplier_vat": "02125710208",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227GSVML05XX38600002026T62010",
+          "name": "TeaGasNew",
+          "supplier_vat": "02125710208",
+          "offer_type": "02",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227GSFML15XX38600002026T63079",
+          "name": "Tea Zen Gas",
+          "supplier_vat": "02125710208",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001227GSFML15XX38600002026T63076",
+          "name": "Tea Zen Gas",
+          "supplier_vat": "02125710208",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": true,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "001293GSFML01XX000UEGSICO12R1026",
+          "name": "CALORE SICURO RATA COSTANTE",
+          "supplier_vat": "01368720080",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        },
+        {
+          "code": "029748GSFML01XX261021GDDUE000000",
+          "name": "Due Gas",
+          "supplier_vat": "10879560968",
+          "offer_type": "01",
+          "domestic": true,
+          "in_scope": true,
+          "rate_phrase": true,
+          "keywords": {
+            "canone": false,
+            "rata": true,
+            "flat": false,
+            "taglia": false
+          }
+        }
+      ]
+    }
+  },
+  "noncomparable_pages": {
+    "E": {
+      "source": {
+        "path": "/tmp/portale-nonconfrontabili-E-20261027.html",
+        "bytes": 2898641,
+        "sha256": "da0645af1d275a90074ca6ba92cc6f629006ea2b295d2b2b557e939948bb13b6"
+      },
+      "official_url": "https://www.ilportaleofferte.it/portaleOfferte/it/offerte-non-confrontabili.page?commodityType=ELETTRICO",
+      "declared_count": 1058,
+      "parsed_count": 1058,
+      "unique_page_modal_ids": 1058,
+      "caveat": "These are public page identifiers, not COD_OFFERTA. No structured domestic/switching eligibility fields exposed by the cards. No annual price calculation is inferred.",
+      "selected_cases": [
+        {
+          "page_modal_id": "modal-14144",
+          "name": "CASA MIA NO STRESS_2500",
+          "vendor": "VENETO GAS&POWER SRL",
+          "validity_text": "Valida dal Sat Oct 24 00:00:00 CEST 2026 al Thu Dec 31 23:59:59 CET 2026",
+          "description_sha256": "46fcd7d9e097f721c184e30a06b6a219d1bd5f33a3a673ce072b822775dec197",
+          "selected_canone_or_rate_case": true
+        },
+        {
+          "page_modal_id": "modal-14146",
+          "name": "Fastweb Luce Flat Light",
+          "vendor": "Fastweb S.p.A.",
+          "validity_text": "Valida dal Sat Oct 24 00:00:00 CEST 2026 al Sun Nov 15 23:59:59 CET 2026",
+          "description_sha256": "b07f8d7b294ad435cfeb25e14f3aceea66f40d89d582a1e89426d97a2e33ea90",
+          "annual_fee_text_eur": "768",
+          "included_volume_text": "1500",
+          "excess_unit_price_text_eur": "0,28",
+          "monthly_discount_text_eur": "10",
+          "described_as_domestic": true,
+          "tax_inclusion_statement_present": true,
+          "requires_electricity_contract": false,
+          "discount_requires_telecom_contract": true,
+          "underconsumption_settlement_described": true,
+          "selected_canone_or_rate_case": true
+        },
+        {
+          "page_modal_id": "modal-14148",
+          "name": "Fastweb Luce Flat Pro",
+          "vendor": "Fastweb S.p.A.",
+          "validity_text": "Valida dal Sat Oct 24 00:00:00 CEST 2026 al Sun Nov 15 23:59:59 CET 2026",
+          "description_sha256": "bf33242d78db3a55505e4d0dc6ff6090ceb9915e5c4c373aae72f497a94801e3",
+          "annual_fee_text_eur": "1.044",
+          "included_volume_text": "2500",
+          "excess_unit_price_text_eur": "0,27",
+          "monthly_discount_text_eur": "10",
+          "described_as_domestic": true,
+          "tax_inclusion_statement_present": true,
+          "requires_electricity_contract": false,
+          "discount_requires_telecom_contract": true,
+          "underconsumption_settlement_described": true,
+          "selected_canone_or_rate_case": true
+        },
+        {
+          "page_modal_id": "modal-14143",
+          "name": "CASA MIA NO STRESS_1500",
+          "vendor": "VENETO GAS&POWER SRL",
+          "validity_text": "Valida dal Sat Oct 24 00:00:00 CEST 2026 al Thu Dec 31 23:59:59 CET 2026",
+          "description_sha256": "f8eb1e82d81247da3ffc74fb351c63251bebdd133f321d18c8ec0a04680c5fd0",
+          "selected_canone_or_rate_case": true
+        },
+        {
+          "page_modal_id": "modal-14156",
+          "name": "Fastweb Luce Flat Partner Light",
+          "vendor": "Fastweb S.p.A.",
+          "validity_text": "Valida dal Sat Oct 24 00:00:00 CEST 2026 al Sun Nov 15 23:59:59 CET 2026",
+          "description_sha256": "75528a25324777c2c1d3d7da0d55aedac19352b0985e22e6352083990d6d4881",
+          "annual_fee_text_eur": null,
+          "included_volume_text": "1500",
+          "excess_unit_price_text_eur": null,
+          "monthly_discount_text_eur": null,
+          "described_as_domestic": false,
+          "tax_inclusion_statement_present": false,
+          "requires_electricity_contract": false,
+          "discount_requires_telecom_contract": false,
+          "underconsumption_settlement_described": false,
+          "selected_canone_or_rate_case": true
+        },
+        {
+          "page_modal_id": "modal-14154",
+          "name": "Fastweb Luce Flat Ultra",
+          "vendor": "Fastweb S.p.A.",
+          "validity_text": "Valida dal Sat Oct 24 00:00:00 CEST 2026 al Sun Nov 15 23:59:59 CET 2026",
+          "description_sha256": "22c4362442838454ceccfb886b507af0dbe8a7afea6812bbf49cddf5dd578b69",
+          "annual_fee_text_eur": "1.560",
+          "included_volume_text": "4500",
+          "excess_unit_price_text_eur": "0,25",
+          "monthly_discount_text_eur": "10",
+          "described_as_domestic": true,
+          "tax_inclusion_statement_present": true,
+          "requires_electricity_contract": false,
+          "discount_requires_telecom_contract": true,
+          "underconsumption_settlement_described": true,
+          "selected_canone_or_rate_case": true
+        },
+        {
+          "page_modal_id": "modal-14147",
+          "name": "Fastweb Luce Flat Start",
+          "vendor": "Fastweb S.p.A.",
+          "validity_text": "Valida dal Sat Oct 24 00:00:00 CEST 2026 al Sun Nov 15 23:59:59 CET 2026",
+          "description_sha256": "f4204da5ae94291169c1bf0ed73d4b0ebc6be3e2645b6a34a5777be60e098d1b",
+          "annual_fee_text_eur": "564",
+          "included_volume_text": "800",
+          "excess_unit_price_text_eur": "0,30",
+          "monthly_discount_text_eur": "10",
+          "described_as_domestic": true,
+          "tax_inclusion_statement_present": true,
+          "requires_electricity_contract": false,
+          "discount_requires_telecom_contract": true,
+          "underconsumption_settlement_described": true,
+          "selected_canone_or_rate_case": true
+        },
+        {
+          "page_modal_id": "modal-14142",
+          "name": "CASA MIA NO STRESS_800",
+          "vendor": "VENETO GAS&POWER SRL",
+          "validity_text": "Valida dal Sat Oct 24 00:00:00 CEST 2026 al Thu Dec 31 23:59:59 CET 2026",
+          "description_sha256": "1451126458b655ce586ee4e7d609f5e7275d6fe343a5eac92552b84e19785b1a",
+          "selected_canone_or_rate_case": true
+        }
+      ]
+    },
+    "G": {
+      "source": {
+        "path": "/tmp/portale-nonconfrontabili-G-20261027.html",
+        "bytes": 854744,
+        "sha256": "9b2c8fcf68e99db696bc0150a50fa51375660d6449ffc5c7cdb92ae55fe92850"
+      },
+      "official_url": "https://www.ilportaleofferte.it/portaleOfferte/it/offerte-non-confrontabili.page?commodityType=GAS",
+      "declared_count": 249,
+      "parsed_count": 249,
+      "unique_page_modal_ids": 249,
+      "caveat": "These are public page identifiers, not COD_OFFERTA. No structured domestic/switching eligibility fields exposed by the cards. No annual price calculation is inferred.",
+      "selected_cases": [
+        {
+          "page_modal_id": "modal-14159",
+          "name": "Fastweb Gas Flat Ultra",
+          "vendor": "Fastweb S.p.A.",
+          "validity_text": "Valida dal Sat Oct 24 00:00:00 CEST 2026 al Sun Nov 15 23:59:59 CET 2026",
+          "description_sha256": "5e6144bb217713c02d854da260b7719915505c843115e5b51e3e66780a1ba666",
+          "annual_fee_text_eur": "1.956",
+          "included_volume_text": "1200",
+          "excess_unit_price_text_eur": "1,38",
+          "monthly_discount_text_eur": "10",
+          "described_as_domestic": true,
+          "tax_inclusion_statement_present": true,
+          "requires_electricity_contract": true,
+          "discount_requires_telecom_contract": false,
+          "underconsumption_settlement_described": true,
+          "selected_canone_or_rate_case": true
+        },
+        {
+          "page_modal_id": "modal-14158",
+          "name": "Fastweb Gas Flat Maxi",
+          "vendor": "Fastweb S.p.A.",
+          "validity_text": "Valida dal Sat Oct 24 00:00:00 CEST 2026 al Sun Nov 15 23:59:59 CET 2026",
+          "description_sha256": "205bc33d65bbb7dbd3952e0348b9f0e2691b5774300442a78d10114bacfd908c",
+          "annual_fee_text_eur": "1.536",
+          "included_volume_text": "900",
+          "excess_unit_price_text_eur": "1,42",
+          "monthly_discount_text_eur": "10",
+          "described_as_domestic": true,
+          "tax_inclusion_statement_present": true,
+          "requires_electricity_contract": true,
+          "discount_requires_telecom_contract": false,
+          "underconsumption_settlement_described": true,
+          "selected_canone_or_rate_case": true
+        },
+        {
+          "page_modal_id": "modal-14157",
+          "name": "Fastweb Gas Flat Pro",
+          "vendor": "Fastweb S.p.A.",
+          "validity_text": "Valida dal Sat Oct 24 00:00:00 CEST 2026 al Sun Nov 15 23:59:59 CET 2026",
+          "description_sha256": "8cc7876fec2ed7dadf218aa7346ebc008263d135a5114c63e5d0679f1ac4a3f0",
+          "annual_fee_text_eur": "1.104",
+          "included_volume_text": "600",
+          "excess_unit_price_text_eur": "1,46",
+          "monthly_discount_text_eur": "10",
+          "described_as_domestic": true,
+          "tax_inclusion_statement_present": true,
+          "requires_electricity_contract": true,
+          "discount_requires_telecom_contract": false,
+          "underconsumption_settlement_described": true,
+          "selected_canone_or_rate_case": true
+        },
+        {
+          "page_modal_id": "modal-14155",
+          "name": "Fastweb Gas Flat Light",
+          "vendor": "Fastweb S.p.A.",
+          "validity_text": "Valida dal Sat Oct 24 00:00:00 CEST 2026 al Sun Nov 15 23:59:59 CET 2026",
+          "description_sha256": "8d36d657e7af3bf48db890df8475a6b89f0f246da38a1342823b81e038e78e83",
+          "annual_fee_text_eur": "660",
+          "included_volume_text": "300",
+          "excess_unit_price_text_eur": "1,50",
+          "monthly_discount_text_eur": "10",
+          "described_as_domestic": true,
+          "tax_inclusion_statement_present": true,
+          "requires_electricity_contract": true,
+          "discount_requires_telecom_contract": false,
+          "underconsumption_settlement_described": true,
+          "selected_canone_or_rate_case": true
+        },
+        {
+          "page_modal_id": "modal-14151",
+          "name": "Fastweb Gas Flat Start",
+          "vendor": "Fastweb S.p.A.",
+          "validity_text": "Valida dal Sat Oct 24 00:00:00 CEST 2026 al Sun Nov 15 23:59:59 CET 2026",
+          "description_sha256": "ee36c84406f4a1a88fa01934aa8d7a66fd255bc4c849c58b11c4e499fb97557c",
+          "annual_fee_text_eur": "432",
+          "included_volume_text": "150",
+          "excess_unit_price_text_eur": "1,60",
+          "monthly_discount_text_eur": "10",
+          "described_as_domestic": true,
+          "tax_inclusion_statement_present": true,
+          "requires_electricity_contract": true,
+          "discount_requires_telecom_contract": false,
+          "underconsumption_settlement_described": true,
+          "selected_canone_or_rate_case": true
+        }
+      ]
+    }
+  }
+}

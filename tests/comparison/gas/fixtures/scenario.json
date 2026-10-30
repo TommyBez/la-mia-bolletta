@@ -1,0 +1,1477 @@
+{
+  "schemaVersion": 1,
+  "commodity": "gas",
+  "acquisitionMonth": "2026-10",
+  "acquiredAt": "2026-10-29T23:04:15.329Z",
+  "method": "portal-implicit-quarterly-v1",
+  "provenance": "inferred_from_official_simulator",
+  "coverageStart": "2026-10-01",
+  "coverageEnd": "2027-09-30",
+  "catalogVersionId": "985a3cd1e41ec2351e6075357086aece44dd8d880de426a159ce58d257a224f5",
+  "requiredAnnualFingerprints": [],
+  "evidence": [
+    {
+      "blobKey": "scenario/2026-10/8b0e2b742b6795324ef2a14e79b1c7cfccab9aa5e62735e1972bb0bb32d09bac.xml",
+      "sha256": "8b0e2b742b6795324ef2a14e79b1c7cfccab9aa5e62735e1972bb0bb32d09bac",
+      "kind": "official_offer"
+    },
+    {
+      "blobKey": "scenario/2026-10/ce657c70d4d0d518be07983a60d25681195f786acb6734c04f52b96d5f299ab2.json",
+      "sha256": "ce657c70d4d0d518be07983a60d25681195f786acb6734c04f52b96d5f299ab2",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/5ef16f31e74a32783314d35349142839ad6bb56a4ff137dd2103189027583a07.json",
+      "sha256": "5ef16f31e74a32783314d35349142839ad6bb56a4ff137dd2103189027583a07",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/bec89474ef15fc757c9144a4cf79a1c27202716770049f9c6a617a629655810f.json",
+      "sha256": "bec89474ef15fc757c9144a4cf79a1c27202716770049f9c6a617a629655810f",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/f6a12a50961582ee4411482aca541de1883be9aaaf6ab5e0077b8c38e91225d3.json",
+      "sha256": "f6a12a50961582ee4411482aca541de1883be9aaaf6ab5e0077b8c38e91225d3",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/efec93552272a9713bf912db5782be8b61f59f9f5c13cb6ee92df91b775ba3d9.json",
+      "sha256": "efec93552272a9713bf912db5782be8b61f59f9f5c13cb6ee92df91b775ba3d9",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/00f36f48fe438d4e89936134930b96e46c397121c536e0dc88fa58492fe52f25.json",
+      "sha256": "00f36f48fe438d4e89936134930b96e46c397121c536e0dc88fa58492fe52f25",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/961f3013002f5dd0a06432d2cd868255e2d423aeda6baa1239190c8af1c3c643.csv",
+      "sha256": "961f3013002f5dd0a06432d2cd868255e2d423aeda6baa1239190c8af1c3c643",
+      "kind": "official_method"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/38617307691ee15290fcbec0cf94295909f20c3f03771e06ee009ac442b2d8fc.json",
+      "sha256": "38617307691ee15290fcbec0cf94295909f20c3f03771e06ee009ac442b2d8fc",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/4e58e7637d198c7613315e2cd316c26695fe8df8a8b18f83e6347be2d59b9b3c.html.txt",
+      "sha256": "4e58e7637d198c7613315e2cd316c26695fe8df8a8b18f83e6347be2d59b9b3c",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/97d2808b435a3b975373721e050c030fc8a063f2b22acc70558f0c4f0dbd7dff.json",
+      "sha256": "97d2808b435a3b975373721e050c030fc8a063f2b22acc70558f0c4f0dbd7dff",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/e096400d0881c607ed09c4cf2e87b8231b49f721208473a8b44353dfcaed04bd.html.txt",
+      "sha256": "e096400d0881c607ed09c4cf2e87b8231b49f721208473a8b44353dfcaed04bd",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/64f13c874cc6729b0fa0d9e2774a5a0d7e135971157950632869879c03679c14.json",
+      "sha256": "64f13c874cc6729b0fa0d9e2774a5a0d7e135971157950632869879c03679c14",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/8a4dc410d3af7962f909a7e8b587ae6d47ae5c9e0653a1d90283063c9d93cc8c.html.txt",
+      "sha256": "8a4dc410d3af7962f909a7e8b587ae6d47ae5c9e0653a1d90283063c9d93cc8c",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/f2e31ff1079109a4f839a15410a20f9761ebefbedd0ddaced66e5314356a98f3.json",
+      "sha256": "f2e31ff1079109a4f839a15410a20f9761ebefbedd0ddaced66e5314356a98f3",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/2e12c8f68bd9a077e20d1d2f9d8bbe8050bf407fba88afa096c6caa989fe8730.html.txt",
+      "sha256": "2e12c8f68bd9a077e20d1d2f9d8bbe8050bf407fba88afa096c6caa989fe8730",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/ce9071061d60aa8909b7a63553f5c7fbd30e6a0097b488ea52e146a0015e882d.json",
+      "sha256": "ce9071061d60aa8909b7a63553f5c7fbd30e6a0097b488ea52e146a0015e882d",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/b7f3d6f653396d4f0ff4fb6b585991f362567703ed53e2c18b5dc91b0eb79b4f.html.txt",
+      "sha256": "b7f3d6f653396d4f0ff4fb6b585991f362567703ed53e2c18b5dc91b0eb79b4f",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/77fc84fde6ac08a2d54e0201914a8dff1543f53685027dc5110101a6662c53eb.json",
+      "sha256": "77fc84fde6ac08a2d54e0201914a8dff1543f53685027dc5110101a6662c53eb",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/9898a8f477f12e823450d8cd0b891edb1c54fd64ba1aaaf7e943b5bd55bba570.html.txt",
+      "sha256": "9898a8f477f12e823450d8cd0b891edb1c54fd64ba1aaaf7e943b5bd55bba570",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/282e5ad20a611e5c8bf04c3c02ac70a078535ce583959656f341a9fa6af1fdfb.json",
+      "sha256": "282e5ad20a611e5c8bf04c3c02ac70a078535ce583959656f341a9fa6af1fdfb",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/dfd0c55c3caa9933d63438d62cda5322ba9183f3e2c27fb41b152e4cb1caf9e7.html.txt",
+      "sha256": "dfd0c55c3caa9933d63438d62cda5322ba9183f3e2c27fb41b152e4cb1caf9e7",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/d6e33c9bc4b1c980f9d844b518ac5bedae0449e172d485b7bc66060103f04279.json",
+      "sha256": "d6e33c9bc4b1c980f9d844b518ac5bedae0449e172d485b7bc66060103f04279",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/a4ee173c6d2de1f87e734cee88db2ced649f31005d76ba5c3ef45ece6c1ac915.html.txt",
+      "sha256": "a4ee173c6d2de1f87e734cee88db2ced649f31005d76ba5c3ef45ece6c1ac915",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/aad3d791566882ca1fbd40a8f3ad08076ca5290fd2f7cd7620afc50cf285e307.json",
+      "sha256": "aad3d791566882ca1fbd40a8f3ad08076ca5290fd2f7cd7620afc50cf285e307",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/11929ecf3d7c8d67f217ada55003e42c58254ea3bf280dc09d0a2ae299b629c4.html.txt",
+      "sha256": "11929ecf3d7c8d67f217ada55003e42c58254ea3bf280dc09d0a2ae299b629c4",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/e39dd0f4d1f29ceac2b1c7bc2b508d5fb47c6be8cb79a34acd71a300e635f21e.json",
+      "sha256": "e39dd0f4d1f29ceac2b1c7bc2b508d5fb47c6be8cb79a34acd71a300e635f21e",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/0d3558bbc98aff469f419b011968229b89c4e21c77018e69df9565975a574560.html.txt",
+      "sha256": "0d3558bbc98aff469f419b011968229b89c4e21c77018e69df9565975a574560",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/60457b1577451a85dce1b8c9d284830910b8c4ec5942d1d5b003f30f46bcd5a5.json",
+      "sha256": "60457b1577451a85dce1b8c9d284830910b8c4ec5942d1d5b003f30f46bcd5a5",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/75f4bc2d637c564a79ca9a5e1f470daa8fdc637c695c18e503634a1b7e4819bd.html.txt",
+      "sha256": "75f4bc2d637c564a79ca9a5e1f470daa8fdc637c695c18e503634a1b7e4819bd",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/870a5c18dc490b6f572e8aad2e6bcca69bbf94ce05718e742c6a7a1b747b7a7b.json",
+      "sha256": "870a5c18dc490b6f572e8aad2e6bcca69bbf94ce05718e742c6a7a1b747b7a7b",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/575f69fd7b6587869746b3c4d4e4110f127464b32608cf2464976e9f995db6cc.html.txt",
+      "sha256": "575f69fd7b6587869746b3c4d4e4110f127464b32608cf2464976e9f995db6cc",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/a1c17cfcfe7c8bf9e1a99a2a95f4ab19d83419d13a558e6f95781bde7d0e9353.json",
+      "sha256": "a1c17cfcfe7c8bf9e1a99a2a95f4ab19d83419d13a558e6f95781bde7d0e9353",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/5f4ff8a22cba3885fe06901c4d7363463347235cbe79863e6b4bbf6c6cc3aa14.html.txt",
+      "sha256": "5f4ff8a22cba3885fe06901c4d7363463347235cbe79863e6b4bbf6c6cc3aa14",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/4710f93864d5db26976fb8959d50a02472bfc045eeb4cbaff24cca62dd1a2453.json",
+      "sha256": "4710f93864d5db26976fb8959d50a02472bfc045eeb4cbaff24cca62dd1a2453",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/071b2280f93b94a5cb0ce400eadc2043ab316aebefbd176ac06f3fc376171c6c.html.txt",
+      "sha256": "071b2280f93b94a5cb0ce400eadc2043ab316aebefbd176ac06f3fc376171c6c",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/832ff4c2118c629756315c2e2a84529bfb874b652e7a0332340eb6775508e0fe.json",
+      "sha256": "832ff4c2118c629756315c2e2a84529bfb874b652e7a0332340eb6775508e0fe",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/3fd0a6e8dfa7e4e7599605d8ce51d8a82d34465fa7c05cd551f145a357613315.html.txt",
+      "sha256": "3fd0a6e8dfa7e4e7599605d8ce51d8a82d34465fa7c05cd551f145a357613315",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/4dc55aa7460ddeb09dbae0c3c7811c68a4796e386c673c32f74a6e9f8dbc410a.json",
+      "sha256": "4dc55aa7460ddeb09dbae0c3c7811c68a4796e386c673c32f74a6e9f8dbc410a",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/7ca6c53c8f8ec3ffc229d57340d5d38cd0bc0d6eb76a149defaed3e2aa6fcffb.html.txt",
+      "sha256": "7ca6c53c8f8ec3ffc229d57340d5d38cd0bc0d6eb76a149defaed3e2aa6fcffb",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/62b697b70f04c6be091bb6a88e2dbcb11091bb29627676f0ce6333cf60b218fe.json",
+      "sha256": "62b697b70f04c6be091bb6a88e2dbcb11091bb29627676f0ce6333cf60b218fe",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/8a16693a2d07b15eb9450bc30e77e58169bbcbe76e67753f78cdd04e68d27552.html.txt",
+      "sha256": "8a16693a2d07b15eb9450bc30e77e58169bbcbe76e67753f78cdd04e68d27552",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/21f517db7bedb6ddca6bfbc89b72b63797118d5f24fe20924d866ea7ceb21ee5.json",
+      "sha256": "21f517db7bedb6ddca6bfbc89b72b63797118d5f24fe20924d866ea7ceb21ee5",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/66cd22bbc6d7aa4c3fbe3f16ad724ff8ec6aa73750a43e73d9428896ef875652.html.txt",
+      "sha256": "66cd22bbc6d7aa4c3fbe3f16ad724ff8ec6aa73750a43e73d9428896ef875652",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/b18be56face947dd18356f56ebc372c665757dbf6affea989ff9d7b34dab2b21.json",
+      "sha256": "b18be56face947dd18356f56ebc372c665757dbf6affea989ff9d7b34dab2b21",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/73c1c48432e865a7106f09c39e865a836ed21c4ea4c8e6290c4ae7378faec3b0.html.txt",
+      "sha256": "73c1c48432e865a7106f09c39e865a836ed21c4ea4c8e6290c4ae7378faec3b0",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/c4c916f741db06210147f85f3f5b5d93610d67f2be4ddd401bdb9c76baba5c60.json",
+      "sha256": "c4c916f741db06210147f85f3f5b5d93610d67f2be4ddd401bdb9c76baba5c60",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/6e8c8df4e2d6525843e5ffba75b9dd7b13adad60531ddf3905c0bd39411262fa.html.txt",
+      "sha256": "6e8c8df4e2d6525843e5ffba75b9dd7b13adad60531ddf3905c0bd39411262fa",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/ee95c133ae558128b430065bed0841c175f335a3bf94efdb48ab45384b0aa04e.json",
+      "sha256": "ee95c133ae558128b430065bed0841c175f335a3bf94efdb48ab45384b0aa04e",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/0667257bf02003e40adb2d3544c4afa8440ceaa121f189be34a6ba70d0f2156f.html.txt",
+      "sha256": "0667257bf02003e40adb2d3544c4afa8440ceaa121f189be34a6ba70d0f2156f",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/5628038a6241351f8fd382ab1bb96e9781098e4a5265881c8539f31a9b082bca.json",
+      "sha256": "5628038a6241351f8fd382ab1bb96e9781098e4a5265881c8539f31a9b082bca",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/2ad9da8aa2114856b971c3087831b834f866594f5d3e22f918a4cbc7b1bd3633.html.txt",
+      "sha256": "2ad9da8aa2114856b971c3087831b834f866594f5d3e22f918a4cbc7b1bd3633",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/d32bb66ddcc107af5a6e93a2d4603f6787f99c49d90a4c58fdd5b4a004b32133.json",
+      "sha256": "d32bb66ddcc107af5a6e93a2d4603f6787f99c49d90a4c58fdd5b4a004b32133",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/ddfc7c765c651c8dbadf79cba6b5f8b5ade898878cc3029895e198e3eb17fe65.html.txt",
+      "sha256": "ddfc7c765c651c8dbadf79cba6b5f8b5ade898878cc3029895e198e3eb17fe65",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/d1074d2bcdb1f34703fe20f1f0aa9970e201008bfff23d93ba358cf51ef86d4c.json",
+      "sha256": "d1074d2bcdb1f34703fe20f1f0aa9970e201008bfff23d93ba358cf51ef86d4c",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/0073fbf9aadf80bb2c0c073f6e952a0e662f61f5acf0b5a6559a2cd583081c9e.html.txt",
+      "sha256": "0073fbf9aadf80bb2c0c073f6e952a0e662f61f5acf0b5a6559a2cd583081c9e",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/0c63d4490541ffb23fc418c7321cde1bc88435b50098992839fe6c57c86d8c49.json",
+      "sha256": "0c63d4490541ffb23fc418c7321cde1bc88435b50098992839fe6c57c86d8c49",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/f0ef288a48b1764e6d47110046484b52590e84017259ec9e6d521bd698b7a6e3.html.txt",
+      "sha256": "f0ef288a48b1764e6d47110046484b52590e84017259ec9e6d521bd698b7a6e3",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/39ad79126ddd9306aecaf5a6fe1480dc85f2f77d0ee1418e2de0cbb41e21ed2d.json",
+      "sha256": "39ad79126ddd9306aecaf5a6fe1480dc85f2f77d0ee1418e2de0cbb41e21ed2d",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/06f02fb4cc8b5d0994d284ed232b9964f71ce4c502356a1cb5508099fd71706d.html.txt",
+      "sha256": "06f02fb4cc8b5d0994d284ed232b9964f71ce4c502356a1cb5508099fd71706d",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/b845da66d6d46e12f1fba2d6ea6bbcff8d64ee5fc6436457103be71c04391a7b.json",
+      "sha256": "b845da66d6d46e12f1fba2d6ea6bbcff8d64ee5fc6436457103be71c04391a7b",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/c7cade754934f774ce82cf304c7b71423ba73d0c62aa10e2735c14b7151fc4f0.html.txt",
+      "sha256": "c7cade754934f774ce82cf304c7b71423ba73d0c62aa10e2735c14b7151fc4f0",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/e81dad7743399b1de0606e9df85f9db2e10dfe12a2b2c38ba450e53e79bbed90.json",
+      "sha256": "e81dad7743399b1de0606e9df85f9db2e10dfe12a2b2c38ba450e53e79bbed90",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/634d668a68902ac915328aaa8b40a3e49f5f5b027864cb794cbec886d1b72069.html.txt",
+      "sha256": "634d668a68902ac915328aaa8b40a3e49f5f5b027864cb794cbec886d1b72069",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/3384cba8a60355f299525b7adc2115f348edd492d7a77b16c69fd9f486b4c127.json",
+      "sha256": "3384cba8a60355f299525b7adc2115f348edd492d7a77b16c69fd9f486b4c127",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/50dcc2afb7e014e9afcef9beefd86c8ce86a3087233d8b5751f5f7575e9f766a.html.txt",
+      "sha256": "50dcc2afb7e014e9afcef9beefd86c8ce86a3087233d8b5751f5f7575e9f766a",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/d137378bafbd5a516d53982914fa6354214d211b971c19abd46ab7a8561c6101.json",
+      "sha256": "d137378bafbd5a516d53982914fa6354214d211b971c19abd46ab7a8561c6101",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ccr/a656a7c90fe398bd3243457c3ddddb74d88f1eee83485b196a4e453aff3c6e19.html.txt",
+      "sha256": "a656a7c90fe398bd3243457c3ddddb74d88f1eee83485b196a4e453aff3c6e19",
+      "kind": "sanitized_probe"
+    }
+  ],
+  "coefficients": [
+    {
+      "quarter": "2026-Q4",
+      "band": "BASE",
+      "index": "PSV",
+      "value": "0.93133333333333333333333333333333333333333333333333",
+      "uncertainty": "0.0000041666666666666666666666666666666666666666666666667",
+      "unit": "EUR/Smc"
+    },
+    {
+      "quarter": "2027-Q1",
+      "band": "BASE",
+      "index": "PSV",
+      "value": "0.92703333333333333333333333333333333333333333333333",
+      "uncertainty": "0.0000041666666666666666666666666666666666666666666666667",
+      "unit": "EUR/Smc"
+    },
+    {
+      "quarter": "2027-Q2",
+      "band": "BASE",
+      "index": "PSV",
+      "value": "0.74745833333333333333333333333333333333333333333333",
+      "uncertainty": "0.0000041666666666666666666666666666666666666666666666667",
+      "unit": "EUR/Smc"
+    },
+    {
+      "quarter": "2027-Q3",
+      "band": "BASE",
+      "index": "PSV",
+      "value": "0.70498333333333333333333333333333333333333333333333",
+      "uncertainty": "0.0000041666666666666666666666666666666666666666666666667",
+      "unit": "EUR/Smc"
+    }
+  ],
+  "calibrations": [
+    {
+      "id": "cal-BASE-2026-Q4",
+      "offerCode": "000971GSVML01XXPROD1300109202600",
+      "observedSales": "1291.60",
+      "fixedAnnual": "174",
+      "spread": "0",
+      "additiveUnit": "0",
+      "multiplier": "1",
+      "evidenceIndex": 1,
+      "quarter": "2026-Q4",
+      "band": "BASE",
+      "consumption": "1200"
+    },
+    {
+      "id": "cal-BASE-2027-Q1",
+      "offerCode": "000971GSVML01XXPROD1300109202600",
+      "observedSales": "1286.44",
+      "fixedAnnual": "174",
+      "spread": "0",
+      "additiveUnit": "0",
+      "multiplier": "1",
+      "evidenceIndex": 2,
+      "quarter": "2027-Q1",
+      "band": "BASE",
+      "consumption": "1200"
+    },
+    {
+      "id": "cal-BASE-2027-Q2",
+      "offerCode": "000971GSVML01XXPROD1300109202600",
+      "observedSales": "1070.95",
+      "fixedAnnual": "174",
+      "spread": "0",
+      "additiveUnit": "0",
+      "multiplier": "1",
+      "evidenceIndex": 3,
+      "quarter": "2027-Q2",
+      "band": "BASE",
+      "consumption": "1200"
+    },
+    {
+      "id": "cal-BASE-2027-Q3",
+      "offerCode": "000971GSVML01XXPROD1300109202600",
+      "observedSales": "1019.98",
+      "fixedAnnual": "174",
+      "spread": "0",
+      "additiveUnit": "0",
+      "multiplier": "1",
+      "evidenceIndex": 4,
+      "quarter": "2027-Q3",
+      "band": "BASE",
+      "consumption": "1200"
+    }
+  ],
+  "holdouts": [
+    {
+      "id": "holdout-BASE",
+      "offerCode": "029886GSVML01XXSENZAPENSIDOMGAS3",
+      "observedSales": "1181.72",
+      "fixedAnnual": "144",
+      "spread": "0.08",
+      "additiveUnit": "0",
+      "multiplier": "1",
+      "evidenceIndex": 6,
+      "terms": [
+        {
+          "quarter": "2026-Q4",
+          "band": "BASE",
+          "consumption": "120.0"
+        },
+        {
+          "quarter": "2027-Q1",
+          "band": "BASE",
+          "consumption": "240.0"
+        },
+        {
+          "quarter": "2027-Q2",
+          "band": "BASE",
+          "consumption": "360.0"
+        },
+        {
+          "quarter": "2027-Q3",
+          "band": "BASE",
+          "consumption": "480.0"
+        }
+      ]
+    }
+  ],
+  "annualSales": [],
+  "annualRegulatedRates": [
+    {
+      "code": "CCR",
+      "profile": "C1 B",
+      "method": "portal-implicit-profile-annual-ccr-v1",
+      "unit": "EUR/Smc",
+      "value": "0.025464744194091666666666666666666666666666666666667",
+      "uncertainty": "0.0000063333333333333333333333333333333333333333333335",
+      "lower": "0.025458410860758333333333333333333333333333333333333",
+      "upper": "0.025471077527425",
+      "calibrations": [
+        {
+          "id": "ccr-C1B-0-078048-600",
+          "offerCode": "044848GSVML02XX0000GAS00HOME4ALL",
+          "supplierVat": "07504390480",
+          "municipalityCode": "078048",
+          "volume": "600",
+          "baselineSales": "796.91235348354499999999999999999999999999999999998",
+          "baselineUncertainty": "0.0025",
+          "terms": [
+            {
+              "quarter": "2026-Q4",
+              "consumption": "161.0129424"
+            },
+            {
+              "quarter": "2027-Q1",
+              "consumption": "438.9870468"
+            },
+            {
+              "quarter": "2027-Q2",
+              "consumption": "0.0000054"
+            },
+            {
+              "quarter": "2027-Q3",
+              "consumption": "0.0000054"
+            }
+          ],
+          "observedSales": "812.19",
+          "evidenceIndex": 9,
+          "predictionEvidenceIndex": 8
+        },
+        {
+          "id": "ccr-C1B-1-078048-1200",
+          "offerCode": "044848GSVML02XX0000GAS00HOME4ALL",
+          "supplierVat": "07504390480",
+          "municipalityCode": "078048",
+          "volume": "1200",
+          "baselineSales": "1473.82470696709",
+          "baselineUncertainty": "0.005",
+          "terms": [
+            {
+              "quarter": "2026-Q4",
+              "consumption": "322.0258848"
+            },
+            {
+              "quarter": "2027-Q1",
+              "consumption": "877.9740936"
+            },
+            {
+              "quarter": "2027-Q2",
+              "consumption": "0.0000108"
+            },
+            {
+              "quarter": "2027-Q3",
+              "consumption": "0.0000108"
+            }
+          ],
+          "observedSales": "1504.38",
+          "evidenceIndex": 11,
+          "predictionEvidenceIndex": 10
+        },
+        {
+          "id": "ccr-C1B-2-078048-600",
+          "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+          "supplierVat": "03925910618",
+          "municipalityCode": "078048",
+          "volume": "600",
+          "baselineSales": "825.67995348354499999999999999999999999999999999998",
+          "baselineUncertainty": "0.0025",
+          "terms": [
+            {
+              "quarter": "2026-Q4",
+              "consumption": "161.0129424"
+            },
+            {
+              "quarter": "2027-Q1",
+              "consumption": "438.9870468"
+            },
+            {
+              "quarter": "2027-Q2",
+              "consumption": "0.0000054"
+            },
+            {
+              "quarter": "2027-Q3",
+              "consumption": "0.0000054"
+            }
+          ],
+          "observedSales": "840.96",
+          "evidenceIndex": 13,
+          "predictionEvidenceIndex": 12
+        },
+        {
+          "id": "ccr-C1B-3-078048-1200",
+          "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+          "supplierVat": "03925910618",
+          "municipalityCode": "078048",
+          "volume": "1200",
+          "baselineSales": "1495.35990696709",
+          "baselineUncertainty": "0.005",
+          "terms": [
+            {
+              "quarter": "2026-Q4",
+              "consumption": "322.0258848"
+            },
+            {
+              "quarter": "2027-Q1",
+              "consumption": "877.9740936"
+            },
+            {
+              "quarter": "2027-Q2",
+              "consumption": "0.0000108"
+            },
+            {
+              "quarter": "2027-Q3",
+              "consumption": "0.0000108"
+            }
+          ],
+          "observedSales": "1525.92",
+          "evidenceIndex": 15,
+          "predictionEvidenceIndex": 14
+        }
+      ],
+      "holdouts": [
+        {
+          "id": "ccr-C1B-4-078101-2400",
+          "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+          "supplierVat": "03925910618",
+          "municipalityCode": "078101",
+          "volume": "2400",
+          "baselineSales": "2834.71981393418",
+          "baselineUncertainty": "0.01",
+          "terms": [
+            {
+              "quarter": "2026-Q4",
+              "consumption": "644.0517696"
+            },
+            {
+              "quarter": "2027-Q1",
+              "consumption": "1755.9481872"
+            },
+            {
+              "quarter": "2027-Q2",
+              "consumption": "0.0000216"
+            },
+            {
+              "quarter": "2027-Q3",
+              "consumption": "0.0000216"
+            }
+          ],
+          "observedSales": "2895.84",
+          "evidenceIndex": 17,
+          "predictionEvidenceIndex": 16,
+          "predictedSales": "2895.8352"
+        }
+      ]
+    },
+    {
+      "code": "CCR",
+      "profile": "C1 C",
+      "method": "portal-implicit-profile-annual-ccr-v1",
+      "unit": "EUR/Smc",
+      "value": "0.025292458684356333333333333333333333333333333333334",
+      "uncertainty": "0.0000063333393561666666666666666666666666666666666665",
+      "lower": "0.025286125345000166666666666666666666666666666666667",
+      "upper": "0.0252987920237125",
+      "calibrations": [
+        {
+          "id": "ccr-C1C-0-008008-600",
+          "offerCode": "044848GSVML02XX0000GAS00HOME4ALL",
+          "supplierVat": "07504390480",
+          "municipalityCode": "008008",
+          "volume": "600",
+          "baselineSales": "792.44572478576999999999999999999999999999999999999",
+          "baselineUncertainty": "0.0024999999975",
+          "terms": [
+            {
+              "quarter": "2026-Q4",
+              "consumption": "204.9225624"
+            },
+            {
+              "quarter": "2027-Q1",
+              "consumption": "369.1526628"
+            },
+            {
+              "quarter": "2027-Q2",
+              "consumption": "25.9247688"
+            },
+            {
+              "quarter": "2027-Q3",
+              "consumption": "0.0000054"
+            }
+          ],
+          "observedSales": "807.62",
+          "evidenceIndex": 19,
+          "predictionEvidenceIndex": 18
+        },
+        {
+          "id": "ccr-C1C-1-008008-1200",
+          "offerCode": "044848GSVML02XX0000GAS00HOME4ALL",
+          "supplierVat": "07504390480",
+          "municipalityCode": "008008",
+          "volume": "1200",
+          "baselineSales": "1464.89144957154",
+          "baselineUncertainty": "0.004999999995",
+          "terms": [
+            {
+              "quarter": "2026-Q4",
+              "consumption": "409.8451248"
+            },
+            {
+              "quarter": "2027-Q1",
+              "consumption": "738.3053256"
+            },
+            {
+              "quarter": "2027-Q2",
+              "consumption": "51.8495376"
+            },
+            {
+              "quarter": "2027-Q3",
+              "consumption": "0.0000108"
+            }
+          ],
+          "observedSales": "1495.24",
+          "evidenceIndex": 21,
+          "predictionEvidenceIndex": 20
+        },
+        {
+          "id": "ccr-C1C-2-008008-600",
+          "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+          "supplierVat": "03925910618",
+          "municipalityCode": "008008",
+          "volume": "600",
+          "baselineSales": "821.21332479300239999999999999999999999999999999999",
+          "baselineUncertainty": "0.0024999999975",
+          "terms": [
+            {
+              "quarter": "2026-Q4",
+              "consumption": "204.9225624"
+            },
+            {
+              "quarter": "2027-Q1",
+              "consumption": "369.1526628"
+            },
+            {
+              "quarter": "2027-Q2",
+              "consumption": "25.9247688"
+            },
+            {
+              "quarter": "2027-Q3",
+              "consumption": "0.0000054"
+            }
+          ],
+          "observedSales": "836.39",
+          "evidenceIndex": 23,
+          "predictionEvidenceIndex": 22
+        },
+        {
+          "id": "ccr-C1C-3-008008-1200",
+          "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+          "supplierVat": "03925910618",
+          "municipalityCode": "008008",
+          "volume": "1200",
+          "baselineSales": "1486.4266495860048",
+          "baselineUncertainty": "0.004999999995",
+          "terms": [
+            {
+              "quarter": "2026-Q4",
+              "consumption": "409.8451248"
+            },
+            {
+              "quarter": "2027-Q1",
+              "consumption": "738.3053256"
+            },
+            {
+              "quarter": "2027-Q2",
+              "consumption": "51.8495376"
+            },
+            {
+              "quarter": "2027-Q3",
+              "consumption": "0.0000108"
+            }
+          ],
+          "observedSales": "1516.78",
+          "evidenceIndex": 25,
+          "predictionEvidenceIndex": 24
+        }
+      ],
+      "holdouts": [
+        {
+          "id": "ccr-C1C-4-008011-2400",
+          "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+          "supplierVat": "03925910618",
+          "municipalityCode": "008011",
+          "volume": "2400",
+          "baselineSales": "2816.8532991720096",
+          "baselineUncertainty": "0.00999999999",
+          "terms": [
+            {
+              "quarter": "2026-Q4",
+              "consumption": "819.6902496"
+            },
+            {
+              "quarter": "2027-Q1",
+              "consumption": "1476.6106512"
+            },
+            {
+              "quarter": "2027-Q2",
+              "consumption": "103.6990752"
+            },
+            {
+              "quarter": "2027-Q3",
+              "consumption": "0.0000216"
+            }
+          ],
+          "observedSales": "2877.56",
+          "evidenceIndex": 27,
+          "predictionEvidenceIndex": 26,
+          "predictedSales": "2877.5552000144648"
+        }
+      ]
+    },
+    {
+      "code": "CCR",
+      "profile": "C1 D",
+      "method": "portal-implicit-profile-annual-ccr-v1",
+      "unit": "EUR/Smc",
+      "value": "0.025357483395639666666666666666666666666666666666667",
+      "uncertainty": "0.0000061666606355",
+      "lower": "0.025351316735004166666666666666666666666666666666667",
+      "upper": "0.025363650056275166666666666666666666666666666666667",
+      "calibrations": [
+        {
+          "id": "ccr-C1D-0-008001-600",
+          "offerCode": "044848GSVML02XX0000GAS00HOME4ALL",
+          "supplierVat": "07504390480",
+          "municipalityCode": "008001",
+          "volume": "600",
+          "baselineSales": "789.681709959",
+          "baselineUncertainty": "0.0024999999975",
+          "terms": [
+            {
+              "quarter": "2026-Q4",
+              "consumption": "215.3578368"
+            },
+            {
+              "quarter": "2027-Q1",
+              "consumption": "343.0755312"
+            },
+            {
+              "quarter": "2027-Q2",
+              "consumption": "41.566626"
+            },
+            {
+              "quarter": "2027-Q3",
+              "consumption": "0.0000054"
+            }
+          ],
+          "observedSales": "804.9",
+          "evidenceIndex": 29,
+          "predictionEvidenceIndex": 28
+        },
+        {
+          "id": "ccr-C1D-1-008001-1200",
+          "offerCode": "044848GSVML02XX0000GAS00HOME4ALL",
+          "supplierVat": "07504390480",
+          "municipalityCode": "008001",
+          "volume": "1200",
+          "baselineSales": "1459.363419918",
+          "baselineUncertainty": "0.004999999995",
+          "terms": [
+            {
+              "quarter": "2026-Q4",
+              "consumption": "430.7156736"
+            },
+            {
+              "quarter": "2027-Q1",
+              "consumption": "686.1510624"
+            },
+            {
+              "quarter": "2027-Q2",
+              "consumption": "83.133252"
+            },
+            {
+              "quarter": "2027-Q3",
+              "consumption": "0.0000108"
+            }
+          ],
+          "observedSales": "1489.79",
+          "evidenceIndex": 31,
+          "predictionEvidenceIndex": 30
+        },
+        {
+          "id": "ccr-C1D-2-008001-600",
+          "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+          "supplierVat": "03925910618",
+          "municipalityCode": "008001",
+          "volume": "600",
+          "baselineSales": "818.4493099662324",
+          "baselineUncertainty": "0.0024999999975",
+          "terms": [
+            {
+              "quarter": "2026-Q4",
+              "consumption": "215.3578368"
+            },
+            {
+              "quarter": "2027-Q1",
+              "consumption": "343.0755312"
+            },
+            {
+              "quarter": "2027-Q2",
+              "consumption": "41.566626"
+            },
+            {
+              "quarter": "2027-Q3",
+              "consumption": "0.0000054"
+            }
+          ],
+          "observedSales": "833.66",
+          "evidenceIndex": 33,
+          "predictionEvidenceIndex": 32
+        },
+        {
+          "id": "ccr-C1D-3-008001-1200",
+          "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+          "supplierVat": "03925910618",
+          "municipalityCode": "008001",
+          "volume": "1200",
+          "baselineSales": "1480.8986199324648",
+          "baselineUncertainty": "0.004999999995",
+          "terms": [
+            {
+              "quarter": "2026-Q4",
+              "consumption": "430.7156736"
+            },
+            {
+              "quarter": "2027-Q1",
+              "consumption": "686.1510624"
+            },
+            {
+              "quarter": "2027-Q2",
+              "consumption": "83.133252"
+            },
+            {
+              "quarter": "2027-Q3",
+              "consumption": "0.0000108"
+            }
+          ],
+          "observedSales": "1511.33",
+          "evidenceIndex": 35,
+          "predictionEvidenceIndex": 34
+        }
+      ],
+      "holdouts": [
+        {
+          "id": "ccr-C1D-4-008002-2400",
+          "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+          "supplierVat": "03925910618",
+          "municipalityCode": "008002",
+          "volume": "2400",
+          "baselineSales": "2805.7972398649296",
+          "baselineUncertainty": "0.00999999999",
+          "terms": [
+            {
+              "quarter": "2026-Q4",
+              "consumption": "861.4313472"
+            },
+            {
+              "quarter": "2027-Q1",
+              "consumption": "1372.3021248"
+            },
+            {
+              "quarter": "2027-Q2",
+              "consumption": "166.266504"
+            },
+            {
+              "quarter": "2027-Q3",
+              "consumption": "0.0000216"
+            }
+          ],
+          "observedSales": "2866.65",
+          "evidenceIndex": 37,
+          "predictionEvidenceIndex": 36,
+          "predictedSales": "2866.6552000144648"
+        }
+      ]
+    },
+    {
+      "code": "CCR",
+      "profile": "C1 E",
+      "method": "portal-implicit-profile-annual-ccr-v1",
+      "unit": "EUR/Smc",
+      "value": "0.025313661205031333333333333333333333333333333333334",
+      "uncertainty": "0.0000063333393561666666666666666666666666666666666665",
+      "lower": "0.025307327865675166666666666666666666666666666666667",
+      "upper": "0.0253199945443875",
+      "calibrations": [
+        {
+          "id": "ccr-C1E-0-001001-600",
+          "offerCode": "044848GSVML02XX0000GAS00HOME4ALL",
+          "supplierVat": "07504390480",
+          "municipalityCode": "001001",
+          "volume": "600",
+          "baselineSales": "792.133003273365",
+          "baselineUncertainty": "0.0024999999975",
+          "terms": [
+            {
+              "quarter": "2026-Q4",
+              "consumption": "261.2962122"
+            },
+            {
+              "quarter": "2027-Q1",
+              "consumption": "309.6876684"
+            },
+            {
+              "quarter": "2027-Q2",
+              "consumption": "29.0161134"
+            },
+            {
+              "quarter": "2027-Q3",
+              "consumption": "0.0000054"
+            }
+          ],
+          "observedSales": "807.32",
+          "evidenceIndex": 39,
+          "predictionEvidenceIndex": 38
+        },
+        {
+          "id": "ccr-C1E-1-001001-1200",
+          "offerCode": "044848GSVML02XX0000GAS00HOME4ALL",
+          "supplierVat": "07504390480",
+          "municipalityCode": "001001",
+          "volume": "1200",
+          "baselineSales": "1464.26600654673",
+          "baselineUncertainty": "0.004999999995",
+          "terms": [
+            {
+              "quarter": "2026-Q4",
+              "consumption": "522.5924244"
+            },
+            {
+              "quarter": "2027-Q1",
+              "consumption": "619.3753368"
+            },
+            {
+              "quarter": "2027-Q2",
+              "consumption": "58.0322268"
+            },
+            {
+              "quarter": "2027-Q3",
+              "consumption": "0.0000108"
+            }
+          ],
+          "observedSales": "1494.64",
+          "evidenceIndex": 41,
+          "predictionEvidenceIndex": 40
+        },
+        {
+          "id": "ccr-C1E-2-001001-600",
+          "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+          "supplierVat": "03925910618",
+          "municipalityCode": "001001",
+          "volume": "600",
+          "baselineSales": "820.9006032805974",
+          "baselineUncertainty": "0.0024999999975",
+          "terms": [
+            {
+              "quarter": "2026-Q4",
+              "consumption": "261.2962122"
+            },
+            {
+              "quarter": "2027-Q1",
+              "consumption": "309.6876684"
+            },
+            {
+              "quarter": "2027-Q2",
+              "consumption": "29.0161134"
+            },
+            {
+              "quarter": "2027-Q3",
+              "consumption": "0.0000054"
+            }
+          ],
+          "observedSales": "836.09",
+          "evidenceIndex": 43,
+          "predictionEvidenceIndex": 42
+        },
+        {
+          "id": "ccr-C1E-3-001001-1200",
+          "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+          "supplierVat": "03925910618",
+          "municipalityCode": "001001",
+          "volume": "1200",
+          "baselineSales": "1485.8012065611948",
+          "baselineUncertainty": "0.004999999995",
+          "terms": [
+            {
+              "quarter": "2026-Q4",
+              "consumption": "522.5924244"
+            },
+            {
+              "quarter": "2027-Q1",
+              "consumption": "619.3753368"
+            },
+            {
+              "quarter": "2027-Q2",
+              "consumption": "58.0322268"
+            },
+            {
+              "quarter": "2027-Q3",
+              "consumption": "0.0000108"
+            }
+          ],
+          "observedSales": "1516.18",
+          "evidenceIndex": 45,
+          "predictionEvidenceIndex": 44
+        }
+      ],
+      "holdouts": [
+        {
+          "id": "ccr-C1E-4-001002-2400",
+          "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+          "supplierVat": "03925910618",
+          "municipalityCode": "001002",
+          "volume": "2400",
+          "baselineSales": "2815.6024131223896",
+          "baselineUncertainty": "0.00999999999",
+          "terms": [
+            {
+              "quarter": "2026-Q4",
+              "consumption": "1045.1848488"
+            },
+            {
+              "quarter": "2027-Q1",
+              "consumption": "1238.7506736"
+            },
+            {
+              "quarter": "2027-Q2",
+              "consumption": "116.0644536"
+            },
+            {
+              "quarter": "2027-Q3",
+              "consumption": "0.0000216"
+            }
+          ],
+          "observedSales": "2876.36",
+          "evidenceIndex": 47,
+          "predictionEvidenceIndex": 46,
+          "predictedSales": "2876.3552000144648"
+        }
+      ]
+    },
+    {
+      "code": "CCR",
+      "profile": "C1 F",
+      "method": "portal-implicit-profile-annual-ccr-v1",
+      "unit": "EUR/Smc",
+      "value": "0.025646833558971",
+      "uncertainty": "0.000006166654604333333333333333333333333333333333333",
+      "lower": "0.025640666904366666666666666666666666666666666666667",
+      "upper": "0.025653000213575333333333333333333333333333333333333",
+      "calibrations": [
+        {
+          "id": "ccr-C1F-0-001003-600",
+          "offerCode": "044848GSVML02XX0000GAS00HOME4ALL",
+          "supplierVat": "07504390480",
+          "municipalityCode": "001003",
+          "volume": "600",
+          "baselineSales": "786.740599857385",
+          "baselineUncertainty": "0.002499999995",
+          "terms": [
+            {
+              "quarter": "2026-Q4",
+              "consumption": "249.2435268"
+            },
+            {
+              "quarter": "2027-Q1",
+              "consumption": "294.4016502"
+            },
+            {
+              "quarter": "2027-Q2",
+              "consumption": "46.202289"
+            },
+            {
+              "quarter": "2027-Q3",
+              "consumption": "10.1525328"
+            }
+          ],
+          "observedSales": "802.13",
+          "evidenceIndex": 49,
+          "predictionEvidenceIndex": 48
+        },
+        {
+          "id": "ccr-C1F-1-001003-1200",
+          "offerCode": "044848GSVML02XX0000GAS00HOME4ALL",
+          "supplierVat": "07504390480",
+          "municipalityCode": "001003",
+          "volume": "1200",
+          "baselineSales": "1453.48119971477",
+          "baselineUncertainty": "0.00499999999",
+          "terms": [
+            {
+              "quarter": "2026-Q4",
+              "consumption": "498.4870536"
+            },
+            {
+              "quarter": "2027-Q1",
+              "consumption": "588.8033004"
+            },
+            {
+              "quarter": "2027-Q2",
+              "consumption": "92.404578"
+            },
+            {
+              "quarter": "2027-Q3",
+              "consumption": "20.3050656"
+            }
+          ],
+          "observedSales": "1484.26",
+          "evidenceIndex": 51,
+          "predictionEvidenceIndex": 50
+        },
+        {
+          "id": "ccr-C1F-2-001003-600",
+          "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+          "supplierVat": "03925910618",
+          "municipalityCode": "001003",
+          "volume": "600",
+          "baselineSales": "815.5081998718498",
+          "baselineUncertainty": "0.002499999995",
+          "terms": [
+            {
+              "quarter": "2026-Q4",
+              "consumption": "249.2435268"
+            },
+            {
+              "quarter": "2027-Q1",
+              "consumption": "294.4016502"
+            },
+            {
+              "quarter": "2027-Q2",
+              "consumption": "46.202289"
+            },
+            {
+              "quarter": "2027-Q3",
+              "consumption": "10.1525328"
+            }
+          ],
+          "observedSales": "830.9",
+          "evidenceIndex": 53,
+          "predictionEvidenceIndex": 52
+        },
+        {
+          "id": "ccr-C1F-3-001003-1200",
+          "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+          "supplierVat": "03925910618",
+          "municipalityCode": "001003",
+          "volume": "1200",
+          "baselineSales": "1475.0163997436996",
+          "baselineUncertainty": "0.00499999999",
+          "terms": [
+            {
+              "quarter": "2026-Q4",
+              "consumption": "498.4870536"
+            },
+            {
+              "quarter": "2027-Q1",
+              "consumption": "588.8033004"
+            },
+            {
+              "quarter": "2027-Q2",
+              "consumption": "92.404578"
+            },
+            {
+              "quarter": "2027-Q3",
+              "consumption": "20.3050656"
+            }
+          ],
+          "observedSales": "1505.79",
+          "evidenceIndex": 55,
+          "predictionEvidenceIndex": 54
+        }
+      ],
+      "holdouts": [
+        {
+          "id": "ccr-C1F-4-001005-2400",
+          "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+          "supplierVat": "03925910618",
+          "municipalityCode": "001005",
+          "volume": "2400",
+          "baselineSales": "2794.0327994873992",
+          "baselineUncertainty": "0.00999999998",
+          "terms": [
+            {
+              "quarter": "2026-Q4",
+              "consumption": "996.9741072"
+            },
+            {
+              "quarter": "2027-Q1",
+              "consumption": "1177.6066008"
+            },
+            {
+              "quarter": "2027-Q2",
+              "consumption": "184.809156"
+            },
+            {
+              "quarter": "2027-Q3",
+              "consumption": "40.6101312"
+            }
+          ],
+          "observedSales": "2855.59",
+          "evidenceIndex": 57,
+          "predictionEvidenceIndex": 56,
+          "predictedSales": "2855.5852000289296"
+        }
+      ]
+    },
+    {
+      "code": "CCR",
+      "profile": "C2",
+      "method": "portal-implicit-profile-annual-ccr-v1",
+      "unit": "EUR/Smc",
+      "value": "0.025152167343802",
+      "uncertainty": "0.000006166672697833333333333333333333333333333333333",
+      "lower": "0.025146000671104166666666666666666666666666666666667",
+      "upper": "0.025158334016499833333333333333333333333333333333333",
+      "calibrations": [
+        {
+          "id": "ccr-C2-0-068028-600",
+          "offerCode": "044848GSVML02XX0000GAS00HOME4ALL",
+          "supplierVat": "07504390480",
+          "municipalityCode": "068028",
+          "volume": "600",
+          "baselineSales": "754.674899597335",
+          "baselineUncertainty": "0.0025000000025",
+          "terms": [
+            {
+              "quarter": "2026-Q4",
+              "consumption": "173.2170534"
+            },
+            {
+              "quarter": "2027-Q1",
+              "consumption": "214.4556486"
+            },
+            {
+              "quarter": "2027-Q2",
+              "consumption": "114.357675"
+            },
+            {
+              "quarter": "2027-Q3",
+              "consumption": "97.9696236"
+            }
+          ],
+          "observedSales": "769.77",
+          "evidenceIndex": 59,
+          "predictionEvidenceIndex": 58
+        },
+        {
+          "id": "ccr-C2-1-068028-1200",
+          "offerCode": "044848GSVML02XX0000GAS00HOME4ALL",
+          "supplierVat": "07504390480",
+          "municipalityCode": "068028",
+          "volume": "1200",
+          "baselineSales": "1389.34979919467",
+          "baselineUncertainty": "0.005000000005",
+          "terms": [
+            {
+              "quarter": "2026-Q4",
+              "consumption": "346.4341068"
+            },
+            {
+              "quarter": "2027-Q1",
+              "consumption": "428.9112972"
+            },
+            {
+              "quarter": "2027-Q2",
+              "consumption": "228.71535"
+            },
+            {
+              "quarter": "2027-Q3",
+              "consumption": "195.9392472"
+            }
+          ],
+          "observedSales": "1419.53",
+          "evidenceIndex": 61,
+          "predictionEvidenceIndex": 60
+        },
+        {
+          "id": "ccr-C2-2-068028-600",
+          "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+          "supplierVat": "03925910618",
+          "municipalityCode": "068028",
+          "volume": "600",
+          "baselineSales": "783.4424995901026",
+          "baselineUncertainty": "0.0025000000025",
+          "terms": [
+            {
+              "quarter": "2026-Q4",
+              "consumption": "173.2170534"
+            },
+            {
+              "quarter": "2027-Q1",
+              "consumption": "214.4556486"
+            },
+            {
+              "quarter": "2027-Q2",
+              "consumption": "114.357675"
+            },
+            {
+              "quarter": "2027-Q3",
+              "consumption": "97.9696236"
+            }
+          ],
+          "observedSales": "798.53",
+          "evidenceIndex": 63,
+          "predictionEvidenceIndex": 62
+        },
+        {
+          "id": "ccr-C2-3-068028-1200",
+          "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+          "supplierVat": "03925910618",
+          "municipalityCode": "068028",
+          "volume": "1200",
+          "baselineSales": "1410.8849991802052",
+          "baselineUncertainty": "0.005000000005",
+          "terms": [
+            {
+              "quarter": "2026-Q4",
+              "consumption": "346.4341068"
+            },
+            {
+              "quarter": "2027-Q1",
+              "consumption": "428.9112972"
+            },
+            {
+              "quarter": "2027-Q2",
+              "consumption": "228.71535"
+            },
+            {
+              "quarter": "2027-Q3",
+              "consumption": "195.9392472"
+            }
+          ],
+          "observedSales": "1441.07",
+          "evidenceIndex": 65,
+          "predictionEvidenceIndex": 64
+        }
+      ],
+      "holdouts": [
+        {
+          "id": "ccr-C2-4-022205-2400",
+          "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+          "supplierVat": "03925910618",
+          "municipalityCode": "022205",
+          "volume": "2400",
+          "baselineSales": "2665.7699983604104",
+          "baselineUncertainty": "0.01000000001",
+          "terms": [
+            {
+              "quarter": "2026-Q4",
+              "consumption": "692.8682136"
+            },
+            {
+              "quarter": "2027-Q1",
+              "consumption": "857.8225944"
+            },
+            {
+              "quarter": "2027-Q2",
+              "consumption": "457.4307"
+            },
+            {
+              "quarter": "2027-Q3",
+              "consumption": "391.8784944"
+            }
+          ],
+          "observedSales": "2726.13",
+          "evidenceIndex": 67,
+          "predictionEvidenceIndex": 66,
+          "predictedSales": "2726.1351999855352"
+        }
+      ]
+    }
+  ],
+  "requiredAnnualRegulatedProfiles": [
+    "C1 B",
+    "C1 C",
+    "C1 D",
+    "C1 E",
+    "C1 F",
+    "C2"
+  ]
+}

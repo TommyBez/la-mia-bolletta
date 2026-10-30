@@ -1,0 +1,103 @@
+{
+  "calibration_count": 8,
+  "rank": 4,
+  "initial_bounds": {
+    "Q4": [
+      0.8568293695359224,
+      0.856860525759697
+    ],
+    "Q1": [
+      0.8432216475991048,
+      0.8433464474960117
+    ],
+    "Q2": [
+      0.62114848822116,
+      0.6220532058369348
+    ],
+    "Q3": [
+      0.5749173957007582,
+      0.575806387066777
+    ]
+  },
+  "new_holdouts": [
+    {
+      "profile": "CC",
+      "smc": 2000,
+      "ZERO_sale": 1696.41,
+      "S_sale": 1826.41,
+      "ZERO_IVA10": 62.61,
+      "S_IVA10": 528.27,
+      "observed_IVA10_difference": 465.65999999999997,
+      "predicted_unrounded_difference_interval": [
+        465.65267204562343,
+        465.66828564528333
+      ],
+      "ZERO_sale_predicted_unrounded_interval": [
+        1696.3916666666667,
+        1696.4083333333335
+      ],
+      "compatible": true
+    },
+    {
+      "profile": "RISC",
+      "smc": 1350,
+      "ZERO_sale": 1298.27,
+      "S_sale": 1376.27,
+      "ZERO_IVA10": 62.68,
+      "S_IVA10": 534.06,
+      "observed_IVA10_difference": 471.37999999999994,
+      "predicted_unrounded_difference_interval": [
+        471.3731316476038,
+        471.388680441595
+      ],
+      "ZERO_sale_predicted_unrounded_interval": [
+        1298.269875,
+        1298.27325
+      ],
+      "compatible": true
+    },
+    {
+      "profile": "CC",
+      "smc": 480,
+      "ZERO_sale": 539.38,
+      "S_sale": 547.78,
+      "ZERO_IVA10": 58.09,
+      "S_IVA10": 333.55,
+      "observed_IVA10_difference": 275.46000000000004,
+      "predicted_unrounded_difference_interval": [
+        275.45144252183616,
+        275.46774558388313
+      ],
+      "ZERO_sale_predicted_unrounded_interval": [
+        539.374,
+        539.378
+      ],
+      "compatible": true
+    }
+  ],
+  "refined_bounds_after_holdouts": {
+    "Q4": [
+      0.8568293695359224,
+      0.856860525759697
+    ],
+    "Q1": [
+      0.8432216475993923,
+      0.8433464474960117
+    ],
+    "Q2": [
+      0.62114848822116,
+      0.6220532058292586
+    ],
+    "Q3": [
+      0.5749582216289314,
+      0.575806387066777
+    ]
+  },
+  "feasible_candidate_after_holdouts": {
+    "Q4": 0.8568423382674908,
+    "Q1": 0.8432772280298251,
+    "Q2": 0.6216706520787529,
+    "Q3": 0.5753203640228431
+  },
+  "note": "Conditional implicit quarterly coefficients under empirical IVA model and month-to-quarter mapping, not direct AU publication; same calibration model unchanged for new holdouts."
+}

@@ -1,0 +1,100 @@
+{
+  "observation_date": "2026-10-27",
+  "source": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+  "source_is_session_dependent": true,
+  "acquisition": "Public browser UI simulation, synthetic profile; DOM read after following the official offer-detail link. No supplier link followed. Tax rows extracted from #corr_unitari_imposte_gas, totals from table row headers. No session identifiers retained.",
+  "profile": {
+    "commodity": "Gas",
+    "municipality": "Milano",
+    "istat": "015146",
+    "customer": "Domestico",
+    "vulnerable": false,
+    "meter_label_in_detail": "Portata < G6",
+    "uses": ["Cottura cibi", "Produzione di acqua calda sanitaria"],
+    "offer_name": "APIU' GAS SICURO 24 CASA",
+    "offer_code": "034958GSFML01XXAPIUGASICURO24CAS",
+    "offer_type": "Fissa"
+  },
+  "cases": [
+    {
+      "annual_consumption_smc": 300,
+      "observed_totals_eur": {
+        "Vendita di gas naturale": "239.97",
+        "Tariffa per l'uso della rete del gas naturale": "126.33",
+        "Oneri generali di sistema": "-1.69",
+        "Spesa netto imposte stimata": "364.61",
+        "Imposte": "36.78",
+        "IVA 5%": "0.00",
+        "IVA 10%": "35.38",
+        "IVA 22%": "10.47",
+        "Spesa annua stimata": "447.24"
+      },
+      "tax_rows_dom": [
+        ["", "Accisa - da 0 a 120 Smc", "0,044000", ""],
+        ["", "Accisa - da 121 a 480 Smc", "0,175000", ""],
+        ["", "Add. reg. fino a 120 Smc", "0,000000", ""],
+        ["", "Add. reg. da 121 a 480 Smc", "0,000000", ""]
+      ]
+    },
+    {
+      "annual_consumption_smc": 350,
+      "observed_totals_eur": {
+        "Vendita di gas naturale": "279.96",
+        "Tariffa per l'uso della rete del gas naturale": "137.43",
+        "Oneri generali di sistema": "2.63",
+        "Spesa netto imposte stimata": "420.02",
+        "Imposte": "45.53",
+        "IVA 5%": "0.00",
+        "IVA 10%": "41.79",
+        "IVA 22%": "10.47",
+        "Spesa annua stimata": "517.82"
+      },
+      "tax_rows_dom": [
+        ["", "Accisa - da 0 a 120 Smc", "0,044000", ""],
+        ["", "Accisa - da 121 a 480 Smc", "0,175000", ""],
+        ["", "Add. reg. fino a 120 Smc", "0,000000", ""],
+        ["", "Add. reg. da 121 a 480 Smc", "0,000000", ""]
+      ]
+    },
+    {
+      "annual_consumption_smc": 1600,
+      "observed_totals_eur": {
+        "Vendita di gas naturale": "1279.84",
+        "Tariffa per l'uso della rete del gas naturale": "407.46",
+        "Oneri generali di sistema": "87.55",
+        "Spesa netto imposte stimata": "1774.85",
+        "Imposte": "259.32",
+        "IVA 5%": "0.00",
+        "IVA 10%": "58.48",
+        "IVA 22%": "318.87",
+        "Spesa annua stimata": "2411.52"
+      },
+      "tax_rows_dom": [
+        ["", "Accisa - da 0 a 120 Smc", "0,044000", ""],
+        ["", "Accisa - da 121 a 480 Smc", "0,175000", ""],
+        ["", "Accisa - da 481 a 1.560 Smc", "0,170000", ""],
+        ["", "Accisa - oltre 1.560 Smc", "0,186000", ""],
+        ["", "Add. reg. fino a 120 Smc", "0,000000", ""],
+        ["", "Add. reg. da 121 a 480 Smc", "0,000000", ""],
+        ["", "Add. reg. da 481 a 1.560 Smc", "0,000000", ""],
+        ["", "Add. reg. - oltre 1.560 Smc", "0,000000", ""]
+      ],
+      "vat_row_headers_dom": ["IVA 5%", "IVA 10%", "IVA 22%"],
+      "vat_base_breakdown_exposed": false
+    }
+  ],
+  "unit_components_observed": {
+    "map_quota_fissa_gas": "COMPONENTE FISSA - COMPONENTE FISSA 0,000000",
+    "map_quota_energia_gas": "FIXA - FIXA G 0,799900",
+    "trasp_quota_fissa_gas": "TAU1 (Distribuzione) 69,600000 ST -0,350000 VR -0,010000",
+    "oneri_sistema_fissa_gas": "UG2 secondo -21,630000"
+  },
+  "caveats": [
+    "This is a fiscal reference observed on an ordinary offer, not a Fastweb canone quote returned by the Portal.",
+    "The interface exposes the tax bands reached by the current consumption; the 1600 Smc case exposes all four domestic tax bands for Milano.",
+    "No country-wide tax table or regional coverage is inferred from Milano.",
+    "IVA 22% is nonzero even at 300 and 350 Smc. Do not infer that all cost components use 10% solely from total consumption below 480 Smc.",
+    "Rows contain rounded totals; do not change displayed labels or reinterpret the tax breakdown silently.",
+    "Supplier contact/links on the official detail page were not followed."
+  ]
+}

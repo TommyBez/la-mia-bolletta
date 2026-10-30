@@ -1,0 +1,1730 @@
+{
+  "E": {
+    "source": {
+      "path": "/tmp/la-mia-bolletta-20261027-E.xml",
+      "sha256": "7c01ff47e716f5de6743d27f5489d0fd6e84fea4dc03f73148e38b8fc09b4c7a",
+      "date": "2026-10-27",
+      "total_records": 3626,
+      "unique_codes": 3626
+    },
+    "sha256": "7c01ff47e716f5de6743d27f5489d0fd6e84fea4dc03f73148e38b8fc09b4c7a",
+    "scopes": {
+      "domestic": {
+        "offers": 1974,
+        "suppliers": 329,
+        "offer_types": {
+          "02": 1502,
+          "01": 472
+        },
+        "band_types": {
+          "03": 1131,
+          "01": 734,
+          "91": 104,
+          "07": 5
+        },
+        "index_codes": {
+          "12": 1448,
+          "01": 51,
+          "05": 1,
+          "08": 9
+        },
+        "flags": {
+          "fixed": {
+            "offers": 472,
+            "suppliers": 124
+          },
+          "variable": {
+            "offers": 1502,
+            "suppliers": 309
+          },
+          "flat": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "mixed": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "all_inclusive": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "all_inclusive_canone": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "time_bands": {
+            "offers": 1240,
+            "suppliers": 281
+          },
+          "three_bands": {
+            "offers": 1131,
+            "suppliers": 261
+          },
+          "two_bands": {
+            "offers": 104,
+            "suppliers": 36
+          },
+          "peak_offpeak": {
+            "offers": 5,
+            "suppliers": 3
+          },
+          "custom_band_schedule": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "different_prices_across_bands": {
+            "offers": 113,
+            "suppliers": 43
+          },
+          "discount_any": {
+            "offers": 604,
+            "suppliers": 153
+          },
+          "discount_unconditional": {
+            "offers": 261,
+            "suppliers": 80
+          },
+          "discount_unconditional_firstyear": {
+            "offers": 250,
+            "suppliers": 77
+          },
+          "discount_conditional": {
+            "offers": 438,
+            "suppliers": 108
+          },
+          "discount_percent": {
+            "offers": 24,
+            "suppliers": 9
+          },
+          "discount_absolute_euro": {
+            "offers": 100,
+            "suppliers": 39
+          },
+          "discount_fixed_annual": {
+            "offers": 473,
+            "suppliers": 122
+          },
+          "discount_per_kwh": {
+            "offers": 64,
+            "suppliers": 26
+          },
+          "discount_power": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "discount_tutela": {
+            "offers": 1,
+            "suppliers": 1
+          },
+          "discount_band": {
+            "offers": 7,
+            "suppliers": 3
+          },
+          "discount_period": {
+            "offers": 17,
+            "suppliers": 7
+          },
+          "discount_consumption_tiers": {
+            "offers": 13,
+            "suppliers": 5
+          },
+          "price_period": {
+            "offers": 16,
+            "suppliers": 3
+          },
+          "standard_price_period": {
+            "offers": 15,
+            "suppliers": 2
+          },
+          "standard_price_changes_by_period": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "price_consumption_tiers": {
+            "offers": 10,
+            "suppliers": 4
+          },
+          "standard_price_consumption_tiers": {
+            "offers": 9,
+            "suppliers": 3
+          },
+          "standard_price_changes_by_consumption_tiers": {
+            "offers": 9,
+            "suppliers": 3
+          },
+          "index_coefficient": {
+            "offers": 41,
+            "suppliers": 10
+          },
+          "index_coefficient_not_one": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "multiple_index_references": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "per_band_index_references": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "optional_component": {
+            "offers": 153,
+            "suppliers": 38
+          },
+          "standard_renewable_energy_component": {
+            "offers": 373,
+            "suppliers": 50
+          },
+          "power_priced_component": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "one_off_priced_component": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "fixed_with_index_reference": {
+            "offers": 7,
+            "suppliers": 3
+          },
+          "regulated_components": {
+            "offers": 38,
+            "suppliers": 5
+          },
+          "custom_dispatch": {
+            "offers": 41,
+            "suppliers": 4
+          },
+          "limiting_contract_condition": {
+            "offers": 409,
+            "suppliers": 93
+          },
+          "geographic_scope": {
+            "offers": 196,
+            "suppliers": 48
+          },
+          "consumption_limits": {
+            "offers": 105,
+            "suppliers": 42
+          },
+          "power_limits": {
+            "offers": 175,
+            "suppliers": 38
+          },
+          "additional_products": {
+            "offers": 190,
+            "suppliers": 44
+          }
+        }
+      },
+      "domestic_single": {
+        "offers": 1941,
+        "suppliers": 329,
+        "offer_types": {
+          "02": 1487,
+          "01": 454
+        },
+        "band_types": {
+          "03": 1112,
+          "01": 723,
+          "91": 101,
+          "07": 5
+        },
+        "index_codes": {
+          "12": 1435,
+          "01": 49,
+          "05": 1,
+          "08": 9
+        },
+        "flags": {
+          "fixed": {
+            "offers": 454,
+            "suppliers": 124
+          },
+          "variable": {
+            "offers": 1487,
+            "suppliers": 309
+          },
+          "flat": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "mixed": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "all_inclusive": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "all_inclusive_canone": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "time_bands": {
+            "offers": 1218,
+            "suppliers": 281
+          },
+          "three_bands": {
+            "offers": 1112,
+            "suppliers": 261
+          },
+          "two_bands": {
+            "offers": 101,
+            "suppliers": 36
+          },
+          "peak_offpeak": {
+            "offers": 5,
+            "suppliers": 3
+          },
+          "custom_band_schedule": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "different_prices_across_bands": {
+            "offers": 103,
+            "suppliers": 43
+          },
+          "discount_any": {
+            "offers": 578,
+            "suppliers": 153
+          },
+          "discount_unconditional": {
+            "offers": 246,
+            "suppliers": 80
+          },
+          "discount_unconditional_firstyear": {
+            "offers": 235,
+            "suppliers": 77
+          },
+          "discount_conditional": {
+            "offers": 415,
+            "suppliers": 108
+          },
+          "discount_percent": {
+            "offers": 24,
+            "suppliers": 9
+          },
+          "discount_absolute_euro": {
+            "offers": 87,
+            "suppliers": 39
+          },
+          "discount_fixed_annual": {
+            "offers": 450,
+            "suppliers": 122
+          },
+          "discount_per_kwh": {
+            "offers": 62,
+            "suppliers": 25
+          },
+          "discount_power": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "discount_tutela": {
+            "offers": 1,
+            "suppliers": 1
+          },
+          "discount_band": {
+            "offers": 6,
+            "suppliers": 3
+          },
+          "discount_period": {
+            "offers": 16,
+            "suppliers": 7
+          },
+          "discount_consumption_tiers": {
+            "offers": 13,
+            "suppliers": 5
+          },
+          "price_period": {
+            "offers": 16,
+            "suppliers": 3
+          },
+          "standard_price_period": {
+            "offers": 15,
+            "suppliers": 2
+          },
+          "standard_price_changes_by_period": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "price_consumption_tiers": {
+            "offers": 10,
+            "suppliers": 4
+          },
+          "standard_price_consumption_tiers": {
+            "offers": 9,
+            "suppliers": 3
+          },
+          "standard_price_changes_by_consumption_tiers": {
+            "offers": 9,
+            "suppliers": 3
+          },
+          "index_coefficient": {
+            "offers": 39,
+            "suppliers": 10
+          },
+          "index_coefficient_not_one": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "multiple_index_references": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "per_band_index_references": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "optional_component": {
+            "offers": 145,
+            "suppliers": 38
+          },
+          "standard_renewable_energy_component": {
+            "offers": 347,
+            "suppliers": 50
+          },
+          "power_priced_component": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "one_off_priced_component": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "fixed_with_index_reference": {
+            "offers": 7,
+            "suppliers": 3
+          },
+          "regulated_components": {
+            "offers": 38,
+            "suppliers": 5
+          },
+          "custom_dispatch": {
+            "offers": 41,
+            "suppliers": 4
+          },
+          "limiting_contract_condition": {
+            "offers": 395,
+            "suppliers": 93
+          },
+          "geographic_scope": {
+            "offers": 195,
+            "suppliers": 48
+          },
+          "consumption_limits": {
+            "offers": 105,
+            "suppliers": 42
+          },
+          "power_limits": {
+            "offers": 166,
+            "suppliers": 38
+          },
+          "additional_products": {
+            "offers": 184,
+            "suppliers": 44
+          }
+        }
+      },
+      "domestic_single_switching": {
+        "offers": 1916,
+        "suppliers": 328,
+        "offer_types": {
+          "02": 1474,
+          "01": 442
+        },
+        "band_types": {
+          "03": 1103,
+          "01": 708,
+          "91": 100,
+          "07": 5
+        },
+        "index_codes": {
+          "12": 1423,
+          "01": 48,
+          "05": 1,
+          "08": 9
+        },
+        "flags": {
+          "fixed": {
+            "offers": 442,
+            "suppliers": 123
+          },
+          "variable": {
+            "offers": 1474,
+            "suppliers": 308
+          },
+          "flat": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "mixed": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "all_inclusive": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "all_inclusive_canone": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "time_bands": {
+            "offers": 1208,
+            "suppliers": 280
+          },
+          "three_bands": {
+            "offers": 1103,
+            "suppliers": 260
+          },
+          "two_bands": {
+            "offers": 100,
+            "suppliers": 36
+          },
+          "peak_offpeak": {
+            "offers": 5,
+            "suppliers": 3
+          },
+          "custom_band_schedule": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "different_prices_across_bands": {
+            "offers": 98,
+            "suppliers": 42
+          },
+          "discount_any": {
+            "offers": 563,
+            "suppliers": 153
+          },
+          "discount_unconditional": {
+            "offers": 234,
+            "suppliers": 80
+          },
+          "discount_unconditional_firstyear": {
+            "offers": 223,
+            "suppliers": 77
+          },
+          "discount_conditional": {
+            "offers": 410,
+            "suppliers": 108
+          },
+          "discount_percent": {
+            "offers": 23,
+            "suppliers": 9
+          },
+          "discount_absolute_euro": {
+            "offers": 84,
+            "suppliers": 39
+          },
+          "discount_fixed_annual": {
+            "offers": 437,
+            "suppliers": 122
+          },
+          "discount_per_kwh": {
+            "offers": 59,
+            "suppliers": 25
+          },
+          "discount_power": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "discount_tutela": {
+            "offers": 1,
+            "suppliers": 1
+          },
+          "discount_band": {
+            "offers": 6,
+            "suppliers": 3
+          },
+          "discount_period": {
+            "offers": 14,
+            "suppliers": 7
+          },
+          "discount_consumption_tiers": {
+            "offers": 13,
+            "suppliers": 5
+          },
+          "price_period": {
+            "offers": 16,
+            "suppliers": 3
+          },
+          "standard_price_period": {
+            "offers": 15,
+            "suppliers": 2
+          },
+          "standard_price_changes_by_period": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "price_consumption_tiers": {
+            "offers": 10,
+            "suppliers": 4
+          },
+          "standard_price_consumption_tiers": {
+            "offers": 9,
+            "suppliers": 3
+          },
+          "standard_price_changes_by_consumption_tiers": {
+            "offers": 9,
+            "suppliers": 3
+          },
+          "index_coefficient": {
+            "offers": 39,
+            "suppliers": 10
+          },
+          "index_coefficient_not_one": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "multiple_index_references": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "per_band_index_references": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "optional_component": {
+            "offers": 141,
+            "suppliers": 38
+          },
+          "standard_renewable_energy_component": {
+            "offers": 333,
+            "suppliers": 49
+          },
+          "power_priced_component": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "one_off_priced_component": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "fixed_with_index_reference": {
+            "offers": 7,
+            "suppliers": 3
+          },
+          "regulated_components": {
+            "offers": 38,
+            "suppliers": 5
+          },
+          "custom_dispatch": {
+            "offers": 41,
+            "suppliers": 4
+          },
+          "limiting_contract_condition": {
+            "offers": 388,
+            "suppliers": 92
+          },
+          "geographic_scope": {
+            "offers": 192,
+            "suppliers": 48
+          },
+          "consumption_limits": {
+            "offers": 105,
+            "suppliers": 42
+          },
+          "power_limits": {
+            "offers": 166,
+            "suppliers": 38
+          },
+          "additional_products": {
+            "offers": 180,
+            "suppliers": 44
+          }
+        }
+      },
+      "scope": {
+        "offers": 1916,
+        "suppliers": 328,
+        "offer_types": {
+          "02": 1474,
+          "01": 442
+        },
+        "band_types": {
+          "03": 1103,
+          "01": 708,
+          "91": 100,
+          "07": 5
+        },
+        "index_codes": {
+          "12": 1423,
+          "01": 48,
+          "05": 1,
+          "08": 9
+        },
+        "flags": {
+          "fixed": {
+            "offers": 442,
+            "suppliers": 123
+          },
+          "variable": {
+            "offers": 1474,
+            "suppliers": 308
+          },
+          "flat": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "mixed": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "all_inclusive": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "all_inclusive_canone": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "time_bands": {
+            "offers": 1208,
+            "suppliers": 280
+          },
+          "three_bands": {
+            "offers": 1103,
+            "suppliers": 260
+          },
+          "two_bands": {
+            "offers": 100,
+            "suppliers": 36
+          },
+          "peak_offpeak": {
+            "offers": 5,
+            "suppliers": 3
+          },
+          "custom_band_schedule": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "different_prices_across_bands": {
+            "offers": 98,
+            "suppliers": 42
+          },
+          "discount_any": {
+            "offers": 563,
+            "suppliers": 153
+          },
+          "discount_unconditional": {
+            "offers": 234,
+            "suppliers": 80
+          },
+          "discount_unconditional_firstyear": {
+            "offers": 223,
+            "suppliers": 77
+          },
+          "discount_conditional": {
+            "offers": 410,
+            "suppliers": 108
+          },
+          "discount_percent": {
+            "offers": 23,
+            "suppliers": 9
+          },
+          "discount_absolute_euro": {
+            "offers": 84,
+            "suppliers": 39
+          },
+          "discount_fixed_annual": {
+            "offers": 437,
+            "suppliers": 122
+          },
+          "discount_per_kwh": {
+            "offers": 59,
+            "suppliers": 25
+          },
+          "discount_power": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "discount_tutela": {
+            "offers": 1,
+            "suppliers": 1
+          },
+          "discount_band": {
+            "offers": 6,
+            "suppliers": 3
+          },
+          "discount_period": {
+            "offers": 14,
+            "suppliers": 7
+          },
+          "discount_consumption_tiers": {
+            "offers": 13,
+            "suppliers": 5
+          },
+          "price_period": {
+            "offers": 16,
+            "suppliers": 3
+          },
+          "standard_price_period": {
+            "offers": 15,
+            "suppliers": 2
+          },
+          "standard_price_changes_by_period": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "price_consumption_tiers": {
+            "offers": 10,
+            "suppliers": 4
+          },
+          "standard_price_consumption_tiers": {
+            "offers": 9,
+            "suppliers": 3
+          },
+          "standard_price_changes_by_consumption_tiers": {
+            "offers": 9,
+            "suppliers": 3
+          },
+          "index_coefficient": {
+            "offers": 39,
+            "suppliers": 10
+          },
+          "index_coefficient_not_one": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "multiple_index_references": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "per_band_index_references": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "optional_component": {
+            "offers": 141,
+            "suppliers": 38
+          },
+          "standard_renewable_energy_component": {
+            "offers": 333,
+            "suppliers": 49
+          },
+          "power_priced_component": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "one_off_priced_component": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "fixed_with_index_reference": {
+            "offers": 7,
+            "suppliers": 3
+          },
+          "regulated_components": {
+            "offers": 38,
+            "suppliers": 5
+          },
+          "custom_dispatch": {
+            "offers": 41,
+            "suppliers": 4
+          },
+          "limiting_contract_condition": {
+            "offers": 388,
+            "suppliers": 92
+          },
+          "geographic_scope": {
+            "offers": 192,
+            "suppliers": 48
+          },
+          "consumption_limits": {
+            "offers": 105,
+            "suppliers": 42
+          },
+          "power_limits": {
+            "offers": 166,
+            "suppliers": 38
+          },
+          "additional_products": {
+            "offers": 180,
+            "suppliers": 44
+          }
+        }
+      }
+    },
+    "overlapping_feature_combinations_in_scope": {
+      "variabile|fasce": 720,
+      "variabile|fasce|sconto": 280,
+      "variabile": 269,
+      "fisso": 215,
+      "variabile|sconto": 72,
+      "fisso|sconto": 70,
+      "fisso|fasce": 61,
+      "variabile|fasce|opzionale": 45,
+      "variabile|fasce|sconto|opzionale": 39,
+      "fisso|fasce|sconto": 23,
+      "variabile|opzionale": 13,
+      "fisso|sconto|sconto_percentuale": 12,
+      "fisso|fasce|sconto|opzionale": 10,
+      "variabile|sconto|opzionale": 9,
+      "fisso|opzionale": 9,
+      "fisso|sconto|opzionale": 9,
+      "fisso|sconto|periodo_sconto": 7,
+      "fisso|fasce|sconto|sconto_percentuale": 5,
+      "fisso|periodo_prezzo_standard": 5,
+      "variabile|fasce|sconto|sconto_a_scaglioni": 4,
+      "fisso|fasce|opzionale": 3,
+      "fisso|fasce|periodo_prezzo_standard": 3,
+      "variabile|periodo_prezzo_standard": 3,
+      "fisso|prezzo_a_scaglioni_standard": 3,
+      "variabile|sconto|periodo_sconto": 2,
+      "variabile|fasce|sconto|periodo_sconto": 2,
+      "fisso|sconto|sconto_a_scaglioni": 2,
+      "variabile|fasce|prezzo_a_scaglioni_standard": 2,
+      "variabile|fasce|sconto|sconto_percentuale|sconto_a_scaglioni": 2,
+      "variabile|fasce|sconto|prezzo_a_scaglioni_standard": 2,
+      "variabile|prezzo_a_scaglioni_standard": 1,
+      "variabile|fasce|sconto|periodo_sconto|opzionale": 1,
+      "fisso|sconto|periodo_prezzo_standard": 1,
+      "variabile|fasce|periodo_prezzo_standard": 1,
+      "variabile|sconto|periodo_prezzo_standard": 1,
+      "fisso|fasce|sconto|periodo_prezzo_standard": 1,
+      "fisso|sconto|prezzo_a_scaglioni_standard": 1,
+      "variabile|sconto|sconto_a_scaglioni|periodo_sconto": 1,
+      "variabile|fasce|sconto|sconto_a_scaglioni|periodo_sconto": 1,
+      "variabile|fasce|sconto|sconto_percentuale": 1,
+      "fisso|fasce|sconto|sconto_a_scaglioni|opzionale": 1,
+      "fisso|sconto|sconto_a_scaglioni|opzionale": 1,
+      "variabile|fasce|sconto|sconto_percentuale|opzionale": 1,
+      "variabile|sconto|sconto_percentuale|sconto_a_scaglioni": 1,
+      "variabile|sconto|sconto_percentuale": 1
+    }
+  },
+  "G": {
+    "source": "/tmp/la-mia-bolletta-20261027-G.xml",
+    "sha256": "1c8c944a6911980c9946ea58e0fdd1b60cbeb795634e07e73f324eb75ae558df",
+    "scopes": {
+      "all": {
+        "offers": 2830,
+        "suppliers": 323,
+        "types": {
+          "02": 2429,
+          "01": 395,
+          "04": 6
+        },
+        "index_combinations": {
+          "14": 2221,
+          "none": 390,
+          "10": 14,
+          "03": 50,
+          "15": 143,
+          "06": 12
+        },
+        "flags": {
+          "fixed": {
+            "offers": 395,
+            "suppliers": 98
+          },
+          "variable": {
+            "offers": 2429,
+            "suppliers": 321
+          },
+          "flat": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "mixed": {
+            "offers": 6,
+            "suppliers": 2
+          },
+          "all_inclusive": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "canone": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "commercial_tiers_standard": {
+            "offers": 18,
+            "suppliers": 5
+          },
+          "price_period_standard": {
+            "offers": 23,
+            "suppliers": 6
+          },
+          "commercial_tiers": {
+            "offers": 18,
+            "suppliers": 5
+          },
+          "price_period": {
+            "offers": 23,
+            "suppliers": 6
+          },
+          "price_period_different_from_default": {
+            "offers": 3,
+            "suppliers": 1
+          },
+          "commercial_tiers_different_prices": {
+            "offers": 18,
+            "suppliers": 5
+          },
+          "price_period_under_12": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "discount_any": {
+            "offers": 845,
+            "suppliers": 152
+          },
+          "discount_nonzero": {
+            "offers": 835,
+            "suppliers": 151
+          },
+          "discount_unconditional_firstyear_nonzero": {
+            "offers": 264,
+            "suppliers": 80
+          },
+          "discount_conditioned": {
+            "offers": 664,
+            "suppliers": 114
+          },
+          "discount_unconditional_firstyear": {
+            "offers": 274,
+            "suppliers": 81
+          },
+          "discount_firstyear_fixed": {
+            "offers": 222,
+            "suppliers": 70
+          },
+          "discount_firstyear_sales": {
+            "offers": 48,
+            "suppliers": 23
+          },
+          "discount_firstyear_tutela": {
+            "offers": 10,
+            "suppliers": 1
+          },
+          "discount_percent_any": {
+            "offers": 32,
+            "suppliers": 9
+          },
+          "discount_percent_firstyear": {
+            "offers": 18,
+            "suppliers": 4
+          },
+          "discount_period": {
+            "offers": 23,
+            "suppliers": 10
+          },
+          "discount_period_firstyear": {
+            "offers": 14,
+            "suppliers": 9
+          },
+          "discount_tier": {
+            "offers": 35,
+            "suppliers": 7
+          },
+          "multiple_indices": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "fixed_with_index": {
+            "offers": 5,
+            "suppliers": 3
+          },
+          "index_coefficient_nonunit": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "one_off_component": {
+            "offers": 1,
+            "suppliers": 1
+          },
+          "optional_component": {
+            "offers": 335,
+            "suppliers": 55
+          },
+          "regulated_sales_components": {
+            "offers": 839,
+            "suppliers": 134
+          },
+          "explicit_geography": {
+            "offers": 381,
+            "suppliers": 61
+          },
+          "restrictive_contract_terms": {
+            "offers": 657,
+            "suppliers": 104
+          },
+          "non_default_price_type": {
+            "offers": 6,
+            "suppliers": 2
+          }
+        }
+      },
+      "domestic": {
+        "offers": 1624,
+        "suppliers": 306,
+        "types": {
+          "02": 1316,
+          "01": 302,
+          "04": 6
+        },
+        "index_combinations": {
+          "14": 1180,
+          "none": 300,
+          "10": 11,
+          "03": 25,
+          "15": 101,
+          "06": 7
+        },
+        "flags": {
+          "fixed": {
+            "offers": 302,
+            "suppliers": 93
+          },
+          "variable": {
+            "offers": 1316,
+            "suppliers": 303
+          },
+          "flat": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "mixed": {
+            "offers": 6,
+            "suppliers": 2
+          },
+          "all_inclusive": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "canone": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "commercial_tiers_standard": {
+            "offers": 9,
+            "suppliers": 4
+          },
+          "price_period_standard": {
+            "offers": 8,
+            "suppliers": 3
+          },
+          "commercial_tiers": {
+            "offers": 9,
+            "suppliers": 4
+          },
+          "price_period": {
+            "offers": 8,
+            "suppliers": 3
+          },
+          "price_period_different_from_default": {
+            "offers": 1,
+            "suppliers": 1
+          },
+          "commercial_tiers_different_prices": {
+            "offers": 9,
+            "suppliers": 4
+          },
+          "price_period_under_12": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "discount_any": {
+            "offers": 550,
+            "suppliers": 146
+          },
+          "discount_nonzero": {
+            "offers": 544,
+            "suppliers": 145
+          },
+          "discount_unconditional_firstyear_nonzero": {
+            "offers": 215,
+            "suppliers": 77
+          },
+          "discount_conditioned": {
+            "offers": 413,
+            "suppliers": 106
+          },
+          "discount_unconditional_firstyear": {
+            "offers": 221,
+            "suppliers": 78
+          },
+          "discount_firstyear_fixed": {
+            "offers": 191,
+            "suppliers": 68
+          },
+          "discount_firstyear_sales": {
+            "offers": 29,
+            "suppliers": 18
+          },
+          "discount_firstyear_tutela": {
+            "offers": 6,
+            "suppliers": 1
+          },
+          "discount_percent_any": {
+            "offers": 20,
+            "suppliers": 8
+          },
+          "discount_percent_firstyear": {
+            "offers": 10,
+            "suppliers": 3
+          },
+          "discount_period": {
+            "offers": 15,
+            "suppliers": 7
+          },
+          "discount_period_firstyear": {
+            "offers": 8,
+            "suppliers": 6
+          },
+          "discount_tier": {
+            "offers": 23,
+            "suppliers": 6
+          },
+          "multiple_indices": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "fixed_with_index": {
+            "offers": 2,
+            "suppliers": 1
+          },
+          "index_coefficient_nonunit": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "one_off_component": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "optional_component": {
+            "offers": 162,
+            "suppliers": 40
+          },
+          "regulated_sales_components": {
+            "offers": 384,
+            "suppliers": 86
+          },
+          "explicit_geography": {
+            "offers": 239,
+            "suppliers": 57
+          },
+          "restrictive_contract_terms": {
+            "offers": 376,
+            "suppliers": 88
+          },
+          "non_default_price_type": {
+            "offers": 6,
+            "suppliers": 2
+          }
+        }
+      },
+      "domestic_single": {
+        "offers": 1587,
+        "suppliers": 304,
+        "types": {
+          "02": 1296,
+          "01": 285,
+          "04": 6
+        },
+        "index_combinations": {
+          "14": 1169,
+          "none": 283,
+          "10": 11,
+          "03": 24,
+          "15": 93,
+          "06": 7
+        },
+        "flags": {
+          "fixed": {
+            "offers": 285,
+            "suppliers": 93
+          },
+          "variable": {
+            "offers": 1296,
+            "suppliers": 301
+          },
+          "flat": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "mixed": {
+            "offers": 6,
+            "suppliers": 2
+          },
+          "all_inclusive": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "canone": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "commercial_tiers_standard": {
+            "offers": 9,
+            "suppliers": 4
+          },
+          "price_period_standard": {
+            "offers": 8,
+            "suppliers": 3
+          },
+          "commercial_tiers": {
+            "offers": 9,
+            "suppliers": 4
+          },
+          "price_period": {
+            "offers": 8,
+            "suppliers": 3
+          },
+          "price_period_different_from_default": {
+            "offers": 1,
+            "suppliers": 1
+          },
+          "commercial_tiers_different_prices": {
+            "offers": 9,
+            "suppliers": 4
+          },
+          "price_period_under_12": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "discount_any": {
+            "offers": 525,
+            "suppliers": 145
+          },
+          "discount_nonzero": {
+            "offers": 519,
+            "suppliers": 144
+          },
+          "discount_unconditional_firstyear_nonzero": {
+            "offers": 200,
+            "suppliers": 77
+          },
+          "discount_conditioned": {
+            "offers": 391,
+            "suppliers": 105
+          },
+          "discount_unconditional_firstyear": {
+            "offers": 206,
+            "suppliers": 78
+          },
+          "discount_firstyear_fixed": {
+            "offers": 176,
+            "suppliers": 68
+          },
+          "discount_firstyear_sales": {
+            "offers": 29,
+            "suppliers": 18
+          },
+          "discount_firstyear_tutela": {
+            "offers": 6,
+            "suppliers": 1
+          },
+          "discount_percent_any": {
+            "offers": 19,
+            "suppliers": 7
+          },
+          "discount_percent_firstyear": {
+            "offers": 10,
+            "suppliers": 3
+          },
+          "discount_period": {
+            "offers": 15,
+            "suppliers": 7
+          },
+          "discount_period_firstyear": {
+            "offers": 8,
+            "suppliers": 6
+          },
+          "discount_tier": {
+            "offers": 23,
+            "suppliers": 6
+          },
+          "multiple_indices": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "fixed_with_index": {
+            "offers": 2,
+            "suppliers": 1
+          },
+          "index_coefficient_nonunit": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "one_off_component": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "optional_component": {
+            "offers": 154,
+            "suppliers": 40
+          },
+          "regulated_sales_components": {
+            "offers": 384,
+            "suppliers": 86
+          },
+          "explicit_geography": {
+            "offers": 221,
+            "suppliers": 57
+          },
+          "restrictive_contract_terms": {
+            "offers": 361,
+            "suppliers": 86
+          },
+          "non_default_price_type": {
+            "offers": 6,
+            "suppliers": 2
+          }
+        }
+      },
+      "domestic_single_switch": {
+        "offers": 1571,
+        "suppliers": 303,
+        "types": {
+          "02": 1287,
+          "01": 278,
+          "04": 6
+        },
+        "index_combinations": {
+          "14": 1160,
+          "none": 276,
+          "10": 11,
+          "03": 24,
+          "15": 93,
+          "06": 7
+        },
+        "flags": {
+          "fixed": {
+            "offers": 278,
+            "suppliers": 92
+          },
+          "variable": {
+            "offers": 1287,
+            "suppliers": 300
+          },
+          "flat": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "mixed": {
+            "offers": 6,
+            "suppliers": 2
+          },
+          "all_inclusive": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "canone": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "commercial_tiers_standard": {
+            "offers": 9,
+            "suppliers": 4
+          },
+          "price_period_standard": {
+            "offers": 8,
+            "suppliers": 3
+          },
+          "commercial_tiers": {
+            "offers": 9,
+            "suppliers": 4
+          },
+          "price_period": {
+            "offers": 8,
+            "suppliers": 3
+          },
+          "price_period_different_from_default": {
+            "offers": 1,
+            "suppliers": 1
+          },
+          "commercial_tiers_different_prices": {
+            "offers": 9,
+            "suppliers": 4
+          },
+          "price_period_under_12": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "discount_any": {
+            "offers": 512,
+            "suppliers": 145
+          },
+          "discount_nonzero": {
+            "offers": 506,
+            "suppliers": 144
+          },
+          "discount_unconditional_firstyear_nonzero": {
+            "offers": 191,
+            "suppliers": 77
+          },
+          "discount_conditioned": {
+            "offers": 384,
+            "suppliers": 105
+          },
+          "discount_unconditional_firstyear": {
+            "offers": 197,
+            "suppliers": 78
+          },
+          "discount_firstyear_fixed": {
+            "offers": 167,
+            "suppliers": 68
+          },
+          "discount_firstyear_sales": {
+            "offers": 29,
+            "suppliers": 18
+          },
+          "discount_firstyear_tutela": {
+            "offers": 6,
+            "suppliers": 1
+          },
+          "discount_percent_any": {
+            "offers": 18,
+            "suppliers": 7
+          },
+          "discount_percent_firstyear": {
+            "offers": 10,
+            "suppliers": 3
+          },
+          "discount_period": {
+            "offers": 13,
+            "suppliers": 7
+          },
+          "discount_period_firstyear": {
+            "offers": 8,
+            "suppliers": 6
+          },
+          "discount_tier": {
+            "offers": 23,
+            "suppliers": 6
+          },
+          "multiple_indices": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "fixed_with_index": {
+            "offers": 2,
+            "suppliers": 1
+          },
+          "index_coefficient_nonunit": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "one_off_component": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "optional_component": {
+            "offers": 154,
+            "suppliers": 40
+          },
+          "regulated_sales_components": {
+            "offers": 384,
+            "suppliers": 86
+          },
+          "explicit_geography": {
+            "offers": 215,
+            "suppliers": 56
+          },
+          "restrictive_contract_terms": {
+            "offers": 359,
+            "suppliers": 85
+          },
+          "non_default_price_type": {
+            "offers": 6,
+            "suppliers": 2
+          }
+        }
+      },
+      "in_scope": {
+        "offers": 1571,
+        "suppliers": 303,
+        "types": {
+          "02": 1287,
+          "01": 278,
+          "04": 6
+        },
+        "index_combinations": {
+          "14": 1160,
+          "none": 276,
+          "10": 11,
+          "03": 24,
+          "15": 93,
+          "06": 7
+        },
+        "flags": {
+          "fixed": {
+            "offers": 278,
+            "suppliers": 92
+          },
+          "variable": {
+            "offers": 1287,
+            "suppliers": 300
+          },
+          "flat": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "mixed": {
+            "offers": 6,
+            "suppliers": 2
+          },
+          "all_inclusive": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "canone": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "commercial_tiers_standard": {
+            "offers": 9,
+            "suppliers": 4
+          },
+          "price_period_standard": {
+            "offers": 8,
+            "suppliers": 3
+          },
+          "commercial_tiers": {
+            "offers": 9,
+            "suppliers": 4
+          },
+          "price_period": {
+            "offers": 8,
+            "suppliers": 3
+          },
+          "price_period_different_from_default": {
+            "offers": 1,
+            "suppliers": 1
+          },
+          "commercial_tiers_different_prices": {
+            "offers": 9,
+            "suppliers": 4
+          },
+          "price_period_under_12": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "discount_any": {
+            "offers": 512,
+            "suppliers": 145
+          },
+          "discount_nonzero": {
+            "offers": 506,
+            "suppliers": 144
+          },
+          "discount_unconditional_firstyear_nonzero": {
+            "offers": 191,
+            "suppliers": 77
+          },
+          "discount_conditioned": {
+            "offers": 384,
+            "suppliers": 105
+          },
+          "discount_unconditional_firstyear": {
+            "offers": 197,
+            "suppliers": 78
+          },
+          "discount_firstyear_fixed": {
+            "offers": 167,
+            "suppliers": 68
+          },
+          "discount_firstyear_sales": {
+            "offers": 29,
+            "suppliers": 18
+          },
+          "discount_firstyear_tutela": {
+            "offers": 6,
+            "suppliers": 1
+          },
+          "discount_percent_any": {
+            "offers": 18,
+            "suppliers": 7
+          },
+          "discount_percent_firstyear": {
+            "offers": 10,
+            "suppliers": 3
+          },
+          "discount_period": {
+            "offers": 13,
+            "suppliers": 7
+          },
+          "discount_period_firstyear": {
+            "offers": 8,
+            "suppliers": 6
+          },
+          "discount_tier": {
+            "offers": 23,
+            "suppliers": 6
+          },
+          "multiple_indices": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "fixed_with_index": {
+            "offers": 2,
+            "suppliers": 1
+          },
+          "index_coefficient_nonunit": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "one_off_component": {
+            "offers": 0,
+            "suppliers": 0
+          },
+          "optional_component": {
+            "offers": 154,
+            "suppliers": 40
+          },
+          "regulated_sales_components": {
+            "offers": 384,
+            "suppliers": 86
+          },
+          "explicit_geography": {
+            "offers": 215,
+            "suppliers": 56
+          },
+          "restrictive_contract_terms": {
+            "offers": 359,
+            "suppliers": 85
+          },
+          "non_default_price_type": {
+            "offers": 6,
+            "suppliers": 2
+          }
+        }
+      }
+    },
+    "overlapping_feature_combinations_in_scope": {
+      "variabile": 810,
+      "variabile|sconto": 312,
+      "fisso": 152,
+      "variabile|opzionale": 78,
+      "fisso|sconto": 70,
+      "variabile|sconto|opzionale": 52,
+      "fisso|sconto|opzionale": 14,
+      "variabile|sconto|sconto_a_scaglioni": 13,
+      "fisso|sconto|sconto_percentuale": 10,
+      "fisso|sconto|sconto_a_scaglioni": 9,
+      "fisso|opzionale": 9,
+      "variabile|sconto|sconto_percentuale": 7,
+      "misto|sconto": 6,
+      "fisso|sconto|periodo_sconto": 6,
+      "variabile|sconto|periodo_sconto": 5,
+      "fisso|periodo_prezzo_standard": 3,
+      "fisso|prezzo_a_scaglioni_standard": 3,
+      "variabile|prezzo_a_scaglioni_standard": 2,
+      "variabile|periodo_prezzo_standard": 2,
+      "variabile|sconto|prezzo_a_scaglioni_standard": 2,
+      "variabile|sconto|prezzo_a_scaglioni_standard|periodo_prezzo_standard|periodo_sconto": 1,
+      "fisso|sconto|periodo_prezzo_standard": 1,
+      "variabile|sconto|periodo_prezzo_standard": 1,
+      "fisso|sconto|prezzo_a_scaglioni_standard": 1,
+      "variabile|sconto|periodo_sconto|opzionale": 1,
+      "variabile|sconto|sconto_percentuale|sconto_a_scaglioni": 1
+    }
+  }
+}

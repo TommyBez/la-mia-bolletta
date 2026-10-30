@@ -1,0 +1,50 @@
+{
+  "portalCode": "057059",
+  "name": "Rieti",
+  "source": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+  "observedAt": "2026-10-29T12:00:00Z",
+  "syntheticAnnualSmc": "4000",
+  "usage": "RISC",
+  "calibrationOffer": "000971GSVML01XXPROD1300109202600",
+  "saleEur": "3527.86",
+  "operationalProfile": "C1 E",
+  "rates": {
+    "excise": [
+      {
+        "label": "Accisa - da 0 a 120 Smc",
+        "eur_smc": "0.038000"
+      },
+      {
+        "label": "Accisa - da 121 a 480 Smc",
+        "eur_smc": "0.135000"
+      },
+      {
+        "label": "Accisa - da 481 a 1.560 Smc",
+        "eur_smc": "0.120000"
+      },
+      {
+        "label": "Accisa - oltre 1.560 Smc",
+        "eur_smc": "0.150000"
+      }
+    ],
+    "regional": [
+      {
+        "label": "Add. reg. fino a 120 Smc",
+        "eur_smc": "0.019000"
+      },
+      {
+        "label": "Add. reg. da 121 a 480 Smc",
+        "eur_smc": "0.030990"
+      },
+      {
+        "label": "Add. reg. da 481 a 1.560 Smc",
+        "eur_smc": "0.030990"
+      },
+      {
+        "label": "Add. reg. - oltre 1.560 Smc",
+        "eur_smc": "0.030990"
+      }
+    ]
+  },
+  "costFragmentSha256": "1f00cf124f7f1c89edaecef0bed04fed2389efb0337bfde42d5a15d1f2bc64e2"
+}

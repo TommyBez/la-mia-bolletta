@@ -1,0 +1,47 @@
+{
+  "scope": "Observed Pescara samples only; not a production tariff engine or an official forward curve",
+  "fitted_annual_index_average_eur_smc": "0.832793",
+  "fitted_average_note": "One value compatible with displayed rounded amounts; not an official published price or a unique reconstruction of monthly forwards",
+  "cases": [
+    {
+      "smc": 500,
+      "senza_sale": "600.40",
+      "netto_sale": "536.40",
+      "implied_index_total": "416.40",
+      "netto_residual": "0.00",
+      "simple_progressive_annual_0_then_010": "0.0"
+    },
+    {
+      "smc": 1000,
+      "senza_sale": "1056.79",
+      "netto_sale": "952.79",
+      "implied_index_total": "832.79",
+      "netto_residual": "0.00",
+      "simple_progressive_annual_0_then_010": "0.0"
+    },
+    {
+      "smc": 1200,
+      "senza_sale": "1239.35",
+      "netto_sale": "1143.59",
+      "implied_index_total": "999.35",
+      "netto_residual": "24.24",
+      "simple_progressive_annual_0_then_010": "20.0"
+    },
+    {
+      "smc": 1400,
+      "senza_sale": "1421.91",
+      "netto_sale": "1314.19",
+      "implied_index_total": "1165.91",
+      "netto_residual": "28.28",
+      "simple_progressive_annual_0_then_010": "40.0"
+    },
+    {
+      "smc": 2000,
+      "senza_sale": "1969.59",
+      "netto_sale": "1863.87",
+      "implied_index_total": "1665.59",
+      "netto_residual": "78.28",
+      "simple_progressive_annual_0_then_010": "100.0"
+    }
+  ]
+}

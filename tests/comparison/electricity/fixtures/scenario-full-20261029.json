@@ -1,0 +1,3896 @@
+{
+  "schemaVersion": 1,
+  "commodity": "electricity",
+  "acquisitionMonth": "2026-10",
+  "acquiredAt": "2026-10-29T22:00:59.220644Z",
+  "method": "portal-implicit-quarterly-v1",
+  "provenance": "inferred_from_official_simulator",
+  "coverageStart": "2026-10-01",
+  "coverageEnd": "2027-09-30",
+  "catalogVersionId": "c6bfd2c781d241aa0afc356ae692eb9b48fdda3fd159b06535048b070bc9e5b2",
+  "requiredAnnualFingerprints": [
+    "0946a2794f416e3092327357b5ce3913bd522e94b5a53844dbc7528851e6daf0",
+    "5185538b59ae8a43704bb4603ab588989bffde9c39efc27dd647b9e2e35dbd3e",
+    "6c3ca7fe66e194b7ea40c7a138635d55a0de1e1b766c49dc49234d4e4c2fde63",
+    "6d4ac3b211d2c849bd8a348064c8497531b7d8249feed418fd868fce12f89961",
+    "992c64b8fd993b32448666e05882f334912d82f6f2c533e37948c51b0001697a",
+    "9add3e2e531e5532bc8f6d863cbeaace13fffc6b58157ba2ec86d466c663c483",
+    "a4afe5897bf4770f6e709411e76c583ce06b661464548b64892399cd88c927d2",
+    "b69a39e5796344262aef83ed5ca1733ab6996b36370eb3d1d19dcb45f8f7003d",
+    "c1d5ae7d50bc4d492095ca83a17afb651a7fc877869bb06ff4d5805e3e882041",
+    "cdba73d4af116b926a81f8af69bb7ae0244ce177d6adcdab40677aa83e57529c",
+    "cf51ec7ab599f182528d49157f54fb2b88098de33e60c20772fc296739a5ec43",
+    "e19735b6b35064367982720baadd3b3ebffb5966fb704c3db6d738590714bb1d",
+    "fc26dc68508c67bd24a9be142a553fe4182c630f7fc7259bf29d024aa5e145bc"
+  ],
+  "evidence": [
+    {
+      "blobKey": "scenario/2026-10/55c522617793f9d92cd50c0561d07711c6985e361199acbf276b023e4386ffe0.xml",
+      "sha256": "55c522617793f9d92cd50c0561d07711c6985e361199acbf276b023e4386ffe0",
+      "kind": "official_offer"
+    },
+    {
+      "blobKey": "scenario/2026-10/eb77fbfe544cd3288e7f222332d5a35a7f20a09e359739ff5666fa38a5190710.json",
+      "sha256": "eb77fbfe544cd3288e7f222332d5a35a7f20a09e359739ff5666fa38a5190710",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/2e236e35046f1aeeb0a74dc7d063cc018c357748757e237e80247995e3fac1aa.json",
+      "sha256": "2e236e35046f1aeeb0a74dc7d063cc018c357748757e237e80247995e3fac1aa",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/192fb3b8b4b1697d81c068cccbf5ff1cc4f0bd7129153ab6973f71798f0452e2.json",
+      "sha256": "192fb3b8b4b1697d81c068cccbf5ff1cc4f0bd7129153ab6973f71798f0452e2",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/603043c8879bce4c44f35c807fde3a06b44e5b96777329997bac41e054060f8a.json",
+      "sha256": "603043c8879bce4c44f35c807fde3a06b44e5b96777329997bac41e054060f8a",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/275cb7212c54b6801c16c359560d1fa3e2c6f0cc1efe99dadba10b599506e28d.json",
+      "sha256": "275cb7212c54b6801c16c359560d1fa3e2c6f0cc1efe99dadba10b599506e28d",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/555e458f8cc57ebe912cc639af829980e4d7eef37dacb4d111fc525e626eb5fd.json",
+      "sha256": "555e458f8cc57ebe912cc639af829980e4d7eef37dacb4d111fc525e626eb5fd",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/415cacc6f09b199e5393733811e230a148eb21252f9cbbc637a63bd3133a997b.json",
+      "sha256": "415cacc6f09b199e5393733811e230a148eb21252f9cbbc637a63bd3133a997b",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/01a8ba4e33691ad6622e413edefd7a9e1b52b514aec03aef35f0221687d19de6.json",
+      "sha256": "01a8ba4e33691ad6622e413edefd7a9e1b52b514aec03aef35f0221687d19de6",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/0e220b2f61732bf5956fbf4bafcdbde4335db120455c7f061f8ddb1ac559f563.json",
+      "sha256": "0e220b2f61732bf5956fbf4bafcdbde4335db120455c7f061f8ddb1ac559f563",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/7e0281c562f24eb78d67da3d545e5c8396b23dc3fb4ff69ed5c3b58e33d44338.json",
+      "sha256": "7e0281c562f24eb78d67da3d545e5c8396b23dc3fb4ff69ed5c3b58e33d44338",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/c3e162a6680fb0dc9a07aa9054b74b9b14a64e87f8d6857aa911587ae48dd34c.json",
+      "sha256": "c3e162a6680fb0dc9a07aa9054b74b9b14a64e87f8d6857aa911587ae48dd34c",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/08cfe299bcedc7243f957b2bd1e95611dee95f4e4c141072ed81d8790c33bcf9.json",
+      "sha256": "08cfe299bcedc7243f957b2bd1e95611dee95f4e4c141072ed81d8790c33bcf9",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/713841f8236f69bd84835e27b7fbea9bf15ee3c000b1d84f610cb3aa764b5a21.json",
+      "sha256": "713841f8236f69bd84835e27b7fbea9bf15ee3c000b1d84f610cb3aa764b5a21",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/313c9bed7b2cba26b73f94937c8e8ff7e8e86336fadd274f3000a5d66a009739.json",
+      "sha256": "313c9bed7b2cba26b73f94937c8e8ff7e8e86336fadd274f3000a5d66a009739",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/820f1851382d9b1b3207f34e928cd37dd256c3a74c31f5ce341c5de89e9b6b25.json",
+      "sha256": "820f1851382d9b1b3207f34e928cd37dd256c3a74c31f5ce341c5de89e9b6b25",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/3f00c4270754f8d9abd7da609449c736da92b19efef2184da783f7d01ec59048.json",
+      "sha256": "3f00c4270754f8d9abd7da609449c736da92b19efef2184da783f7d01ec59048",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/594791f8ff9231998b61c13728a8d5196401aa3728b59fd4d25864fe03d75072.json",
+      "sha256": "594791f8ff9231998b61c13728a8d5196401aa3728b59fd4d25864fe03d75072",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/b6c3adf72a3f4159c795442b44730cea21784c84fc789a35e8986c1315bb3fa7.json",
+      "sha256": "b6c3adf72a3f4159c795442b44730cea21784c84fc789a35e8986c1315bb3fa7",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/7c310796d6647df60c84f81f2006f65544b5ff60c37bbc321c6b9b2a6009c902.json",
+      "sha256": "7c310796d6647df60c84f81f2006f65544b5ff60c37bbc321c6b9b2a6009c902",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/535cfd08c12c05ae2db826a10dd1635ec3c7f9ecd6ec4b32744f02bfc54e8989.json",
+      "sha256": "535cfd08c12c05ae2db826a10dd1635ec3c7f9ecd6ec4b32744f02bfc54e8989",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/90619dcf2066e821d7a5ddd10678c9608ce30e69c6df06b937a237d5b13966e0.json",
+      "sha256": "90619dcf2066e821d7a5ddd10678c9608ce30e69c6df06b937a237d5b13966e0",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/6044c388a91168f39d94b028e9fb7c075dac924f4cf6920b05e5878adffb10ca.json",
+      "sha256": "6044c388a91168f39d94b028e9fb7c075dac924f4cf6920b05e5878adffb10ca",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/9a89ffe40ea15853dedf41ee1a986f723ae00738ce3139705156f44b86105eb4.json",
+      "sha256": "9a89ffe40ea15853dedf41ee1a986f723ae00738ce3139705156f44b86105eb4",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/771b73061bf4ed72b347f3adf02384db9dc1112b98a294610152b4481c091aab.json",
+      "sha256": "771b73061bf4ed72b347f3adf02384db9dc1112b98a294610152b4481c091aab",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/cea9ba01a796a1421b8eedfda6fc2c4aa270809e3ea21e4c82797b2b74f3abda.json",
+      "sha256": "cea9ba01a796a1421b8eedfda6fc2c4aa270809e3ea21e4c82797b2b74f3abda",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/c95189688bbdbf7acf6f3953af009e28eefbf74cba80a1c582f06a583fd52976.json",
+      "sha256": "c95189688bbdbf7acf6f3953af009e28eefbf74cba80a1c582f06a583fd52976",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/a8095c1d1db7436512ea9c03aed4a8bfcd3fddc1ed120e914d1ddff90092df0a.json",
+      "sha256": "a8095c1d1db7436512ea9c03aed4a8bfcd3fddc1ed120e914d1ddff90092df0a",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/7218c9c5b27bd21a289986c29f9b598b9cadd96d480259bad0ad36859f05843a.json",
+      "sha256": "7218c9c5b27bd21a289986c29f9b598b9cadd96d480259bad0ad36859f05843a",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/0b9054b2bd94bbeca9c28fe1b8dc23c83a180e9c177c98ea5b5ee9519f64fb19.json",
+      "sha256": "0b9054b2bd94bbeca9c28fe1b8dc23c83a180e9c177c98ea5b5ee9519f64fb19",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/c69fac0269d3b2a9b2a57332f401dbb5ee2cea5de18d52dad4b9c30de53c179c.json",
+      "sha256": "c69fac0269d3b2a9b2a57332f401dbb5ee2cea5de18d52dad4b9c30de53c179c",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/089d057c6d46b10407c2bc9313e7fc565c503805627f5782a653f9dff2078bd4.json",
+      "sha256": "089d057c6d46b10407c2bc9313e7fc565c503805627f5782a653f9dff2078bd4",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/36013f24f3c20ff9e4d7c655db5a93a152d01173d09ddfbc0f223bdfe89b6829.json",
+      "sha256": "36013f24f3c20ff9e4d7c655db5a93a152d01173d09ddfbc0f223bdfe89b6829",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/afe0a6bd0b419276af208c2a061e71849a33e00645e003abdb809918fdf1f028.json",
+      "sha256": "afe0a6bd0b419276af208c2a061e71849a33e00645e003abdb809918fdf1f028",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/c23087eabe58241f5b3352a4547a0b34c7b2da237381b62dae9abcee23524e27.json",
+      "sha256": "c23087eabe58241f5b3352a4547a0b34c7b2da237381b62dae9abcee23524e27",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/b516e88276fb8d2991b4075b85dabacb1bde4c17d946b7a53a74699ad8f5fae2.json",
+      "sha256": "b516e88276fb8d2991b4075b85dabacb1bde4c17d946b7a53a74699ad8f5fae2",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ee63ece908fe5d98b9f0b873fa826a4dba78d061c3c08f05b73ffcb8cf72c0e8.json",
+      "sha256": "ee63ece908fe5d98b9f0b873fa826a4dba78d061c3c08f05b73ffcb8cf72c0e8",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/f0456ce8aa50bf4adf4c1d4dc54f1d3300c760f38e0e03f1787b3828086576bf.json",
+      "sha256": "f0456ce8aa50bf4adf4c1d4dc54f1d3300c760f38e0e03f1787b3828086576bf",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/8bda7184082bdada3d83ba6be6e1901d3f4db6254d9af6b0165ba1e4a80f2e15.json",
+      "sha256": "8bda7184082bdada3d83ba6be6e1901d3f4db6254d9af6b0165ba1e4a80f2e15",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/d7ea70ed42edcc1c444a00f2b1d12cf0e48dc864eefcdf4ee4a7e7911b5694f2.json",
+      "sha256": "d7ea70ed42edcc1c444a00f2b1d12cf0e48dc864eefcdf4ee4a7e7911b5694f2",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/f9567571cb8b17118f13b1dc5ca50d3dd05a3dc01d41c829a66616f4275f9d30.json",
+      "sha256": "f9567571cb8b17118f13b1dc5ca50d3dd05a3dc01d41c829a66616f4275f9d30",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/a6ab6b6262ab14801b925876bb086b4e7c281a15a744205f6bf5dbbb6152595a.json",
+      "sha256": "a6ab6b6262ab14801b925876bb086b4e7c281a15a744205f6bf5dbbb6152595a",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/b00ac186564bede4225992268f57ae2e34dac4dcc53ab8a79623145de8feab18.json",
+      "sha256": "b00ac186564bede4225992268f57ae2e34dac4dcc53ab8a79623145de8feab18",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/188f925095e9b19834f6f98a49a3120b02471814f7d60bd9a8fc8c745edc6364.json",
+      "sha256": "188f925095e9b19834f6f98a49a3120b02471814f7d60bd9a8fc8c745edc6364",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/5d207685d0262c0088be8e38a31c355299e40b5b4c78364f8da10109801cbbe3.json",
+      "sha256": "5d207685d0262c0088be8e38a31c355299e40b5b4c78364f8da10109801cbbe3",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/d5d72720b3e08dc4ed32e82f7c53e41a8cc8db386121757442d14250a3b056de.json",
+      "sha256": "d5d72720b3e08dc4ed32e82f7c53e41a8cc8db386121757442d14250a3b056de",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ee7d3226b27f4bd3eededa084c9972eea3607a91b34715544cf9bfe14f7e9858.json",
+      "sha256": "ee7d3226b27f4bd3eededa084c9972eea3607a91b34715544cf9bfe14f7e9858",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/7931c64acc08a4f349a316e67c902b6ba5220b55647439022a86bd446765a5a9.json",
+      "sha256": "7931c64acc08a4f349a316e67c902b6ba5220b55647439022a86bd446765a5a9",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/8fdff85b6e7a1bc1c9008313bee662224225dfc0aa00620dc76609dc42360405.json",
+      "sha256": "8fdff85b6e7a1bc1c9008313bee662224225dfc0aa00620dc76609dc42360405",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/97aa5c571f9952f55d34bcf7d61327508c4e84bd27831d676d1a2e76a4ffe34e.json",
+      "sha256": "97aa5c571f9952f55d34bcf7d61327508c4e84bd27831d676d1a2e76a4ffe34e",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/390f4d3f3354c0c36a237250d346300a13e749bda0abccecc8b43c863aec543b.json",
+      "sha256": "390f4d3f3354c0c36a237250d346300a13e749bda0abccecc8b43c863aec543b",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/f34cdbeae1df94d1da4216d1d3e2b2b960cb3af43131160b584f167411787ab2.json",
+      "sha256": "f34cdbeae1df94d1da4216d1d3e2b2b960cb3af43131160b584f167411787ab2",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/6e99ad663365a1ddde91940f7479ff35d6f7229f2294e0b7251f6f3df4885430.json",
+      "sha256": "6e99ad663365a1ddde91940f7479ff35d6f7229f2294e0b7251f6f3df4885430",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/5ce46ddc8b787ab76ab65b55a81401df20b166a7f0056962b6daf4c2dc14ea6e.json",
+      "sha256": "5ce46ddc8b787ab76ab65b55a81401df20b166a7f0056962b6daf4c2dc14ea6e",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/f0614a98f443ab7043ce4071f83c9441454ac22fac2c8c3c8b21639f1597e5f8.json",
+      "sha256": "f0614a98f443ab7043ce4071f83c9441454ac22fac2c8c3c8b21639f1597e5f8",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/0fa49438cff055481effa0714e5e55490ac15106422db4934b3c1d308e0a1944.json",
+      "sha256": "0fa49438cff055481effa0714e5e55490ac15106422db4934b3c1d308e0a1944",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/4614872320c95870aebd8641508ddb08b7c8b59b2028d3b11ce0272c39b6405a.json",
+      "sha256": "4614872320c95870aebd8641508ddb08b7c8b59b2028d3b11ce0272c39b6405a",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/9308cce98c62597d4a5d5be06f4f59d0808728970c6870fbf2ecc19ac902b950.json",
+      "sha256": "9308cce98c62597d4a5d5be06f4f59d0808728970c6870fbf2ecc19ac902b950",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/d4601d94cea38e1a85a84dc1af29adb88b857b8dbff023a60d39ad73d25efecd.json",
+      "sha256": "d4601d94cea38e1a85a84dc1af29adb88b857b8dbff023a60d39ad73d25efecd",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/9331aa566be7947e0ef6b9c00e81559a10080f62762729423333844bfe868ce2.json",
+      "sha256": "9331aa566be7947e0ef6b9c00e81559a10080f62762729423333844bfe868ce2",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/6c2365a42baf6fd1a2c3d7bfbb919991edd0407cbb40f121130b97810fc39a7a.json",
+      "sha256": "6c2365a42baf6fd1a2c3d7bfbb919991edd0407cbb40f121130b97810fc39a7a",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/1d0bedc91df5961a2aa2355fab9d4298aa15dbb5a230fd9fdf0a2b48a1c08eba.json",
+      "sha256": "1d0bedc91df5961a2aa2355fab9d4298aa15dbb5a230fd9fdf0a2b48a1c08eba",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/98864147d404dae02f98ffd0bd4757abce14c4d5268eb31c2f2d824e32699fd6.json",
+      "sha256": "98864147d404dae02f98ffd0bd4757abce14c4d5268eb31c2f2d824e32699fd6",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/a7ac9059103434a66c103e5ad3e257f2d56c8569ac6cd006dbc204b72f4d163d.json",
+      "sha256": "a7ac9059103434a66c103e5ad3e257f2d56c8569ac6cd006dbc204b72f4d163d",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/078c12b42d860af235c51ad4ce3a9909da23de119a676c6bf8ae5242581e7dd0.json",
+      "sha256": "078c12b42d860af235c51ad4ce3a9909da23de119a676c6bf8ae5242581e7dd0",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/5bade14dbdfc8ccd340e6aadcdda9e0884e40aef35c180b36d41208e43d8aafc.json",
+      "sha256": "5bade14dbdfc8ccd340e6aadcdda9e0884e40aef35c180b36d41208e43d8aafc",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/35adee4b8519d406d62e31a10d06f93229e96efbd6794d9d563305870ef7aef9.json",
+      "sha256": "35adee4b8519d406d62e31a10d06f93229e96efbd6794d9d563305870ef7aef9",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/69d598aa7620a4eed16b736a5466c4be47ae50fa57908e0a4a4ad4c81a46b8dc.json",
+      "sha256": "69d598aa7620a4eed16b736a5466c4be47ae50fa57908e0a4a4ad4c81a46b8dc",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/c9f08953e8f300a24116f8d5536c038d6564b966c2c73996aa9ceca4d600515c.json",
+      "sha256": "c9f08953e8f300a24116f8d5536c038d6564b966c2c73996aa9ceca4d600515c",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/d44a3bbd884238408dd51a1506c4375dd41cdd68b9d92276ed5a9b5de38c6dd6.json",
+      "sha256": "d44a3bbd884238408dd51a1506c4375dd41cdd68b9d92276ed5a9b5de38c6dd6",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/32644684a00009c3d7ce3dda9d0234108a831ad846e08ed1939d76d42408d04e.json",
+      "sha256": "32644684a00009c3d7ce3dda9d0234108a831ad846e08ed1939d76d42408d04e",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/fb89a68674274d02ac23b2b18fbd7ff03470d6b1762e75abc8c6cc63424ff5d6.json",
+      "sha256": "fb89a68674274d02ac23b2b18fbd7ff03470d6b1762e75abc8c6cc63424ff5d6",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/64427e28b790cadd07e9cb3be7b1fed43288cc3c194609a54e7c56bdbc90b45d.json",
+      "sha256": "64427e28b790cadd07e9cb3be7b1fed43288cc3c194609a54e7c56bdbc90b45d",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/7980caed6846ae430c2f01c2f9818e79d3d80d37a83819055eacbb9169f210c6.json",
+      "sha256": "7980caed6846ae430c2f01c2f9818e79d3d80d37a83819055eacbb9169f210c6",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/18a7078dccea97121c6d498742d530d7fde189c72e645f072e386dbb2cb7c25d.json",
+      "sha256": "18a7078dccea97121c6d498742d530d7fde189c72e645f072e386dbb2cb7c25d",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/37ceb482229e30e45252b940386d9bc2d522143f114b676051fb555a3e736d04.json",
+      "sha256": "37ceb482229e30e45252b940386d9bc2d522143f114b676051fb555a3e736d04",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/9f7cde93ce70127c1efd7f55f251f649190f18953c66647dc075da092763af0f.json",
+      "sha256": "9f7cde93ce70127c1efd7f55f251f649190f18953c66647dc075da092763af0f",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/f0527835db2b97ec31a21323fe25f4438c7f9ddf182caeca525114a6ee49a839.json",
+      "sha256": "f0527835db2b97ec31a21323fe25f4438c7f9ddf182caeca525114a6ee49a839",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/6bfd1eb8710c7334934517d8682af36cc35274446ee7536b1cc2e3b77035d316.json",
+      "sha256": "6bfd1eb8710c7334934517d8682af36cc35274446ee7536b1cc2e3b77035d316",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/90458bac8c3443a039c718865331ff1f0fc7976c4af7d8037354d0426a373ea7.json",
+      "sha256": "90458bac8c3443a039c718865331ff1f0fc7976c4af7d8037354d0426a373ea7",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/107bbfda09cf2867e97f4bc25c8f522eb64a8de44b3ff06c59c89c701c7162e3.json",
+      "sha256": "107bbfda09cf2867e97f4bc25c8f522eb64a8de44b3ff06c59c89c701c7162e3",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/9c335d09576383ab05a6b57cce29003152a596e0e2de4f050195110679ab3deb.json",
+      "sha256": "9c335d09576383ab05a6b57cce29003152a596e0e2de4f050195110679ab3deb",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/5138075cce213c927082f314458ad33d3bfdcbe960ad8e4876d08ea4ab237aa0.json",
+      "sha256": "5138075cce213c927082f314458ad33d3bfdcbe960ad8e4876d08ea4ab237aa0",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/e760722abc5397ea513b056dc0cccb1fca1967afda77c2c895c71cada92841b6.json",
+      "sha256": "e760722abc5397ea513b056dc0cccb1fca1967afda77c2c895c71cada92841b6",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/a6042bb62fa6f5b26192c3bfabf72a09a76c2e75003eb2d1fbdf437123fd155e.json",
+      "sha256": "a6042bb62fa6f5b26192c3bfabf72a09a76c2e75003eb2d1fbdf437123fd155e",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/7d14b185fa9d028e22e3b4f1ffe2bda774941e6b90cf9b0d9b4b0b46b416c9b8.json",
+      "sha256": "7d14b185fa9d028e22e3b4f1ffe2bda774941e6b90cf9b0d9b4b0b46b416c9b8",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ef7859ec28cb62fa9db993cf00dfa8a979eee5fb8c17cac1abf6ba5c7b541dd9.json",
+      "sha256": "ef7859ec28cb62fa9db993cf00dfa8a979eee5fb8c17cac1abf6ba5c7b541dd9",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/4daca1ff17d1fa208c306263d15d2a84c6076cf2445350faf212edf996509fd4.json",
+      "sha256": "4daca1ff17d1fa208c306263d15d2a84c6076cf2445350faf212edf996509fd4",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/5478cab6f4d4f8755e0b5ee69e730376ad098ecd06d1b5db120f1ab99a6230fd.json",
+      "sha256": "5478cab6f4d4f8755e0b5ee69e730376ad098ecd06d1b5db120f1ab99a6230fd",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/9c3edf2ceb0882cb946205d948538f87ec05fe6717639372c26fabc8a5809959.json",
+      "sha256": "9c3edf2ceb0882cb946205d948538f87ec05fe6717639372c26fabc8a5809959",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/1dae30f0b72ce17730882293c833f4f5381e1300861a4b118b567a9f6a941972.json",
+      "sha256": "1dae30f0b72ce17730882293c833f4f5381e1300861a4b118b567a9f6a941972",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/1e269eabf6a9fc27a32a0232c9ebfda8415eb2c6924e744cef5721367183a686.json",
+      "sha256": "1e269eabf6a9fc27a32a0232c9ebfda8415eb2c6924e744cef5721367183a686",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/52cf1a7d813865d85e2ed2159859c499d67eedb63c91e813ffa7a16b516bde5c.json",
+      "sha256": "52cf1a7d813865d85e2ed2159859c499d67eedb63c91e813ffa7a16b516bde5c",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/5ce7c003271efa940bcbd4dda77afbf33ad19b6dfb2aa6aa9675ceb68146a955.json",
+      "sha256": "5ce7c003271efa940bcbd4dda77afbf33ad19b6dfb2aa6aa9675ceb68146a955",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/c9f2c336d02c40703504a1e06be749093f89fc6c1c46d07510e37d3a530b94db.json",
+      "sha256": "c9f2c336d02c40703504a1e06be749093f89fc6c1c46d07510e37d3a530b94db",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/55685a0d8e463ef4f8ac27da6dfa3932d03201035278965647070b6df2a0e4cb.json",
+      "sha256": "55685a0d8e463ef4f8ac27da6dfa3932d03201035278965647070b6df2a0e4cb",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/a837b3e3361b419817a439a48c9ebf5b9e509107282a37272340f924b99c9734.json",
+      "sha256": "a837b3e3361b419817a439a48c9ebf5b9e509107282a37272340f924b99c9734",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/ec732a03997476ec7995bea681edd11e1896bb4b0941d06a30b713f6c99d836a.json",
+      "sha256": "ec732a03997476ec7995bea681edd11e1896bb4b0941d06a30b713f6c99d836a",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/09b61b16aa0740f7aa86e54f5db3deb3b2a53ff014fe01e6e804621a5d72155b.json",
+      "sha256": "09b61b16aa0740f7aa86e54f5db3deb3b2a53ff014fe01e6e804621a5d72155b",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/ad068b86966d8d0bf3d4bc230a8bb8d3b54a2d41d7bf62b189293063585c290d.json",
+      "sha256": "ad068b86966d8d0bf3d4bc230a8bb8d3b54a2d41d7bf62b189293063585c290d",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/0e4f04d39019755533fb15671482259f2a139e6c27ef504ed6ae4afe83864387.json",
+      "sha256": "0e4f04d39019755533fb15671482259f2a139e6c27ef504ed6ae4afe83864387",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/b57d2b5224f359b8a5a021b560628deed32d6cb0d727f590a47677ef469389b9.json",
+      "sha256": "b57d2b5224f359b8a5a021b560628deed32d6cb0d727f590a47677ef469389b9",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/b5c0fafdc28e6e0ab77eee8787a9ecee33830c6b8dc94ca71ef2bb95321c227c.json",
+      "sha256": "b5c0fafdc28e6e0ab77eee8787a9ecee33830c6b8dc94ca71ef2bb95321c227c",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/88afd309c3dd25a9c8bb62ea05be27251bcdd4ff9bb89ffcda9d1af8e34d9174.json",
+      "sha256": "88afd309c3dd25a9c8bb62ea05be27251bcdd4ff9bb89ffcda9d1af8e34d9174",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/fa8332ff15d6a01a5b2ca86996387d1f8e580db37c4da354e8df003584cdc3b9.json",
+      "sha256": "fa8332ff15d6a01a5b2ca86996387d1f8e580db37c4da354e8df003584cdc3b9",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/7d10e355bb5fcf059f2ffd123b3529382c348a7f54013057199de62d2d4a7e13.json",
+      "sha256": "7d10e355bb5fcf059f2ffd123b3529382c348a7f54013057199de62d2d4a7e13",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/8b703814b2fecc06524ea523c1efdcad719463167e835ba4726b80c457b82638.json",
+      "sha256": "8b703814b2fecc06524ea523c1efdcad719463167e835ba4726b80c457b82638",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/afd1a2fd1e8287eb3b1608288ca503c5484b3652f0ba92be47e4b95f7f0027b7.json",
+      "sha256": "afd1a2fd1e8287eb3b1608288ca503c5484b3652f0ba92be47e4b95f7f0027b7",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/c57ee8233c044d0277b388b1a3953e6be3b762208be0ed3f331444fc099b5dd0.json",
+      "sha256": "c57ee8233c044d0277b388b1a3953e6be3b762208be0ed3f331444fc099b5dd0",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/7376ffc329a8628e4ea918226f4ea4f0878867a97a7884cb59ee40610affbe31.json",
+      "sha256": "7376ffc329a8628e4ea918226f4ea4f0878867a97a7884cb59ee40610affbe31",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/7dc5835a41aa80096af60e96a47631a46e50e5409d67fa469991502833402ffd.json",
+      "sha256": "7dc5835a41aa80096af60e96a47631a46e50e5409d67fa469991502833402ffd",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/fbfa390518b69258db4ed286d835fc442298cc48a580465100b754f2e94a6d20.json",
+      "sha256": "fbfa390518b69258db4ed286d835fc442298cc48a580465100b754f2e94a6d20",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ec4fa0a73dda1fc7152d4f2a9944810add718b63bc6507daddbdba1ee7fd945f.json",
+      "sha256": "ec4fa0a73dda1fc7152d4f2a9944810add718b63bc6507daddbdba1ee7fd945f",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/b68dd449d51ba2a69b5737959eefd05a4e8c6d9d32f2305d4501bbc1a588ebdd.json",
+      "sha256": "b68dd449d51ba2a69b5737959eefd05a4e8c6d9d32f2305d4501bbc1a588ebdd",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/d9993cfaa7e13fded4bb2507644c6008947980a85c20e494f26f1b99a4015f79.json",
+      "sha256": "d9993cfaa7e13fded4bb2507644c6008947980a85c20e494f26f1b99a4015f79",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/eb94d0563de72da5e89e18f02cbab489067593107423ce3f3c583e7650821287.json",
+      "sha256": "eb94d0563de72da5e89e18f02cbab489067593107423ce3f3c583e7650821287",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/f24f6af01b7f5cf2fe27bbb69dcd41deb6461f438e55cc6e5416989358a3e09b.json",
+      "sha256": "f24f6af01b7f5cf2fe27bbb69dcd41deb6461f438e55cc6e5416989358a3e09b",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/5ee9aea144b9c0e9a5ba532d72d819ddf89e9d37531598f3317afbe017969da8.json",
+      "sha256": "5ee9aea144b9c0e9a5ba532d72d819ddf89e9d37531598f3317afbe017969da8",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/50dd4ee13687a53c3c9248a0294c2ed95bf5c903f45026901905330b7582e5fb.json",
+      "sha256": "50dd4ee13687a53c3c9248a0294c2ed95bf5c903f45026901905330b7582e5fb",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/a315fe16557a851ffec64d81bcce0e0d0bc8ae9e6763ce024a2638bf2da87c96.json",
+      "sha256": "a315fe16557a851ffec64d81bcce0e0d0bc8ae9e6763ce024a2638bf2da87c96",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/d146ed838d9cce0dab67bbd0c01fd54b390e4d592b38cc7e8959bd5dd24ee237.json",
+      "sha256": "d146ed838d9cce0dab67bbd0c01fd54b390e4d592b38cc7e8959bd5dd24ee237",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/6fad4cf3e7383d7241513b6f314a5a68db641b662df52a036c7d320d855129fc.json",
+      "sha256": "6fad4cf3e7383d7241513b6f314a5a68db641b662df52a036c7d320d855129fc",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/2945bd8002c714c51b1c12d7ff6fbfe40a01d1433202d85295b29b02aa4ad2c1.json",
+      "sha256": "2945bd8002c714c51b1c12d7ff6fbfe40a01d1433202d85295b29b02aa4ad2c1",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/4d91fbc80c190bae44869f145eaa6f6b3d82c57b3efad43f7d208649643926a2.json",
+      "sha256": "4d91fbc80c190bae44869f145eaa6f6b3d82c57b3efad43f7d208649643926a2",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/a7ac59938d2816af009f1c8580295526965479ed0c62dc3bc5f0f617cc322ae1.json",
+      "sha256": "a7ac59938d2816af009f1c8580295526965479ed0c62dc3bc5f0f617cc322ae1",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/f9296aa63b9b274977721cc03753311dec12761d2f8007f1539eca786582d29f.json",
+      "sha256": "f9296aa63b9b274977721cc03753311dec12761d2f8007f1539eca786582d29f",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/7136cce32acd32abb1508e4dc28ca6fc77ff43a744bbdd23f2f1c3fac370e824.json",
+      "sha256": "7136cce32acd32abb1508e4dc28ca6fc77ff43a744bbdd23f2f1c3fac370e824",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/47227df18da6eb40d3159dea738bda84bab05086193c3fcb8cd856b751a3fc16.json",
+      "sha256": "47227df18da6eb40d3159dea738bda84bab05086193c3fcb8cd856b751a3fc16",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/310d971eae0710de386bf2015ff8ef1a40637539723e6206dd56eb73bebf6dc8.json",
+      "sha256": "310d971eae0710de386bf2015ff8ef1a40637539723e6206dd56eb73bebf6dc8",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/4599a35312d242532056143fe396867a95f2334ffe6acd0c14b6ed2dc93bf85d.json",
+      "sha256": "4599a35312d242532056143fe396867a95f2334ffe6acd0c14b6ed2dc93bf85d",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/9fcd2500222e717a7e0353df9f2a9bf5509977942569fb55ab7568e6ad6ed4eb.json",
+      "sha256": "9fcd2500222e717a7e0353df9f2a9bf5509977942569fb55ab7568e6ad6ed4eb",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/774577933945384a9f72fee15fad01b3ee5a58b4589f366917329d2b793f1517.json",
+      "sha256": "774577933945384a9f72fee15fad01b3ee5a58b4589f366917329d2b793f1517",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/65449cbe90fa922e54e32bf222af75bd81c57190d1d9541eeb9321f7471e7c29.json",
+      "sha256": "65449cbe90fa922e54e32bf222af75bd81c57190d1d9541eeb9321f7471e7c29",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/f4009af81c8752bf0ee694838cf896b8105d063e6eb3d5bef70c5c39a56dea92.json",
+      "sha256": "f4009af81c8752bf0ee694838cf896b8105d063e6eb3d5bef70c5c39a56dea92",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/41a481fd65ca66f330c51d2a181cf71052f7fc181cdd2d9c167d5fe6ed95a255.json",
+      "sha256": "41a481fd65ca66f330c51d2a181cf71052f7fc181cdd2d9c167d5fe6ed95a255",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/0aca99ac13acea724b282423e028146a2896d472a7be1f4ef6ab2d8b00f35d64.json",
+      "sha256": "0aca99ac13acea724b282423e028146a2896d472a7be1f4ef6ab2d8b00f35d64",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/1030e74bd64d77e5650a3601061255169b7fa122ebee61e4a45d9ac7493cc056.json",
+      "sha256": "1030e74bd64d77e5650a3601061255169b7fa122ebee61e4a45d9ac7493cc056",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/c4f1b5fa7a80e71f0f79c1e351ff80604c4c139c375e7c205e8cc599daaf8096.json",
+      "sha256": "c4f1b5fa7a80e71f0f79c1e351ff80604c4c139c375e7c205e8cc599daaf8096",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/c09e0277c1e2995b31948b8ef01a5dbcea1b0b48a1f837c2273fc36afeebcd43.json",
+      "sha256": "c09e0277c1e2995b31948b8ef01a5dbcea1b0b48a1f837c2273fc36afeebcd43",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/3b6340f7bbf9cf3f7be5daea820f63be7b807b3812ea2e6139cb7a2ee8d46f79.json",
+      "sha256": "3b6340f7bbf9cf3f7be5daea820f63be7b807b3812ea2e6139cb7a2ee8d46f79",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/cad5afeaaa3b9b20c43a2ea5fdd9b1374d7be5cd09f8e978db2d72dd7fd526d8.json",
+      "sha256": "cad5afeaaa3b9b20c43a2ea5fdd9b1374d7be5cd09f8e978db2d72dd7fd526d8",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/2d2e13a8240e14761b87dac63df6a43376581a496422878e44c1da5d794c7d8c.json",
+      "sha256": "2d2e13a8240e14761b87dac63df6a43376581a496422878e44c1da5d794c7d8c",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/d4d6bee3fbfcd759e21f5d2cac2ebe5bda05f306ddf08232da697bea2442498d.json",
+      "sha256": "d4d6bee3fbfcd759e21f5d2cac2ebe5bda05f306ddf08232da697bea2442498d",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/ebd3a1a2cb990213ce962ee55c6b7990bb3c9962abafb13ed0d640bce91c8885.json",
+      "sha256": "ebd3a1a2cb990213ce962ee55c6b7990bb3c9962abafb13ed0d640bce91c8885",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/786adf293c076ce225ca8286904971c1735b52553f9d867e555d5d1c35037568.json",
+      "sha256": "786adf293c076ce225ca8286904971c1735b52553f9d867e555d5d1c35037568",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/f82f80bee773a3cbf7c25bd36894133e3e56df99f058f208b462083df8ca3bc4.json",
+      "sha256": "f82f80bee773a3cbf7c25bd36894133e3e56df99f058f208b462083df8ca3bc4",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/0cefc53bbd49d547026857a5c46b511399574571d00d86e4b35666f55a6f2153.json",
+      "sha256": "0cefc53bbd49d547026857a5c46b511399574571d00d86e4b35666f55a6f2153",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/9374e86ee813387c2efcd3cba28587a2cc12e794a6f3f7aee2f973c2f3ea201c.json",
+      "sha256": "9374e86ee813387c2efcd3cba28587a2cc12e794a6f3f7aee2f973c2f3ea201c",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/3e09f63e9877b1ffd3da78a4bc2c886623ce50d7a43076fcbef28f66350b68be.json",
+      "sha256": "3e09f63e9877b1ffd3da78a4bc2c886623ce50d7a43076fcbef28f66350b68be",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/fca27ade05fde49c7ec5114c1f2e3c7aa2bb2c05fefebe48dccffee962f198cb.json",
+      "sha256": "fca27ade05fde49c7ec5114c1f2e3c7aa2bb2c05fefebe48dccffee962f198cb",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ad4ea9d22441c48777f10d3f5c1fac871f33a7b779ab3c82a3c8bf5ea79b5a7e.json",
+      "sha256": "ad4ea9d22441c48777f10d3f5c1fac871f33a7b779ab3c82a3c8bf5ea79b5a7e",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/8f7328f4162ccc261f589ba81653a55522f77a818a98ab501f9780f94afd961e.json",
+      "sha256": "8f7328f4162ccc261f589ba81653a55522f77a818a98ab501f9780f94afd961e",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/6efad92d54ba9ed14726ff61b4a41b93cfef184c4ba468123a76dc6a991ac1ed.json",
+      "sha256": "6efad92d54ba9ed14726ff61b4a41b93cfef184c4ba468123a76dc6a991ac1ed",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/9ccc96ba3bce1eb6490ce8e7e93bacea0668649a0abe0a2d6a18b37b81852ceb.json",
+      "sha256": "9ccc96ba3bce1eb6490ce8e7e93bacea0668649a0abe0a2d6a18b37b81852ceb",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/bc2493df7cf88dd4c1bfcb8417c9027f4431b608a79fc79200ef03f5574c8c9e.json",
+      "sha256": "bc2493df7cf88dd4c1bfcb8417c9027f4431b608a79fc79200ef03f5574c8c9e",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/fad19217c12a7b5c4fe4a4a36a99a99212a1d90a53b7dd43cc6dc75d0ddd4f50.json",
+      "sha256": "fad19217c12a7b5c4fe4a4a36a99a99212a1d90a53b7dd43cc6dc75d0ddd4f50",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/07ad055ca13abd3940be3eabff33e10eb04a936a9b62cb3a451ead60866460ed.json",
+      "sha256": "07ad055ca13abd3940be3eabff33e10eb04a936a9b62cb3a451ead60866460ed",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/66255b3a697f3a465908b66fc3fa934737d5044c5d64b0344cd3470627217cf1.json",
+      "sha256": "66255b3a697f3a465908b66fc3fa934737d5044c5d64b0344cd3470627217cf1",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/6c73ed7e8fb8768d478a41b2fc5c1d5786be78e6d6bb490663ad22bd897e8aff.json",
+      "sha256": "6c73ed7e8fb8768d478a41b2fc5c1d5786be78e6d6bb490663ad22bd897e8aff",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/ce00bddca125d13d6742e522259dcc74a40dba45932982201ad43b16ea0a5e06.json",
+      "sha256": "ce00bddca125d13d6742e522259dcc74a40dba45932982201ad43b16ea0a5e06",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/2eb75fbe11cb498df9abec531669b94eb3074d2867954a7229a8a40a37175c69.json",
+      "sha256": "2eb75fbe11cb498df9abec531669b94eb3074d2867954a7229a8a40a37175c69",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/9b89c1400161fcc76445b5d8102577b75e1e4a147933b908a3c12fc6294531b4.json",
+      "sha256": "9b89c1400161fcc76445b5d8102577b75e1e4a147933b908a3c12fc6294531b4",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/f345327cf279b60bed9683d3829f3394f1621f5317fa15022929a67819ba5cba.json",
+      "sha256": "f345327cf279b60bed9683d3829f3394f1621f5317fa15022929a67819ba5cba",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/61f0c8789f2a106f96480b8c3460a5ee04907e76afe2e4ec0586541d5c3834e1.json",
+      "sha256": "61f0c8789f2a106f96480b8c3460a5ee04907e76afe2e4ec0586541d5c3834e1",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/819ea4b7e4c4d8319100f8a8f9294ebb2c9d627402c94dcd5932e577b6b415ee.json",
+      "sha256": "819ea4b7e4c4d8319100f8a8f9294ebb2c9d627402c94dcd5932e577b6b415ee",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/ad5fcc5d6539d69cdfeac33fea5c5f2804115ae84cc16f5cdc76485ba3330f87.json",
+      "sha256": "ad5fcc5d6539d69cdfeac33fea5c5f2804115ae84cc16f5cdc76485ba3330f87",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/452f551984e79a6bf51b134129ea16f21ef317ba8bc80368da3239b3cac21120.json",
+      "sha256": "452f551984e79a6bf51b134129ea16f21ef317ba8bc80368da3239b3cac21120",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/83ca8c1a7cfe36e476a367805e5767a0f8b8944c162abf58a354ac102973c5ac.json",
+      "sha256": "83ca8c1a7cfe36e476a367805e5767a0f8b8944c162abf58a354ac102973c5ac",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/857ffec9fa5e0baad0db1fb339e37b7034f2b1187b2b766bb98b2bc12be5a53c.json",
+      "sha256": "857ffec9fa5e0baad0db1fb339e37b7034f2b1187b2b766bb98b2bc12be5a53c",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/fe0a14fd0d31fa741daffc1428ce928af692e0199b7408b1c6b0a6f827584d98.json",
+      "sha256": "fe0a14fd0d31fa741daffc1428ce928af692e0199b7408b1c6b0a6f827584d98",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/680eb9362a3f68c653de74b40578e7723954f00164b11aaa9cc7adbd73fd1aa7.json",
+      "sha256": "680eb9362a3f68c653de74b40578e7723954f00164b11aaa9cc7adbd73fd1aa7",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/f163704a0c6bb0834d8d6dc0a515af0d9d350b437722d3f258c90c6877420bc8.json",
+      "sha256": "f163704a0c6bb0834d8d6dc0a515af0d9d350b437722d3f258c90c6877420bc8",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/cb13666fb710d2b75dadc8ca9560cb93aeb856c41ce3b53830c6b79b0acdfb2d.json",
+      "sha256": "cb13666fb710d2b75dadc8ca9560cb93aeb856c41ce3b53830c6b79b0acdfb2d",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/feb66ff9698ba9c858759fa4616a05de91cdc5596fbd8c28c6ed80302c10fa2b.json",
+      "sha256": "feb66ff9698ba9c858759fa4616a05de91cdc5596fbd8c28c6ed80302c10fa2b",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/4b13db57c9d292917560bbcbf1bd10efff580cdcda6cc6899ec0cddc6a616d45.json",
+      "sha256": "4b13db57c9d292917560bbcbf1bd10efff580cdcda6cc6899ec0cddc6a616d45",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/872b186b9abb1abf6aa2b6afaa8011d90b711b82b8923e0d7126dbc079e94153.json",
+      "sha256": "872b186b9abb1abf6aa2b6afaa8011d90b711b82b8923e0d7126dbc079e94153",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/57f4d0bb0741bb6424d9f4b5fd91535f5c55b71c2e94230bca9c80e8b9b06bbf.json",
+      "sha256": "57f4d0bb0741bb6424d9f4b5fd91535f5c55b71c2e94230bca9c80e8b9b06bbf",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/a91e9ac26721b7707084a69d1ca6a69f7f66e034a34678dfbc20cd7096cc1c20.json",
+      "sha256": "a91e9ac26721b7707084a69d1ca6a69f7f66e034a34678dfbc20cd7096cc1c20",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/1babf7265e93a0fffec0b3cbe32cbfc47aee3b83520371e74c2e85d6e0973186.json",
+      "sha256": "1babf7265e93a0fffec0b3cbe32cbfc47aee3b83520371e74c2e85d6e0973186",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/78c8c9b35fcceed99112f1bb6f7d836c32497e2511c8c874a930fa7cc6f81ac5.json",
+      "sha256": "78c8c9b35fcceed99112f1bb6f7d836c32497e2511c8c874a930fa7cc6f81ac5",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ffff24ba505577b2de8b21b8e4fb024484e9fbc48aecbdd47459262d47213f9f.json",
+      "sha256": "ffff24ba505577b2de8b21b8e4fb024484e9fbc48aecbdd47459262d47213f9f",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/c3f595d1b819c6af64f82a6f6dc365df1ca1ae4bb1806d1a5800c3f07c8d1150.json",
+      "sha256": "c3f595d1b819c6af64f82a6f6dc365df1ca1ae4bb1806d1a5800c3f07c8d1150",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/d6c4ce2f0ee461b017a657b66313928277963f0a2e01b7e0ebb34a037bb670b3.json",
+      "sha256": "d6c4ce2f0ee461b017a657b66313928277963f0a2e01b7e0ebb34a037bb670b3",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/8207a4edc4e71e39f018853fab8fe0593be5fc8115212b9951b23e580f76475b.json",
+      "sha256": "8207a4edc4e71e39f018853fab8fe0593be5fc8115212b9951b23e580f76475b",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/44a225b6c35dab6ee753a6f00fa3f47707d22c80b86228a3e865f285fa6efe6c.json",
+      "sha256": "44a225b6c35dab6ee753a6f00fa3f47707d22c80b86228a3e865f285fa6efe6c",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/d8c6dd2d4ed5848bd183c34770c3905c179b94b1943936c8c54d34197b2a3110.json",
+      "sha256": "d8c6dd2d4ed5848bd183c34770c3905c179b94b1943936c8c54d34197b2a3110",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ec1d6738ba38e9233f3f4eeca159fd3e4dedddd20c08736879f2b860f6f7cbe3.json",
+      "sha256": "ec1d6738ba38e9233f3f4eeca159fd3e4dedddd20c08736879f2b860f6f7cbe3",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/0a3ae01fff317a1585b7b6fffa0b4565dc33d2f5d7caa675906856e212047bbf.json",
+      "sha256": "0a3ae01fff317a1585b7b6fffa0b4565dc33d2f5d7caa675906856e212047bbf",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/10ec9b3d72db17aa3d5512aa5e7cbff0d374ebb8d76f4e7a9e199841b7bdb85d.json",
+      "sha256": "10ec9b3d72db17aa3d5512aa5e7cbff0d374ebb8d76f4e7a9e199841b7bdb85d",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/d5a271065d52b7c0c1046525bc9553e441782d81459f032ae7327892897c6686.json",
+      "sha256": "d5a271065d52b7c0c1046525bc9553e441782d81459f032ae7327892897c6686",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/5b6bd1e38327700bee816845e36cdac99e72c7e7b99d1e4e6052643eeb084c44.json",
+      "sha256": "5b6bd1e38327700bee816845e36cdac99e72c7e7b99d1e4e6052643eeb084c44",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/89b5a339e611a76cc8cf11d67224e3b23b6f91b0f559761bf5254ff224492a79.json",
+      "sha256": "89b5a339e611a76cc8cf11d67224e3b23b6f91b0f559761bf5254ff224492a79",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ba9da3c16e034d03e27807b9134f8f15b30a516534d8b6207ac7adbe57884224.json",
+      "sha256": "ba9da3c16e034d03e27807b9134f8f15b30a516534d8b6207ac7adbe57884224",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/281608c801eec5e5557990e1c911e6d84a8fb81121cccde840d2a50044c12bef.json",
+      "sha256": "281608c801eec5e5557990e1c911e6d84a8fb81121cccde840d2a50044c12bef",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/371df6ac9dee389ae904f7d9bcc0e9cf59bda312ab0429eb4217df1d406bc767.json",
+      "sha256": "371df6ac9dee389ae904f7d9bcc0e9cf59bda312ab0429eb4217df1d406bc767",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/3b0a880ed58933ced6552e1945f458a2e2f74ddc49161ef6e4d501baf32d1fa1.json",
+      "sha256": "3b0a880ed58933ced6552e1945f458a2e2f74ddc49161ef6e4d501baf32d1fa1",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/9aa284a34c253577f6fd8bacc6024eebe68cfc77e0a50861ba656bfe30c6b6ff.json",
+      "sha256": "9aa284a34c253577f6fd8bacc6024eebe68cfc77e0a50861ba656bfe30c6b6ff",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/f65f59c211b6f14d553930e6042e3bf81bb189dcf03a0a9fd766cb5bd858fd40.json",
+      "sha256": "f65f59c211b6f14d553930e6042e3bf81bb189dcf03a0a9fd766cb5bd858fd40",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/c637a0c3712e59ab1b807f81b31a64c4ca4833d55c71abea348333358f86cfcd.json",
+      "sha256": "c637a0c3712e59ab1b807f81b31a64c4ca4833d55c71abea348333358f86cfcd",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/917a1f6ba3f4bc76f9ae6fb099fd645a608efb6fc3eb6e5edc6d0e9015b11ec0.json",
+      "sha256": "917a1f6ba3f4bc76f9ae6fb099fd645a608efb6fc3eb6e5edc6d0e9015b11ec0",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/362d9ac20568e59f6cd453f023e0c0632215b8314d4c6ca7f22a59c15c2731a6.json",
+      "sha256": "362d9ac20568e59f6cd453f023e0c0632215b8314d4c6ca7f22a59c15c2731a6",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/47d513e1508f24a86e43d3405da51def7f7ae0ec8bfd850c6a0f328df3e507ac.json",
+      "sha256": "47d513e1508f24a86e43d3405da51def7f7ae0ec8bfd850c6a0f328df3e507ac",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/c176bdfb0d5cd1b3876f1c29b79eb35b77680623349b08a294ab7e2e5b015eb5.json",
+      "sha256": "c176bdfb0d5cd1b3876f1c29b79eb35b77680623349b08a294ab7e2e5b015eb5",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/4db55255e677b1333c4fbaf8f5a412ac95dbb107fcee4bc752b2cedddcf86325.json",
+      "sha256": "4db55255e677b1333c4fbaf8f5a412ac95dbb107fcee4bc752b2cedddcf86325",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/54a3ef186cae5bfdcc9d955fa0a6bde8dd190e7b79946e131f7e4319cf4b74f9.json",
+      "sha256": "54a3ef186cae5bfdcc9d955fa0a6bde8dd190e7b79946e131f7e4319cf4b74f9",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/6da5e7dec384f4d797c0c888199636b8fabef4dd890a19dd58dffc0fa91b0929.json",
+      "sha256": "6da5e7dec384f4d797c0c888199636b8fabef4dd890a19dd58dffc0fa91b0929",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/415b969395e02c89220e9c6cb01d26628b6197c4a6f063d8da7a51da83792758.json",
+      "sha256": "415b969395e02c89220e9c6cb01d26628b6197c4a6f063d8da7a51da83792758",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/a455752deb799eddd027f98d4aaf6c86765d7e4a963b414f379596b20a6c6d7f.json",
+      "sha256": "a455752deb799eddd027f98d4aaf6c86765d7e4a963b414f379596b20a6c6d7f",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/fff201ce04697880e29bcd2cd0d250df22d2c979843580997b7cf3868c321596.json",
+      "sha256": "fff201ce04697880e29bcd2cd0d250df22d2c979843580997b7cf3868c321596",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/3824a174fb3c1ded6a2143c2b0994656fa854f14c0ab0d64f58d5e30a5133387.json",
+      "sha256": "3824a174fb3c1ded6a2143c2b0994656fa854f14c0ab0d64f58d5e30a5133387",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/9f1ef561adaf9317c1f673c6685bc8fbc8a892a13e581b541d7227179ba05ce0.json",
+      "sha256": "9f1ef561adaf9317c1f673c6685bc8fbc8a892a13e581b541d7227179ba05ce0",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/cc880b55bde7ba34187e7c974c47a42ff0a6b7c9b9a01af3f7f0d235f2391405.json",
+      "sha256": "cc880b55bde7ba34187e7c974c47a42ff0a6b7c9b9a01af3f7f0d235f2391405",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/606c4e7939cc5d1134baaf3e9f20eb1548ef3e60eee3d1f7dc91794c75d70893.json",
+      "sha256": "606c4e7939cc5d1134baaf3e9f20eb1548ef3e60eee3d1f7dc91794c75d70893",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/0b951bc5098870e87cf0f104359fac6eb15bfe1eb8fdf4e194077d82ca52ddcb.json",
+      "sha256": "0b951bc5098870e87cf0f104359fac6eb15bfe1eb8fdf4e194077d82ca52ddcb",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/fbeeda4aec705f18793ef01f89494b0647bdf78229cd6ac354ce30967e85948b.json",
+      "sha256": "fbeeda4aec705f18793ef01f89494b0647bdf78229cd6ac354ce30967e85948b",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/112b48831345097035f419b5c7c66bbb9d2c8138e99dea2b48acf02b4451de8f.json",
+      "sha256": "112b48831345097035f419b5c7c66bbb9d2c8138e99dea2b48acf02b4451de8f",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/004cd982310a4252b1fc3e6b58bf0500d3fbce3a033a5e093feaeeb640b92605.json",
+      "sha256": "004cd982310a4252b1fc3e6b58bf0500d3fbce3a033a5e093feaeeb640b92605",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/25fcca397ec5c916be032a26ebaa715a05fcb7d045c8d3e68935828e5c6940fa.json",
+      "sha256": "25fcca397ec5c916be032a26ebaa715a05fcb7d045c8d3e68935828e5c6940fa",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/02746168e8e127523593b0e7d2751d45d6260bcf75e2d588540ea47f3fa36691.json",
+      "sha256": "02746168e8e127523593b0e7d2751d45d6260bcf75e2d588540ea47f3fa36691",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/60f7ed89896dd6657ee12314f35b8c6933d6a0615b59f0ed0122bd4f13177262.json",
+      "sha256": "60f7ed89896dd6657ee12314f35b8c6933d6a0615b59f0ed0122bd4f13177262",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/a599777fcc7e2537e9b0ba2d17c5f8ff445f271474296f0026dc86fb81d60017.json",
+      "sha256": "a599777fcc7e2537e9b0ba2d17c5f8ff445f271474296f0026dc86fb81d60017",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/b77ea7b47c5dfa9c010e37f7d0f25c4194f79129d53a09d6eb7a04c5ca2252a1.json",
+      "sha256": "b77ea7b47c5dfa9c010e37f7d0f25c4194f79129d53a09d6eb7a04c5ca2252a1",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/c8cf8422cb920278923579d3023778988a468a8692f620e797c1904c4d9e45ac.json",
+      "sha256": "c8cf8422cb920278923579d3023778988a468a8692f620e797c1904c4d9e45ac",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/8512ba76acaafc633e1294904a00fbb64cc71fd1296a9a0347269fa387bd63e0.json",
+      "sha256": "8512ba76acaafc633e1294904a00fbb64cc71fd1296a9a0347269fa387bd63e0",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/07bd5079e9dcdb797397158268504f9fb696763f9a253cab7b351365da42abc8.json",
+      "sha256": "07bd5079e9dcdb797397158268504f9fb696763f9a253cab7b351365da42abc8",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/5a06be82ded5e4262b85a8d072aa0646b8638f2fcec576a701cc74c0e70b7228.json",
+      "sha256": "5a06be82ded5e4262b85a8d072aa0646b8638f2fcec576a701cc74c0e70b7228",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/393b72642099ba4c13eb11aac133cdea35a167742ca6646feea1b18d2b9fc6db.json",
+      "sha256": "393b72642099ba4c13eb11aac133cdea35a167742ca6646feea1b18d2b9fc6db",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/cf34492b8571fc3bde0af17486d5591e8fba47e2e59ddc7c3a403ede051fdc2f.json",
+      "sha256": "cf34492b8571fc3bde0af17486d5591e8fba47e2e59ddc7c3a403ede051fdc2f",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/bd5335c8dc73bbfd7a35c871d7270d605e73b4f9594d175c4147d19a61aa1fce.json",
+      "sha256": "bd5335c8dc73bbfd7a35c871d7270d605e73b4f9594d175c4147d19a61aa1fce",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/c57e583fdb32d1c8c65046db6a660508ed27201a94ec84a968c611377810016f.json",
+      "sha256": "c57e583fdb32d1c8c65046db6a660508ed27201a94ec84a968c611377810016f",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/bb3af749812034c75e916d91afc51dd9f7d309d51937b1d34ba4e7e1a3e2dafa.json",
+      "sha256": "bb3af749812034c75e916d91afc51dd9f7d309d51937b1d34ba4e7e1a3e2dafa",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/f279e4d951a7ef066fff3b4fd4aee5b4b8723e8a388cb6bc313b0afe146d62a2.json",
+      "sha256": "f279e4d951a7ef066fff3b4fd4aee5b4b8723e8a388cb6bc313b0afe146d62a2",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/9b3f83390a48afbd224790e77e276e6b12ca3e7efdd58670453dac1242a9f599.json",
+      "sha256": "9b3f83390a48afbd224790e77e276e6b12ca3e7efdd58670453dac1242a9f599",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/5a5d340d40cae5a28eecd3740406e2f0e958f05c8b9d7e1a284c39ab26097fbe.json",
+      "sha256": "5a5d340d40cae5a28eecd3740406e2f0e958f05c8b9d7e1a284c39ab26097fbe",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/1ddc1e008ade1497438ea45d355a17ab38b1a8116c9036e6859ee2748beddd32.json",
+      "sha256": "1ddc1e008ade1497438ea45d355a17ab38b1a8116c9036e6859ee2748beddd32",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/b1219c3c12aa7394d8733a7c7c0da4ec64f0eea558b88fccc26a80907c459a98.json",
+      "sha256": "b1219c3c12aa7394d8733a7c7c0da4ec64f0eea558b88fccc26a80907c459a98",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/d703935913d449a5b42674250f195d341886c28550c2a7e364a1340fe7b1a26e.json",
+      "sha256": "d703935913d449a5b42674250f195d341886c28550c2a7e364a1340fe7b1a26e",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/55b3996187ac10c27218bac96e5a8c5e8881321728e8ebb33a09d04e49336396.json",
+      "sha256": "55b3996187ac10c27218bac96e5a8c5e8881321728e8ebb33a09d04e49336396",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/a035ef9774a6b8f9fd8b8288aab84254a7424502908e92ed6d77b6ff26627231.json",
+      "sha256": "a035ef9774a6b8f9fd8b8288aab84254a7424502908e92ed6d77b6ff26627231",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/7885762d9e2f4006857af5e782bdd5992886d6c00da65464ff2fe92148d2c54a.json",
+      "sha256": "7885762d9e2f4006857af5e782bdd5992886d6c00da65464ff2fe92148d2c54a",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/c5e19da747e827e9ecff4e4b21d5577d543f7784d2ad5e9c0ba1eda94fbd9d6b.json",
+      "sha256": "c5e19da747e827e9ecff4e4b21d5577d543f7784d2ad5e9c0ba1eda94fbd9d6b",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/1b3b5c5d2c51a74b1d7e97852d5e13a7dc301ba8b27fb49ee338cf1398e8b370.json",
+      "sha256": "1b3b5c5d2c51a74b1d7e97852d5e13a7dc301ba8b27fb49ee338cf1398e8b370",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/be877f2b8a8b259fb91447f6b66e750009bb9b59a49baa5c8667a630c3e5735e.json",
+      "sha256": "be877f2b8a8b259fb91447f6b66e750009bb9b59a49baa5c8667a630c3e5735e",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/a3c5631b228974b28186d2312e8542b6001ff21b0611c0b05b91eef28bf45b40.json",
+      "sha256": "a3c5631b228974b28186d2312e8542b6001ff21b0611c0b05b91eef28bf45b40",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/13319f6b0d8a02db6ccde909d865d01445e10dba8f481b13e53b3bac92dac173.json",
+      "sha256": "13319f6b0d8a02db6ccde909d865d01445e10dba8f481b13e53b3bac92dac173",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/ed8045b568088a47a44f5e0d7520c7df35e52ebf326478da44eba9d5ce094c66.json",
+      "sha256": "ed8045b568088a47a44f5e0d7520c7df35e52ebf326478da44eba9d5ce094c66",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/a1019aae1b6fd4a6180c99a38d7e972c4c9655e22394bb9c36afc11e50c0876c.json",
+      "sha256": "a1019aae1b6fd4a6180c99a38d7e972c4c9655e22394bb9c36afc11e50c0876c",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/4ee4ca466d3c2b073209b330629d28820ec7ca4f7cb0317e0e9ffeae50b688d8.json",
+      "sha256": "4ee4ca466d3c2b073209b330629d28820ec7ca4f7cb0317e0e9ffeae50b688d8",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/4f5d01f158bbaf1e6c6623da05fc68114d32dd3c34b36248f5df976125fe40ae.json",
+      "sha256": "4f5d01f158bbaf1e6c6623da05fc68114d32dd3c34b36248f5df976125fe40ae",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/35672a612eda37b85241b577b3cce5c2e93bef4e8b66bc299881c0c8e3dbfc60.json",
+      "sha256": "35672a612eda37b85241b577b3cce5c2e93bef4e8b66bc299881c0c8e3dbfc60",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/4c5fa8af4391eea47177e2bcaf5af6c06320edef5486ca9705dda03ba9b8df0f.json",
+      "sha256": "4c5fa8af4391eea47177e2bcaf5af6c06320edef5486ca9705dda03ba9b8df0f",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/8d99cc596cbf663288a6633970288c732aaeaf28bd6fd45dcb81c079321d784a.json",
+      "sha256": "8d99cc596cbf663288a6633970288c732aaeaf28bd6fd45dcb81c079321d784a",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/feec67f9822e4248b036adb857d2334442a7a8a56e3b86aca2d95e64c6b7bfed.json",
+      "sha256": "feec67f9822e4248b036adb857d2334442a7a8a56e3b86aca2d95e64c6b7bfed",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/6d92476d8f53af6b518b8dfd938b4d97bee818e820eeb5bbf8f7426d1e43b0bf.json",
+      "sha256": "6d92476d8f53af6b518b8dfd938b4d97bee818e820eeb5bbf8f7426d1e43b0bf",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/7cea65f0e3132f66a6074e2e45f7e002c61d3fd8480bf378db6772ea61dbf6a5.json",
+      "sha256": "7cea65f0e3132f66a6074e2e45f7e002c61d3fd8480bf378db6772ea61dbf6a5",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/6f8fdd9ec8f20d885a2985ac5493d03a94f959edef21c568b74d80a1d804286d.json",
+      "sha256": "6f8fdd9ec8f20d885a2985ac5493d03a94f959edef21c568b74d80a1d804286d",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/4bd979665dd82a05778807f6370de817bb105c98f4c921b13974773114110557.json",
+      "sha256": "4bd979665dd82a05778807f6370de817bb105c98f4c921b13974773114110557",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/bff1743f788b67e89b683f8c8b308dbdcf2653910a117a9a3619527f0986a11d.json",
+      "sha256": "bff1743f788b67e89b683f8c8b308dbdcf2653910a117a9a3619527f0986a11d",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/507788b6e5d92c8332eba04995d09b2ddd6e2d1e43569419033e5abba0e0bace.json",
+      "sha256": "507788b6e5d92c8332eba04995d09b2ddd6e2d1e43569419033e5abba0e0bace",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/b34c5b74d71cef29fbb8619fa8ee5cbdb113747cf6af1ceb66d38a17532356b8.json",
+      "sha256": "b34c5b74d71cef29fbb8619fa8ee5cbdb113747cf6af1ceb66d38a17532356b8",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/211be430aefeb610b7e68342197aa107f3f131fb589e85d312a9770bfd29f571.json",
+      "sha256": "211be430aefeb610b7e68342197aa107f3f131fb589e85d312a9770bfd29f571",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/379378eef315ed037dbdcf10f006af87aa4a2b07c561b829bf39443799e680c3.json",
+      "sha256": "379378eef315ed037dbdcf10f006af87aa4a2b07c561b829bf39443799e680c3",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/125224366ab90d310eb2af3994dc5532ed2b28102bfd3dba7a97e5e1a6b4c49b.json",
+      "sha256": "125224366ab90d310eb2af3994dc5532ed2b28102bfd3dba7a97e5e1a6b4c49b",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/79afe04fbebad0c2f5acb097cff5c14b75124b1b0e078808b99cf1ad3b42bea6.json",
+      "sha256": "79afe04fbebad0c2f5acb097cff5c14b75124b1b0e078808b99cf1ad3b42bea6",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/e2598944502569ef0f7f78cd3a16e8dc711c347660888a4c929761ae701b1b7c.json",
+      "sha256": "e2598944502569ef0f7f78cd3a16e8dc711c347660888a4c929761ae701b1b7c",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/f01d0ec9f0dd9be31eb0fcb3e8feb20c8c35710ec85eca3d2c06a686435a0d89.json",
+      "sha256": "f01d0ec9f0dd9be31eb0fcb3e8feb20c8c35710ec85eca3d2c06a686435a0d89",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/6486bb30dde5163dad9a8e1f226280c819258b8673ae8d2d588c3915f5475560.json",
+      "sha256": "6486bb30dde5163dad9a8e1f226280c819258b8673ae8d2d588c3915f5475560",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/4037e6b911e3aaecbd8a78569bd7f2c9ca2a90a3b22f511697cfe6b448753c69.json",
+      "sha256": "4037e6b911e3aaecbd8a78569bd7f2c9ca2a90a3b22f511697cfe6b448753c69",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/5f0a547b68bc8be13583b142620cb4ec5ee7a28c854767305e986031c1be06fc.json",
+      "sha256": "5f0a547b68bc8be13583b142620cb4ec5ee7a28c854767305e986031c1be06fc",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/48c72c5376dcda736597eacee8cede2a3f6ef662174cdf371da12a9ffcb3391e.json",
+      "sha256": "48c72c5376dcda736597eacee8cede2a3f6ef662174cdf371da12a9ffcb3391e",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/97d376308366e6bf9897cb94f4a886b8d2ebf90fec2c31095c66672aec97a146.json",
+      "sha256": "97d376308366e6bf9897cb94f4a886b8d2ebf90fec2c31095c66672aec97a146",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/7ae984dc8cf6955cb79369d21d21a52bb6d8cb23690efd55238d8358356b2a50.json",
+      "sha256": "7ae984dc8cf6955cb79369d21d21a52bb6d8cb23690efd55238d8358356b2a50",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/8598f9ec11a3397b9ef880b9be35435de340c229d82b960ffbfbc2e43838c6e5.json",
+      "sha256": "8598f9ec11a3397b9ef880b9be35435de340c229d82b960ffbfbc2e43838c6e5",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/43c95d44a8dbef2e2ab9ff1e7b095fde93db189bde42d442272f521aa8f47b29.json",
+      "sha256": "43c95d44a8dbef2e2ab9ff1e7b095fde93db189bde42d442272f521aa8f47b29",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/407eff242a8b87ded607cec59b6a07acde50e3efc69dc977f1b1fce5a76775dc.json",
+      "sha256": "407eff242a8b87ded607cec59b6a07acde50e3efc69dc977f1b1fce5a76775dc",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/4b0542755b0fe1bdfb8e1ad9e96defad2104b429e4dba71a8396502d273fdba1.json",
+      "sha256": "4b0542755b0fe1bdfb8e1ad9e96defad2104b429e4dba71a8396502d273fdba1",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/f6ceece63a4e924151b0056badd0283f407ab786fad5dc2861f604f788d920a3.json",
+      "sha256": "f6ceece63a4e924151b0056badd0283f407ab786fad5dc2861f604f788d920a3",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/269cd40772ccebb457e5f267cf2427b197a8fa456779c4b594f7212e6fffb10a.json",
+      "sha256": "269cd40772ccebb457e5f267cf2427b197a8fa456779c4b594f7212e6fffb10a",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/ee0300eddbdc9bb5eb7ddadb0dd6a83b609f20e7d94a9f2933089191678aed4e.json",
+      "sha256": "ee0300eddbdc9bb5eb7ddadb0dd6a83b609f20e7d94a9f2933089191678aed4e",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/35a7f3aa9c591ddaef71ec6ad2ece478357dc63b03579843c548981933a55c03.json",
+      "sha256": "35a7f3aa9c591ddaef71ec6ad2ece478357dc63b03579843c548981933a55c03",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/2714027a6fa1d008391d5bf21c352ebb4bd692ac7447406e895a960707e8dc48.json",
+      "sha256": "2714027a6fa1d008391d5bf21c352ebb4bd692ac7447406e895a960707e8dc48",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/2ad2dcb9cddbf04c39e649fdfa03dc39559d1400e33b00336e1ca1d58487f8d0.json",
+      "sha256": "2ad2dcb9cddbf04c39e649fdfa03dc39559d1400e33b00336e1ca1d58487f8d0",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/160faa41c61164212ea6fb68efd1d7989b694e50a5f756e86d3a6223b5eaa5f1.json",
+      "sha256": "160faa41c61164212ea6fb68efd1d7989b694e50a5f756e86d3a6223b5eaa5f1",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/9bebeae10d79318d02e56b7dfe35083367e56555b22addd9501808632100efa1.json",
+      "sha256": "9bebeae10d79318d02e56b7dfe35083367e56555b22addd9501808632100efa1",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/b01ea774dd3ebdb7acaf589bb57a4f39ee1244f11d5f2ceaeff69f856b082fbc.json",
+      "sha256": "b01ea774dd3ebdb7acaf589bb57a4f39ee1244f11d5f2ceaeff69f856b082fbc",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/6b70d0c661b9e650fab9d484abc84e6e07fdc5310acbca88300cde1b279af39e.json",
+      "sha256": "6b70d0c661b9e650fab9d484abc84e6e07fdc5310acbca88300cde1b279af39e",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/df42a5014d144117e3f12f4161043d5b21630fd80b8d013a2468c7fafc8f9f7d.json",
+      "sha256": "df42a5014d144117e3f12f4161043d5b21630fd80b8d013a2468c7fafc8f9f7d",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/c749818bb36de46e84f3597f391515d8e6594eae51cfb5d3307736f9dc314bdc.json",
+      "sha256": "c749818bb36de46e84f3597f391515d8e6594eae51cfb5d3307736f9dc314bdc",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/009140b4261b76d21237e054a62f7a309780a101ae73006b9186778ee7042f16.json",
+      "sha256": "009140b4261b76d21237e054a62f7a309780a101ae73006b9186778ee7042f16",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/baccd98e65541d29819f70db9eac841819a4594ea4002566b731296844239ffa.json",
+      "sha256": "baccd98e65541d29819f70db9eac841819a4594ea4002566b731296844239ffa",
+      "kind": "prediction_before_query"
+    },
+    {
+      "blobKey": "scenario/2026-10/160cf426f2fce5d4bf8631f82551752b764e70476a967a009477ed38da35632d.json",
+      "sha256": "160cf426f2fce5d4bf8631f82551752b764e70476a967a009477ed38da35632d",
+      "kind": "sanitized_probe"
+    },
+    {
+      "blobKey": "scenario/2026-10/801bb798d551656be3e7e9db45431d81fc0bb5df147dfb4f94b722e577e639d0.csv",
+      "sha256": "801bb798d551656be3e7e9db45431d81fc0bb5df147dfb4f94b722e577e639d0",
+      "kind": "official_method"
+    }
+  ],
+  "coefficients": [
+    {
+      "quarter": "2026-Q4",
+      "band": "F0",
+      "index": "PUN",
+      "value": "0.23054",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2027-Q1",
+      "band": "F0",
+      "index": "PUN",
+      "value": "0.2008309090909090909090909091",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2027-Q2",
+      "band": "F0",
+      "index": "PUN",
+      "value": "0.1457915151515151515151515152",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2027-Q3",
+      "band": "F0",
+      "index": "PUN",
+      "value": "0.1608854545454545454545454545",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2026-Q4",
+      "band": "F1",
+      "index": "PUN",
+      "value": "0.2453854545454545454545454545",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2027-Q1",
+      "band": "F1",
+      "index": "PUN",
+      "value": "0.2126975757575757575757575757",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2027-Q2",
+      "band": "F1",
+      "index": "PUN",
+      "value": "0.1388824242424242424242424243",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2027-Q3",
+      "band": "F1",
+      "index": "PUN",
+      "value": "0.1592460606060606060606060606",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2026-Q4",
+      "band": "F2",
+      "index": "PUN",
+      "value": "0.2452945454545454545454545455",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2027-Q1",
+      "band": "F2",
+      "index": "PUN",
+      "value": "0.2142642424242424242424242425",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2027-Q2",
+      "band": "F2",
+      "index": "PUN",
+      "value": "0.16384",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2027-Q3",
+      "band": "F2",
+      "index": "PUN",
+      "value": "0.1776006060606060606060606061",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2026-Q4",
+      "band": "F23",
+      "index": "PUN",
+      "value": "0.2233233333333333333333333334",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2027-Q1",
+      "band": "F23",
+      "index": "PUN",
+      "value": "0.1950657575757575757575757575",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2027-Q2",
+      "band": "F23",
+      "index": "PUN",
+      "value": "0.149159696969696969696969697",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2027-Q3",
+      "band": "F23",
+      "index": "PUN",
+      "value": "0.1616748484848484848484848485",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2026-Q4",
+      "band": "F3",
+      "index": "PUN",
+      "value": "0.2108036363636363636363636364",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2027-Q1",
+      "band": "F3",
+      "index": "PUN",
+      "value": "0.1841218181818181818181818182",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2027-Q2",
+      "band": "F3",
+      "index": "PUN",
+      "value": "0.1407915151515151515151515152",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    },
+    {
+      "quarter": "2027-Q3",
+      "band": "F3",
+      "index": "PUN",
+      "value": "0.1526157575757575757575757575",
+      "uncertainty": "0.000001515151515151515151515151515",
+      "unit": "EUR/kWh"
+    }
+  ],
+  "calibrations": [
+    {
+      "offerCode": "000294ESVML01XXA2AEasyL261034295",
+      "fixedAnnual": "150",
+      "spread": "0",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F0-2026-Q4",
+      "quarter": "2026-Q4",
+      "band": "F0",
+      "consumption": "3000",
+      "observedSales": "961.11",
+      "evidenceIndex": 261
+    },
+    {
+      "offerCode": "000294ESVML01XXA2AEasyL261034295",
+      "fixedAnnual": "150",
+      "spread": "0",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F0-2027-Q1",
+      "quarter": "2027-Q1",
+      "band": "F0",
+      "consumption": "3000",
+      "observedSales": "863.07",
+      "evidenceIndex": 262
+    },
+    {
+      "offerCode": "000294ESVML01XXA2AEasyL261034295",
+      "fixedAnnual": "150",
+      "spread": "0",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F0-2027-Q2",
+      "quarter": "2027-Q2",
+      "band": "F0",
+      "consumption": "3000",
+      "observedSales": "681.44",
+      "evidenceIndex": 263
+    },
+    {
+      "offerCode": "000294ESVML01XXA2AEasyL261034295",
+      "fixedAnnual": "150",
+      "spread": "0",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F0-2027-Q3",
+      "quarter": "2027-Q3",
+      "band": "F0",
+      "consumption": "3000",
+      "observedSales": "731.25",
+      "evidenceIndex": 264
+    },
+    {
+      "offerCode": "001686ESVFL00XXES3PC1026DO000000",
+      "fixedAnnual": "120",
+      "spread": "0.0275",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F1-2026-Q4",
+      "quarter": "2026-Q4",
+      "band": "F1",
+      "consumption": "3000",
+      "observedSales": "1062.60",
+      "evidenceIndex": 267
+    },
+    {
+      "offerCode": "001686ESVFL00XXES3PC1026DO000000",
+      "fixedAnnual": "120",
+      "spread": "0.0275",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F1-2027-Q1",
+      "quarter": "2027-Q1",
+      "band": "F1",
+      "consumption": "3000",
+      "observedSales": "954.73",
+      "evidenceIndex": 268
+    },
+    {
+      "offerCode": "001686ESVFL00XXES3PC1026DO000000",
+      "fixedAnnual": "120",
+      "spread": "0.0275",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F1-2027-Q2",
+      "quarter": "2027-Q2",
+      "band": "F1",
+      "consumption": "3000",
+      "observedSales": "711.14",
+      "evidenceIndex": 269
+    },
+    {
+      "offerCode": "001686ESVFL00XXES3PC1026DO000000",
+      "fixedAnnual": "120",
+      "spread": "0.0275",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F1-2027-Q3",
+      "quarter": "2027-Q3",
+      "band": "F1",
+      "consumption": "3000",
+      "observedSales": "778.34",
+      "evidenceIndex": 270
+    },
+    {
+      "offerCode": "001686ESVFL00XXES3PC1026DO000000",
+      "fixedAnnual": "120",
+      "spread": "0.0275",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F2-2026-Q4",
+      "quarter": "2026-Q4",
+      "band": "F2",
+      "consumption": "3000",
+      "observedSales": "1062.30",
+      "evidenceIndex": 273
+    },
+    {
+      "offerCode": "001686ESVFL00XXES3PC1026DO000000",
+      "fixedAnnual": "120",
+      "spread": "0.0275",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F2-2027-Q1",
+      "quarter": "2027-Q1",
+      "band": "F2",
+      "consumption": "3000",
+      "observedSales": "959.90",
+      "evidenceIndex": 274
+    },
+    {
+      "offerCode": "001686ESVFL00XXES3PC1026DO000000",
+      "fixedAnnual": "120",
+      "spread": "0.0275",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F2-2027-Q2",
+      "quarter": "2027-Q2",
+      "band": "F2",
+      "consumption": "3000",
+      "observedSales": "793.50",
+      "evidenceIndex": 275
+    },
+    {
+      "offerCode": "001686ESVFL00XXES3PC1026DO000000",
+      "fixedAnnual": "120",
+      "spread": "0.0275",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F2-2027-Q3",
+      "quarter": "2027-Q3",
+      "band": "F2",
+      "consumption": "3000",
+      "observedSales": "838.91",
+      "evidenceIndex": 276
+    },
+    {
+      "offerCode": "036329ESVFL01XXONDABLUE0EE202620",
+      "fixedAnnual": "120",
+      "spread": "0.014215",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F23-2026-Q4",
+      "quarter": "2026-Q4",
+      "band": "F23",
+      "consumption": "3000",
+      "observedSales": "949.94",
+      "evidenceIndex": 279
+    },
+    {
+      "offerCode": "036329ESVFL01XXONDABLUE0EE202620",
+      "fixedAnnual": "120",
+      "spread": "0.014215",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F23-2027-Q1",
+      "quarter": "2027-Q1",
+      "band": "F23",
+      "consumption": "3000",
+      "observedSales": "856.69",
+      "evidenceIndex": 280
+    },
+    {
+      "offerCode": "036329ESVFL01XXONDABLUE0EE202620",
+      "fixedAnnual": "120",
+      "spread": "0.014215",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F23-2027-Q2",
+      "quarter": "2027-Q2",
+      "band": "F23",
+      "consumption": "3000",
+      "observedSales": "705.20",
+      "evidenceIndex": 281
+    },
+    {
+      "offerCode": "036329ESVFL01XXONDABLUE0EE202620",
+      "fixedAnnual": "120",
+      "spread": "0.014215",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F23-2027-Q3",
+      "quarter": "2027-Q3",
+      "band": "F23",
+      "consumption": "3000",
+      "observedSales": "746.50",
+      "evidenceIndex": 282
+    },
+    {
+      "offerCode": "001686ESVFL00XXES3PC1026DO000000",
+      "fixedAnnual": "120",
+      "spread": "0.0275",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F3-2026-Q4",
+      "quarter": "2026-Q4",
+      "band": "F3",
+      "consumption": "3000",
+      "observedSales": "948.48",
+      "evidenceIndex": 285
+    },
+    {
+      "offerCode": "001686ESVFL00XXES3PC1026DO000000",
+      "fixedAnnual": "120",
+      "spread": "0.0275",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F3-2027-Q1",
+      "quarter": "2027-Q1",
+      "band": "F3",
+      "consumption": "3000",
+      "observedSales": "860.43",
+      "evidenceIndex": 286
+    },
+    {
+      "offerCode": "001686ESVFL00XXES3PC1026DO000000",
+      "fixedAnnual": "120",
+      "spread": "0.0275",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F3-2027-Q2",
+      "quarter": "2027-Q2",
+      "band": "F3",
+      "consumption": "3000",
+      "observedSales": "717.44",
+      "evidenceIndex": 287
+    },
+    {
+      "offerCode": "001686ESVFL00XXES3PC1026DO000000",
+      "fixedAnnual": "120",
+      "spread": "0.0275",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "cal-F3-2027-Q3",
+      "quarter": "2027-Q3",
+      "band": "F3",
+      "consumption": "3000",
+      "observedSales": "756.46",
+      "evidenceIndex": 288
+    }
+  ],
+  "holdouts": [
+    {
+      "offerCode": "028979ESVML01XX00000000003515106",
+      "fixedAnnual": "120",
+      "spread": "0.022",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "holdout-F0",
+      "observedSales": "801.66",
+      "terms": [
+        {
+          "quarter": "2026-Q4",
+          "band": "F0",
+          "consumption": "300.0"
+        },
+        {
+          "quarter": "2027-Q1",
+          "band": "F0",
+          "consumption": "600.0"
+        },
+        {
+          "quarter": "2027-Q2",
+          "band": "F0",
+          "consumption": "900.0"
+        },
+        {
+          "quarter": "2027-Q3",
+          "band": "F0",
+          "consumption": "1200.0"
+        }
+      ],
+      "evidenceIndex": 266
+    },
+    {
+      "offerCode": "001686ESVFL00XXES2PC1026DO000000",
+      "fixedAnnual": "144",
+      "spread": "0.033",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "holdout-F1",
+      "observedSales": "862.38",
+      "terms": [
+        {
+          "quarter": "2026-Q4",
+          "band": "F1",
+          "consumption": "300.0"
+        },
+        {
+          "quarter": "2027-Q1",
+          "band": "F1",
+          "consumption": "600.0"
+        },
+        {
+          "quarter": "2027-Q2",
+          "band": "F1",
+          "consumption": "900.0"
+        },
+        {
+          "quarter": "2027-Q3",
+          "band": "F1",
+          "consumption": "1200.0"
+        }
+      ],
+      "evidenceIndex": 272
+    },
+    {
+      "offerCode": "001686ESVFL00XXES2PC1026DO000000",
+      "fixedAnnual": "144",
+      "spread": "0.033",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "holdout-F2",
+      "observedSales": "912.33",
+      "terms": [
+        {
+          "quarter": "2026-Q4",
+          "band": "F2",
+          "consumption": "300.0"
+        },
+        {
+          "quarter": "2027-Q1",
+          "band": "F2",
+          "consumption": "600.0"
+        },
+        {
+          "quarter": "2027-Q2",
+          "band": "F2",
+          "consumption": "900.0"
+        },
+        {
+          "quarter": "2027-Q3",
+          "band": "F2",
+          "consumption": "1200.0"
+        }
+      ],
+      "evidenceIndex": 278
+    },
+    {
+      "offerCode": "000606ESVFL01XXELEGGERALCD002605",
+      "fixedAnnual": "150",
+      "spread": "0",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "holdout-F23",
+      "observedSales": "763.85",
+      "terms": [
+        {
+          "quarter": "2026-Q4",
+          "band": "F23",
+          "consumption": "300.0"
+        },
+        {
+          "quarter": "2027-Q1",
+          "band": "F23",
+          "consumption": "600.0"
+        },
+        {
+          "quarter": "2027-Q2",
+          "band": "F23",
+          "consumption": "900.0"
+        },
+        {
+          "quarter": "2027-Q3",
+          "band": "F23",
+          "consumption": "1200.0"
+        }
+      ],
+      "evidenceIndex": 284
+    },
+    {
+      "offerCode": "001686ESVFL00XXES2PC1026DO000000",
+      "fixedAnnual": "144",
+      "spread": "0.033",
+      "additiveUnit": "0.016776",
+      "multiplier": "1.1",
+      "id": "holdout-F3",
+      "observedSales": "825.25",
+      "terms": [
+        {
+          "quarter": "2026-Q4",
+          "band": "F3",
+          "consumption": "300.0"
+        },
+        {
+          "quarter": "2027-Q1",
+          "band": "F3",
+          "consumption": "600.0"
+        },
+        {
+          "quarter": "2027-Q2",
+          "band": "F3",
+          "consumption": "900.0"
+        },
+        {
+          "quarter": "2027-Q3",
+          "band": "F3",
+          "consumption": "1200.0"
+        }
+      ],
+      "evidenceIndex": 290
+    }
+  ],
+  "annualSales": [
+    {
+      "fingerprint": "0946a2794f416e3092327357b5ce3913bd522e94b5a53844dbc7528851e6daf0",
+      "offerCode": "003450ESFML01XX00000010073731026",
+      "supplierVat": "01016870329",
+      "fixedAnnual": "193.23",
+      "f1": "0.1848066666666666666666666667",
+      "f2": "0.1779866666666666666666666667",
+      "f3": "0.1671333333333333333333333333",
+      "includes": ["all_components_of_official_sales_row"],
+      "domain": {
+        "minKwh": "2000",
+        "maxKwh": "6000",
+        "powerKw": ["3", "4.5", "6"],
+        "resident": [true, false]
+      },
+      "calibrations": [
+        {
+          "id": "peak-cal-0946a2794f416e3092327357b5ce3913bd522e94b5a53844dbc7528851e6daf0-0",
+          "f1": "3000",
+          "f2": "0",
+          "f3": "0",
+          "observedSales": "747.65",
+          "evidenceIndex": 1,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-0946a2794f416e3092327357b5ce3913bd522e94b5a53844dbc7528851e6daf0-1",
+          "f1": "0",
+          "f2": "3000",
+          "f3": "0",
+          "observedSales": "727.19",
+          "evidenceIndex": 2,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-0946a2794f416e3092327357b5ce3913bd522e94b5a53844dbc7528851e6daf0-2",
+          "f1": "0",
+          "f2": "0",
+          "f3": "3000",
+          "observedSales": "694.63",
+          "evidenceIndex": 3,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-0946a2794f416e3092327357b5ce3913bd522e94b5a53844dbc7528851e6daf0-3",
+          "f1": "6000",
+          "f2": "0",
+          "f3": "0",
+          "observedSales": "1302.07",
+          "evidenceIndex": 4,
+          "powerKw": "3",
+          "resident": true
+        }
+      ],
+      "holdouts": [
+        {
+          "id": "peak-hold-0946a2794f416e3092327357b5ce3913bd522e94b5a53844dbc7528851e6daf0-0",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "894.28",
+          "evidenceIndex": 6,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-hold-0946a2794f416e3092327357b5ce3913bd522e94b5a53844dbc7528851e6daf0-1",
+          "f1": "700",
+          "f2": "400",
+          "f3": "900",
+          "observedSales": "544.21",
+          "evidenceIndex": 8,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-hold-0946a2794f416e3092327357b5ce3913bd522e94b5a53844dbc7528851e6daf0-2",
+          "f1": "1500",
+          "f2": "2000",
+          "f3": "2500",
+          "observedSales": "1244.24",
+          "evidenceIndex": 10,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-0946a2794f416e3092327357b5ce3913bd522e94b5a53844dbc7528851e6daf0-3-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "894.28",
+          "evidenceIndex": 12,
+          "powerKw": "3",
+          "resident": false
+        },
+        {
+          "id": "peak-physical-0946a2794f416e3092327357b5ce3913bd522e94b5a53844dbc7528851e6daf0-4.5-True",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "894.28",
+          "evidenceIndex": 14,
+          "powerKw": "4.5",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-0946a2794f416e3092327357b5ce3913bd522e94b5a53844dbc7528851e6daf0-4.5-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "894.28",
+          "evidenceIndex": 16,
+          "powerKw": "4.5",
+          "resident": false
+        },
+        {
+          "id": "peak-physical-0946a2794f416e3092327357b5ce3913bd522e94b5a53844dbc7528851e6daf0-6-True",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "894.28",
+          "evidenceIndex": 18,
+          "powerKw": "6",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-0946a2794f416e3092327357b5ce3913bd522e94b5a53844dbc7528851e6daf0-6-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "894.28",
+          "evidenceIndex": 20,
+          "powerKw": "6",
+          "resident": false
+        }
+      ]
+    },
+    {
+      "fingerprint": "5185538b59ae8a43704bb4603ab588989bffde9c39efc27dd647b9e2e35dbd3e",
+      "offerCode": "003450ESFML01XX00000010073641026",
+      "supplierVat": "01016870329",
+      "fixedAnnual": "157.22",
+      "f1": "0.1902133333333333333333333333",
+      "f2": "0.18343",
+      "f3": "0.1722433333333333333333333333",
+      "includes": ["all_components_of_official_sales_row"],
+      "domain": {
+        "minKwh": "2000",
+        "maxKwh": "6000",
+        "powerKw": ["3", "4.5", "6"],
+        "resident": [true, false]
+      },
+      "calibrations": [
+        {
+          "id": "peak-cal-5185538b59ae8a43704bb4603ab588989bffde9c39efc27dd647b9e2e35dbd3e-0",
+          "f1": "3000",
+          "f2": "0",
+          "f3": "0",
+          "observedSales": "727.86",
+          "evidenceIndex": 21,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-5185538b59ae8a43704bb4603ab588989bffde9c39efc27dd647b9e2e35dbd3e-1",
+          "f1": "0",
+          "f2": "3000",
+          "f3": "0",
+          "observedSales": "707.51",
+          "evidenceIndex": 22,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-5185538b59ae8a43704bb4603ab588989bffde9c39efc27dd647b9e2e35dbd3e-2",
+          "f1": "0",
+          "f2": "0",
+          "f3": "3000",
+          "observedSales": "673.95",
+          "evidenceIndex": 23,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-5185538b59ae8a43704bb4603ab588989bffde9c39efc27dd647b9e2e35dbd3e-3",
+          "f1": "6000",
+          "f2": "0",
+          "f3": "0",
+          "observedSales": "1298.50",
+          "evidenceIndex": 24,
+          "powerKw": "3",
+          "resident": true
+        }
+      ],
+      "holdouts": [
+        {
+          "id": "peak-hold-5185538b59ae8a43704bb4603ab588989bffde9c39efc27dd647b9e2e35dbd3e-0",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "879.40",
+          "evidenceIndex": 26,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-hold-5185538b59ae8a43704bb4603ab588989bffde9c39efc27dd647b9e2e35dbd3e-1",
+          "f1": "700",
+          "f2": "400",
+          "f3": "900",
+          "observedSales": "518.76",
+          "evidenceIndex": 28,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-hold-5185538b59ae8a43704bb4603ab588989bffde9c39efc27dd647b9e2e35dbd3e-2",
+          "f1": "1500",
+          "f2": "2000",
+          "f3": "2500",
+          "observedSales": "1239.99",
+          "evidenceIndex": 30,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-5185538b59ae8a43704bb4603ab588989bffde9c39efc27dd647b9e2e35dbd3e-3-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "879.40",
+          "evidenceIndex": 32,
+          "powerKw": "3",
+          "resident": false
+        },
+        {
+          "id": "peak-physical-5185538b59ae8a43704bb4603ab588989bffde9c39efc27dd647b9e2e35dbd3e-4.5-True",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "879.40",
+          "evidenceIndex": 34,
+          "powerKw": "4.5",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-5185538b59ae8a43704bb4603ab588989bffde9c39efc27dd647b9e2e35dbd3e-4.5-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "879.40",
+          "evidenceIndex": 36,
+          "powerKw": "4.5",
+          "resident": false
+        },
+        {
+          "id": "peak-physical-5185538b59ae8a43704bb4603ab588989bffde9c39efc27dd647b9e2e35dbd3e-6-True",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "879.40",
+          "evidenceIndex": 38,
+          "powerKw": "6",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-5185538b59ae8a43704bb4603ab588989bffde9c39efc27dd647b9e2e35dbd3e-6-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "879.40",
+          "evidenceIndex": 40,
+          "powerKw": "6",
+          "resident": false
+        }
+      ]
+    },
+    {
+      "fingerprint": "6c3ca7fe66e194b7ea40c7a138635d55a0de1e1b766c49dc49234d4e4c2fde63",
+      "offerCode": "030032ESVOL01XX0000000000E000041",
+      "supplierVat": "02971770306",
+      "fixedAnnual": "143.99",
+      "f1": "0.2239266666666666666666666667",
+      "f2": "0.22419",
+      "f3": "0.22563",
+      "includes": ["all_components_of_official_sales_row"],
+      "domain": {
+        "minKwh": "2000",
+        "maxKwh": "6000",
+        "powerKw": ["3", "4.5", "6"],
+        "resident": [true, false]
+      },
+      "calibrations": [
+        {
+          "id": "peak-cal-6c3ca7fe66e194b7ea40c7a138635d55a0de1e1b766c49dc49234d4e4c2fde63-0",
+          "f1": "3000",
+          "f2": "0",
+          "f3": "0",
+          "observedSales": "815.77",
+          "evidenceIndex": 41,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-6c3ca7fe66e194b7ea40c7a138635d55a0de1e1b766c49dc49234d4e4c2fde63-1",
+          "f1": "0",
+          "f2": "3000",
+          "f3": "0",
+          "observedSales": "816.56",
+          "evidenceIndex": 42,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-6c3ca7fe66e194b7ea40c7a138635d55a0de1e1b766c49dc49234d4e4c2fde63-2",
+          "f1": "0",
+          "f2": "0",
+          "f3": "3000",
+          "observedSales": "820.88",
+          "evidenceIndex": 43,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-6c3ca7fe66e194b7ea40c7a138635d55a0de1e1b766c49dc49234d4e4c2fde63-3",
+          "f1": "6000",
+          "f2": "0",
+          "f3": "0",
+          "observedSales": "1487.55",
+          "evidenceIndex": 44,
+          "powerKw": "3",
+          "resident": true
+        }
+      ],
+      "holdouts": [
+        {
+          "id": "peak-hold-6c3ca7fe66e194b7ea40c7a138635d55a0de1e1b766c49dc49234d4e4c2fde63-0",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "1042.98",
+          "evidenceIndex": 46,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-hold-6c3ca7fe66e194b7ea40c7a138635d55a0de1e1b766c49dc49234d4e4c2fde63-1",
+          "f1": "700",
+          "f2": "400",
+          "f3": "900",
+          "observedSales": "593.48",
+          "evidenceIndex": 48,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-hold-6c3ca7fe66e194b7ea40c7a138635d55a0de1e1b766c49dc49234d4e4c2fde63-2",
+          "f1": "1500",
+          "f2": "2000",
+          "f3": "2500",
+          "observedSales": "1492.32",
+          "evidenceIndex": 50,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-6c3ca7fe66e194b7ea40c7a138635d55a0de1e1b766c49dc49234d4e4c2fde63-3-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "1042.98",
+          "evidenceIndex": 52,
+          "powerKw": "3",
+          "resident": false
+        },
+        {
+          "id": "peak-physical-6c3ca7fe66e194b7ea40c7a138635d55a0de1e1b766c49dc49234d4e4c2fde63-4.5-True",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "1042.98",
+          "evidenceIndex": 54,
+          "powerKw": "4.5",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-6c3ca7fe66e194b7ea40c7a138635d55a0de1e1b766c49dc49234d4e4c2fde63-4.5-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "1042.98",
+          "evidenceIndex": 56,
+          "powerKw": "4.5",
+          "resident": false
+        },
+        {
+          "id": "peak-physical-6c3ca7fe66e194b7ea40c7a138635d55a0de1e1b766c49dc49234d4e4c2fde63-6-True",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "1042.98",
+          "evidenceIndex": 58,
+          "powerKw": "6",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-6c3ca7fe66e194b7ea40c7a138635d55a0de1e1b766c49dc49234d4e4c2fde63-6-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "1042.98",
+          "evidenceIndex": 60,
+          "powerKw": "6",
+          "resident": false
+        }
+      ]
+    },
+    {
+      "fingerprint": "6d4ac3b211d2c849bd8a348064c8497531b7d8249feed418fd868fce12f89961",
+      "offerCode": "003450ESFML01XX00000010073651026",
+      "supplierVat": "01016870329",
+      "fixedAnnual": "157.22",
+      "f1": "0.1871733333333333333333333333",
+      "f2": "0.18037",
+      "f3": "0.16937",
+      "includes": ["all_components_of_official_sales_row"],
+      "domain": {
+        "minKwh": "2000",
+        "maxKwh": "6000",
+        "powerKw": ["3", "4.5", "6"],
+        "resident": [true, false]
+      },
+      "calibrations": [
+        {
+          "id": "peak-cal-6d4ac3b211d2c849bd8a348064c8497531b7d8249feed418fd868fce12f89961-0",
+          "f1": "3000",
+          "f2": "0",
+          "f3": "0",
+          "observedSales": "718.74",
+          "evidenceIndex": 61,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-6d4ac3b211d2c849bd8a348064c8497531b7d8249feed418fd868fce12f89961-1",
+          "f1": "0",
+          "f2": "3000",
+          "f3": "0",
+          "observedSales": "698.33",
+          "evidenceIndex": 62,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-6d4ac3b211d2c849bd8a348064c8497531b7d8249feed418fd868fce12f89961-2",
+          "f1": "0",
+          "f2": "0",
+          "f3": "3000",
+          "observedSales": "665.33",
+          "evidenceIndex": 63,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-6d4ac3b211d2c849bd8a348064c8497531b7d8249feed418fd868fce12f89961-3",
+          "f1": "6000",
+          "f2": "0",
+          "f3": "0",
+          "observedSales": "1280.26",
+          "evidenceIndex": 64,
+          "powerKw": "3",
+          "resident": true
+        }
+      ],
+      "holdouts": [
+        {
+          "id": "peak-hold-6d4ac3b211d2c849bd8a348064c8497531b7d8249feed418fd868fce12f89961-0",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "867.52",
+          "evidenceIndex": 66,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-hold-6d4ac3b211d2c849bd8a348064c8497531b7d8249feed418fd868fce12f89961-1",
+          "f1": "700",
+          "f2": "400",
+          "f3": "900",
+          "observedSales": "512.83",
+          "evidenceIndex": 68,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-hold-6d4ac3b211d2c849bd8a348064c8497531b7d8249feed418fd868fce12f89961-2",
+          "f1": "1500",
+          "f2": "2000",
+          "f3": "2500",
+          "observedSales": "1222.13",
+          "evidenceIndex": 70,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-6d4ac3b211d2c849bd8a348064c8497531b7d8249feed418fd868fce12f89961-3-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "867.52",
+          "evidenceIndex": 72,
+          "powerKw": "3",
+          "resident": false
+        },
+        {
+          "id": "peak-physical-6d4ac3b211d2c849bd8a348064c8497531b7d8249feed418fd868fce12f89961-4.5-True",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "867.52",
+          "evidenceIndex": 74,
+          "powerKw": "4.5",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-6d4ac3b211d2c849bd8a348064c8497531b7d8249feed418fd868fce12f89961-4.5-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "867.52",
+          "evidenceIndex": 76,
+          "powerKw": "4.5",
+          "resident": false
+        },
+        {
+          "id": "peak-physical-6d4ac3b211d2c849bd8a348064c8497531b7d8249feed418fd868fce12f89961-6-True",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "867.52",
+          "evidenceIndex": 78,
+          "powerKw": "6",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-6d4ac3b211d2c849bd8a348064c8497531b7d8249feed418fd868fce12f89961-6-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "867.52",
+          "evidenceIndex": 80,
+          "powerKw": "6",
+          "resident": false
+        }
+      ]
+    },
+    {
+      "fingerprint": "992c64b8fd993b32448666e05882f334912d82f6f2c533e37948c51b0001697a",
+      "offerCode": "029878ESVFL03XX000000DOM8VAR8BIO",
+      "supplierVat": "05679530872",
+      "fixedAnnual": "191.99",
+      "f1": "0.2481266666666666666666666667",
+      "f2": "0.24839",
+      "f3": "0.24983",
+      "includes": ["all_components_of_official_sales_row"],
+      "domain": {
+        "minKwh": "2000",
+        "maxKwh": "6000",
+        "powerKw": ["3", "4.5", "6"],
+        "resident": [true, false]
+      },
+      "calibrations": [
+        {
+          "id": "peak-cal-992c64b8fd993b32448666e05882f334912d82f6f2c533e37948c51b0001697a-0",
+          "f1": "3000",
+          "f2": "0",
+          "f3": "0",
+          "observedSales": "936.37",
+          "evidenceIndex": 81,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-992c64b8fd993b32448666e05882f334912d82f6f2c533e37948c51b0001697a-1",
+          "f1": "0",
+          "f2": "3000",
+          "f3": "0",
+          "observedSales": "937.16",
+          "evidenceIndex": 82,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-992c64b8fd993b32448666e05882f334912d82f6f2c533e37948c51b0001697a-2",
+          "f1": "0",
+          "f2": "0",
+          "f3": "3000",
+          "observedSales": "941.48",
+          "evidenceIndex": 83,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-992c64b8fd993b32448666e05882f334912d82f6f2c533e37948c51b0001697a-3",
+          "f1": "6000",
+          "f2": "0",
+          "f3": "0",
+          "observedSales": "1680.75",
+          "evidenceIndex": 84,
+          "powerKw": "3",
+          "resident": true
+        }
+      ],
+      "holdouts": [
+        {
+          "id": "peak-hold-992c64b8fd993b32448666e05882f334912d82f6f2c533e37948c51b0001697a-0",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "1187.78",
+          "evidenceIndex": 86,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-hold-992c64b8fd993b32448666e05882f334912d82f6f2c533e37948c51b0001697a-1",
+          "f1": "700",
+          "f2": "400",
+          "f3": "900",
+          "observedSales": "689.88",
+          "evidenceIndex": 88,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-hold-992c64b8fd993b32448666e05882f334912d82f6f2c533e37948c51b0001697a-2",
+          "f1": "1500",
+          "f2": "2000",
+          "f3": "2500",
+          "observedSales": "1685.52",
+          "evidenceIndex": 90,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-992c64b8fd993b32448666e05882f334912d82f6f2c533e37948c51b0001697a-3-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "1187.78",
+          "evidenceIndex": 92,
+          "powerKw": "3",
+          "resident": false
+        },
+        {
+          "id": "peak-physical-992c64b8fd993b32448666e05882f334912d82f6f2c533e37948c51b0001697a-4.5-True",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "1187.78",
+          "evidenceIndex": 94,
+          "powerKw": "4.5",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-992c64b8fd993b32448666e05882f334912d82f6f2c533e37948c51b0001697a-4.5-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "1187.78",
+          "evidenceIndex": 96,
+          "powerKw": "4.5",
+          "resident": false
+        },
+        {
+          "id": "peak-physical-992c64b8fd993b32448666e05882f334912d82f6f2c533e37948c51b0001697a-6-True",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "1187.78",
+          "evidenceIndex": 98,
+          "powerKw": "6",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-992c64b8fd993b32448666e05882f334912d82f6f2c533e37948c51b0001697a-6-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "1187.78",
+          "evidenceIndex": 100,
+          "powerKw": "6",
+          "resident": false
+        }
+      ]
+    },
+    {
+      "fingerprint": "9add3e2e531e5532bc8f6d863cbeaace13fffc6b58157ba2ec86d466c663c483",
+      "offerCode": "029878ESVFL05XX000007DOM7VAR7BIO",
+      "supplierVat": "05679530872",
+      "fixedAnnual": "143.99",
+      "f1": "0.2481266666666666666666666667",
+      "f2": "0.24839",
+      "f3": "0.24983",
+      "includes": ["all_components_of_official_sales_row"],
+      "domain": {
+        "minKwh": "2000",
+        "maxKwh": "6000",
+        "powerKw": ["3", "4.5", "6"],
+        "resident": [true, false]
+      },
+      "calibrations": [
+        {
+          "id": "peak-cal-9add3e2e531e5532bc8f6d863cbeaace13fffc6b58157ba2ec86d466c663c483-0",
+          "f1": "3000",
+          "f2": "0",
+          "f3": "0",
+          "observedSales": "888.37",
+          "evidenceIndex": 101,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-9add3e2e531e5532bc8f6d863cbeaace13fffc6b58157ba2ec86d466c663c483-1",
+          "f1": "0",
+          "f2": "3000",
+          "f3": "0",
+          "observedSales": "889.16",
+          "evidenceIndex": 102,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-9add3e2e531e5532bc8f6d863cbeaace13fffc6b58157ba2ec86d466c663c483-2",
+          "f1": "0",
+          "f2": "0",
+          "f3": "3000",
+          "observedSales": "893.48",
+          "evidenceIndex": 103,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-9add3e2e531e5532bc8f6d863cbeaace13fffc6b58157ba2ec86d466c663c483-3",
+          "f1": "6000",
+          "f2": "0",
+          "f3": "0",
+          "observedSales": "1632.75",
+          "evidenceIndex": 104,
+          "powerKw": "3",
+          "resident": true
+        }
+      ],
+      "holdouts": [
+        {
+          "id": "peak-hold-9add3e2e531e5532bc8f6d863cbeaace13fffc6b58157ba2ec86d466c663c483-0",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "1139.78",
+          "evidenceIndex": 106,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-hold-9add3e2e531e5532bc8f6d863cbeaace13fffc6b58157ba2ec86d466c663c483-1",
+          "f1": "700",
+          "f2": "400",
+          "f3": "900",
+          "observedSales": "641.88",
+          "evidenceIndex": 108,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-hold-9add3e2e531e5532bc8f6d863cbeaace13fffc6b58157ba2ec86d466c663c483-2",
+          "f1": "1500",
+          "f2": "2000",
+          "f3": "2500",
+          "observedSales": "1637.52",
+          "evidenceIndex": 110,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-9add3e2e531e5532bc8f6d863cbeaace13fffc6b58157ba2ec86d466c663c483-3-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "1139.78",
+          "evidenceIndex": 112,
+          "powerKw": "3",
+          "resident": false
+        },
+        {
+          "id": "peak-physical-9add3e2e531e5532bc8f6d863cbeaace13fffc6b58157ba2ec86d466c663c483-4.5-True",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "1139.78",
+          "evidenceIndex": 114,
+          "powerKw": "4.5",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-9add3e2e531e5532bc8f6d863cbeaace13fffc6b58157ba2ec86d466c663c483-4.5-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "1139.78",
+          "evidenceIndex": 116,
+          "powerKw": "4.5",
+          "resident": false
+        },
+        {
+          "id": "peak-physical-9add3e2e531e5532bc8f6d863cbeaace13fffc6b58157ba2ec86d466c663c483-6-True",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "1139.78",
+          "evidenceIndex": 118,
+          "powerKw": "6",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-9add3e2e531e5532bc8f6d863cbeaace13fffc6b58157ba2ec86d466c663c483-6-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "1139.78",
+          "evidenceIndex": 120,
+          "powerKw": "6",
+          "resident": false
+        }
+      ]
+    },
+    {
+      "fingerprint": "a4afe5897bf4770f6e709411e76c583ce06b661464548b64892399cd88c927d2",
+      "offerCode": "029878ESVFL03XX000002DOM2VAR2BIO",
+      "supplierVat": "05679530872",
+      "fixedAnnual": "143.99",
+      "f1": "0.2481266666666666666666666667",
+      "f2": "0.24839",
+      "f3": "0.24983",
+      "includes": ["all_components_of_official_sales_row"],
+      "domain": {
+        "minKwh": "2000",
+        "maxKwh": "6000",
+        "powerKw": ["3", "4.5", "6"],
+        "resident": [true, false]
+      },
+      "calibrations": [
+        {
+          "id": "peak-cal-a4afe5897bf4770f6e709411e76c583ce06b661464548b64892399cd88c927d2-0",
+          "f1": "3000",
+          "f2": "0",
+          "f3": "0",
+          "observedSales": "888.37",
+          "evidenceIndex": 121,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-a4afe5897bf4770f6e709411e76c583ce06b661464548b64892399cd88c927d2-1",
+          "f1": "0",
+          "f2": "3000",
+          "f3": "0",
+          "observedSales": "889.16",
+          "evidenceIndex": 122,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-a4afe5897bf4770f6e709411e76c583ce06b661464548b64892399cd88c927d2-2",
+          "f1": "0",
+          "f2": "0",
+          "f3": "3000",
+          "observedSales": "893.48",
+          "evidenceIndex": 123,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-a4afe5897bf4770f6e709411e76c583ce06b661464548b64892399cd88c927d2-3",
+          "f1": "6000",
+          "f2": "0",
+          "f3": "0",
+          "observedSales": "1632.75",
+          "evidenceIndex": 124,
+          "powerKw": "3",
+          "resident": true
+        }
+      ],
+      "holdouts": [
+        {
+          "id": "peak-hold-a4afe5897bf4770f6e709411e76c583ce06b661464548b64892399cd88c927d2-0",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "1139.78",
+          "evidenceIndex": 126,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-hold-a4afe5897bf4770f6e709411e76c583ce06b661464548b64892399cd88c927d2-1",
+          "f1": "700",
+          "f2": "400",
+          "f3": "900",
+          "observedSales": "641.88",
+          "evidenceIndex": 128,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-hold-a4afe5897bf4770f6e709411e76c583ce06b661464548b64892399cd88c927d2-2",
+          "f1": "1500",
+          "f2": "2000",
+          "f3": "2500",
+          "observedSales": "1637.52",
+          "evidenceIndex": 130,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-a4afe5897bf4770f6e709411e76c583ce06b661464548b64892399cd88c927d2-3-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "1139.78",
+          "evidenceIndex": 132,
+          "powerKw": "3",
+          "resident": false
+        },
+        {
+          "id": "peak-physical-a4afe5897bf4770f6e709411e76c583ce06b661464548b64892399cd88c927d2-4.5-True",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "1139.78",
+          "evidenceIndex": 134,
+          "powerKw": "4.5",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-a4afe5897bf4770f6e709411e76c583ce06b661464548b64892399cd88c927d2-4.5-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "1139.78",
+          "evidenceIndex": 136,
+          "powerKw": "4.5",
+          "resident": false
+        },
+        {
+          "id": "peak-physical-a4afe5897bf4770f6e709411e76c583ce06b661464548b64892399cd88c927d2-6-True",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "1139.78",
+          "evidenceIndex": 138,
+          "powerKw": "6",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-a4afe5897bf4770f6e709411e76c583ce06b661464548b64892399cd88c927d2-6-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "1139.78",
+          "evidenceIndex": 140,
+          "powerKw": "6",
+          "resident": false
+        }
+      ]
+    },
+    {
+      "fingerprint": "b69a39e5796344262aef83ed5ca1733ab6996b36370eb3d1d19dcb45f8f7003d",
+      "offerCode": "003450ESFML01XX00000010073721026",
+      "supplierVat": "01016870329",
+      "fixedAnnual": "133.23",
+      "f1": "0.1919",
+      "f2": "0.1851233333333333333333333333",
+      "f3": "0.1738333333333333333333333333",
+      "includes": ["all_components_of_official_sales_row"],
+      "domain": {
+        "minKwh": "2000",
+        "maxKwh": "6000",
+        "powerKw": ["3", "4.5", "6"],
+        "resident": [true, false]
+      },
+      "calibrations": [
+        {
+          "id": "peak-cal-b69a39e5796344262aef83ed5ca1733ab6996b36370eb3d1d19dcb45f8f7003d-0",
+          "f1": "3000",
+          "f2": "0",
+          "f3": "0",
+          "observedSales": "708.93",
+          "evidenceIndex": 141,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-b69a39e5796344262aef83ed5ca1733ab6996b36370eb3d1d19dcb45f8f7003d-1",
+          "f1": "0",
+          "f2": "3000",
+          "f3": "0",
+          "observedSales": "688.60",
+          "evidenceIndex": 142,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-b69a39e5796344262aef83ed5ca1733ab6996b36370eb3d1d19dcb45f8f7003d-2",
+          "f1": "0",
+          "f2": "0",
+          "f3": "3000",
+          "observedSales": "654.73",
+          "evidenceIndex": 143,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-b69a39e5796344262aef83ed5ca1733ab6996b36370eb3d1d19dcb45f8f7003d-3",
+          "f1": "6000",
+          "f2": "0",
+          "f3": "0",
+          "observedSales": "1284.63",
+          "evidenceIndex": 144,
+          "powerKw": "3",
+          "resident": true
+        }
+      ],
+      "holdouts": [
+        {
+          "id": "peak-hold-b69a39e5796344262aef83ed5ca1733ab6996b36370eb3d1d19dcb45f8f7003d-0",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "862.00",
+          "evidenceIndex": 146,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-hold-b69a39e5796344262aef83ed5ca1733ab6996b36370eb3d1d19dcb45f8f7003d-1",
+          "f1": "700",
+          "f2": "400",
+          "f3": "900",
+          "observedSales": "498.06",
+          "evidenceIndex": 148,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-hold-b69a39e5796344262aef83ed5ca1733ab6996b36370eb3d1d19dcb45f8f7003d-2",
+          "f1": "1500",
+          "f2": "2000",
+          "f3": "2500",
+          "observedSales": "1225.92",
+          "evidenceIndex": 150,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-b69a39e5796344262aef83ed5ca1733ab6996b36370eb3d1d19dcb45f8f7003d-3-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "862.00",
+          "evidenceIndex": 152,
+          "powerKw": "3",
+          "resident": false
+        },
+        {
+          "id": "peak-physical-b69a39e5796344262aef83ed5ca1733ab6996b36370eb3d1d19dcb45f8f7003d-4.5-True",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "862.00",
+          "evidenceIndex": 154,
+          "powerKw": "4.5",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-b69a39e5796344262aef83ed5ca1733ab6996b36370eb3d1d19dcb45f8f7003d-4.5-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "862.00",
+          "evidenceIndex": 156,
+          "powerKw": "4.5",
+          "resident": false
+        },
+        {
+          "id": "peak-physical-b69a39e5796344262aef83ed5ca1733ab6996b36370eb3d1d19dcb45f8f7003d-6-True",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "862.00",
+          "evidenceIndex": 158,
+          "powerKw": "6",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-b69a39e5796344262aef83ed5ca1733ab6996b36370eb3d1d19dcb45f8f7003d-6-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "862.00",
+          "evidenceIndex": 160,
+          "powerKw": "6",
+          "resident": false
+        }
+      ]
+    },
+    {
+      "fingerprint": "c1d5ae7d50bc4d492095ca83a17afb651a7fc877869bb06ff4d5805e3e882041",
+      "offerCode": "003450ESFML01XX00000010073701026",
+      "supplierVat": "01016870329",
+      "fixedAnnual": "241.23",
+      "f1": "0.1868333333333333333333333333",
+      "f2": "0.1800266666666666666666666667",
+      "f3": "0.1690466666666666666666666667",
+      "includes": ["all_components_of_official_sales_row"],
+      "domain": {
+        "minKwh": "2000",
+        "maxKwh": "6000",
+        "powerKw": ["3", "4.5", "6"],
+        "resident": [true, false]
+      },
+      "calibrations": [
+        {
+          "id": "peak-cal-c1d5ae7d50bc4d492095ca83a17afb651a7fc877869bb06ff4d5805e3e882041-0",
+          "f1": "3000",
+          "f2": "0",
+          "f3": "0",
+          "observedSales": "801.73",
+          "evidenceIndex": 161,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-c1d5ae7d50bc4d492095ca83a17afb651a7fc877869bb06ff4d5805e3e882041-1",
+          "f1": "0",
+          "f2": "3000",
+          "f3": "0",
+          "observedSales": "781.31",
+          "evidenceIndex": 162,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-c1d5ae7d50bc4d492095ca83a17afb651a7fc877869bb06ff4d5805e3e882041-2",
+          "f1": "0",
+          "f2": "0",
+          "f3": "3000",
+          "observedSales": "748.37",
+          "evidenceIndex": 163,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-c1d5ae7d50bc4d492095ca83a17afb651a7fc877869bb06ff4d5805e3e882041-3",
+          "f1": "6000",
+          "f2": "0",
+          "f3": "0",
+          "observedSales": "1362.23",
+          "evidenceIndex": 164,
+          "powerKw": "3",
+          "resident": true
+        }
+      ],
+      "holdouts": [
+        {
+          "id": "peak-hold-c1d5ae7d50bc4d492095ca83a17afb651a7fc877869bb06ff4d5805e3e882041-0",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "950.20",
+          "evidenceIndex": 166,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-hold-c1d5ae7d50bc4d492095ca83a17afb651a7fc877869bb06ff4d5805e3e882041-1",
+          "f1": "700",
+          "f2": "400",
+          "f3": "900",
+          "observedSales": "596.17",
+          "evidenceIndex": 168,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-hold-c1d5ae7d50bc4d492095ca83a17afb651a7fc877869bb06ff4d5805e3e882041-2",
+          "f1": "1500",
+          "f2": "2000",
+          "f3": "2500",
+          "observedSales": "1304.15",
+          "evidenceIndex": 170,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-c1d5ae7d50bc4d492095ca83a17afb651a7fc877869bb06ff4d5805e3e882041-3-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "950.20",
+          "evidenceIndex": 172,
+          "powerKw": "3",
+          "resident": false
+        },
+        {
+          "id": "peak-physical-c1d5ae7d50bc4d492095ca83a17afb651a7fc877869bb06ff4d5805e3e882041-4.5-True",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "950.20",
+          "evidenceIndex": 174,
+          "powerKw": "4.5",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-c1d5ae7d50bc4d492095ca83a17afb651a7fc877869bb06ff4d5805e3e882041-4.5-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "950.20",
+          "evidenceIndex": 176,
+          "powerKw": "4.5",
+          "resident": false
+        },
+        {
+          "id": "peak-physical-c1d5ae7d50bc4d492095ca83a17afb651a7fc877869bb06ff4d5805e3e882041-6-True",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "950.20",
+          "evidenceIndex": 178,
+          "powerKw": "6",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-c1d5ae7d50bc4d492095ca83a17afb651a7fc877869bb06ff4d5805e3e882041-6-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "950.20",
+          "evidenceIndex": 180,
+          "powerKw": "6",
+          "resident": false
+        }
+      ]
+    },
+    {
+      "fingerprint": "cdba73d4af116b926a81f8af69bb7ae0244ce177d6adcdab40677aa83e57529c",
+      "offerCode": "003450ESFML01XX00000010073781026",
+      "supplierVat": "01016870329",
+      "fixedAnnual": "133.23",
+      "f1": "0.1895366666666666666666666667",
+      "f2": "0.1827466666666666666666666667",
+      "f3": "0.1716",
+      "includes": ["all_components_of_official_sales_row"],
+      "domain": {
+        "minKwh": "2000",
+        "maxKwh": "6000",
+        "powerKw": ["3", "4.5", "6"],
+        "resident": [true, false]
+      },
+      "calibrations": [
+        {
+          "id": "peak-cal-cdba73d4af116b926a81f8af69bb7ae0244ce177d6adcdab40677aa83e57529c-0",
+          "f1": "3000",
+          "f2": "0",
+          "f3": "0",
+          "observedSales": "701.84",
+          "evidenceIndex": 181,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-cdba73d4af116b926a81f8af69bb7ae0244ce177d6adcdab40677aa83e57529c-1",
+          "f1": "0",
+          "f2": "3000",
+          "f3": "0",
+          "observedSales": "681.47",
+          "evidenceIndex": 182,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-cdba73d4af116b926a81f8af69bb7ae0244ce177d6adcdab40677aa83e57529c-2",
+          "f1": "0",
+          "f2": "0",
+          "f3": "3000",
+          "observedSales": "648.03",
+          "evidenceIndex": 183,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-cdba73d4af116b926a81f8af69bb7ae0244ce177d6adcdab40677aa83e57529c-3",
+          "f1": "6000",
+          "f2": "0",
+          "f3": "0",
+          "observedSales": "1270.45",
+          "evidenceIndex": 184,
+          "powerKw": "3",
+          "resident": true
+        }
+      ],
+      "holdouts": [
+        {
+          "id": "peak-hold-cdba73d4af116b926a81f8af69bb7ae0244ce177d6adcdab40677aa83e57529c-0",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "852.76",
+          "evidenceIndex": 186,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-hold-cdba73d4af116b926a81f8af69bb7ae0244ce177d6adcdab40677aa83e57529c-1",
+          "f1": "700",
+          "f2": "400",
+          "f3": "900",
+          "observedSales": "493.44",
+          "evidenceIndex": 188,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-hold-cdba73d4af116b926a81f8af69bb7ae0244ce177d6adcdab40677aa83e57529c-2",
+          "f1": "1500",
+          "f2": "2000",
+          "f3": "2500",
+          "observedSales": "1212.02",
+          "evidenceIndex": 190,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-cdba73d4af116b926a81f8af69bb7ae0244ce177d6adcdab40677aa83e57529c-3-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "852.76",
+          "evidenceIndex": 192,
+          "powerKw": "3",
+          "resident": false
+        },
+        {
+          "id": "peak-physical-cdba73d4af116b926a81f8af69bb7ae0244ce177d6adcdab40677aa83e57529c-4.5-True",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "852.76",
+          "evidenceIndex": 194,
+          "powerKw": "4.5",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-cdba73d4af116b926a81f8af69bb7ae0244ce177d6adcdab40677aa83e57529c-4.5-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "852.76",
+          "evidenceIndex": 196,
+          "powerKw": "4.5",
+          "resident": false
+        },
+        {
+          "id": "peak-physical-cdba73d4af116b926a81f8af69bb7ae0244ce177d6adcdab40677aa83e57529c-6-True",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "852.76",
+          "evidenceIndex": 198,
+          "powerKw": "6",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-cdba73d4af116b926a81f8af69bb7ae0244ce177d6adcdab40677aa83e57529c-6-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "852.76",
+          "evidenceIndex": 200,
+          "powerKw": "6",
+          "resident": false
+        }
+      ]
+    },
+    {
+      "fingerprint": "cf51ec7ab599f182528d49157f54fb2b88098de33e60c20772fc296739a5ec43",
+      "offerCode": "024632ESVFL01XXSTDDOMVARPOP00007",
+      "supplierVat": "07534030726",
+      "fixedAnnual": "194.29",
+      "f1": "0.28059",
+      "f2": "0.2812666666666666666666666667",
+      "f3": "0.2786",
+      "includes": ["all_components_of_official_sales_row"],
+      "domain": {
+        "minKwh": "2000",
+        "maxKwh": "6000",
+        "powerKw": ["3", "4.5", "6"],
+        "resident": [true, false]
+      },
+      "calibrations": [
+        {
+          "id": "peak-cal-cf51ec7ab599f182528d49157f54fb2b88098de33e60c20772fc296739a5ec43-0",
+          "f1": "3000",
+          "f2": "0",
+          "f3": "0",
+          "observedSales": "1036.06",
+          "evidenceIndex": 201,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-cf51ec7ab599f182528d49157f54fb2b88098de33e60c20772fc296739a5ec43-1",
+          "f1": "0",
+          "f2": "3000",
+          "f3": "0",
+          "observedSales": "1038.09",
+          "evidenceIndex": 202,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-cf51ec7ab599f182528d49157f54fb2b88098de33e60c20772fc296739a5ec43-2",
+          "f1": "0",
+          "f2": "0",
+          "f3": "3000",
+          "observedSales": "1030.09",
+          "evidenceIndex": 203,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-cf51ec7ab599f182528d49157f54fb2b88098de33e60c20772fc296739a5ec43-3",
+          "f1": "6000",
+          "f2": "0",
+          "f3": "0",
+          "observedSales": "1877.83",
+          "evidenceIndex": 204,
+          "powerKw": "3",
+          "resident": true
+        }
+      ],
+      "holdouts": [
+        {
+          "id": "peak-hold-cf51ec7ab599f182528d49157f54fb2b88098de33e60c20772fc296739a5ec43-0",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "1313.78",
+          "evidenceIndex": 206,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-hold-cf51ec7ab599f182528d49157f54fb2b88098de33e60c20772fc296739a5ec43-1",
+          "f1": "700",
+          "f2": "400",
+          "f3": "900",
+          "observedSales": "753.95",
+          "evidenceIndex": 208,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-hold-cf51ec7ab599f182528d49157f54fb2b88098de33e60c20772fc296739a5ec43-2",
+          "f1": "1500",
+          "f2": "2000",
+          "f3": "2500",
+          "observedSales": "1874.20",
+          "evidenceIndex": 210,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-cf51ec7ab599f182528d49157f54fb2b88098de33e60c20772fc296739a5ec43-3-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "1313.78",
+          "evidenceIndex": 212,
+          "powerKw": "3",
+          "resident": false
+        },
+        {
+          "id": "peak-physical-cf51ec7ab599f182528d49157f54fb2b88098de33e60c20772fc296739a5ec43-4.5-True",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "1313.78",
+          "evidenceIndex": 214,
+          "powerKw": "4.5",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-cf51ec7ab599f182528d49157f54fb2b88098de33e60c20772fc296739a5ec43-4.5-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "1313.78",
+          "evidenceIndex": 216,
+          "powerKw": "4.5",
+          "resident": false
+        },
+        {
+          "id": "peak-physical-cf51ec7ab599f182528d49157f54fb2b88098de33e60c20772fc296739a5ec43-6-True",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "1313.78",
+          "evidenceIndex": 218,
+          "powerKw": "6",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-cf51ec7ab599f182528d49157f54fb2b88098de33e60c20772fc296739a5ec43-6-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "1313.78",
+          "evidenceIndex": 220,
+          "powerKw": "6",
+          "resident": false
+        }
+      ]
+    },
+    {
+      "fingerprint": "e19735b6b35064367982720baadd3b3ebffb5966fb704c3db6d738590714bb1d",
+      "offerCode": "003450ESFML01XX00000010073751026",
+      "supplierVat": "01016870329",
+      "fixedAnnual": "241.23",
+      "f1": "0.18323",
+      "f2": "0.1764",
+      "f3": "0.1656433333333333333333333333",
+      "includes": ["all_components_of_official_sales_row"],
+      "domain": {
+        "minKwh": "2000",
+        "maxKwh": "6000",
+        "powerKw": ["3", "4.5", "6"],
+        "resident": [true, false]
+      },
+      "calibrations": [
+        {
+          "id": "peak-cal-e19735b6b35064367982720baadd3b3ebffb5966fb704c3db6d738590714bb1d-0",
+          "f1": "3000",
+          "f2": "0",
+          "f3": "0",
+          "observedSales": "790.92",
+          "evidenceIndex": 221,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-e19735b6b35064367982720baadd3b3ebffb5966fb704c3db6d738590714bb1d-1",
+          "f1": "0",
+          "f2": "3000",
+          "f3": "0",
+          "observedSales": "770.43",
+          "evidenceIndex": 222,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-e19735b6b35064367982720baadd3b3ebffb5966fb704c3db6d738590714bb1d-2",
+          "f1": "0",
+          "f2": "0",
+          "f3": "3000",
+          "observedSales": "738.16",
+          "evidenceIndex": 223,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-e19735b6b35064367982720baadd3b3ebffb5966fb704c3db6d738590714bb1d-3",
+          "f1": "6000",
+          "f2": "0",
+          "f3": "0",
+          "observedSales": "1340.61",
+          "evidenceIndex": 224,
+          "powerKw": "3",
+          "resident": true
+        }
+      ],
+      "holdouts": [
+        {
+          "id": "peak-hold-e19735b6b35064367982720baadd3b3ebffb5966fb704c3db6d738590714bb1d-0",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "936.12",
+          "evidenceIndex": 226,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-hold-e19735b6b35064367982720baadd3b3ebffb5966fb704c3db6d738590714bb1d-1",
+          "f1": "700",
+          "f2": "400",
+          "f3": "900",
+          "observedSales": "589.13",
+          "evidenceIndex": 228,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-hold-e19735b6b35064367982720baadd3b3ebffb5966fb704c3db6d738590714bb1d-2",
+          "f1": "1500",
+          "f2": "2000",
+          "f3": "2500",
+          "observedSales": "1282.98",
+          "evidenceIndex": 230,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-e19735b6b35064367982720baadd3b3ebffb5966fb704c3db6d738590714bb1d-3-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "936.12",
+          "evidenceIndex": 232,
+          "powerKw": "3",
+          "resident": false
+        },
+        {
+          "id": "peak-physical-e19735b6b35064367982720baadd3b3ebffb5966fb704c3db6d738590714bb1d-4.5-True",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "936.12",
+          "evidenceIndex": 234,
+          "powerKw": "4.5",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-e19735b6b35064367982720baadd3b3ebffb5966fb704c3db6d738590714bb1d-4.5-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "936.12",
+          "evidenceIndex": 236,
+          "powerKw": "4.5",
+          "resident": false
+        },
+        {
+          "id": "peak-physical-e19735b6b35064367982720baadd3b3ebffb5966fb704c3db6d738590714bb1d-6-True",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "936.12",
+          "evidenceIndex": 238,
+          "powerKw": "6",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-e19735b6b35064367982720baadd3b3ebffb5966fb704c3db6d738590714bb1d-6-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "936.12",
+          "evidenceIndex": 240,
+          "powerKw": "6",
+          "resident": false
+        }
+      ]
+    },
+    {
+      "fingerprint": "fc26dc68508c67bd24a9be142a553fe4182c630f7fc7259bf29d024aa5e145bc",
+      "offerCode": "003450ESFML01XX00000010073681026",
+      "supplierVat": "01016870329",
+      "fixedAnnual": "193.23",
+      "f1": "0.1885233333333333333333333333",
+      "f2": "0.1817266666666666666666666667",
+      "f3": "0.1706433333333333333333333333",
+      "includes": ["all_components_of_official_sales_row"],
+      "domain": {
+        "minKwh": "2000",
+        "maxKwh": "6000",
+        "powerKw": ["3", "4.5", "6"],
+        "resident": [true, false]
+      },
+      "calibrations": [
+        {
+          "id": "peak-cal-fc26dc68508c67bd24a9be142a553fe4182c630f7fc7259bf29d024aa5e145bc-0",
+          "f1": "3000",
+          "f2": "0",
+          "f3": "0",
+          "observedSales": "758.80",
+          "evidenceIndex": 241,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-fc26dc68508c67bd24a9be142a553fe4182c630f7fc7259bf29d024aa5e145bc-1",
+          "f1": "0",
+          "f2": "3000",
+          "f3": "0",
+          "observedSales": "738.41",
+          "evidenceIndex": 242,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-fc26dc68508c67bd24a9be142a553fe4182c630f7fc7259bf29d024aa5e145bc-2",
+          "f1": "0",
+          "f2": "0",
+          "f3": "3000",
+          "observedSales": "705.16",
+          "evidenceIndex": 243,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-cal-fc26dc68508c67bd24a9be142a553fe4182c630f7fc7259bf29d024aa5e145bc-3",
+          "f1": "6000",
+          "f2": "0",
+          "f3": "0",
+          "observedSales": "1324.37",
+          "evidenceIndex": 244,
+          "powerKw": "3",
+          "resident": true
+        }
+      ],
+      "holdouts": [
+        {
+          "id": "peak-hold-fc26dc68508c67bd24a9be142a553fe4182c630f7fc7259bf29d024aa5e145bc-0",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "908.80",
+          "evidenceIndex": 246,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-hold-fc26dc68508c67bd24a9be142a553fe4182c630f7fc7259bf29d024aa5e145bc-1",
+          "f1": "700",
+          "f2": "400",
+          "f3": "900",
+          "observedSales": "551.46",
+          "evidenceIndex": 248,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-hold-fc26dc68508c67bd24a9be142a553fe4182c630f7fc7259bf29d024aa5e145bc-2",
+          "f1": "1500",
+          "f2": "2000",
+          "f3": "2500",
+          "observedSales": "1266.07",
+          "evidenceIndex": 250,
+          "powerKw": "3",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-fc26dc68508c67bd24a9be142a553fe4182c630f7fc7259bf29d024aa5e145bc-3-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "908.80",
+          "evidenceIndex": 252,
+          "powerKw": "3",
+          "resident": false
+        },
+        {
+          "id": "peak-physical-fc26dc68508c67bd24a9be142a553fe4182c630f7fc7259bf29d024aa5e145bc-4.5-True",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "908.80",
+          "evidenceIndex": 254,
+          "powerKw": "4.5",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-fc26dc68508c67bd24a9be142a553fe4182c630f7fc7259bf29d024aa5e145bc-4.5-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "908.80",
+          "evidenceIndex": 256,
+          "powerKw": "4.5",
+          "resident": false
+        },
+        {
+          "id": "peak-physical-fc26dc68508c67bd24a9be142a553fe4182c630f7fc7259bf29d024aa5e145bc-6-True",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "908.80",
+          "evidenceIndex": 258,
+          "powerKw": "6",
+          "resident": true
+        },
+        {
+          "id": "peak-physical-fc26dc68508c67bd24a9be142a553fe4182c630f7fc7259bf29d024aa5e145bc-6-False",
+          "f1": "1234",
+          "f2": "987",
+          "f3": "1779",
+          "observedSales": "908.80",
+          "evidenceIndex": 260,
+          "powerKw": "6",
+          "resident": false
+        }
+      ]
+    }
+  ]
+}

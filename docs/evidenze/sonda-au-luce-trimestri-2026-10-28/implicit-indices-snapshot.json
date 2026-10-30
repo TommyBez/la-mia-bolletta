@@ -1,0 +1,66 @@
+{
+  "version": "portale-implicit-quarterly-probe-v1",
+  "acquisition_date": "2026-10-28",
+  "status": "experimentally_validated_for_tested_indices_and_formulas",
+  "provenance": "inferred from official public simulator; not an AU-published forward file",
+  "source_window": "Four calendar quarters starting at current quarter per official method; no independent 2027-Q4 recovered",
+  "quarter_labels": "Expected delivery labels follow official current-quarter method, not a delivery field returned by endpoint. Preserve month-to-coefficient mappings from raw evidence.",
+  "electricity_rounding_uncertainty_eur_kwh": "0.000001515151515151515151515151515",
+  "gas_rounding_uncertainty_eur_smc": "0.000004166666666666666666666666667",
+  "quarters": [
+    {
+      "quarter_group": "Q4",
+      "expected_delivery_quarter": "2026-Q4",
+      "electricity_eur_kwh": {
+        "F1": "0.2298187878787878787878787879",
+        "F2": "0.2258642424242424242424242425",
+        "F3": "0.1946490909090909090909090909",
+        "F0": "0.2137854545454545454545454545",
+        "F23": "0.2059793939393939393939393939"
+      },
+      "gas_eur_smc": "0.8568583333333333333333333333"
+    },
+    {
+      "quarter_group": "Q1",
+      "expected_delivery_quarter": "2027-Q1",
+      "electricity_eur_kwh": {
+        "F1": "0.2089430303030303030303030303",
+        "F2": "0.209909696969696969696969697",
+        "F3": "0.1809248484848484848484848485",
+        "F0": "0.1971733333333333333333333334",
+        "F23": "0.1914339393939393939393939394"
+      },
+      "gas_eur_smc": "0.84325"
+    },
+    {
+      "quarter_group": "Q2",
+      "expected_delivery_quarter": "2027-Q2",
+      "electricity_eur_kwh": {
+        "F1": "0.1247581818181818181818181818",
+        "F2": "0.1456945454545454545454545455",
+        "F3": "0.1255642424242424242424242425",
+        "F0": "0.1302127272727272727272727273",
+        "F23": "0.132870303030303030303030303"
+      },
+      "gas_eur_smc": "0.62185"
+    },
+    {
+      "quarter_group": "Q3",
+      "expected_delivery_quarter": "2027-Q3",
+      "electricity_eur_kwh": {
+        "F1": "0.1386127272727272727272727273",
+        "F2": "0.1516642424242424242424242425",
+        "F3": "0.1307218181818181818181818182",
+        "F0": "0.1384187878787878787878787879",
+        "F23": "0.1383218181818181818181818182"
+      },
+      "gas_eur_smc": "0.5751583333333333333333333333"
+    }
+  ],
+  "evidence_notes": [
+    "../../recupero-indici-au-2026-10-28.md",
+    "../../sonda-au-luce-periodi-2026-10-28.md",
+    "../../sonda-au-biorario-2026-10-28.md",
+    "../../sonda-au-gas-trimestri-2026-10-28.md"
+  ]
+}

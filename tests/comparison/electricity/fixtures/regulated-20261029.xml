@@ -1,0 +1,81 @@
+<ListaOfferteMercatoLibero><offerta>
+        <IdentificativiOfferta>
+            <PIVA_UTENTE>07534030726</PIVA_UTENTE>
+            <COD_OFFERTA>024632ESVML01XXSTDDOMVARMONO0007</COD_OFFERTA>
+        </IdentificativiOfferta>
+        <DettaglioOfferta>
+            <TIPO_MERCATO>01</TIPO_MERCATO>
+            <OFFERTA_SINGOLA>SI</OFFERTA_SINGOLA>
+            <TIPO_CLIENTE>01</TIPO_CLIENTE>
+            <DOMESTICO_RESIDENTE>03</DOMESTICO_RESIDENTE>
+            <TIPO_OFFERTA>02</TIPO_OFFERTA>
+            <TIPOLOGIA_ATT_CONTR>01</TIPOLOGIA_ATT_CONTR>
+            <NOME_OFFERTA>NOIENERGIA PUN INDEX GME DOMESTICA MONO</NOME_OFFERTA>
+            <DESCRIZIONE>NOIENERGIA PUN INDEX GME DOMESTICA MONO</DESCRIZIONE>
+            <DURATA>-1</DURATA>
+            <GARANZIE>deposito cauzionale in caso di pagamento con bollettino</GARANZIE>
+            <ModalitaAttivazione>
+                <MODALITA>02</MODALITA>
+            </ModalitaAttivazione>
+            <Contatti>
+                <TELEFONO>0803387704</TELEFONO>
+                <URL_SITO_VENDITORE>www.noienergia.com</URL_SITO_VENDITORE>
+                <URL_OFFERTA>https://www.noienergia.com/frizzante-luce-casa/</URL_OFFERTA>
+            </Contatti>
+        </DettaglioOfferta>
+        <RiferimentiPrezzoEnergia>
+            <IDX_PREZZO_ENERGIA>12</IDX_PREZZO_ENERGIA>
+        </RiferimentiPrezzoEnergia>
+        <ValiditaOfferta>
+            <DATA_INIZIO>01/10/2026_00:00:00</DATA_INIZIO>
+            <DATA_FINE>31/12/2026_23:59:59</DATA_FINE>
+        </ValiditaOfferta>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>01</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>02</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>04</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <ComponentiRegolate>
+            <CODICE>01</CODICE>
+            <CODICE>02</CODICE>
+        </ComponentiRegolate>
+        <TipoPrezzo>
+            <TIPOLOGIA_FASCE>01</TIPOLOGIA_FASCE>
+        </TipoPrezzo>
+        <Dispacciamento>
+            <TIPO_DISPACCIAMENTO>14</TIPO_DISPACCIAMENTO>
+            <NOME>CdispD</NOME>
+            <DESCRIZIONE>CdispD</DESCRIZIONE>
+        </Dispacciamento>
+        <ComponenteImpresa>
+            <NOME>Totale corrispettivo fisso del venditore</NOME>
+            <DESCRIZIONE>Totale corrispettivo fisso del venditore</DESCRIZIONE>
+            <TIPOLOGIA>01</TIPOLOGIA>
+            <MACROAREA>01</MACROAREA>
+            <IntervalloPrezzi>
+                <PREZZO>153.12</PREZZO>
+                <UNITA_MISURA>01</UNITA_MISURA>
+            </IntervalloPrezzi>
+        </ComponenteImpresa>
+        <ComponenteImpresa>
+            <NOME>Totale corrispettivi a consumo del venditore</NOME>
+            <DESCRIZIONE>Totale corrispettivi a consumo del venditore</DESCRIZIONE>
+            <TIPOLOGIA>01</TIPOLOGIA>
+            <MACROAREA>04</MACROAREA>
+            <IntervalloPrezzi>
+                <FASCIA_COMPONENTE>01</FASCIA_COMPONENTE>
+                <PREZZO>0.065389</PREZZO>
+                <UNITA_MISURA>03</UNITA_MISURA>
+            </IntervalloPrezzi>
+        </ComponenteImpresa>
+        <CondizioniContrattuali>
+            <TIPOLOGIA_CONDIZIONE>01</TIPOLOGIA_CONDIZIONE>
+            <DESCRIZIONE>Attivazione del servizio</DESCRIZIONE>
+            <LIMITANTE>02</LIMITANTE>
+        </CondizioniContrattuali>
+    </offerta>
+    </ListaOfferteMercatoLibero>

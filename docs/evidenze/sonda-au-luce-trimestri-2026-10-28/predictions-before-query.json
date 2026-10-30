@@ -1,0 +1,34 @@
+{
+  "profile": "F1 only, annual3000; Nov600 Jan900 Apr1200 Jul300; othermonths0",
+  "source_calibration": "Dec1011.23 Feb942.34 May664.53 Aug710.25 atF1=3000",
+  "SPECIAL_sale_unrounded_eur": "821.785",
+  "UNICA_sale_unrounded_eur": "862.2850",
+  "tolerance_eur": ".02",
+  "all_bands_holdout": {
+    "monthly": {
+      "202511": [
+        100,
+        200,
+        300
+      ],
+      "202601": [
+        200,
+        300,
+        100
+      ],
+      "202604": [
+        300,
+        100,
+        200
+      ],
+      "202607": [
+        400,
+        400,
+        400
+      ]
+    },
+    "SPECIAL_unrounded_eur": "797.2320000000000000000000000",
+    "POWER_HOME_4ALL_unrounded_eur": "774.1320000000000000000000000",
+    "source": "12 pure-month pure-band observations, no fitted correction"
+  }
+}

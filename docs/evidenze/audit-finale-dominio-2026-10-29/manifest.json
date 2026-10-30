@@ -1,0 +1,14 @@
+{
+  "acquired": "2026-10-29",
+  "source_geo": "https://www.ilportaleofferte.it/portaleOfferte/api/rs/it/portal/geoService.json?cap-comune=Pescara",
+  "source_simulator": "https://www.ilportaleofferte.it/portaleOfferte/it/confronto-tariffe-prezzi-luce-gas.page",
+  "files": {
+    "cost-029878ESVFL03XX000002DOM2VAR2BIO-1000-1000-1000.html": "12906c32b09ec64ffeb27d7f35a44748f7879f5456079afcd3e912fcfc0a5644",
+    "cost-029878ESVFL03XX000002DOM2VAR2BIO-0-0-3000.html": "6732bf3d84e856ead4285da7fc5650570b39463957ed979b2213e1518c899c40",
+    "profile-029878ESVFL03XX000002DOM2VAR2BIO-3000-0-0.json": "4460a0b136728703f01b0b8f9d96cf23d7055b5f330d7cbde6be9987bbc6a54c",
+    "profile-029878ESVFL03XX000002DOM2VAR2BIO-1000-1000-1000.json": "0f0e3dd4053ccf4d0b41b7752353609b13fcd2b869b9a3b2bf3d91b3bc02332e",
+    "geo-pescara.json": "642708ca1a2d0390f623b7c1d0d1da8bc71db77dc7674992b1ce12d32e9a92fe",
+    "profile-029878ESVFL03XX000002DOM2VAR2BIO-0-0-3000.json": "59932e6cf6dec36b90be7cc18859b05568ea5128c0b019de0579b0f2686bbf15",
+    "cost-029878ESVFL03XX000002DOM2VAR2BIO-3000-0-0.html": "0685dc0ec98a701176f9e418a376822aaf6088abc2d95ba8b0ed526e6ea8e2ec"
+  }
+}

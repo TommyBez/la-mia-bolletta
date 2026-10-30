@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-27",
+  "official_pages": [
+    {
+      "supply": "E",
+      "source_url": "https://www.ilportaleofferte.it/portaleOfferte/it/offerte-non-confrontabili.page?commodityType=ELETTRICO",
+      "local_file": "/tmp/portale-nonconfrontabili-E-20261027.html",
+      "bytes": 2898641,
+      "sha256": "da0645af1d275a90074ca6ba92cc6f629006ea2b295d2b2b557e939948bb13b6",
+      "complete_html": true,
+      "supplier_links_followed": false
+    },
+    {
+      "supply": "G",
+      "source_url": "https://www.ilportaleofferte.it/portaleOfferte/it/offerte-non-confrontabili.page?commodityType=GAS",
+      "local_file": "/tmp/portale-nonconfrontabili-G-20261027.html",
+      "bytes": 854744,
+      "sha256": "9b2c8fcf68e99db696bc0150a50fa51375660d6449ffc5c7cdb92ae55fe92850",
+      "complete_html": true,
+      "supplier_links_followed": false
+    }
+  ],
+  "script_sha256": "4620ae0e8f87b55a8a02ea06f6bfa3b5e55c0d8cfdd767461cc586d3e651fe40",
+  "derived_json": "catalog-audit.json",
+  "note": "Read-only public page acquisition, separate from machine-readable ML XML exports. Page modal IDs are not supplier offer codes.",
+  "artifacts": {
+    "audit-catalog.py": {
+      "sha256": "4620ae0e8f87b55a8a02ea06f6bfa3b5e55c0d8cfdd767461cc586d3e651fe40",
+      "bytes": 6752
+    },
+    "catalog-audit.json": {
+      "sha256": "3583592be786f0a818e60e427a55b47cd81ba823ca550c25c00e3ea4dabedac4",
+      "bytes": 61931
+    },
+    "selected-portal-descriptions.json": {
+      "sha256": "695c5d09d8d339665f6bc18dcbaa6515dde39c5f26b02a46b76b6d4da358738d",
+      "bytes": 22930
+    },
+    "check-method.py": {
+      "sha256": "4931c28921704466f04453838e24d0a447953322538fa2cf78a30d45bd90bbee",
+      "bytes": 7187
+    },
+    "method-check.json": {
+      "sha256": "89dcc4516736d7b92919194a666bb1c36feb60d61c850cbb1b78a1a2449932f7",
+      "bytes": 4678
+    },
+    "public-discovery/inspection.json": {
+      "sha256": "4a03e127cc24f3baf9acedbe4ad4a5e6ec0c2aaa3505bcdd43fecbf9d15d10df",
+      "bytes": 46347
+    },
+    "public-discovery/inspect-public-pages.py": {
+      "sha256": "75d698e158f7093e6f132908d1fd9e754450995292d7f454a62ed8243ac9f2db",
+      "bytes": 6060
+    },
+    "public-discovery/gas-tax-ui-cases.json": {
+      "sha256": "f78b87c7114e1e03f963c6223d71ca914d09d772ab661e7af9aa4b8b3fbc583b",
+      "bytes": 4334
+    },
+    "public-discovery/gas-tax-references.json": {
+      "sha256": "67e14679a1c0af7cd32d56cd3f8f4da426d01d122e2894694632e16febecab0e",
+      "bytes": 2480
+    }
+  },
+  "additional_official_documents": [
+    {
+      "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/cms/documents/0f7a9b80925931637af9050c90350ee2.pdf",
+      "title": "Regole indicatori sintetici di prezzo v2.0, 17 marzo 2026",
+      "sha256": "a86619f2b9d4885d3585c05fba5cf66984b16663d7403b46ced804143093dfe8",
+      "bytes": 675506
+    }
+  ]
+}

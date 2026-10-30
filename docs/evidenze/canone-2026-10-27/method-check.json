@@ -1,0 +1,95 @@
+{
+  "source_descriptions_sha256": "695c5d09d8d339665f6bc18dcbaa6515dde39c5f26b02a46b76b6d4da358738d",
+  "electricity_parameter_file": "/tmp/la-mia-bolletta-20261026-parametri-E.csv",
+  "electricity_parameter_sha256": "801bb798d551656be3e7e9db45431d81fc0bb5df147dfb4f94b722e577e639d0",
+  "gas_tax_evidence_file": "public-discovery/gas-tax-ui-cases.json",
+  "gas_tax_evidence_sha256": "f78b87c7114e1e03f963c6223d71ca914d09d772ab661e7af9aa4b8b3fbc583b",
+  "electricity_conditional_method_check": {
+    "page_modal_id": "modal-14146",
+    "gross_fee_eur": "768",
+    "reference_kwh": "1500",
+    "consumption_kwh": "1400",
+    "vat_rate": "0.100000",
+    "excise_eur": "0",
+    "net_unit_price_eur_kwh": "0.28",
+    "derived_net_fee_eur_unrounded": "698.18181818181818181818181818181818",
+    "annual_gross_before_conditional_discount_eur": "737.20",
+    "assumptions": [
+      "The stated starting fee 768 EUR applies to this profile; not established by the card.",
+      "Domestic resident, power <=3kW; annual consumption and reference both <=1800kWh.",
+      "Unit settlement price treated net of taxes under CCC 5.1(a); fee explicitly gross.",
+      "Conditional discount excluded, per Portal annual-expense rules."
+    ],
+    "status": "Conditional proof of arithmetic and tax normalization, not a quote"
+  },
+  "gas_reference_points": [
+    {
+      "page_modal_id": "modal-14159",
+      "name": "Fastweb Gas Flat Ultra",
+      "consumption_smc": "1200",
+      "annual_gross_before_conditional_discount_eur": "1956",
+      "conditional_contractual_arithmetic_12_months_eur": "1836",
+      "discount_caveat": "12 eligible months; not the unconditioned Portal baseline"
+    },
+    {
+      "page_modal_id": "modal-14158",
+      "name": "Fastweb Gas Flat Maxi",
+      "consumption_smc": "900",
+      "annual_gross_before_conditional_discount_eur": "1536",
+      "conditional_contractual_arithmetic_12_months_eur": "1416",
+      "discount_caveat": "12 eligible months; not the unconditioned Portal baseline"
+    },
+    {
+      "page_modal_id": "modal-14157",
+      "name": "Fastweb Gas Flat Pro",
+      "consumption_smc": "600",
+      "annual_gross_before_conditional_discount_eur": "1104",
+      "conditional_contractual_arithmetic_12_months_eur": "984",
+      "discount_caveat": "12 eligible months; not the unconditioned Portal baseline"
+    },
+    {
+      "page_modal_id": "modal-14155",
+      "name": "Fastweb Gas Flat Light",
+      "consumption_smc": "300",
+      "annual_gross_before_conditional_discount_eur": "660",
+      "conditional_contractual_arithmetic_12_months_eur": "540",
+      "discount_caveat": "12 eligible months; not the unconditioned Portal baseline"
+    },
+    {
+      "page_modal_id": "modal-14151",
+      "name": "Fastweb Gas Flat Start",
+      "consumption_smc": "150",
+      "annual_gross_before_conditional_discount_eur": "432",
+      "conditional_contractual_arithmetic_12_months_eur": "312",
+      "discount_caveat": "12 eligible months; not the unconditioned Portal baseline"
+    }
+  ],
+  "gas_same_vat_band_method_check": {
+    "page_modal_id": "modal-14155",
+    "name": "Fastweb Gas Flat Light",
+    "gross_reference_fee_eur": "660",
+    "reference_smc": "300",
+    "consumption_smc": "350",
+    "net_settlement_price_eur_smc": "1.50",
+    "observed_excise_reference_eur": "36.78",
+    "observed_excise_consumption_eur": "45.53",
+    "observed_regional_surcharge_eur": "0",
+    "marginal_vat": "0.10",
+    "gross_total_unrounded_eur": "752.1250",
+    "gross_total_rounded_eur": "752.13",
+    "profile": "Milano, domestic, meter <G6; 12 months; conditional discount excluded",
+    "scope": "Calculation for the described contract; not proof of eligibility for subscription at 350 Smc",
+    "tax_source": "Official Portal comparison detail for APIU GAS SICURO24CASA, 300 and 350 Smc, captured 2026-10-27"
+  },
+  "gas_cross_vat_allocation_illustration": {
+    "reference_smc": "300",
+    "consumption_smc": "500",
+    "anchored_gross_reference_fee_eur": "660",
+    "model_a": "Annual fee at22%; settlement p*(Q-R) apportioned over all Q consumption",
+    "model_b": "Residual annual fee at22%; p*Q allocated progressively over VAT consumption bands",
+    "model_a_commercial_gross_excluding_common_consumption_taxes_eur": "950.98200000000000000000000000000000",
+    "model_b_commercial_gross_excluding_common_consumption_taxes_eur": "953.14200000000000000000000000000000",
+    "difference_eur": "2.16000000000000000000000000000000",
+    "caveat": "Illustrates an unspecified tax-base allocation; neither is claimed to be the Portal implementation or an actual offer price. Excise/additional-tax term at Q is identical and omitted from both."
+  }
+}

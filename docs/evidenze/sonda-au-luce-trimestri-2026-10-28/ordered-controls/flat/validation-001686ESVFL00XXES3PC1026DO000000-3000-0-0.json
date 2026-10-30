@@ -1,0 +1,17 @@
+{
+  "OffertaConfrontoResponse": {
+    "offerta": {
+      "codErrore": 0,
+      "codOfferta": "001686ESVFL00XXES3PC1026DO000000",
+      "idCategoriaOfferta": "ML",
+      "idCommodity": "E",
+      "idOfferta": 1452283,
+      "idTipoCliente": "01",
+      "idTipoOfferta": "02",
+      "idTipologiaFasciaOraria": "03",
+      "oggettoFornitura": "+ CASA SPECIAL",
+      "tuteleGraduali": false
+    },
+    "result_code": 200
+  }
+}

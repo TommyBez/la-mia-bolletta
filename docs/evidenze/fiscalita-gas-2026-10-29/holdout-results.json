@@ -1,0 +1,16 @@
+[
+  {
+    "istat": "010025",
+    "volume_smc": 500,
+    "predicted_unrounded_eur": "84.124000",
+    "observed_eur": "84.12",
+    "compatible": true
+  },
+  {
+    "istat": "066049",
+    "volume_smc": 1600,
+    "predicted_unrounded_eur": "205.288000",
+    "observed_eur": "205.29",
+    "compatible": true
+  }
+]

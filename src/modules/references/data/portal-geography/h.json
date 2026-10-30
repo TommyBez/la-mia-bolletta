@@ -1,0 +1,15 @@
+{
+  "prefix": "h",
+  "source": "https://www.ilportaleofferte.it/portaleOfferte/api/rs/it/portal/geoService.json?cap-comune=h",
+  "observedAt": "2026-10-29T22:27:25Z",
+  "sha256": "baff9d726cc44e48d970eaca87ceeec0e4fdfcfee3ea36d46ab6aa902cf40fac",
+  "items": [
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "007034",
+      "denominazione": "Hône",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    }
+  ]
+}

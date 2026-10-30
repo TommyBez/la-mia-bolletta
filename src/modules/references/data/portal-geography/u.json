@@ -1,0 +1,260 @@
+{
+  "prefix": "u",
+  "source": "https://www.ilportaleofferte.it/portaleOfferte/api/rs/it/portal/geoService.json?cap-comune=u",
+  "observedAt": "2026-10-29T22:27:34Z",
+  "sha256": "865408c25686c967d576a64e734e08555b912a67e3bfbd354357612283e3559b",
+  "items": [
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016221",
+      "denominazione": "Ubiale Clanezzo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "012130",
+      "denominazione": "Uboldo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "083102",
+      "denominazione": "Ucria",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "030129",
+      "denominazione": "Udine",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075090",
+      "denominazione": "Ugento",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "075091",
+      "denominazione": "Uggiano la Chiesa",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "013228",
+      "denominazione": "Uggiate-Trevano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "091098",
+      "denominazione": "Ulassai",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "021104",
+      "denominazione": "Ultimo",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095068",
+      "denominazione": "Ulà Tirso",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "054056",
+      "denominazione": "Umbertide",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 101026,
+      "denominazione": "Umbriatico",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "017192",
+      "denominazione": "Urago d'Oglio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095069",
+      "denominazione": "Uras",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "028095",
+      "denominazione": "Urbana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "041066",
+      "denominazione": "Urbania",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "009063",
+      "denominazione": "Urbe",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "041067",
+      "denominazione": "Urbino",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "043055",
+      "denominazione": "Urbisaglia",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "016222",
+      "denominazione": "Urgnano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "090076",
+      "denominazione": "Uri",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "070083",
+      "denominazione": "Ururi",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "091099",
+      "denominazione": "Urzulei",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "010064",
+      "denominazione": "Uscio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "095070",
+      "denominazione": "Usellus",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "090077",
+      "denominazione": "Usini",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 108044,
+      "denominazione": "Usmate Velate",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111093,
+      "denominazione": "Ussana",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": 111094,
+      "denominazione": "Ussaramanna",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "091100",
+      "denominazione": "Ussassai",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001281",
+      "denominazione": "Usseaux",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "001282",
+      "denominazione": "Usseglio",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "043056",
+      "denominazione": "Ussita",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "082075",
+      "denominazione": "Ustica",
+      "esclusoOffertaEE": 1,
+      "esclusoOffertaGas": 0
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "092090",
+      "denominazione": "Uta",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 1
+    },
+    {
+      "@xsi.type": "comuneLight",
+      "codIstat": "047021",
+      "denominazione": "Uzzano",
+      "esclusoOffertaEE": 0,
+      "esclusoOffertaGas": 0
+    }
+  ]
+}

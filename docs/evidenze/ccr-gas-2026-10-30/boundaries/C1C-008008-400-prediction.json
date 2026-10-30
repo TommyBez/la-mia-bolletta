@@ -1,0 +1,15 @@
+{
+  "profile": "C1 C",
+  "municipality": {
+    "portalCode": "008008",
+    "name": "Bordighera"
+  },
+  "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+  "volume": "400",
+  "predictedSales": "609.59",
+  "predictedVat": "110.64",
+  "predictedTotal": "959.03",
+  "totalBound": "0.015124002937109333333",
+  "vatBound": "0.015924000529642666667",
+  "predictedAt": "2026-10-29T23:08:24.640Z"
+}

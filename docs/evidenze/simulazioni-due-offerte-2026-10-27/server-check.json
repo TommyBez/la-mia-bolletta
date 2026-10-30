@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-27",
+  "method": "Fresh anonymous session, official code-validation endpoint and HTML forms discovered from official page/JavaScript; no authenticated account or supplier source",
+  "detail_url": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+  "offer_code": "029886GSVML01XXSENZAPENSIDOMGAS3",
+  "volume_smc": 1000,
+  "place": "Pescara",
+  "usage_returned": "RISC",
+  "sale_eur": "1056.79",
+  "taxes_eur": "139.63",
+  "vat_10_label_eur": "516.44",
+  "vat_22_label_eur": "0.00",
+  "total_eur": "2082.27",
+  "proof": "Amounts already present in server-rendered HTML; not client-side calculation. Cause not established.",
+  "sanitization": "CSRF token removed; cookies not saved in repository.",
+  "sha256_sanitized_html": "cb42a53d88efb848164aa79f71e5bb6122b745b5f2d180e24c582f5ec49c8855"
+}

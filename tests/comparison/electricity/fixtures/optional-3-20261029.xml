@@ -1,0 +1,102 @@
+<ListaOfferteMercatoLibero><offerta>
+        <IdentificativiOfferta>
+            <PIVA_UTENTE>05941460965</PIVA_UTENTE>
+            <COD_OFFERTA>000971ESFFL01XXPRDEE133011020260</COD_OFFERTA>
+        </IdentificativiOfferta>
+        <DettaglioOfferta>
+            <TIPO_MERCATO>01</TIPO_MERCATO>
+            <OFFERTA_SINGOLA>SI</OFFERTA_SINGOLA>
+            <TIPO_CLIENTE>01</TIPO_CLIENTE>
+            <DOMESTICO_RESIDENTE>03</DOMESTICO_RESIDENTE>
+            <TIPO_OFFERTA>01</TIPO_OFFERTA>
+            <TIPOLOGIA_ATT_CONTR>99</TIPOLOGIA_ATT_CONTR>
+            <NOME_OFFERTA>LUCE PREZZO FISSO_2026-10</NOME_OFFERTA>
+            <DESCRIZIONE>OFFERTA DEDICATA A CLIENTI DOMESTICI IN BASSA TENSIONE</DESCRIZIONE>
+            <DURATA>12</DURATA>
+            <GARANZIE>Nessuna cauzione richiesta.</GARANZIE>
+            <ModalitaAttivazione>
+                <MODALITA>02</MODALITA>
+            </ModalitaAttivazione>
+            <Contatti>
+                <TELEFONO>029500161</TELEFONO>
+                <URL_SITO_VENDITORE>www.cogeserenergia.it</URL_SITO_VENDITORE>
+                <URL_OFFERTA>https://www.cogeserenergia.it/it/offerte-luce-casa</URL_OFFERTA>
+            </Contatti>
+        </DettaglioOfferta>
+        <ValiditaOfferta>
+            <DATA_INIZIO>06/10/2026_23:59:00</DATA_INIZIO>
+            <DATA_FINE>31/10/2026_23:59:00</DATA_FINE>
+        </ValiditaOfferta>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>01</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>04</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <TipoPrezzo>
+            <TIPOLOGIA_FASCE>03</TIPOLOGIA_FASCE>
+        </TipoPrezzo>
+        <Dispacciamento>
+            <TIPO_DISPACCIAMENTO>14</TIPO_DISPACCIAMENTO>
+            <NOME>CDISPD</NOME>
+        </Dispacciamento>
+        <ComponenteImpresa>
+            <NOME>Spread a Fasce</NOME>
+            <DESCRIZIONE>Spread a prezzo fisso per fasce</DESCRIZIONE>
+            <TIPOLOGIA>02</TIPOLOGIA>
+            <MACROAREA>04</MACROAREA>
+            <IntervalloPrezzi>
+                <FASCIA_COMPONENTE>01</FASCIA_COMPONENTE>
+                <PREZZO>0.19223</PREZZO>
+                <UNITA_MISURA>03</UNITA_MISURA>
+            </IntervalloPrezzi>
+            <IntervalloPrezzi>
+                <FASCIA_COMPONENTE>02</FASCIA_COMPONENTE>
+                <PREZZO>0.20603</PREZZO>
+                <UNITA_MISURA>03</UNITA_MISURA>
+            </IntervalloPrezzi>
+            <IntervalloPrezzi>
+                <FASCIA_COMPONENTE>03</FASCIA_COMPONENTE>
+                <PREZZO>0.17256</PREZZO>
+                <UNITA_MISURA>03</UNITA_MISURA>
+            </IntervalloPrezzi>
+        </ComponenteImpresa>
+        <ComponenteImpresa>
+            <NOME>Contributo Commercializzazione Cogeser fisso mensile (10€/mese)</NOME>
+            <DESCRIZIONE>Quota fissa mensile indipendente dal consumo</DESCRIZIONE>
+            <TIPOLOGIA>02</TIPOLOGIA>
+            <MACROAREA>01</MACROAREA>
+            <IntervalloPrezzi>
+                <PREZZO>120</PREZZO>
+                <UNITA_MISURA>01</UNITA_MISURA>
+            </IntervalloPrezzi>
+        </ComponenteImpresa>
+        <CondizioniContrattuali>
+            <TIPOLOGIA_CONDIZIONE>01</TIPOLOGIA_CONDIZIONE>
+            <DESCRIZIONE>Le presenti condizioni tecnico – economiche (CTE) disciplinano, unitamente alle “Condizioni Generali di Fornitura” relative alla fornitura di energia elettrica, alla “Proposta di Contratto” sottoscritta dal Cliente e agli allegati in essa richiamati le condizioni di fornitura presso il punto di prelievo. Esse sono riservate alle utenze di tipo Domestico con fornitura in bassa tensione che abbiano deciso di acquistare energia elettrica alle condizioni proposte da Cogeser Energia S.r.l.. Le CTE integrano le Condizioni Generali di Fornitura, e in caso di contrasto, prevalgono su queste ultime.</DESCRIZIONE>
+            <LIMITANTE>02</LIMITANTE>
+        </CondizioniContrattuali>
+        <CondizioniContrattuali>
+            <TIPOLOGIA_CONDIZIONE>03</TIPOLOGIA_CONDIZIONE>
+            <DESCRIZIONE>Per cessare la fornitura occorre firmare la disdetta, indicando in particolare: codice cliente e indirizzo della fornitura; nuovo indirizzo e numero telefonico; coordinate bancarie per eventuale rimborso. La disdetta puo' essere effettuata via email a clienti@cogeser.it o in alternativa direttamente presso i Cogeser Point negli orari di apertura al pubblico. La cessazione fornitura puo' essere richiesta anche da un delegato dell’intestatario, munito di delega scritta e di copia di un documento d’identita' del delegante. Per passare ad altro operatore, mantenendo attivo il contatore, non serve comunicazione.</DESCRIZIONE>
+            <LIMITANTE>02</LIMITANTE>
+        </CondizioniContrattuali>
+        <ZoneOfferta>
+            <REGIONE>08</REGIONE>
+            <REGIONE>07</REGIONE>
+            <REGIONE>03</REGIONE>
+            <REGIONE>01</REGIONE>
+            <REGIONE>05</REGIONE>
+            <REGIONE>13</REGIONE>
+            <REGIONE>17</REGIONE>
+            <REGIONE>18</REGIONE>
+            <REGIONE>15</REGIONE>
+            <REGIONE>12</REGIONE>
+            <REGIONE>11</REGIONE>
+            <REGIONE>14</REGIONE>
+            <REGIONE>16</REGIONE>
+            <REGIONE>09</REGIONE>
+            <REGIONE>10</REGIONE>
+            <REGIONE>20</REGIONE>
+        </ZoneOfferta>
+    </offerta></ListaOfferteMercatoLibero>

@@ -1,0 +1,32 @@
+{
+  "observedAt": "2026-10-29T22:15:32.967986+00:00",
+  "controls": [
+    {
+      "band": "F1",
+      "observedSales": "777.70",
+      "sha256": "8e3050bc1e3c80d150def8e0411c3c69b411baaadb5b034cc63d90bc8b77c226",
+      "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page"
+    },
+    {
+      "band": "F2",
+      "observedSales": "814.65",
+      "sha256": "b75a738456c3aec0981e8b1a1a5d3fe2550dc047b660385c6771253f5b7660e4",
+      "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page"
+    },
+    {
+      "band": "F3",
+      "observedSales": "721.70",
+      "sha256": "6993957652621d86390a12000f7285e6961e17db5da44ca5a4e960bc6fb682af",
+      "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page"
+    }
+  ],
+  "mixedProfile": {
+    "bands": [
+      "990",
+      "930",
+      "1080"
+    ],
+    "sale": "769.00"
+  },
+  "qualification": "PE source05 when no tutela04 discount applies: standard PUN baseline in the source bands; no zero assigned to ONFIN/FUNZAU"
+}

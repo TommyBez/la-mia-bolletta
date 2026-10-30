@@ -1,0 +1,53 @@
+{
+  "source": "official public simulator; synthetic 3kW resident Pescara990/930/1080kWh",
+  "observedAt": "2026-10-29T22:12:12.239028+00:00",
+  "records": [
+    {
+      "commodity": "electricity",
+      "quarter": "2026-Q4",
+      "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+      "observedAt": "2026-10-29T22:12:12.239028+00:00",
+      "sha256": "a9a7a4a78dca244fc07442a42b010afb0520607df45eb5f6597ff00ab4c2b8d6",
+      "code": "PPE",
+      "value": "-0.010270",
+      "unit": "EUR/kWh"
+    },
+    {
+      "commodity": "electricity",
+      "quarter": "2026-Q4",
+      "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+      "observedAt": "2026-10-29T22:12:12.239028+00:00",
+      "sha256": "a7093138a08d9aab99fbac93df78e98c88ecc3c4657a79ad176d5540c6c98337",
+      "code": "PD",
+      "band": "F1",
+      "value": "0.017730",
+      "unit": "EUR/kWh"
+    },
+    {
+      "commodity": "electricity",
+      "quarter": "2026-Q4",
+      "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/it/dettaglio_offerta_ml.page",
+      "observedAt": "2026-10-29T22:12:12.239028+00:00",
+      "sha256": "a7093138a08d9aab99fbac93df78e98c88ecc3c4657a79ad176d5540c6c98337",
+      "code": "PD",
+      "band": "F23",
+      "value": "0.017730",
+      "unit": "EUR/kWh"
+    },
+    {
+      "commodity": "electricity",
+      "code": "PCV",
+      "quarter": "2026-Q4",
+      "value": "41.180000",
+      "unit": "EUR/year",
+      "sourceUrl": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametriML/2026_10/PO_Parametri_Mercato_Libero_E_20261029.csv",
+      "observedAt": "2026-10-29T22:12:12.239028+00:00",
+      "sha256": "801bb798d551656be3e7e9db45431d81fc0bb5df147dfb4f94b722e577e639d0"
+    }
+  ],
+  "missing": [
+    "ONFIN",
+    "FUNZAU"
+  ],
+  "note": "No zero inferred. Source quarter is regulatory effectiveness, not an independently recovered forecast."
+}

@@ -1,0 +1,273 @@
+{
+  "C1D": {
+    "index_mean_interval_from_senza": [
+      "0.8327925",
+      "0.832795"
+    ],
+    "shared_index_mean_interval_all_observations": [
+      "0.8327934921467644521138912856",
+      "0.8327949550727272727272727273"
+    ],
+    "independent_zero_flex_control": {
+      "smc": 1200,
+      "sale": "1173.35",
+      "implicit_index_interval": [
+        "0.8327875",
+        "0.8327958333333333333333333333"
+      ]
+    },
+    "note": "This is an implicit weighted annual mean, not an official forward curve. Interval upper bounds are exclusive.",
+    "rows": [
+      {
+        "smc": 500,
+        "selected_months": [],
+        "spread_residual": "0",
+        "pn_observed": "536.40",
+        "senza_observed": "600.40",
+        "pn_prediction_min_from_senza": "536.40",
+        "pn_prediction_max_from_senza": "536.40",
+        "compatible_with_senza_index_interval": true,
+        "pn_reproduced_with_shared_mean": "536.40"
+      },
+      {
+        "smc": 1000,
+        "selected_months": [],
+        "spread_residual": "0",
+        "pn_observed": "952.79",
+        "senza_observed": "1056.79",
+        "pn_prediction_min_from_senza": "952.79",
+        "pn_prediction_max_from_senza": "952.80",
+        "compatible_with_senza_index_interval": true,
+        "pn_reproduced_with_shared_mean": "952.79"
+      },
+      {
+        "smc": 1001,
+        "selected_months": [],
+        "spread_residual": "0",
+        "pn_observed": "953.63",
+        "senza_observed": null,
+        "pn_prediction_min_from_senza": "953.63",
+        "pn_prediction_max_from_senza": "953.63",
+        "compatible_with_senza_index_interval": true,
+        "pn_reproduced_with_shared_mean": "953.63"
+      },
+      {
+        "smc": 1100,
+        "selected_months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "spread_residual": "7.62054942000",
+        "pn_observed": "1043.69",
+        "senza_observed": null,
+        "pn_prediction_min_from_senza": "1043.69",
+        "pn_prediction_max_from_senza": "1043.70",
+        "compatible_with_senza_index_interval": true,
+        "pn_reproduced_with_shared_mean": "1043.69"
+      },
+      {
+        "smc": 1157,
+        "selected_months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "spread_residual": "8.01543243540",
+        "pn_observed": "1091.56",
+        "senza_observed": null,
+        "pn_prediction_min_from_senza": "1091.56",
+        "pn_prediction_max_from_senza": "1091.56",
+        "compatible_with_senza_index_interval": true,
+        "pn_reproduced_with_shared_mean": "1091.56"
+      },
+      {
+        "smc": 1159,
+        "selected_months": [
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "spread_residual": "23.40734260190",
+        "pn_observed": "1108.62",
+        "senza_observed": "1201.93",
+        "pn_prediction_min_from_senza": "1108.61",
+        "pn_prediction_max_from_senza": "1108.62",
+        "compatible_with_senza_index_interval": true,
+        "pn_reproduced_with_shared_mean": "1108.62"
+      },
+      {
+        "smc": 1200,
+        "selected_months": [
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "spread_residual": "24.23538492000",
+        "pn_observed": "1143.59",
+        "senza_observed": "1239.35",
+        "pn_prediction_min_from_senza": "1143.59",
+        "pn_prediction_max_from_senza": "1143.59",
+        "compatible_with_senza_index_interval": true,
+        "pn_reproduced_with_shared_mean": "1143.59"
+      },
+      {
+        "smc": 1400,
+        "selected_months": [
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "spread_residual": "28.27461574000",
+        "pn_observed": "1314.19",
+        "senza_observed": "1421.91",
+        "pn_prediction_min_from_senza": "1314.18",
+        "pn_prediction_max_from_senza": "1314.19",
+        "compatible_with_senza_index_interval": true,
+        "pn_reproduced_with_shared_mean": "1314.19"
+      },
+      {
+        "smc": 1422,
+        "selected_months": [
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "spread_residual": "28.71893113020",
+        "pn_observed": "1332.95",
+        "senza_observed": null,
+        "pn_prediction_min_from_senza": "1332.95",
+        "pn_prediction_max_from_senza": "1332.95",
+        "compatible_with_senza_index_interval": true,
+        "pn_reproduced_with_shared_mean": "1332.95"
+      },
+      {
+        "smc": 1424,
+        "selected_months": [
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "spread_residual": "55.73481389600",
+        "pn_observed": "1361.63",
+        "senza_observed": null,
+        "pn_prediction_min_from_senza": "1361.63",
+        "pn_prediction_max_from_senza": "1361.63",
+        "compatible_with_senza_index_interval": true,
+        "pn_reproduced_with_shared_mean": "1361.63"
+      },
+      {
+        "smc": 1500,
+        "selected_months": [
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "spread_residual": "58.70942475000",
+        "pn_observed": "1427.90",
+        "senza_observed": null,
+        "pn_prediction_min_from_senza": "1427.90",
+        "pn_prediction_max_from_senza": "1427.90",
+        "compatible_with_senza_index_interval": true,
+        "pn_reproduced_with_shared_mean": "1427.90"
+      },
+      {
+        "smc": 2000,
+        "selected_months": [
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "spread_residual": "78.27923300000",
+        "pn_observed": "1863.87",
+        "senza_observed": "1969.59",
+        "pn_prediction_min_from_senza": "1863.86",
+        "pn_prediction_max_from_senza": "1863.87",
+        "compatible_with_senza_index_interval": true,
+        "pn_reproduced_with_shared_mean": "1863.87"
+      }
+    ]
+  },
+  "C2": {
+    "index_mean_interval_from_senza": [
+      "0.7611958333333333333333333333",
+      "0.7612041666666666666666666667"
+    ],
+    "shared_index_mean_interval_all_observations": [
+      "0.7611958333333333333333333333",
+      "0.76120373570"
+    ],
+    "independent_zero_flex_control": {
+      "smc": 1200,
+      "sale": "1087.44",
+      "implicit_index_interval": [
+        "0.7611958333333333333333333333",
+        "0.7612041666666666666666666667"
+      ]
+    },
+    "note": "This is an implicit weighted annual mean, not an official forward curve. Interval upper bounds are exclusive.",
+    "rows": [
+      {
+        "smc": 1200,
+        "selected_months": [
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "spread_residual": "22.24051716000",
+        "pn_observed": "1055.68",
+        "senza_observed": "1153.44",
+        "pn_prediction_min_from_senza": "1055.68",
+        "pn_prediction_max_from_senza": "1055.69",
+        "compatible_with_senza_index_interval": true,
+        "pn_reproduced_with_shared_mean": "1055.68"
+      }
+    ]
+  }
+}

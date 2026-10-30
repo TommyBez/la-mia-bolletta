@@ -1,0 +1,200 @@
+[
+  {
+    "region_code": "01",
+    "region": "Piemonte",
+    "town": "Torino",
+    "istat": "001272"
+  },
+  {
+    "region_code": "02",
+    "region": "Valle d Aosta",
+    "town": "Aosta",
+    "istat": "007003"
+  },
+  {
+    "region_code": "03",
+    "region": "Lombardia",
+    "town": "Milano",
+    "istat": "015146"
+  },
+  {
+    "region_code": "04",
+    "region": "Trentino Alto Adige",
+    "town": "Trento",
+    "istat": "022205"
+  },
+  {
+    "region_code": "04",
+    "region": "Trentino Alto Adige",
+    "town": "Bolzano",
+    "istat": "021008"
+  },
+  {
+    "region_code": "05",
+    "region": "Veneto",
+    "town": "Venezia",
+    "istat": "027042"
+  },
+  {
+    "region_code": "06",
+    "region": "Friuli Venezia Giulia",
+    "town": "Trieste",
+    "istat": "032006"
+  },
+  {
+    "region_code": "07",
+    "region": "Liguria",
+    "town": "Genova",
+    "istat": "010025"
+  },
+  {
+    "region_code": "08",
+    "region": "Emilia Romagna",
+    "town": "Bologna",
+    "istat": "037006"
+  },
+  {
+    "region_code": "09",
+    "region": "Toscana",
+    "town": "Firenze",
+    "istat": "048017"
+  },
+  {
+    "region_code": "10",
+    "region": "Umbria",
+    "town": "Perugia",
+    "istat": "054039"
+  },
+  {
+    "region_code": "11",
+    "region": "Marche",
+    "town": "Ancona",
+    "istat": "042002"
+  },
+  {
+    "region_code": "12",
+    "region": "Lazio",
+    "town": "Roma",
+    "istat": "058091"
+  },
+  {
+    "region_code": "13",
+    "region": "Abruzzo",
+    "town": "Pescara",
+    "istat": "068028"
+  },
+  {
+    "region_code": "14",
+    "region": "Molise",
+    "town": "Campobasso",
+    "istat": "070006"
+  },
+  {
+    "region_code": "15",
+    "region": "Campania",
+    "town": "Napoli",
+    "istat": "063049"
+  },
+  {
+    "region_code": "16",
+    "region": "Puglia",
+    "town": "Bari",
+    "istat": "072006"
+  },
+  {
+    "region_code": "17",
+    "region": "Basilicata",
+    "town": "Potenza",
+    "istat": "076063"
+  },
+  {
+    "region_code": "18",
+    "region": "Calabria",
+    "town": "Catanzaro",
+    "istat": "079023"
+  },
+  {
+    "region_code": "19",
+    "region": "Sicilia",
+    "town": "Palermo",
+    "istat": "082053"
+  },
+  {
+    "region_code": "20",
+    "region": "Sardegna",
+    "town": "Cagliari",
+    "istat": "092009"
+  },
+  {
+    "region_code": "12",
+    "region": "Lazio",
+    "town": "Latina",
+    "istat": "059011"
+  },
+  {
+    "region_code": "12",
+    "region": "Lazio",
+    "town": "Frosinone",
+    "istat": "060038"
+  },
+  {
+    "region_code": "12",
+    "region": "Lazio",
+    "town": "Rieti",
+    "istat": "057059"
+  },
+  {
+    "region_code": "12",
+    "region": "Lazio",
+    "town": "Cittaducale",
+    "istat": "057016"
+  },
+  {
+    "region_code": "13",
+    "region": "Abruzzo",
+    "town": "L'Aquila",
+    "istat": "066049"
+  },
+  {
+    "region_code": "07",
+    "region": "Liguria",
+    "town": "Sassello",
+    "istat": "009055"
+  },
+  {
+    "region_code": "11",
+    "region": "Marche",
+    "town": "Ascoli Piceno",
+    "istat": "044007"
+  },
+  {
+    "region_code": "07",
+    "region": "Liguria",
+    "town": "Santo Stefano d'Aveto",
+    "istat": "010056"
+  },
+  {
+    "region_code": "12",
+    "region": "Lazio",
+    "town": "Anzio",
+    "istat": "058007"
+  },
+  {
+    "region_code": "12",
+    "region": "Lazio",
+    "town": "Nettuno",
+    "istat": "058072"
+  },
+  {
+    "region_code": "12",
+    "region": "Lazio",
+    "town": "Viterbo",
+    "istat": "056059"
+  },
+  {
+    "region_code": "09",
+    "region": "Toscana",
+    "town": "Portoferraio",
+    "istat": "049014"
+  }
+]

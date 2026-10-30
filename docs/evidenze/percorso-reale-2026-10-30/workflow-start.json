@@ -1,0 +1,18 @@
+{
+  "checkedAt": "2026-10-29T23:29:02.522Z",
+  "environment": "protected Vercel Preview",
+  "baseUrl": "https://la-mia-bolletta-8bumk8krn-tommasos-projects-bb9d6551.vercel.app",
+  "productionCronVerified": false,
+  "results": [
+    {
+      "commodity": "electricity",
+      "workflowRunId": "wrun_41M64ZXNAS50YX6MXDKFG82X36",
+      "state": "started"
+    },
+    {
+      "commodity": "gas",
+      "workflowRunId": "wrun_41M64ZXNAS50YX6MXDKFG82X35",
+      "state": "started"
+    }
+  ]
+}

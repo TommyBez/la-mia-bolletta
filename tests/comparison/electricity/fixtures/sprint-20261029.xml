@@ -1,0 +1,176 @@
+<ListaOfferteMercatoLibero><offerta>
+        <IdentificativiOfferta>
+            <PIVA_UTENTE>02479770469</PIVA_UTENTE>
+            <COD_OFFERTA>027095ESVML02XXLUCESPRINTIGL0426</COD_OFFERTA>
+        </IdentificativiOfferta>
+        <DettaglioOfferta>
+            <TIPO_MERCATO>01</TIPO_MERCATO>
+            <OFFERTA_SINGOLA>SI</OFFERTA_SINGOLA>
+            <TIPO_CLIENTE>01</TIPO_CLIENTE>
+            <TIPO_OFFERTA>02</TIPO_OFFERTA>
+            <TIPOLOGIA_ATT_CONTR>01</TIPOLOGIA_ATT_CONTR>
+            <TIPOLOGIA_ATT_CONTR>02</TIPOLOGIA_ATT_CONTR>
+            <TIPOLOGIA_ATT_CONTR>03</TIPOLOGIA_ATT_CONTR>
+            <NOME_OFFERTA>Offerta Luce Sprint Monoraria</NOME_OFFERTA>
+            <DESCRIZIONE>Offerta Luce Sprint riservata ai clienti domestici, l'offerta prevede la fornitura di energia elettrica proveniente al 100% da fonti rinnovabili</DESCRIZIONE>
+            <DURATA>-1</DURATA>
+            <GARANZIE>Nessuna garanzia richiesta</GARANZIE>
+            <ModalitaAttivazione>
+                <MODALITA>02</MODALITA>
+            </ModalitaAttivazione>
+            <Contatti>
+                <TELEFONO>05841812074</TELEFONO>
+                <URL_SITO_VENDITORE>https://italiagaseluce.it/</URL_SITO_VENDITORE>
+                <URL_OFFERTA>https://www.italiagaseluce.it/luce-sprint-mono/</URL_OFFERTA>
+            </Contatti>
+        </DettaglioOfferta>
+        <RiferimentiPrezzoEnergia>
+            <IDX_PREZZO_ENERGIA>12</IDX_PREZZO_ENERGIA>
+        </RiferimentiPrezzoEnergia>
+        <ValiditaOfferta>
+            <DATA_INIZIO>03/06/2026_08:08:01</DATA_INIZIO>
+            <DATA_FINE>05/12/2026_23:59:59</DATA_FINE>
+        </ValiditaOfferta>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>03</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>02</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>01</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <TipoPrezzo>
+            <TIPOLOGIA_FASCE>01</TIPOLOGIA_FASCE>
+        </TipoPrezzo>
+        <Dispacciamento>
+            <TIPO_DISPACCIAMENTO>14</TIPO_DISPACCIAMENTO>
+            <NOME>Cdispd</NOME>
+        </Dispacciamento>
+        <ComponenteImpresa>
+            <NOME>Contributo al consumo alpha</NOME>
+            <DESCRIZIONE>Spesa dipendente dal consumo pari a 0,245 euro/kWh</DESCRIZIONE>
+            <TIPOLOGIA>01</TIPOLOGIA>
+            <MACROAREA>06</MACROAREA>
+            <IntervalloPrezzi>
+                <FASCIA_COMPONENTE>01</FASCIA_COMPONENTE>
+                <PREZZO>0.245</PREZZO>
+                <UNITA_MISURA>03</UNITA_MISURA>
+            </IntervalloPrezzi>
+        </ComponenteImpresa>
+        <ComponenteImpresa>
+            <NOME>Costo di Commercializzazione Fisso</NOME>
+            <DESCRIZIONE>Spesa fissa invariabile 84 EURO annui, ripartita su base mensile</DESCRIZIONE>
+            <TIPOLOGIA>01</TIPOLOGIA>
+            <MACROAREA>01</MACROAREA>
+            <IntervalloPrezzi>
+                <PREZZO>84</PREZZO>
+                <UNITA_MISURA>01</UNITA_MISURA>
+            </IntervalloPrezzi>
+        </ComponenteImpresa>
+        <CondizioniContrattuali>
+            <TIPOLOGIA_CONDIZIONE>99</TIPOLOGIA_CONDIZIONE>
+            <ALTRO>Tipologia Cliente</ALTRO>
+            <DESCRIZIONE>Contratto riservato ai nuovi Clienti domestici di IGL</DESCRIZIONE>
+            <LIMITANTE>02</LIMITANTE>
+        </CondizioniContrattuali>
+        <Sconto>
+            <NOME>Sconto primo mese</NOME>
+            <DESCRIZIONE>Sconto di 0.175 € al kWh per il primo mese di fornitura</DESCRIZIONE>
+            <VALIDITA>02</VALIDITA>
+            <IVA_SCONTO>01</IVA_SCONTO>
+            <PeriodoValidita>
+                <DURATA>1</DURATA>
+            </PeriodoValidita>
+            <Condizione>
+                <CONDIZIONE_APPLICAZIONE>00</CONDIZIONE_APPLICAZIONE>
+            </Condizione>
+            <PrezziSconto>
+                <TIPOLOGIA>03</TIPOLOGIA>
+                <UNITA_MISURA>03</UNITA_MISURA>
+                <PREZZO>0.175</PREZZO>
+            </PrezziSconto>
+        </Sconto>
+        <Sconto>
+            <NOME>Sconto secondo mese</NOME>
+            <DESCRIZIONE>Sconto di 0.145 € al kWh per il secondo  mese di fornitura</DESCRIZIONE>
+            <VALIDITA>02</VALIDITA>
+            <IVA_SCONTO>01</IVA_SCONTO>
+            <PeriodoValidita>
+                <DURATA>1</DURATA>
+            </PeriodoValidita>
+            <Condizione>
+                <CONDIZIONE_APPLICAZIONE>00</CONDIZIONE_APPLICAZIONE>
+            </Condizione>
+            <PrezziSconto>
+                <TIPOLOGIA>03</TIPOLOGIA>
+                <UNITA_MISURA>03</UNITA_MISURA>
+                <PREZZO>0.145</PREZZO>
+            </PrezziSconto>
+        </Sconto>
+        <Sconto>
+            <NOME>Sconto terzo mese</NOME>
+            <DESCRIZIONE>Sconto di 0.12 € al kWh per il terzo mese di fornitura</DESCRIZIONE>
+            <VALIDITA>02</VALIDITA>
+            <IVA_SCONTO>01</IVA_SCONTO>
+            <PeriodoValidita>
+                <DURATA>1</DURATA>
+            </PeriodoValidita>
+            <Condizione>
+                <CONDIZIONE_APPLICAZIONE>00</CONDIZIONE_APPLICAZIONE>
+            </Condizione>
+            <PrezziSconto>
+                <TIPOLOGIA>03</TIPOLOGIA>
+                <UNITA_MISURA>03</UNITA_MISURA>
+                <PREZZO>0.12</PREZZO>
+            </PrezziSconto>
+        </Sconto>
+        <Sconto>
+            <NOME>Sconto dal quarto al sesto mese</NOME>
+            <DESCRIZIONE>Sconto di 0.1 € al kWh dal quarto al sesto mese di fornitura</DESCRIZIONE>
+            <VALIDITA>02</VALIDITA>
+            <IVA_SCONTO>01</IVA_SCONTO>
+            <PeriodoValidita>
+                <DURATA>3</DURATA>
+            </PeriodoValidita>
+            <Condizione>
+                <CONDIZIONE_APPLICAZIONE>00</CONDIZIONE_APPLICAZIONE>
+            </Condizione>
+            <PrezziSconto>
+                <TIPOLOGIA>03</TIPOLOGIA>
+                <UNITA_MISURA>03</UNITA_MISURA>
+                <PREZZO>0.1</PREZZO>
+            </PrezziSconto>
+        </Sconto>
+        <Sconto>
+            <NOME>Sconto dodicesimo mese</NOME>
+            <DESCRIZIONE>Sconti in base al consumo, per ogni kwh di consumo oltre i 3000 kwh non sarà applicato alcuno sconto</DESCRIZIONE>
+            <VALIDITA>02</VALIDITA>
+            <IVA_SCONTO>01</IVA_SCONTO>
+            <Condizione>
+                <CONDIZIONE_APPLICAZIONE>00</CONDIZIONE_APPLICAZIONE>
+            </Condizione>
+            <PrezziSconto>
+                <TIPOLOGIA>03</TIPOLOGIA>
+                <VALIDO_DA>0</VALIDO_DA>
+                <VALIDO_FINO>1000</VALIDO_FINO>
+                <UNITA_MISURA>03</UNITA_MISURA>
+                <PREZZO>0.25</PREZZO>
+            </PrezziSconto>
+            <PrezziSconto>
+                <TIPOLOGIA>03</TIPOLOGIA>
+                <VALIDO_DA>1001</VALIDO_DA>
+                <VALIDO_FINO>1500</VALIDO_FINO>
+                <UNITA_MISURA>03</UNITA_MISURA>
+                <PREZZO>0.167</PREZZO>
+            </PrezziSconto>
+            <PrezziSconto>
+                <TIPOLOGIA>03</TIPOLOGIA>
+                <VALIDO_DA>1501</VALIDO_DA>
+                <VALIDO_FINO>3000</VALIDO_FINO>
+                <UNITA_MISURA>03</UNITA_MISURA>
+                <PREZZO>0.165</PREZZO>
+            </PrezziSconto>
+        </Sconto>
+    </offerta>
+    </ListaOfferteMercatoLibero>

@@ -1,0 +1,15 @@
+{
+  "profile": "C1 D",
+  "municipality": {
+    "portalCode": "008001",
+    "name": "Airole"
+  },
+  "offerCode": "020237GSVML01XX0FLEXHOMEGASLIGHT",
+  "volume": "481",
+  "predictedSales": "699.26",
+  "predictedVat": "124.13",
+  "predictedTotal": "1105.66",
+  "totalBound": "0.01606380312501236",
+  "vatBound": "0.01609347269467436",
+  "predictedAt": "2026-10-29T23:08:45.293Z"
+}

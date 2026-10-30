@@ -1,0 +1,33 @@
+{
+  "checkedAt": "2026-10-29T23:28:54.277Z",
+  "baseUrl": "https://la-mia-bolletta-8bumk8krn-tommasos-projects-bb9d6551.vercel.app",
+  "status": "passed",
+  "commodity": "electricity",
+  "profile": "public synthetic 2700 kWh, Pescara, 3 kW, resident",
+  "versions": {
+    "catalog": "0836a638a592e09872f8a02e5c06aca7ac0e05a843b549509c8ea3adec3dffee",
+    "references": "7e3a24a442efa8fa495b3a0cd8728ba6e4a3b279fb8fbaccc7f2116b79b45849",
+    "parameters": "35c4b357d98e9e4ae92e11ab25ee83f04dc5f369aeb04e4e337ed488f66ceeef",
+    "scenario": "ebd4bc56f1c45cad350a52dcf459a521bfe76bcf7fefd1c303816a1953b7cf04",
+    "method": "portal-v4.2-project-v2"
+  },
+  "coverage": {
+    "source": "official_portal",
+    "complete": true,
+    "considered": 1872,
+    "excluded": {
+      "dual_fuel": 33,
+      "not_switch": 25,
+      "non_domestic": 1672,
+      "profile_ineligible": 213
+    }
+  },
+  "pagination": {
+    "offset": 0,
+    "limit": 20,
+    "eligibleTotal": 1291,
+    "conditionalTotal": 368
+  },
+  "equalFields": "all except calculation timestamp",
+  "source": "live published data; no fixture fallback"
+}

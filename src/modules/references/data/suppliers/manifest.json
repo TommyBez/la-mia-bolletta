@@ -1,0 +1,795 @@
+{
+  "sourcePage": "https://www.arera.it/area-operatori/ricerca-operatori",
+  "observedAt": "2026-10-29T22:41:36Z",
+  "sources": [
+    {
+      "url": "https://www.arera.it/fileadmin/ricercaoperatori/export-mercato-vend29_10_2026_09_35_02.zip",
+      "sha256": "7bf485b23c070fad747aaca9ee4c7be412a9f6e91ee11a3db07d12e4272000e9",
+      "file": "raw/export-mercato-vend29_10_2026_09_35_02.zip"
+    },
+    {
+      "url": "https://www.arera.it/fileadmin/ricercaoperatori/export-gas-vend29_10_2026_09_30_02.zip",
+      "sha256": "8fafd12b112563af073ff45c85ac0aeed394ec0233a1fc9a131ea661c5df4e8c",
+      "file": "raw/export-gas-vend29_10_2026_09_30_02.zip"
+    },
+    {
+      "url": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sha256": "9fe72657d1764be5e99b44a27f83a82796348a8179835e12cfba970bdae1d7cf",
+      "file": "raw/operatori-export-29_10_2026_09_00_08.zip"
+    }
+  ],
+  "supplierCount": 814,
+  "requiredCatalogVats": 347,
+  "unresolvedRequiredVats": [
+    "03882060712"
+  ],
+  "ambiguous": [],
+  "invalid": [
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/export-gas-vend29_10_2026_09_30_02.zip",
+      "sourceVat": "SI51503581",
+      "sourceName": "Geoplin d.o.o. Ljubljana"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/export-gas-vend29_10_2026_09_30_02.zip",
+      "sourceVat": "CHE-309.541.427TVA",
+      "sourceName": "TotalEnergies Gas & Power Limited, London, Meyrin-Geneva Branch"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "B56497183",
+      "sourceName": "AGROCOLARIA ONLINE SL"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE491143776",
+      "sourceName": "AGV ENERGY"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE301206830",
+      "sourceName": "Alpine Energy Partners SA"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE282002070",
+      "sourceName": "Alpiq AG"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE116300543MWST",
+      "sourceName": "AOT Energy Switzerland Ltd"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "LU24894310",
+      "sourceName": "ArcelorMittal Energy SCA"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "IE4257005IH",
+      "sourceName": "ATLAS ENERGY DAC"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "ESA62338827",
+      "sourceName": "AUDAX RENOVABLES S.A."
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "B93340917",
+      "sourceName": "Aurora 2021 Sociedad Limitada"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "FR39847514908",
+      "sourceName": "AXEGAZ TRADING AND TECHNOLOGIES"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE 105.779.348 MWST",
+      "sourceName": "Axpo Solutions AG"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE-108.954.547 IVA",
+      "sourceName": "Azienda Elettrica Ticinese"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE105969920IV",
+      "sourceName": "Aziende Industriali di Lugano (AIL) SA"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "GB 24 38 52 262",
+      "sourceName": "Banca"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "NESSUNAAA",
+      "sourceName": "Bara kane"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE217542730",
+      "sourceName": "BETEL SA"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE-103.258.498 MWST",
+      "sourceName": "BKW Energie AG"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "GB365678995",
+      "sourceName": "BP Gas Marketing"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "PL7011271930",
+      "sourceName": "Bream Trading Sp. z o.o."
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "NL8135.32.358.B.01",
+      "sourceName": "Brightfield Trading B.V."
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "B02639953",
+      "sourceName": "CASTOR COMBUSTIBLES"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "GB684966762",
+      "sourceName": "CENTRICA ENERGY LIMITED"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "DK20293195",
+      "sourceName": "Centrica Energy Trading A/S"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CZ45274649",
+      "sourceName": "CEZ, a. s."
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "IE3686266AH",
+      "sourceName": "CFP Commodities Limited"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "AE100491567200003",
+      "sourceName": "Cobblestone Energy DMCC"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "004562200060",
+      "sourceName": "COMUNE DI CASTELLETTO MERLI"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "017340020017",
+      "sourceName": "COMUNE DI SAN SEBASTIANO DA PO"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "HR76011767004",
+      "sourceName": "D. TRADING d.o.o."
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "DK 28 11 39 51",
+      "sourceName": "Danske Commodities A/S"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "GB-243-609761",
+      "sourceName": "Deutsche Bank AG London Branch"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE105222146IVA",
+      "sourceName": "DXT Commodities SA"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "ATU 48685800",
+      "sourceName": "e&t Energiehandelsgesellschaft m.b.H."
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "DE326239302",
+      "sourceName": "E.ON Energy Markets"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE435941661",
+      "sourceName": "EC Energy Clean SA"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "GB 735 5479 07",
+      "sourceName": "EDF TRADING LIMITED"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "IE9783448U",
+      "sourceName": "Electroroute Energy Trading Limited"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE277161030",
+      "sourceName": "Elmetigas"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "RO46484448",
+      "sourceName": "EMA GAS TRADE S.R.L."
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "DE812334050",
+      "sourceName": "EnBW Energie Baden-Württemberg AG"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "EL998380210",
+      "sourceName": "ENER   S.A."
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE219858730",
+      "sourceName": "ENERG POWER AG"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "MT22814101",
+      "sourceName": "Energy Commodities Trading Limited"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE110154266",
+      "sourceName": "Energy Financing Team (Switzerland) AG"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE225644344",
+      "sourceName": "ENERGY TRADE GP SA"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "NL864999343B01",
+      "sourceName": "Enerjisa Commodities B.V."
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "EL999717970",
+      "sourceName": "Enerwave Societe Anonyme"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE273382767",
+      "sourceName": "ENET Energy SA"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "DE815824732",
+      "sourceName": "Engelhart CTP Renewables GmbH"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "FR13542107651",
+      "sourceName": "ENGIE SA"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CZ03437680",
+      "sourceName": "EP Commodities"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "NO923609016",
+      "sourceName": "Equinor ASA"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "MT23287936",
+      "sourceName": "Erdal Trading Ltd"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "EE101731427",
+      "sourceName": "ERTENERGY OÜ"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "ATU74850226",
+      "sourceName": "ERU Europe GmbH"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "GI116604",
+      "sourceName": "EVANSVILLE LTD"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "HU26100227",
+      "sourceName": "EXCEL ENERGY HOLDING KFT"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "GB239088635",
+      "sourceName": "ExxonMobil Gas Marketing Europe Limited"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE-110.624.390MWST",
+      "sourceName": "EZPADA AG"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE109855126",
+      "sourceName": "Flame SA"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "GI112511",
+      "sourceName": "FRENCH CREEK PROPERTIES LTD"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "GI118912",
+      "sourceName": "GAILEY HOLDINGS LTD"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "SI71345442",
+      "sourceName": "GEN-I d.o.o."
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "SI51503581",
+      "sourceName": "Geoplin d.o.o. Ljubljana"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "B84196997",
+      "sourceName": "GNERA ENERGIA Y TECNOLOGIA SL"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE230237594",
+      "sourceName": "GO SWISS POWER"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "GB153544123",
+      "sourceName": "GREEN NETWORK UK"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE-169.699.433IVA",
+      "sourceName": "GROWING POWER SA"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE-181.900.362 TVA",
+      "sourceName": "Gunvor International B.V., Amsterdam, Geneva Branch"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "DK41622296",
+      "sourceName": "Helios Power Trading A/S"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "SI99666189",
+      "sourceName": "HOLDING SLOVENSKE ELEKTRARNE d.o.o."
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "GI116592",
+      "sourceName": "HUTCHINSON HOLDINGS LTD"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "A95758371",
+      "sourceName": "IBERDROLA ENERGIA ESPAÑA, S.A.U."
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "DK38381954",
+      "sourceName": "In Commodities A/S"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "EAU00000000000",
+      "sourceName": "INTERCONTINENTAL COMMODITIES FZCO"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "1018600043786",
+      "sourceName": "INTERNATIONAL POWER GAS"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "IE619371",
+      "sourceName": "ITALPOWER TRADING & SHIPPING LTD"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "RO44102991",
+      "sourceName": "ITALPOWER.RO S.R.L."
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "SK2023162724",
+      "sourceName": "JAS Energy Trading s.r.o."
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE344445917",
+      "sourceName": "Kairo Gas & Power SA"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "ESB93548840",
+      "sourceName": "KATERINA 2025"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "GB341453969",
+      "sourceName": "Koch Commodities Europe Limited"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CH 112.980.714 MWST",
+      "sourceName": "Koch Supply & Trading Sarl"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "GI153415",
+      "sourceName": "LEVERWICK TRADING LIMITED (SRL)"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE-178.257.614",
+      "sourceName": "Lirenas GmbH"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE100738922",
+      "sourceName": "LITASCO SA"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE-405.904.477",
+      "sourceName": "MAX MINERALS TRADING SA"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "GB434960286",
+      "sourceName": "MCGAS"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE163448677",
+      "sourceName": "MDC Trade GmbH"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE116348521",
+      "sourceName": "Mercuria Energy Trading SA"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE-116.272.450MWST",
+      "sourceName": "MET INTERNATIONAL AG"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "DK38175130",
+      "sourceName": "MFT Energy A/S"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "DK17225898",
+      "sourceName": "Mind Energy A/S"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE-197.427.928IVA",
+      "sourceName": "Mira Energy SA"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "GB208153237",
+      "sourceName": "Mitsui Bussan Commodities Ltd"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "NL863162642B01",
+      "sourceName": "MITSUI BUSSAN GAS & POWER SOLUTIONS BV"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "HU_14763803",
+      "sourceName": "MOL Commodity Trading Limited Liability Company"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE471258086",
+      "sourceName": "NAJMAT FUTURES SA"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE227028392",
+      "sourceName": "Nial Consulting Sagl"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "DK38680781",
+      "sourceName": "Nitor Energy A/S"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE202664525",
+      "sourceName": "NORDBALANCE AG"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "DK41419849",
+      "sourceName": "Norlys Energy Trading A/S"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "NL852127777B01",
+      "sourceName": "Northpool B.V."
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE-113.939.430IVA",
+      "sourceName": "Nvalue SA"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "ATU54475900",
+      "sourceName": "OMV Gas Marketing & Trading GmbH"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE-213.536446MWST",
+      "sourceName": "Open Energy Platform AG"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE115772193",
+      "sourceName": "OPENLOGS SA"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CY10375510G",
+      "sourceName": "OZBOR ENTERPRISES LIMITED"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "ES-A88410493",
+      "sourceName": "Pavilion Energy Spain SAU"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "GB927136031",
+      "sourceName": "PetroChina International (London) Co., Limited"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "DSO-FZCO-20124",
+      "sourceName": "PLANCK ENERGY"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "DK36201770",
+      "sourceName": "Powermart ApS"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "LI60481",
+      "sourceName": "Powertica Commodities AG"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE-376-071-198IVA",
+      "sourceName": "PPD Global SA"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "GI111398",
+      "sourceName": "RATHANGAN LTD"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "ESB05470661",
+      "sourceName": "REA ENERGÍA S.L.U."
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "HU24189514",
+      "sourceName": "REAL PETROL HOLDING KFT"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CH116273260",
+      "sourceName": "Repower AG"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "PL1070001436",
+      "sourceName": "Respect Energy Fuels Sp. z o.o."
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "PL8762459238",
+      "sourceName": "Respect Energy S.A."
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CY18009154W",
+      "sourceName": "REXSTONE ENERGY INTERNATIONAL DMCC"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "DE813022070",
+      "sourceName": "RWE Supply & Trading GmbH"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "GB151693113",
+      "sourceName": "SCMI Limited"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE-154.481.776MWST",
+      "sourceName": "Second Foundation Trading AG"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "GB927405129",
+      "sourceName": "SEFE Marketing & Trading Limited"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "GB 235 7632 55 (146)",
+      "sourceName": "Shell Energy Europe Limited"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "ES-B64471048",
+      "sourceName": "SIBER WORLD SL"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CZ09270191",
+      "sourceName": "Sien ship s.r.o."
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE160518353IVA",
+      "sourceName": "Sirius Energy SA"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "SK2020259802",
+      "sourceName": "Slovenský plynárenský priemysel, a.s."
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE113990112",
+      "sourceName": "SOCAR Trading SA"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "FR42428766976",
+      "sourceName": "SOLVAY ENERGY SERVICES"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "DE204011192",
+      "sourceName": "Statkraft Markets GmbH"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE-463.317.717MWST",
+      "sourceName": "STG Switzerland GmbH"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "ESB04949384",
+      "sourceName": "TAUTRA ENERGIA"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE-309.541.427TVA",
+      "sourceName": "TotalEnergies Gas & Power Limited, London, Meyrin-Geneva Branch"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE94037761",
+      "sourceName": "Trafigura Trading (Europe)"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE226701401",
+      "sourceName": "Trasteel Energy SA"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE114985697",
+      "sourceName": "Trasteel International SA"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "GI709327",
+      "sourceName": "TYRION LIMITED"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "GB16176121",
+      "sourceName": "U.D.B. EUROPE LIMITED"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "DE 192205313",
+      "sourceName": "Uniper Global Commodities SE"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "DE813152937",
+      "sourceName": "Vattenfall Energy Trading GmbH"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "GB8539726545",
+      "sourceName": "Ventures Goals LTD"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "ATU45644600",
+      "sourceName": "VERBUND Energy4Business GmbH"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "ESB09819814",
+      "sourceName": "VIROQUE ENERGY, S.L."
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "NL851920573B01",
+      "sourceName": "Vitol Gas & Power B.V."
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CH 707.778",
+      "sourceName": "VITOL SA"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "DE272548903",
+      "sourceName": "VNG Handel & Vertrieb GmbH"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "IE4190320VH",
+      "sourceName": "Volta Energy Designated Activity Company"
+    },
+    {
+      "sourceUrl": "https://www.arera.it/fileadmin/ricercaoperatori/operatori-export-29_10_2026_09_00_08.zip",
+      "sourceVat": "CHE-116.343.713IVA",
+      "sourceName": "WORLDENERGY SA"
+    }
+  ],
+  "join": "Exact source VAT as string; leading zeros preserved; left-padding to11 only; legal names from official registry; no commercial-name inference"
+}

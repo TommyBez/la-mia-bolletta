@@ -1,0 +1,66 @@
+{
+  "method": "Unique compatible annual energy-sale profile using published AU gas profiles, independently recovered quarterly PSV, known fixed174 and spread0; no taxes used.",
+  "tolerance_eur": ".02",
+  "candidates_at_1200_smc": {
+    "C1 B": "1190.282230295810000000000000",
+    "C1 C": "1179.997817541390000000000000",
+    "C1 D": "1173.355616558150000000000000",
+    "C1 E": "1180.163272987900000000000000",
+    "C1 F": "1166.781583516260000000000000"
+  },
+  "results": [
+    {
+      "istat_code_used_by_portal": "022205",
+      "volume_smc": 1200.0,
+      "matches": [
+        {
+          "profile": "C1 F",
+          "predicted": "1166.781583516260000000000000",
+          "observed": "1166.78",
+          "residual": "-0.001583516260000000000000"
+        }
+      ],
+      "source_file": "portal-probes/022205/000971GSVML01XXPROD1300109202600-1200-RISC-type2.json"
+    },
+    {
+      "istat_code_used_by_portal": "022252",
+      "volume_smc": 600.0,
+      "matches": [
+        {
+          "profile": "C1 F",
+          "predicted": "670.3907917581300000000000000",
+          "observed": "670.39",
+          "residual": "-0.0007917581300000000000000"
+        }
+      ],
+      "source_file": "portal-probes/022252/000971GSVML01XXPROD1300109202600-600-RISC-type2.json"
+    },
+    {
+      "istat_code_used_by_portal": "022252",
+      "volume_smc": 1200.0,
+      "matches": [
+        {
+          "profile": "C1 F",
+          "predicted": "1166.781583516260000000000000",
+          "observed": "1166.78",
+          "residual": "-0.001583516260000000000000"
+        }
+      ],
+      "source_file": "portal-probes/022252/000971GSVML01XXPROD1300109202600-1200-RISC-type2.json"
+    },
+    {
+      "istat_code_used_by_portal": "024027",
+      "volume_smc": 1200.0,
+      "matches": [
+        {
+          "profile": "C1 E",
+          "predicted": "1180.163272987900000000000000",
+          "observed": "1180.16",
+          "residual": "-0.003272987900000000000000"
+        }
+      ],
+      "source_file": "portal-probes/024027/000971GSVML01XXPROD1300109202600-1200-RISC-type2.json"
+    }
+  ],
+  "note": "Inference of Portal calculation profile, not replacement of legal climatic classification. Borgo600 uses coefficients fixed independently before response reading."
+}

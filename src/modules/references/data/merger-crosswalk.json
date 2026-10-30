@@ -1,0 +1,146 @@
+[
+  {
+    "currentIstatCode": "005122",
+    "effectiveFrom": "2023-01-01",
+    "portalLocalities": [
+      {
+        "portalCode": "005079",
+        "portalName": "Moransengo"
+      },
+      {
+        "portalCode": "005110",
+        "portalName": "Tonengo"
+      }
+    ],
+    "relationship": "official_merger_preserving_original_localities",
+    "source": "https://www.istat.it/wp-content/uploads/2026/02/Novita-2026-2017-26febbraio2026.pdf",
+    "sourcePages": [
+      1,
+      2
+    ]
+  },
+  {
+    "currentIstatCode": "012144",
+    "effectiveFrom": "2023-01-01",
+    "portalLocalities": [
+      {
+        "portalCode": "012009",
+        "portalName": "Bardello"
+      },
+      {
+        "portalCode": "012095",
+        "portalName": "Malgesso"
+      },
+      {
+        "portalCode": "012018",
+        "portalName": "Bregano"
+      }
+    ],
+    "relationship": "official_merger_preserving_original_localities",
+    "source": "https://www.istat.it/wp-content/uploads/2026/02/Novita-2026-2017-26febbraio2026.pdf",
+    "sourcePages": [
+      1,
+      2
+    ]
+  },
+  {
+    "currentIstatCode": "013256",
+    "effectiveFrom": "2024-01-01",
+    "portalLocalities": [
+      {
+        "portalCode": "013228",
+        "portalName": "Uggiate-Trevano"
+      },
+      {
+        "portalCode": "013199",
+        "portalName": "Ronago"
+      }
+    ],
+    "relationship": "official_merger_preserving_original_localities",
+    "source": "https://www.istat.it/wp-content/uploads/2026/02/Novita-2026-2017-26febbraio2026.pdf",
+    "sourcePages": [
+      1,
+      2
+    ]
+  },
+  {
+    "currentIstatCode": "024128",
+    "effectiveFrom": "2024-01-22",
+    "portalLocalities": [
+      {
+        "portalCode": "024103",
+        "portalName": "Sovizzo"
+      },
+      {
+        "portalCode": "024044",
+        "portalName": "Gambugliano"
+      }
+    ],
+    "relationship": "official_merger_preserving_original_localities",
+    "source": "https://www.istat.it/wp-content/uploads/2026/02/Novita-2026-2017-26febbraio2026.pdf",
+    "sourcePages": [
+      1,
+      2
+    ]
+  },
+  {
+    "currentIstatCode": "024129",
+    "effectiveFrom": "2026-02-21",
+    "portalLocalities": [
+      {
+        "portalCode": "024027",
+        "portalName": "Castegnero"
+      },
+      {
+        "portalCode": "024071",
+        "portalName": "Nanto"
+      }
+    ],
+    "relationship": "official_merger_preserving_original_localities",
+    "source": "https://www.istat.it/wp-content/uploads/2026/02/Novita-2026-2017-26febbraio2026.pdf",
+    "sourcePages": [
+      1,
+      2
+    ]
+  },
+  {
+    "currentIstatCode": "025075",
+    "effectiveFrom": "2024-01-22",
+    "portalLocalities": [
+      {
+        "portalCode": "025070",
+        "portalName": "Quero Vas"
+      },
+      {
+        "portalCode": "025002",
+        "portalName": "Alano di Piave"
+      }
+    ],
+    "relationship": "official_merger_preserving_original_localities",
+    "source": "https://www.istat.it/wp-content/uploads/2026/02/Novita-2026-2017-26febbraio2026.pdf",
+    "sourcePages": [
+      1,
+      2
+    ]
+  },
+  {
+    "currentIstatCode": "028108",
+    "effectiveFrom": "2024-01-22",
+    "portalLocalities": [
+      {
+        "portalCode": "028098",
+        "portalName": "Vighizzolo d'Este"
+      },
+      {
+        "portalCode": "028022",
+        "portalName": "Carceri"
+      }
+    ],
+    "relationship": "official_merger_preserving_original_localities",
+    "source": "https://www.istat.it/wp-content/uploads/2026/02/Novita-2026-2017-26febbraio2026.pdf",
+    "sourcePages": [
+      1,
+      2
+    ]
+  }
+]
